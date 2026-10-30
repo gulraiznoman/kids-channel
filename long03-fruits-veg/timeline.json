@@ -1,0 +1,2795 @@
+{
+ "lines": [
+  {
+   "who": "gul",
+   "text": "Hi friends! I'm Gul!",
+   "t": 1.0,
+   "dur": 1.252
+  },
+  {
+   "who": "mishu",
+   "text": "And I'm Mishu! Today we're going to the market!",
+   "t": 2.652,
+   "dur": 2.505
+  },
+  {
+   "who": "gul",
+   "text": "Let's fill our basket with fruits and vegetables!",
+   "t": 5.557,
+   "dur": 2.434
+  },
+  {
+   "who": "mishu",
+   "text": "First, the fruit stall! So many fruits!",
+   "t": 9.391,
+   "dur": 2.229
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what fruit is this?",
+   "t": 13.02,
+   "dur": 1.338
+  },
+  {
+   "who": "gul",
+   "text": "It's a guava!",
+   "t": 17.158,
+   "dur": 0.853
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say guava?",
+   "t": 18.311,
+   "dur": 1.053
+  },
+  {
+   "who": "gul",
+   "text": "Let's cut it open!",
+   "t": 21.364,
+   "dur": 1.07
+  },
+  {
+   "who": "mishu",
+   "text": "Green outside, and pink inside!",
+   "t": 23.534,
+   "dur": 1.83
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 25.764,
+   "dur": 0.785
+  },
+  {
+   "who": "gul",
+   "text": "What's this fruit?",
+   "t": 28.649,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "It's a pomegranate!",
+   "t": 32.438,
+   "dur": 1.127
+  },
+  {
+   "who": "gul",
+   "text": "Can you say pomegranate?",
+   "t": 33.866,
+   "dur": 1.387
+  },
+  {
+   "who": "mishu",
+   "text": "Let's cut it open!",
+   "t": 37.253,
+   "dur": 1.06
+  },
+  {
+   "who": "gul",
+   "text": "So many juicy red seeds!",
+   "t": 39.413,
+   "dur": 1.566
+  },
+  {
+   "who": "gul",
+   "text": "Yay! You got it!",
+   "t": 41.379,
+   "dur": 0.896
+  },
+  {
+   "who": "mishu",
+   "text": "Do you know this fruit?",
+   "t": 44.376,
+   "dur": 1.075
+  },
+  {
+   "who": "gul",
+   "text": "It's a papaya!",
+   "t": 48.251,
+   "dur": 0.953
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say papaya?",
+   "t": 49.504,
+   "dur": 1.164
+  },
+  {
+   "who": "gul",
+   "text": "Let's cut it open!",
+   "t": 52.668,
+   "dur": 1.07
+  },
+  {
+   "who": "mishu",
+   "text": "Orange inside, with little black seeds!",
+   "t": 54.838,
+   "dur": 2.249
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 57.487,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Look! What fruit is it?",
+   "t": 60.158,
+   "dur": 1.088
+  },
+  {
+   "who": "mishu",
+   "text": "It's a peach!",
+   "t": 64.046,
+   "dur": 0.811
+  },
+  {
+   "who": "gul",
+   "text": "Can you say peach?",
+   "t": 65.157,
+   "dur": 1.089
+  },
+  {
+   "who": "mishu",
+   "text": "Let's cut it open!",
+   "t": 68.246,
+   "dur": 1.06
+  },
+  {
+   "who": "gul",
+   "text": "Soft and sweet, with a big seed in the middle!",
+   "t": 70.407,
+   "dur": 2.25
+  },
+  {
+   "who": "gul",
+   "text": "Well done!",
+   "t": 73.057,
+   "dur": 0.682
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what fruit is this?",
+   "t": 75.839,
+   "dur": 1.338
+  },
+  {
+   "who": "gul",
+   "text": "It's a coconut!",
+   "t": 79.976,
+   "dur": 0.993
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say coconut?",
+   "t": 81.27,
+   "dur": 1.251
+  },
+  {
+   "who": "gul",
+   "text": "Let's cut it open!",
+   "t": 84.521,
+   "dur": 1.07
+  },
+  {
+   "who": "mishu",
+   "text": "Hard outside, white inside, with coconut water!",
+   "t": 86.691,
+   "dur": 2.979
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "t": 90.07,
+   "dur": 0.601
+  },
+  {
+   "who": "gul",
+   "text": "What's this fruit?",
+   "t": 92.771,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "They're blueberries!",
+   "t": 96.56,
+   "dur": 0.874
+  },
+  {
+   "who": "gul",
+   "text": "Can you say blueberries?",
+   "t": 97.734,
+   "dur": 1.296
+  },
+  {
+   "who": "mishu",
+   "text": "Tiny, round, and blue!",
+   "t": 101.031,
+   "dur": 1.204
+  },
+  {
+   "who": "gul",
+   "text": "You're so smart!",
+   "t": 102.635,
+   "dur": 0.884
+  },
+  {
+   "who": "mishu",
+   "text": "Do you know this fruit?",
+   "t": 105.619,
+   "dur": 1.075
+  },
+  {
+   "who": "gul",
+   "text": "It's a plum!",
+   "t": 109.495,
+   "dur": 0.819
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say plum?",
+   "t": 110.613,
+   "dur": 1.053
+  },
+  {
+   "who": "gul",
+   "text": "A purple plum! Sweet and juicy!",
+   "t": 113.666,
+   "dur": 1.761
+  },
+  {
+   "who": "mishu",
+   "text": "Good job, friends!",
+   "t": 115.828,
+   "dur": 1.144
+  },
+  {
+   "who": "gul",
+   "text": "Look! What fruit is it?",
+   "t": 119.071,
+   "dur": 1.088
+  },
+  {
+   "who": "mishu",
+   "text": "It's an avocado!",
+   "t": 122.96,
+   "dur": 1.003
+  },
+  {
+   "who": "gul",
+   "text": "Can you say avocado?",
+   "t": 124.263,
+   "dur": 1.344
+  },
+  {
+   "who": "mishu",
+   "text": "Let's cut it open!",
+   "t": 127.607,
+   "dur": 1.06
+  },
+  {
+   "who": "gul",
+   "text": "Green inside, with a big brown seed!",
+   "t": 129.768,
+   "dur": 1.956
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 132.124,
+   "dur": 0.837
+  },
+  {
+   "who": "gul",
+   "text": "Now let's pick vegetables from the garden!",
+   "t": 134.861,
+   "dur": 2.015
+  },
+  {
+   "who": "gul",
+   "text": "What's growing here?",
+   "t": 138.176,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Let's pull it out!",
+   "t": 141.967,
+   "dur": 0.993
+  },
+  {
+   "who": "gul",
+   "text": "A carrot!",
+   "t": 144.16,
+   "dur": 0.677
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say carrot?",
+   "t": 145.137,
+   "dur": 1.045
+  },
+  {
+   "who": "gul",
+   "text": "Carrots grow under the ground!",
+   "t": 148.182,
+   "dur": 1.516
+  },
+  {
+   "who": "mishu",
+   "text": "Well done!",
+   "t": 149.998,
+   "dur": 0.667
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what is this one?",
+   "t": 152.565,
+   "dur": 1.283
+  },
+  {
+   "who": "gul",
+   "text": "Let's pick it!",
+   "t": 156.647,
+   "dur": 0.818
+  },
+  {
+   "who": "mishu",
+   "text": "A tomato!",
+   "t": 158.665,
+   "dur": 0.766
+  },
+  {
+   "who": "gul",
+   "text": "Can you say tomato?",
+   "t": 159.731,
+   "dur": 1.294
+  },
+  {
+   "who": "mishu",
+   "text": "Tomatoes grow on a plant!",
+   "t": 163.025,
+   "dur": 1.47
+  },
+  {
+   "who": "gul",
+   "text": "Super!",
+   "t": 164.795,
+   "dur": 0.601
+  },
+  {
+   "who": "gul",
+   "text": "What's growing here?",
+   "t": 167.297,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Let's pull it out!",
+   "t": 171.088,
+   "dur": 0.993
+  },
+  {
+   "who": "gul",
+   "text": "A potato!",
+   "t": 173.281,
+   "dur": 0.842
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say potato?",
+   "t": 174.423,
+   "dur": 1.221
+  },
+  {
+   "who": "gul",
+   "text": "Potatoes hide under the ground too!",
+   "t": 177.644,
+   "dur": 1.81
+  },
+  {
+   "who": "mishu",
+   "text": "You're so smart!",
+   "t": 179.754,
+   "dur": 0.952
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what is this one?",
+   "t": 182.606,
+   "dur": 1.283
+  },
+  {
+   "who": "gul",
+   "text": "Let's pick it!",
+   "t": 186.689,
+   "dur": 0.818
+  },
+  {
+   "who": "mishu",
+   "text": "Corn!",
+   "t": 188.707,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Can you say corn?",
+   "t": 189.578,
+   "dur": 1.045
+  },
+  {
+   "who": "mishu",
+   "text": "Corn grows on a tall plant!",
+   "t": 192.623,
+   "dur": 1.544
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "t": 194.467,
+   "dur": 1.189
+  },
+  {
+   "who": "gul",
+   "text": "What's growing here?",
+   "t": 197.556,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Let's pull it out!",
+   "t": 201.348,
+   "dur": 0.993
+  },
+  {
+   "who": "gul",
+   "text": "An onion!",
+   "t": 203.541,
+   "dur": 0.751
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say onion?",
+   "t": 204.592,
+   "dur": 1.065
+  },
+  {
+   "who": "gul",
+   "text": "An onion! It grows under the ground!",
+   "t": 207.657,
+   "dur": 1.815
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 209.772,
+   "dur": 0.785
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what is this one?",
+   "t": 212.457,
+   "dur": 1.283
+  },
+  {
+   "who": "gul",
+   "text": "Let's pick it!",
+   "t": 216.539,
+   "dur": 0.818
+  },
+  {
+   "who": "mishu",
+   "text": "Peas!",
+   "t": 218.558,
+   "dur": 0.594
+  },
+  {
+   "who": "gul",
+   "text": "Can you say peas?",
+   "t": 219.452,
+   "dur": 1.072
+  },
+  {
+   "who": "mishu",
+   "text": "Little green peas live inside a pod!",
+   "t": 222.524,
+   "dur": 2.047
+  },
+  {
+   "who": "gul",
+   "text": "Yay! You got it!",
+   "t": 224.87,
+   "dur": 0.896
+  },
+  {
+   "who": "gul",
+   "text": "What's growing here?",
+   "t": 227.667,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Let's pick it!",
+   "t": 231.458,
+   "dur": 0.872
+  },
+  {
+   "who": "gul",
+   "text": "Broccoli!",
+   "t": 233.53,
+   "dur": 0.653
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say broccoli?",
+   "t": 234.483,
+   "dur": 1.153
+  },
+  {
+   "who": "gul",
+   "text": "Broccoli looks like a little tree!",
+   "t": 237.636,
+   "dur": 1.544
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 239.48,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what is this one?",
+   "t": 241.952,
+   "dur": 1.283
+  },
+  {
+   "who": "gul",
+   "text": "Let's pick it!",
+   "t": 246.034,
+   "dur": 0.818
+  },
+  {
+   "who": "mishu",
+   "text": "A cucumber!",
+   "t": 248.053,
+   "dur": 0.788
+  },
+  {
+   "who": "gul",
+   "text": "Can you say cucumber?",
+   "t": 249.14,
+   "dur": 1.303
+  },
+  {
+   "who": "mishu",
+   "text": "A long, green cucumber! Crunch, crunch!",
+   "t": 252.444,
+   "dur": 2.418
+  },
+  {
+   "who": "gul",
+   "text": "Well done!",
+   "t": 255.161,
+   "dur": 0.682
+  },
+  {
+   "who": "gul",
+   "text": "What's growing here?",
+   "t": 257.744,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Let's pick it!",
+   "t": 261.535,
+   "dur": 0.872
+  },
+  {
+   "who": "gul",
+   "text": "An eggplant!",
+   "t": 263.607,
+   "dur": 0.85
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say eggplant?",
+   "t": 264.757,
+   "dur": 1.208
+  },
+  {
+   "who": "gul",
+   "text": "A shiny purple eggplant!",
+   "t": 267.965,
+   "dur": 1.49
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "t": 269.755,
+   "dur": 0.601
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what is this one?",
+   "t": 272.256,
+   "dur": 1.283
+  },
+  {
+   "who": "gul",
+   "text": "Let's pick it!",
+   "t": 276.339,
+   "dur": 0.818
+  },
+  {
+   "who": "mishu",
+   "text": "A cabbage!",
+   "t": 278.357,
+   "dur": 0.707
+  },
+  {
+   "who": "gul",
+   "text": "Can you say cabbage?",
+   "t": 279.364,
+   "dur": 1.169
+  },
+  {
+   "who": "mishu",
+   "text": "A big round cabbage, with lots of leaves!",
+   "t": 282.533,
+   "dur": 2.256
+  },
+  {
+   "who": "gul",
+   "text": "You're so smart!",
+   "t": 285.089,
+   "dur": 0.884
+  },
+  {
+   "who": "gul",
+   "text": "What's growing here?",
+   "t": 287.873,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Let's pick it!",
+   "t": 291.665,
+   "dur": 0.872
+  },
+  {
+   "who": "gul",
+   "text": "A pumpkin!",
+   "t": 293.737,
+   "dur": 0.756
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say pumpkin?",
+   "t": 294.793,
+   "dur": 1.134
+  },
+  {
+   "who": "gul",
+   "text": "A big orange pumpkin grows on a vine!",
+   "t": 297.927,
+   "dur": 2.015
+  },
+  {
+   "who": "mishu",
+   "text": "Good job, friends!",
+   "t": 300.242,
+   "dur": 1.144
+  },
+  {
+   "who": "gul",
+   "text": "Can you guess the food from its shadow?",
+   "t": 303.186,
+   "dur": 1.682
+  },
+  {
+   "who": "gul",
+   "text": "Whose shadow is this?",
+   "t": 306.168,
+   "dur": 1.099
+  },
+  {
+   "who": "mishu",
+   "text": "A pineapple! It has a spiky crown!",
+   "t": 310.767,
+   "dur": 2.142
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 313.209,
+   "dur": 0.608
+  },
+  {
+   "who": "mishu",
+   "text": "Hmm, what could it be?",
+   "t": 315.217,
+   "dur": 1.147
+  },
+  {
+   "who": "gul",
+   "text": "Broccoli! Like a little tree!",
+   "t": 319.864,
+   "dur": 1.396
+  },
+  {
+   "who": "mishu",
+   "text": "Well done!",
+   "t": 321.56,
+   "dur": 0.667
+  },
+  {
+   "who": "gul",
+   "text": "Whose shadow is this?",
+   "t": 323.626,
+   "dur": 1.099
+  },
+  {
+   "who": "mishu",
+   "text": "A banana! Long and yellow!",
+   "t": 328.225,
+   "dur": 1.621
+  },
+  {
+   "who": "gul",
+   "text": "Super!",
+   "t": 330.146,
+   "dur": 0.601
+  },
+  {
+   "who": "mishu",
+   "text": "Hmm, what could it be?",
+   "t": 332.148,
+   "dur": 1.147
+  },
+  {
+   "who": "gul",
+   "text": "Corn! Pop, pop, popcorn!",
+   "t": 336.795,
+   "dur": 1.537
+  },
+  {
+   "who": "mishu",
+   "text": "You're so smart!",
+   "t": 338.632,
+   "dur": 0.952
+  },
+  {
+   "who": "gul",
+   "text": "Whose shadow is this?",
+   "t": 340.984,
+   "dur": 1.099
+  },
+  {
+   "who": "mishu",
+   "text": "A watermelon slice! Red and juicy!",
+   "t": 345.583,
+   "dur": 2.273
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "t": 348.156,
+   "dur": 1.189
+  },
+  {
+   "who": "mishu",
+   "text": "Hmm, what could it be?",
+   "t": 350.745,
+   "dur": 1.147
+  },
+  {
+   "who": "gul",
+   "text": "An eggplant! Shiny and purple!",
+   "t": 355.392,
+   "dur": 1.663
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 357.355,
+   "dur": 0.785
+  },
+  {
+   "who": "gul",
+   "text": "Whose shadow is this?",
+   "t": 359.54,
+   "dur": 1.099
+  },
+  {
+   "who": "mishu",
+   "text": "A coconut! Round and hairy!",
+   "t": 364.139,
+   "dur": 1.619
+  },
+  {
+   "who": "gul",
+   "text": "Yay! You got it!",
+   "t": 366.057,
+   "dur": 0.896
+  },
+  {
+   "who": "mishu",
+   "text": "Hmm, what could it be?",
+   "t": 368.354,
+   "dur": 1.147
+  },
+  {
+   "who": "gul",
+   "text": "A carrot! Crunchy and orange!",
+   "t": 373.001,
+   "dur": 1.584
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 374.885,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Let's play a game! Is it a fruit, or a vegetable?",
+   "t": 376.756,
+   "dur": 2.8
+  },
+  {
+   "who": "mishu",
+   "text": "The apple! Fruit, or vegetable?",
+   "t": 380.856,
+   "dur": 1.716
+  },
+  {
+   "who": "gul",
+   "text": "It is a fruit!",
+   "t": 385.573,
+   "dur": 0.883
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! You got it!",
+   "t": 387.656,
+   "dur": 0.975
+  },
+  {
+   "who": "gul",
+   "text": "The carrot! Fruit, or vegetable?",
+   "t": 389.931,
+   "dur": 1.555
+  },
+  {
+   "who": "mishu",
+   "text": "It is a vegetable!",
+   "t": 394.485,
+   "dur": 0.996
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 396.681,
+   "dur": 0.608
+  },
+  {
+   "who": "mishu",
+   "text": "The banana! Fruit, or vegetable?",
+   "t": 398.589,
+   "dur": 1.895
+  },
+  {
+   "who": "gul",
+   "text": "It is a fruit!",
+   "t": 403.484,
+   "dur": 0.883
+  },
+  {
+   "who": "mishu",
+   "text": "Well done!",
+   "t": 405.567,
+   "dur": 0.667
+  },
+  {
+   "who": "gul",
+   "text": "The broccoli! Fruit, or vegetable?",
+   "t": 407.533,
+   "dur": 1.733
+  },
+  {
+   "who": "mishu",
+   "text": "It is a vegetable!",
+   "t": 412.267,
+   "dur": 0.996
+  },
+  {
+   "who": "gul",
+   "text": "Super!",
+   "t": 414.463,
+   "dur": 0.601
+  },
+  {
+   "who": "mishu",
+   "text": "The grapes! Fruit, or vegetable?",
+   "t": 416.364,
+   "dur": 1.802
+  },
+  {
+   "who": "gul",
+   "text": "They are a fruit!",
+   "t": 421.166,
+   "dur": 0.903
+  },
+  {
+   "who": "mishu",
+   "text": "You're so smart!",
+   "t": 423.269,
+   "dur": 0.952
+  },
+  {
+   "who": "gul",
+   "text": "The potato! Fruit, or vegetable?",
+   "t": 425.522,
+   "dur": 1.759
+  },
+  {
+   "who": "mishu",
+   "text": "It is a vegetable!",
+   "t": 430.281,
+   "dur": 0.996
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "t": 432.477,
+   "dur": 1.189
+  },
+  {
+   "who": "mishu",
+   "text": "The strawberry! Fruit, or vegetable?",
+   "t": 434.966,
+   "dur": 2.065
+  },
+  {
+   "who": "gul",
+   "text": "It is a fruit!",
+   "t": 440.031,
+   "dur": 0.883
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 442.114,
+   "dur": 0.785
+  },
+  {
+   "who": "gul",
+   "text": "The corn! Fruit, or vegetable?",
+   "t": 444.199,
+   "dur": 1.504
+  },
+  {
+   "who": "mishu",
+   "text": "It is a vegetable!",
+   "t": 448.704,
+   "dur": 0.996
+  },
+  {
+   "who": "gul",
+   "text": "Yay! You got it!",
+   "t": 450.899,
+   "dur": 0.896
+  },
+  {
+   "who": "gul",
+   "text": "Big kids, which one is bigger? Let's compare!",
+   "t": 452.996,
+   "dur": 2.429
+  },
+  {
+   "who": "gul",
+   "text": "The watermelon, or the grapes? Which one is bigger?",
+   "t": 456.724,
+   "dur": 2.608
+  },
+  {
+   "who": "mishu",
+   "text": "The watermelon is big!",
+   "t": 462.133,
+   "dur": 1.318
+  },
+  {
+   "who": "mishu",
+   "text": "The grapes are small!",
+   "t": 463.651,
+   "dur": 1.031
+  },
+  {
+   "who": "gul",
+   "text": "Super!",
+   "t": 464.982,
+   "dur": 0.601
+  },
+  {
+   "who": "mishu",
+   "text": "The pumpkin, or the peas? Which one is bigger?",
+   "t": 466.883,
+   "dur": 2.508
+  },
+  {
+   "who": "gul",
+   "text": "The pumpkin is big!",
+   "t": 472.191,
+   "dur": 1.147
+  },
+  {
+   "who": "gul",
+   "text": "The peas are small!",
+   "t": 473.538,
+   "dur": 1.055
+  },
+  {
+   "who": "mishu",
+   "text": "You're so smart!",
+   "t": 474.893,
+   "dur": 0.952
+  },
+  {
+   "who": "gul",
+   "text": "The coconut, or the blueberries? Which one is bigger?",
+   "t": 477.145,
+   "dur": 2.629
+  },
+  {
+   "who": "mishu",
+   "text": "The coconut is big!",
+   "t": 482.574,
+   "dur": 1.187
+  },
+  {
+   "who": "mishu",
+   "text": "The blueberries are small!",
+   "t": 483.961,
+   "dur": 1.157
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "t": 485.417,
+   "dur": 1.189
+  },
+  {
+   "who": "mishu",
+   "text": "The pineapple, or the cherries? Which one is bigger?",
+   "t": 487.907,
+   "dur": 2.734
+  },
+  {
+   "who": "gul",
+   "text": "The pineapple is big!",
+   "t": 493.441,
+   "dur": 1.212
+  },
+  {
+   "who": "gul",
+   "text": "The cherries are small!",
+   "t": 494.853,
+   "dur": 1.197
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 496.35,
+   "dur": 0.785
+  },
+  {
+   "who": "gul",
+   "text": "The cabbage, or the tomato? Which one is bigger?",
+   "t": 498.435,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "The cabbage is big!",
+   "t": 503.835,
+   "dur": 1.049
+  },
+  {
+   "who": "mishu",
+   "text": "The tomato is small!",
+   "t": 505.084,
+   "dur": 1.109
+  },
+  {
+   "who": "gul",
+   "text": "Yay! You got it!",
+   "t": 506.493,
+   "dur": 0.896
+  },
+  {
+   "who": "gul",
+   "text": "Fruits and vegetables come in every colour! Let's make a rainbow plate!",
+   "t": 508.589,
+   "dur": 3.747
+  },
+  {
+   "who": "gul",
+   "text": "Can you find the red ones?",
+   "t": 513.736,
+   "dur": 1.4
+  },
+  {
+   "who": "mishu",
+   "text": "apple, tomato, and strawberry!",
+   "t": 518.336,
+   "dur": 1.694
+  },
+  {
+   "who": "gul",
+   "text": "Red foods! Great job!",
+   "t": 521.33,
+   "dur": 1.469
+  },
+  {
+   "who": "mishu",
+   "text": "Can you find the orange ones?",
+   "t": 524.199,
+   "dur": 1.61
+  },
+  {
+   "who": "gul",
+   "text": "carrot, orange, and papaya!",
+   "t": 529.009,
+   "dur": 1.438
+  },
+  {
+   "who": "mishu",
+   "text": "Orange foods! Yay! You got it!",
+   "t": 531.748,
+   "dur": 1.891
+  },
+  {
+   "who": "gul",
+   "text": "Can you find the yellow ones?",
+   "t": 535.039,
+   "dur": 1.542
+  },
+  {
+   "who": "mishu",
+   "text": "banana, corn, and lemon!",
+   "t": 539.78,
+   "dur": 1.487
+  },
+  {
+   "who": "gul",
+   "text": "Yellow foods! Awesome!",
+   "t": 542.567,
+   "dur": 1.312
+  },
+  {
+   "who": "mishu",
+   "text": "Can you find the green ones?",
+   "t": 545.28,
+   "dur": 1.517
+  },
+  {
+   "who": "gul",
+   "text": "broccoli, peas, and cucumber!",
+   "t": 549.996,
+   "dur": 1.685
+  },
+  {
+   "who": "mishu",
+   "text": "Green foods! Well done!",
+   "t": 552.981,
+   "dur": 1.517
+  },
+  {
+   "who": "gul",
+   "text": "Can you find the purple ones?",
+   "t": 555.898,
+   "dur": 1.572
+  },
+  {
+   "who": "mishu",
+   "text": "grapes, eggplant, and plum!",
+   "t": 560.67,
+   "dur": 1.573
+  },
+  {
+   "who": "gul",
+   "text": "Purple foods! Super!",
+   "t": 563.543,
+   "dur": 1.247
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A whole rainbow on our plate!",
+   "t": 565.39,
+   "dur": 1.86
+  },
+  {
+   "who": "gul",
+   "text": "Eating the rainbow makes us strong!",
+   "t": 567.65,
+   "dur": 1.619
+  },
+  {
+   "who": "mishu",
+   "text": "Now let's say our fruit rhyme! Clap along!",
+   "t": 570.669,
+   "dur": 2.291
+  },
+  {
+   "who": "mishu",
+   "text": "Apple, apple, red and round!",
+   "t": 573.96,
+   "dur": 1.61
+  },
+  {
+   "who": "gul",
+   "text": "Banana, banana, yellow and long!",
+   "t": 576.021,
+   "dur": 1.717
+  },
+  {
+   "who": "mishu",
+   "text": "Grapes, grapes, purple and sweet!",
+   "t": 578.188,
+   "dur": 1.836
+  },
+  {
+   "who": "gul",
+   "text": "Orange, orange, a juicy treat!",
+   "t": 580.473,
+   "dur": 1.767
+  },
+  {
+   "who": "mishu",
+   "text": "Carrot, carrot, crunchy and bright!",
+   "t": 582.69,
+   "dur": 1.875
+  },
+  {
+   "who": "gul",
+   "text": "Broccoli, broccoli, green and right!",
+   "t": 585.015,
+   "dur": 1.843
+  },
+  {
+   "who": "both",
+   "text": "Fruits and veggies, yummy and good!",
+   "t": 587.308,
+   "dur": 1.852
+  },
+  {
+   "who": "both",
+   "text": "Eat them up, like we should!",
+   "t": 589.61,
+   "dur": 1.314
+  },
+  {
+   "who": "gul",
+   "text": "Yay! Great clapping, friends!",
+   "t": 591.775,
+   "dur": 1.495
+  },
+  {
+   "who": "gul",
+   "text": "Let's use our basket and cook something yummy!",
+   "t": 594.669,
+   "dur": 2.227
+  },
+  {
+   "who": "mishu",
+   "text": "First, a fruit salad!",
+   "t": 597.496,
+   "dur": 1.422
+  },
+  {
+   "who": "gul",
+   "text": "Guava!",
+   "t": 599.219,
+   "dur": 0.551
+  },
+  {
+   "who": "mishu",
+   "text": "banana!",
+   "t": 600.119,
+   "dur": 0.594
+  },
+  {
+   "who": "gul",
+   "text": "blueberries!",
+   "t": 601.063,
+   "dur": 0.718
+  },
+  {
+   "who": "mishu",
+   "text": "pomegranate!",
+   "t": 602.132,
+   "dur": 0.816
+  },
+  {
+   "who": "gul",
+   "text": "and peach!",
+   "t": 603.297,
+   "dur": 0.727
+  },
+  {
+   "who": "mishu",
+   "text": "Stir, stir, stir!",
+   "t": 604.375,
+   "dur": 1.068
+  },
+  {
+   "who": "gul",
+   "text": "Mmm! A yummy fruit salad!",
+   "t": 605.743,
+   "dur": 1.416
+  },
+  {
+   "who": "gul",
+   "text": "Now, vegetable soup!",
+   "t": 607.959,
+   "dur": 1.168
+  },
+  {
+   "who": "mishu",
+   "text": "Carrot!",
+   "t": 609.427,
+   "dur": 0.607
+  },
+  {
+   "who": "gul",
+   "text": "potato!",
+   "t": 610.384,
+   "dur": 0.65
+  },
+  {
+   "who": "mishu",
+   "text": "peas!",
+   "t": 611.384,
+   "dur": 0.587
+  },
+  {
+   "who": "gul",
+   "text": "corn!",
+   "t": 612.321,
+   "dur": 0.548
+  },
+  {
+   "who": "mishu",
+   "text": "and tomato!",
+   "t": 613.219,
+   "dur": 0.729
+  },
+  {
+   "who": "gul",
+   "text": "Bubble, bubble, bubble!",
+   "t": 614.299,
+   "dur": 1.193
+  },
+  {
+   "who": "mishu",
+   "text": "Hot and healthy soup! Yum!",
+   "t": 615.791,
+   "dur": 1.726
+  },
+  {
+   "who": "mishu",
+   "text": "We learned so many fruits and vegetables today!",
+   "t": 618.317,
+   "dur": 2.427
+  },
+  {
+   "who": "gul",
+   "text": "Which one is your favourite? Mine is the coconut!",
+   "t": 621.145,
+   "dur": 2.632
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends!",
+   "t": 624.276,
+   "dur": 1.073
+  },
+  {
+   "who": "mishu",
+   "text": "See you next time!",
+   "t": 625.749,
+   "dur": 1.016
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "market",
+   "t0": 1.0,
+   "t1": 8.791
+  },
+  {
+   "kind": "title",
+   "bg": "market",
+   "t0": 8.791,
+   "title": "FRUIT STALL!",
+   "t1": 12.22
+  },
+  {
+   "kind": "fruit",
+   "bg": "market",
+   "t0": 12.22,
+   "key": "guava",
+   "name": "GUAVA",
+   "basket": [],
+   "label_t": 17.158,
+   "cut_t": 22.634,
+   "drop_t": 26.849,
+   "t1": 27.849
+  },
+  {
+   "kind": "fruit",
+   "bg": "market",
+   "t0": 27.849,
+   "key": "pomegranate",
+   "name": "POMEGRANATE",
+   "basket": [
+    "guava"
+   ],
+   "label_t": 32.438,
+   "cut_t": 38.513,
+   "drop_t": 42.576,
+   "t1": 43.576
+  },
+  {
+   "kind": "fruit",
+   "bg": "market",
+   "t0": 43.576,
+   "key": "papaya",
+   "name": "PAPAYA",
+   "basket": [
+    "guava",
+    "pomegranate"
+   ],
+   "label_t": 48.251,
+   "cut_t": 53.938,
+   "drop_t": 58.358,
+   "t1": 59.358
+  },
+  {
+   "kind": "fruit",
+   "bg": "market",
+   "t0": 59.358,
+   "key": "peach",
+   "name": "PEACH",
+   "basket": [
+    "guava",
+    "pomegranate",
+    "papaya"
+   ],
+   "label_t": 64.046,
+   "cut_t": 69.507,
+   "drop_t": 74.039,
+   "t1": 75.039
+  },
+  {
+   "kind": "fruit",
+   "bg": "market",
+   "t0": 75.039,
+   "key": "coconut",
+   "name": "COCONUT",
+   "basket": [
+    "guava",
+    "pomegranate",
+    "papaya",
+    "peach"
+   ],
+   "label_t": 79.976,
+   "cut_t": 85.791,
+   "drop_t": 90.971,
+   "t1": 91.971
+  },
+  {
+   "kind": "fruit",
+   "bg": "market",
+   "t0": 91.971,
+   "key": "blueberries",
+   "name": "BLUEBERRIES",
+   "basket": [
+    "guava",
+    "pomegranate",
+    "papaya",
+    "peach",
+    "coconut"
+   ],
+   "label_t": 96.56,
+   "drop_t": 103.819,
+   "t1": 104.819
+  },
+  {
+   "kind": "fruit",
+   "bg": "market",
+   "t0": 104.819,
+   "key": "plum",
+   "name": "PLUM",
+   "basket": [
+    "guava",
+    "pomegranate",
+    "papaya",
+    "peach",
+    "coconut",
+    "blueberries"
+   ],
+   "label_t": 109.495,
+   "drop_t": 117.271,
+   "t1": 118.271
+  },
+  {
+   "kind": "fruit",
+   "bg": "market",
+   "t0": 118.271,
+   "key": "avocado",
+   "name": "AVOCADO",
+   "basket": [
+    "guava",
+    "pomegranate",
+    "papaya",
+    "peach",
+    "coconut",
+    "blueberries",
+    "plum"
+   ],
+   "label_t": 122.96,
+   "cut_t": 128.868,
+   "drop_t": 133.261,
+   "t1": 134.261
+  },
+  {
+   "kind": "title",
+   "bg": "patch",
+   "t0": 134.261,
+   "title": "VEGETABLE PATCH!",
+   "t1": 137.476
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 137.476,
+   "key": "carrot",
+   "name": "CARROT",
+   "grows": "under",
+   "pull_t": 143.16,
+   "label_t": 144.16,
+   "drop_t": 150.965,
+   "t1": 151.865
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 151.865,
+   "key": "tomato",
+   "name": "TOMATO",
+   "grows": "plant",
+   "pull_t": 157.665,
+   "label_t": 158.665,
+   "drop_t": 165.697,
+   "t1": 166.597
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 166.597,
+   "key": "potato",
+   "name": "POTATO",
+   "grows": "under",
+   "pull_t": 172.281,
+   "label_t": 173.281,
+   "drop_t": 181.006,
+   "t1": 181.906
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 181.906,
+   "key": "corn",
+   "name": "CORN",
+   "grows": "plant",
+   "pull_t": 187.707,
+   "label_t": 188.707,
+   "drop_t": 195.956,
+   "t1": 196.856
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 196.856,
+   "key": "onion",
+   "name": "ONION",
+   "grows": "under",
+   "pull_t": 202.541,
+   "label_t": 203.541,
+   "drop_t": 210.857,
+   "t1": 211.757
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 211.757,
+   "key": "peas",
+   "name": "PEAS",
+   "grows": "plant",
+   "pull_t": 217.558,
+   "label_t": 218.558,
+   "drop_t": 226.067,
+   "t1": 226.967
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 226.967,
+   "key": "broccoli",
+   "name": "BROCCOLI",
+   "grows": "plant",
+   "pull_t": 232.53,
+   "label_t": 233.53,
+   "drop_t": 240.352,
+   "t1": 241.252
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 241.252,
+   "key": "cucumber",
+   "name": "CUCUMBER",
+   "grows": "plant",
+   "pull_t": 247.053,
+   "label_t": 248.053,
+   "drop_t": 256.144,
+   "t1": 257.044
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 257.044,
+   "key": "eggplant",
+   "name": "EGGPLANT",
+   "grows": "plant",
+   "pull_t": 262.607,
+   "label_t": 263.607,
+   "drop_t": 270.656,
+   "t1": 271.556
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 271.556,
+   "key": "cabbage",
+   "name": "CABBAGE",
+   "grows": "plant",
+   "pull_t": 277.357,
+   "label_t": 278.357,
+   "drop_t": 286.273,
+   "t1": 287.173
+  },
+  {
+   "kind": "veg",
+   "bg": "patch",
+   "t0": 287.173,
+   "key": "pumpkinveg",
+   "name": "PUMPKIN",
+   "grows": "plant",
+   "pull_t": 292.737,
+   "label_t": 293.737,
+   "drop_t": 301.686,
+   "t1": 302.586
+  },
+  {
+   "kind": "title",
+   "bg": "market",
+   "t0": 302.586,
+   "title": "MYSTERY SHADOWS!",
+   "t1": 305.468
+  },
+  {
+   "kind": "shadow",
+   "bg": "market",
+   "t0": 305.468,
+   "key": "pineapple",
+   "reveal_t": 310.267,
+   "t1": 314.517
+  },
+  {
+   "kind": "shadow",
+   "bg": "market",
+   "t0": 314.517,
+   "key": "broccoli",
+   "reveal_t": 319.364,
+   "t1": 322.926
+  },
+  {
+   "kind": "shadow",
+   "bg": "market",
+   "t0": 322.926,
+   "key": "banana",
+   "reveal_t": 327.725,
+   "t1": 331.448
+  },
+  {
+   "kind": "shadow",
+   "bg": "market",
+   "t0": 331.448,
+   "key": "corn",
+   "reveal_t": 336.295,
+   "t1": 340.284
+  },
+  {
+   "kind": "shadow",
+   "bg": "market",
+   "t0": 340.284,
+   "key": "watermelon",
+   "reveal_t": 345.083,
+   "t1": 350.045
+  },
+  {
+   "kind": "shadow",
+   "bg": "market",
+   "t0": 350.045,
+   "key": "eggplant",
+   "reveal_t": 354.892,
+   "t1": 358.84
+  },
+  {
+   "kind": "shadow",
+   "bg": "market",
+   "t0": 358.84,
+   "key": "coconut",
+   "reveal_t": 363.639,
+   "t1": 367.654
+  },
+  {
+   "kind": "shadow",
+   "bg": "market",
+   "t0": 367.654,
+   "key": "carrot",
+   "reveal_t": 372.501,
+   "t1": 376.156
+  },
+  {
+   "kind": "title",
+   "bg": "market",
+   "t0": 376.156,
+   "title": "FRUIT OR VEGETABLE?",
+   "t1": 380.156
+  },
+  {
+   "kind": "sort",
+   "bg": "market",
+   "t0": 380.156,
+   "key": "apple",
+   "fruit": true,
+   "done": [],
+   "answer_t": 385.573,
+   "fly_t": 386.656,
+   "t1": 389.231
+  },
+  {
+   "kind": "sort",
+   "bg": "market",
+   "t0": 389.231,
+   "key": "carrot",
+   "fruit": false,
+   "done": [
+    [
+     "apple",
+     true
+    ]
+   ],
+   "answer_t": 394.485,
+   "fly_t": 395.681,
+   "t1": 397.889
+  },
+  {
+   "kind": "sort",
+   "bg": "market",
+   "t0": 397.889,
+   "key": "banana",
+   "fruit": true,
+   "done": [
+    [
+     "apple",
+     true
+    ],
+    [
+     "carrot",
+     false
+    ]
+   ],
+   "answer_t": 403.484,
+   "fly_t": 404.567,
+   "t1": 406.833
+  },
+  {
+   "kind": "sort",
+   "bg": "market",
+   "t0": 406.833,
+   "key": "broccoli",
+   "fruit": false,
+   "done": [
+    [
+     "apple",
+     true
+    ],
+    [
+     "carrot",
+     false
+    ],
+    [
+     "banana",
+     true
+    ]
+   ],
+   "answer_t": 412.267,
+   "fly_t": 413.463,
+   "t1": 415.664
+  },
+  {
+   "kind": "sort",
+   "bg": "market",
+   "t0": 415.664,
+   "key": "grapes",
+   "fruit": true,
+   "done": [
+    [
+     "apple",
+     true
+    ],
+    [
+     "carrot",
+     false
+    ],
+    [
+     "banana",
+     true
+    ],
+    [
+     "broccoli",
+     false
+    ]
+   ],
+   "answer_t": 421.166,
+   "fly_t": 422.269,
+   "t1": 424.822
+  },
+  {
+   "kind": "sort",
+   "bg": "market",
+   "t0": 424.822,
+   "key": "potato",
+   "fruit": false,
+   "done": [
+    [
+     "apple",
+     true
+    ],
+    [
+     "carrot",
+     false
+    ],
+    [
+     "banana",
+     true
+    ],
+    [
+     "broccoli",
+     false
+    ],
+    [
+     "grapes",
+     true
+    ]
+   ],
+   "answer_t": 430.281,
+   "fly_t": 431.477,
+   "t1": 434.266
+  },
+  {
+   "kind": "sort",
+   "bg": "market",
+   "t0": 434.266,
+   "key": "strawberry",
+   "fruit": true,
+   "done": [
+    [
+     "apple",
+     true
+    ],
+    [
+     "carrot",
+     false
+    ],
+    [
+     "banana",
+     true
+    ],
+    [
+     "broccoli",
+     false
+    ],
+    [
+     "grapes",
+     true
+    ],
+    [
+     "potato",
+     false
+    ]
+   ],
+   "answer_t": 440.031,
+   "fly_t": 441.114,
+   "t1": 443.499
+  },
+  {
+   "kind": "sort",
+   "bg": "market",
+   "t0": 443.499,
+   "key": "corn",
+   "fruit": false,
+   "done": [
+    [
+     "apple",
+     true
+    ],
+    [
+     "carrot",
+     false
+    ],
+    [
+     "banana",
+     true
+    ],
+    [
+     "broccoli",
+     false
+    ],
+    [
+     "grapes",
+     true
+    ],
+    [
+     "potato",
+     false
+    ],
+    [
+     "strawberry",
+     true
+    ]
+   ],
+   "answer_t": 448.704,
+   "fly_t": 449.899,
+   "t1": 452.396
+  },
+  {
+   "kind": "title",
+   "bg": "market",
+   "t0": 452.396,
+   "title": "BIG OR SMALL?",
+   "t1": 456.024
+  },
+  {
+   "kind": "size",
+   "bg": "market",
+   "t0": 456.024,
+   "big": "watermelon",
+   "small": "grapes",
+   "flip": false,
+   "answer_t": 462.133,
+   "small_t": 463.651,
+   "t1": 466.183
+  },
+  {
+   "kind": "size",
+   "bg": "market",
+   "t0": 466.183,
+   "big": "pumpkinveg",
+   "small": "peas",
+   "flip": true,
+   "answer_t": 472.191,
+   "small_t": 473.538,
+   "t1": 476.445
+  },
+  {
+   "kind": "size",
+   "bg": "market",
+   "t0": 476.445,
+   "big": "coconut",
+   "small": "blueberries",
+   "flip": false,
+   "answer_t": 482.574,
+   "small_t": 483.961,
+   "t1": 487.207
+  },
+  {
+   "kind": "size",
+   "bg": "market",
+   "t0": 487.207,
+   "big": "pineapple",
+   "small": "cherry",
+   "flip": true,
+   "answer_t": 493.441,
+   "small_t": 494.853,
+   "t1": 497.735
+  },
+  {
+   "kind": "size",
+   "bg": "market",
+   "t0": 497.735,
+   "big": "cabbage",
+   "small": "tomato",
+   "flip": false,
+   "answer_t": 503.835,
+   "small_t": 505.084,
+   "t1": 507.989
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 507.989,
+   "title": "RAINBOW PLATE!",
+   "t1": 512.936
+  },
+  {
+   "kind": "plate",
+   "bg": "kitchen",
+   "t0": 512.936,
+   "colour": "red",
+   "rgb": [
+    232,
+    53,
+    46
+   ],
+   "items": [
+    "apple",
+    "tomato",
+    "banana",
+    "strawberry"
+   ],
+   "other": "banana",
+   "plate": [],
+   "show_t": 518.336,
+   "move_t": 520.33,
+   "t1": 523.399
+  },
+  {
+   "kind": "plate",
+   "bg": "kitchen",
+   "t0": 523.399,
+   "colour": "orange",
+   "rgb": [
+    255,
+    148,
+    32
+   ],
+   "items": [
+    "carrot",
+    "orange",
+    "peas",
+    "papaya_half"
+   ],
+   "other": "peas",
+   "plate": [
+    [
+     "apple",
+     "red"
+    ],
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "strawberry",
+     "red"
+    ]
+   ],
+   "show_t": 529.009,
+   "move_t": 530.748,
+   "t1": 534.239
+  },
+  {
+   "kind": "plate",
+   "bg": "kitchen",
+   "t0": 534.239,
+   "colour": "yellow",
+   "rgb": [
+    255,
+    214,
+    10
+   ],
+   "items": [
+    "banana",
+    "corn",
+    "eggplant",
+    "lemon"
+   ],
+   "other": "eggplant",
+   "plate": [
+    [
+     "apple",
+     "red"
+    ],
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "strawberry",
+     "red"
+    ],
+    [
+     "carrot",
+     "orange"
+    ],
+    [
+     "orange",
+     "orange"
+    ],
+    [
+     "papaya_half",
+     "orange"
+    ]
+   ],
+   "show_t": 539.78,
+   "move_t": 541.567,
+   "t1": 544.48
+  },
+  {
+   "kind": "plate",
+   "bg": "kitchen",
+   "t0": 544.48,
+   "colour": "green",
+   "rgb": [
+    60,
+    190,
+    80
+   ],
+   "items": [
+    "broccoli",
+    "peas",
+    "strawberry",
+    "cucumber"
+   ],
+   "other": "strawberry",
+   "plate": [
+    [
+     "apple",
+     "red"
+    ],
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "strawberry",
+     "red"
+    ],
+    [
+     "carrot",
+     "orange"
+    ],
+    [
+     "orange",
+     "orange"
+    ],
+    [
+     "papaya_half",
+     "orange"
+    ],
+    [
+     "banana",
+     "yellow"
+    ],
+    [
+     "corn",
+     "yellow"
+    ],
+    [
+     "lemon",
+     "yellow"
+    ]
+   ],
+   "show_t": 549.996,
+   "move_t": 551.981,
+   "t1": 555.098
+  },
+  {
+   "kind": "plate",
+   "bg": "kitchen",
+   "t0": 555.098,
+   "colour": "purple",
+   "rgb": [
+    142,
+    68,
+    201
+   ],
+   "items": [
+    "grapes",
+    "eggplant",
+    "carrot",
+    "plum"
+   ],
+   "other": "carrot",
+   "plate": [
+    [
+     "apple",
+     "red"
+    ],
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "strawberry",
+     "red"
+    ],
+    [
+     "carrot",
+     "orange"
+    ],
+    [
+     "orange",
+     "orange"
+    ],
+    [
+     "papaya_half",
+     "orange"
+    ],
+    [
+     "banana",
+     "yellow"
+    ],
+    [
+     "corn",
+     "yellow"
+    ],
+    [
+     "lemon",
+     "yellow"
+    ],
+    [
+     "broccoli",
+     "green"
+    ],
+    [
+     "peas",
+     "green"
+    ],
+    [
+     "cucumber",
+     "green"
+    ]
+   ],
+   "show_t": 560.67,
+   "move_t": 562.543,
+   "t1": 565.39
+  },
+  {
+   "kind": "plate_done",
+   "bg": "kitchen",
+   "t0": 565.39,
+   "plate": [
+    [
+     "apple",
+     "red"
+    ],
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "strawberry",
+     "red"
+    ],
+    [
+     "carrot",
+     "orange"
+    ],
+    [
+     "orange",
+     "orange"
+    ],
+    [
+     "papaya_half",
+     "orange"
+    ],
+    [
+     "banana",
+     "yellow"
+    ],
+    [
+     "corn",
+     "yellow"
+    ],
+    [
+     "lemon",
+     "yellow"
+    ],
+    [
+     "broccoli",
+     "green"
+    ],
+    [
+     "peas",
+     "green"
+    ],
+    [
+     "cucumber",
+     "green"
+    ],
+    [
+     "grapes",
+     "purple"
+    ],
+    [
+     "eggplant",
+     "purple"
+    ],
+    [
+     "plum",
+     "purple"
+    ]
+   ],
+   "t1": 570.069
+  },
+  {
+   "kind": "title",
+   "bg": "market",
+   "t0": 570.069,
+   "title": "FRUIT RHYME!",
+   "t1": 573.56
+  },
+  {
+   "kind": "rhyme",
+   "bg": "market",
+   "t0": 573.56,
+   "items": [],
+   "lines": [
+    [
+     573.96,
+     "apple",
+     "Apple, apple, red and round!"
+    ],
+    [
+     576.021,
+     "banana",
+     "Banana, banana, yellow and long!"
+    ],
+    [
+     578.188,
+     "grapes",
+     "Grapes, grapes, purple and sweet!"
+    ],
+    [
+     580.473,
+     "orange",
+     "Orange, orange, a juicy treat!"
+    ],
+    [
+     582.69,
+     "carrot",
+     "Carrot, carrot, crunchy and bright!"
+    ],
+    [
+     585.015,
+     "broccoli",
+     "Broccoli, broccoli, green and right!"
+    ],
+    [
+     587.308,
+     null,
+     "Fruits and veggies, yummy and good!"
+    ],
+    [
+     589.61,
+     null,
+     "Eat them up, like we should!"
+    ]
+   ],
+   "t1": 594.069
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 594.069,
+   "title": "LET'S COOK!",
+   "t1": 597.496
+  },
+  {
+   "kind": "cook",
+   "bg": "kitchen",
+   "t0": 597.496,
+   "dish": "bowl",
+   "items": [
+    "guava_half",
+    "banana",
+    "blueberries",
+    "pomegranate_half",
+    "peach_half"
+   ],
+   "drops": [
+    599.219,
+    600.119,
+    601.063,
+    602.132,
+    603.297
+   ],
+   "stir_t": 604.375,
+   "t1": 607.959
+  },
+  {
+   "kind": "cook",
+   "bg": "kitchen",
+   "t0": 607.959,
+   "dish": "pot",
+   "items": [
+    "carrot",
+    "potato",
+    "peas",
+    "corn",
+    "tomato"
+   ],
+   "drops": [
+    609.427,
+    610.384,
+    611.384,
+    612.321,
+    613.219
+   ],
+   "stir_t": 614.299,
+   "t1": 618.317
+  },
+  {
+   "kind": "outro",
+   "bg": "market",
+   "t0": 618.317,
+   "basket": [
+    "guava",
+    "pomegranate",
+    "papaya",
+    "peach",
+    "coconut",
+    "blueberries",
+    "plum",
+    "avocado"
+   ],
+   "bye_t": 624.276,
+   "t1": 628.765
+  }
+ ],
+ "prompts": [
+  [
+   14.558,
+   17.158
+  ],
+  [
+   19.564,
+   21.364
+  ],
+  [
+   29.838,
+   32.438
+  ],
+  [
+   35.453,
+   37.253
+  ],
+  [
+   45.651,
+   48.251
+  ],
+  [
+   50.868,
+   52.668
+  ],
+  [
+   61.446,
+   64.046
+  ],
+  [
+   66.446,
+   68.246
+  ],
+  [
+   77.376,
+   79.976
+  ],
+  [
+   82.721,
+   84.521
+  ],
+  [
+   93.96,
+   96.56
+  ],
+  [
+   99.231,
+   101.031
+  ],
+  [
+   106.895,
+   109.495
+  ],
+  [
+   111.866,
+   113.666
+  ],
+  [
+   120.36,
+   122.96
+  ],
+  [
+   125.807,
+   127.607
+  ],
+  [
+   139.367,
+   141.967
+  ],
+  [
+   146.382,
+   148.182
+  ],
+  [
+   154.047,
+   156.647
+  ],
+  [
+   161.225,
+   163.025
+  ],
+  [
+   168.488,
+   171.088
+  ],
+  [
+   175.844,
+   177.644
+  ],
+  [
+   184.089,
+   186.689
+  ],
+  [
+   190.823,
+   192.623
+  ],
+  [
+   198.748,
+   201.348
+  ],
+  [
+   205.857,
+   207.657
+  ],
+  [
+   213.939,
+   216.539
+  ],
+  [
+   220.724,
+   222.524
+  ],
+  [
+   228.858,
+   231.458
+  ],
+  [
+   235.836,
+   237.636
+  ],
+  [
+   243.434,
+   246.034
+  ],
+  [
+   250.644,
+   252.444
+  ],
+  [
+   258.935,
+   261.535
+  ],
+  [
+   266.165,
+   267.965
+  ],
+  [
+   273.739,
+   276.339
+  ],
+  [
+   280.733,
+   282.533
+  ],
+  [
+   289.065,
+   291.665
+  ],
+  [
+   296.127,
+   297.927
+  ],
+  [
+   307.467,
+   310.267
+  ],
+  [
+   316.564,
+   319.364
+  ],
+  [
+   324.925,
+   327.725
+  ],
+  [
+   333.495,
+   336.295
+  ],
+  [
+   342.283,
+   345.083
+  ],
+  [
+   352.092,
+   354.892
+  ],
+  [
+   360.839,
+   363.639
+  ],
+  [
+   369.701,
+   372.501
+  ],
+  [
+   382.773,
+   385.573
+  ],
+  [
+   391.685,
+   394.485
+  ],
+  [
+   400.684,
+   403.484
+  ],
+  [
+   409.467,
+   412.267
+  ],
+  [
+   418.366,
+   421.166
+  ],
+  [
+   427.481,
+   430.281
+  ],
+  [
+   437.231,
+   440.031
+  ],
+  [
+   445.904,
+   448.704
+  ],
+  [
+   459.533,
+   462.133
+  ],
+  [
+   469.591,
+   472.191
+  ],
+  [
+   479.974,
+   482.574
+  ],
+  [
+   490.841,
+   493.441
+  ],
+  [
+   501.235,
+   503.835
+  ],
+  [
+   515.336,
+   518.336
+  ],
+  [
+   526.009,
+   529.009
+  ],
+  [
+   536.78,
+   539.78
+  ],
+  [
+   546.996,
+   549.996
+  ],
+  [
+   557.67,
+   560.67
+  ]
+ ],
+ "stars": [
+  25.764,
+  41.379,
+  57.487,
+  73.057,
+  90.07,
+  102.635,
+  115.828,
+  132.124,
+  149.998,
+  164.795,
+  179.754,
+  194.467,
+  209.772,
+  224.87,
+  239.48,
+  255.161,
+  269.755,
+  285.089,
+  300.242,
+  313.209,
+  321.56,
+  330.146,
+  338.632,
+  348.156,
+  357.355,
+  366.057,
+  374.885,
+  387.656,
+  396.681,
+  405.567,
+  414.463,
+  423.269,
+  432.477,
+  442.114,
+  450.899,
+  464.982,
+  474.893,
+  485.417,
+  496.35,
+  506.493,
+  522.799,
+  533.639,
+  543.88,
+  554.498,
+  564.79
+ ],
+ "total": 628.77
+}
