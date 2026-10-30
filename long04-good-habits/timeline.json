@@ -1,0 +1,2032 @@
+{
+ "lines": [
+  {
+   "who": "mishu",
+   "text": "Ring, ring! Wake up, Gul!",
+   "t": 4.0,
+   "dur": 1.399
+  },
+  {
+   "who": "gul",
+   "text": "Good morning, Mishu! Good morning, friends!",
+   "t": 6.049,
+   "dur": 2.223
+  },
+  {
+   "who": "mishu",
+   "text": "Today we'll learn good habits for the morning!",
+   "t": 8.921,
+   "dur": 2.047
+  },
+  {
+   "who": "gul",
+   "text": "Let's start our day!",
+   "t": 11.619,
+   "dur": 1.137
+  },
+  {
+   "who": "mishu",
+   "text": "First, let's make our bed!",
+   "t": 14.405,
+   "dur": 1.451
+  },
+  {
+   "who": "gul",
+   "text": "Oh no, my bed is so messy!",
+   "t": 16.707,
+   "dur": 1.446
+  },
+  {
+   "who": "mishu",
+   "text": "What should we do?",
+   "t": 18.703,
+   "dur": 0.858
+  },
+  {
+   "who": "gul",
+   "text": "Pull up the blanket...",
+   "t": 22.41,
+   "dur": 1.166
+  },
+  {
+   "who": "gul",
+   "text": "and fluff the pillow!",
+   "t": 24.026,
+   "dur": 1.109
+  },
+  {
+   "who": "mishu",
+   "text": "Wow! Nice and neat!",
+   "t": 26.385,
+   "dur": 1.124
+  },
+  {
+   "who": "gul",
+   "text": "Now a big morning stretch! Reach up high!",
+   "t": 28.158,
+   "dur": 2.125
+  },
+  {
+   "who": "mishu",
+   "text": "Touch your toes! Up, and down!",
+   "t": 30.834,
+   "dur": 1.707
+  },
+  {
+   "who": "mishu",
+   "text": "Let's wake up our bodies! Move with us!",
+   "t": 34.19,
+   "dur": 2.212
+  },
+  {
+   "who": "gul",
+   "text": "Jump, jump, jump!",
+   "t": 37.253,
+   "dur": 1.024
+  },
+  {
+   "who": "mishu",
+   "text": "Clap, clap, clap!",
+   "t": 40.927,
+   "dur": 1.158
+  },
+  {
+   "who": "gul",
+   "text": "Spin around!",
+   "t": 44.735,
+   "dur": 0.926
+  },
+  {
+   "who": "mishu",
+   "text": "Stomp your feet!",
+   "t": 48.311,
+   "dur": 0.948
+  },
+  {
+   "who": "both",
+   "text": "Wiggle, wiggle, wiggle!",
+   "t": 51.91,
+   "dur": 1.299
+  },
+  {
+   "who": "gul",
+   "text": "Phew! Exercise makes us strong and happy!",
+   "t": 55.859,
+   "dur": 2.231
+  },
+  {
+   "who": "gul",
+   "text": "Next, the bathroom! Time to brush our teeth!",
+   "t": 59.739,
+   "dur": 2.308
+  },
+  {
+   "who": "mishu",
+   "text": "First, a little bit of toothpaste. Just a pea size!",
+   "t": 62.898,
+   "dur": 2.883
+  },
+  {
+   "who": "both",
+   "text": "Brush, brush, brush your teeth!",
+   "t": 67.131,
+   "dur": 1.456
+  },
+  {
+   "who": "gul",
+   "text": "Up and down, and round and round!",
+   "t": 69.287,
+   "dur": 1.781
+  },
+  {
+   "who": "mishu",
+   "text": "Brush the front, and brush the back!",
+   "t": 71.768,
+   "dur": 1.781
+  },
+  {
+   "who": "gul",
+   "text": "Don't forget your tongue! Ahh!",
+   "t": 74.25,
+   "dur": 1.568
+  },
+  {
+   "who": "both",
+   "text": "Brush, brush, brush your teeth!",
+   "t": 76.518,
+   "dur": 1.456
+  },
+  {
+   "who": "both",
+   "text": "Now our teeth are shiny bright!",
+   "t": 78.674,
+   "dur": 1.538
+  },
+  {
+   "who": "gul",
+   "text": "Your turn! Pretend to brush with us!",
+   "t": 80.912,
+   "dur": 1.794
+  },
+  {
+   "who": "mishu",
+   "text": "Now rinse, and spit!",
+   "t": 87.157,
+   "dur": 1.184
+  },
+  {
+   "who": "gul",
+   "text": "Ta-da! Sparkly clean teeth!",
+   "t": 89.591,
+   "dur": 1.421
+  },
+  {
+   "who": "mishu",
+   "text": "Brush your teeth two times a day, morning and night!",
+   "t": 91.562,
+   "dur": 2.553
+  },
+  {
+   "who": "mishu",
+   "text": "Now let's wash our hands! Germs, go away!",
+   "t": 95.765,
+   "dur": 2.647
+  },
+  {
+   "who": "gul",
+   "text": "Step one: wet your hands with water.",
+   "t": 99.263,
+   "dur": 1.909
+  },
+  {
+   "who": "mishu",
+   "text": "Step two: take some soap.",
+   "t": 101.821,
+   "dur": 1.518
+  },
+  {
+   "who": "both",
+   "text": "Step three: scrub, scrub, scrub!",
+   "t": 103.989,
+   "dur": 1.989
+  },
+  {
+   "who": "both",
+   "text": "Scrub, scrub, scrub your hands!",
+   "t": 106.628,
+   "dur": 1.834
+  },
+  {
+   "who": "gul",
+   "text": "Front and back, and in between!",
+   "t": 109.211,
+   "dur": 1.538
+  },
+  {
+   "who": "mishu",
+   "text": "Thumbs and fingers, nails too!",
+   "t": 111.499,
+   "dur": 1.556
+  },
+  {
+   "who": "both",
+   "text": "Bubbles, bubbles, wash the germs!",
+   "t": 113.804,
+   "dur": 1.823
+  },
+  {
+   "who": "gul",
+   "text": "Scrub, scrub, scrub your hands!",
+   "t": 116.377,
+   "dur": 1.69
+  },
+  {
+   "who": "mishu",
+   "text": "Now they're clean and shiny too!",
+   "t": 118.817,
+   "dur": 1.493
+  },
+  {
+   "who": "mishu",
+   "text": "Rub your hands with us! Scrub, scrub, scrub!",
+   "t": 121.06,
+   "dur": 2.605
+  },
+  {
+   "who": "gul",
+   "text": "Step four: rinse off the bubbles.",
+   "t": 128.115,
+   "dur": 1.707
+  },
+  {
+   "who": "mishu",
+   "text": "Step five: dry with a towel!",
+   "t": 130.472,
+   "dur": 1.762
+  },
+  {
+   "who": "gul",
+   "text": "Wash your hands before you eat, and after the toilet!",
+   "t": 132.883,
+   "dur": 2.652
+  },
+  {
+   "who": "gul",
+   "text": "Now let's get dressed for school!",
+   "t": 137.186,
+   "dur": 1.548
+  },
+  {
+   "who": "mishu",
+   "text": "A shirt!",
+   "t": 139.584,
+   "dur": 0.646
+  },
+  {
+   "who": "gul",
+   "text": "Shorts!",
+   "t": 140.879,
+   "dur": 0.549
+  },
+  {
+   "who": "mishu",
+   "text": "Socks!",
+   "t": 142.079,
+   "dur": 0.611
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! What goes on first, socks or shoes?",
+   "t": 143.339,
+   "dur": 2.468
+  },
+  {
+   "who": "mishu",
+   "text": "Socks first! Then shoes!",
+   "t": 149.458,
+   "dur": 1.543
+  },
+  {
+   "who": "gul",
+   "text": "Shoes!",
+   "t": 151.551,
+   "dur": 0.594
+  },
+  {
+   "who": "gul",
+   "text": "I'm all dressed!",
+   "t": 152.795,
+   "dur": 0.869
+  },
+  {
+   "who": "mishu",
+   "text": "Me too! We look great!",
+   "t": 154.214,
+   "dur": 1.348
+  },
+  {
+   "who": "gul",
+   "text": "Let's look outside! What should we wear today?",
+   "t": 157.212,
+   "dur": 2.333
+  },
+  {
+   "who": "mishu",
+   "text": "It's raining! What do we need?",
+   "t": 160.995,
+   "dur": 1.555
+  },
+  {
+   "who": "gul",
+   "text": "An umbrella, rain boots, and a raincoat!",
+   "t": 166.001,
+   "dur": 2.132
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 168.782,
+   "dur": 0.577
+  },
+  {
+   "who": "gul",
+   "text": "Brrr, it's cold! What do we wear?",
+   "t": 170.809,
+   "dur": 2.189
+  },
+  {
+   "who": "mishu",
+   "text": "A warm jacket, and a scarf!",
+   "t": 176.448,
+   "dur": 1.532
+  },
+  {
+   "who": "gul",
+   "text": "Well done!",
+   "t": 178.63,
+   "dur": 0.678
+  },
+  {
+   "who": "mishu",
+   "text": "It's hot and sunny! What do we need?",
+   "t": 180.758,
+   "dur": 1.992
+  },
+  {
+   "who": "gul",
+   "text": "A sun hat, sunglasses, and lots of water!",
+   "t": 186.2,
+   "dur": 2.4
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "t": 189.25,
+   "dur": 0.597
+  },
+  {
+   "who": "mishu",
+   "text": "Yum! Time for a healthy breakfast!",
+   "t": 191.297,
+   "dur": 2.084
+  },
+  {
+   "who": "gul",
+   "text": "Milk makes our bones strong!",
+   "t": 194.232,
+   "dur": 1.487
+  },
+  {
+   "who": "mishu",
+   "text": "An egg helps us grow big!",
+   "t": 196.468,
+   "dur": 1.461
+  },
+  {
+   "who": "gul",
+   "text": "Toast gives us energy!",
+   "t": 198.679,
+   "dur": 1.312
+  },
+  {
+   "who": "mishu",
+   "text": "Oatmeal with blueberries! Yummy!",
+   "t": 200.741,
+   "dur": 1.834
+  },
+  {
+   "who": "gul",
+   "text": "A banana for our tummy!",
+   "t": 203.325,
+   "dur": 1.273
+  },
+  {
+   "who": "mishu",
+   "text": "And a glass of water!",
+   "t": 205.348,
+   "dur": 1.153
+  },
+  {
+   "who": "gul",
+   "text": "Eat slowly, and chew, chew, chew!",
+   "t": 207.25,
+   "dur": 1.515
+  },
+  {
+   "who": "mishu",
+   "text": "Mmm! All finished! Thank you for breakfast!",
+   "t": 210.315,
+   "dur": 2.153
+  },
+  {
+   "who": "gul",
+   "text": "Some food makes us strong. Some food is just a treat!",
+   "t": 214.118,
+   "dur": 2.98
+  },
+  {
+   "who": "mishu",
+   "text": "Healthy food, or junk food?",
+   "t": 218.549,
+   "dur": 1.608
+  },
+  {
+   "who": "gul",
+   "text": "An apple! Healthy food!",
+   "t": 223.407,
+   "dur": 1.303
+  },
+  {
+   "who": "gul",
+   "text": "Healthy food, or junk food?",
+   "t": 226.159,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "Soda? Junk food! Too much sugar!",
+   "t": 231.02,
+   "dur": 2.104
+  },
+  {
+   "who": "mishu",
+   "text": "Healthy food, or junk food?",
+   "t": 234.574,
+   "dur": 1.608
+  },
+  {
+   "who": "gul",
+   "text": "A carrot! Healthy and crunchy!",
+   "t": 239.432,
+   "dur": 1.591
+  },
+  {
+   "who": "gul",
+   "text": "Healthy food, or junk food?",
+   "t": 242.473,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "Chips? Junk food! Just a little, sometimes.",
+   "t": 247.334,
+   "dur": 2.518
+  },
+  {
+   "who": "mishu",
+   "text": "Healthy food, or junk food?",
+   "t": 251.302,
+   "dur": 1.608
+  },
+  {
+   "who": "gul",
+   "text": "Milk! Healthy for strong bones!",
+   "t": 256.159,
+   "dur": 1.773
+  },
+  {
+   "who": "gul",
+   "text": "Healthy food, or junk food?",
+   "t": 259.383,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "A donut? Junk food! It's a treat.",
+   "t": 264.243,
+   "dur": 2.015
+  },
+  {
+   "who": "mishu",
+   "text": "Healthy food, or junk food?",
+   "t": 267.708,
+   "dur": 1.608
+  },
+  {
+   "who": "gul",
+   "text": "Broccoli! Super healthy!",
+   "t": 272.566,
+   "dur": 1.366
+  },
+  {
+   "who": "gul",
+   "text": "Healthy food, or junk food?",
+   "t": 275.383,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "Cake is a treat for special days!",
+   "t": 280.243,
+   "dur": 1.813
+  },
+  {
+   "who": "mishu",
+   "text": "Healthy food, or junk food?",
+   "t": 283.507,
+   "dur": 1.608
+  },
+  {
+   "who": "gul",
+   "text": "An egg! Healthy food!",
+   "t": 288.364,
+   "dur": 1.28
+  },
+  {
+   "who": "gul",
+   "text": "Healthy food, or junk food?",
+   "t": 291.095,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "Candy? Junk food! Just a little!",
+   "t": 295.955,
+   "dur": 2.006
+  },
+  {
+   "who": "gul",
+   "text": "Now let's pack our school bag!",
+   "t": 299.411,
+   "dur": 1.51
+  },
+  {
+   "who": "mishu",
+   "text": "A book? Check!",
+   "t": 301.772,
+   "dur": 0.992
+  },
+  {
+   "who": "gul",
+   "text": "A pencil? Check!",
+   "t": 303.514,
+   "dur": 1.0
+  },
+  {
+   "who": "mishu",
+   "text": "Crayons? Check!",
+   "t": 305.263,
+   "dur": 1.151
+  },
+  {
+   "who": "gul",
+   "text": "Lunch box? Check!",
+   "t": 307.164,
+   "dur": 1.118
+  },
+  {
+   "who": "mishu",
+   "text": "Hmm, did we forget something?",
+   "t": 309.032,
+   "dur": 1.564
+  },
+  {
+   "who": "gul",
+   "text": "Our water bottle! Check!",
+   "t": 314.046,
+   "dur": 1.232
+  },
+  {
+   "who": "mishu",
+   "text": "Zip it up! We're ready for school!",
+   "t": 316.628,
+   "dur": 1.685
+  },
+  {
+   "who": "gul",
+   "text": "Now we walk to school. Let's be safe on the road!",
+   "t": 319.962,
+   "dur": 2.571
+  },
+  {
+   "who": "mishu",
+   "text": "Look! The light is red.",
+   "t": 323.383,
+   "dur": 1.347
+  },
+  {
+   "who": "gul",
+   "text": "Red light! What do we do?",
+   "t": 325.28,
+   "dur": 1.325
+  },
+  {
+   "who": "mishu",
+   "text": "We stop, and we wait!",
+   "t": 330.054,
+   "dur": 1.187
+  },
+  {
+   "who": "gul",
+   "text": "Look left...",
+   "t": 331.991,
+   "dur": 0.754
+  },
+  {
+   "who": "mishu",
+   "text": "Look right...",
+   "t": 333.295,
+   "dur": 0.762
+  },
+  {
+   "who": "gul",
+   "text": "And hold a grown-up's hand!",
+   "t": 334.607,
+   "dur": 1.418
+  },
+  {
+   "who": "mishu",
+   "text": "Green light! Now we can cross. Let's go!",
+   "t": 336.775,
+   "dur": 2.278
+  },
+  {
+   "who": "gul",
+   "text": "Stop, look, and hold hands! Safe and sound!",
+   "t": 341.303,
+   "dur": 2.421
+  },
+  {
+   "who": "mishu",
+   "text": "After school, we play. And then we tidy up!",
+   "t": 345.374,
+   "dur": 2.542
+  },
+  {
+   "who": "gul",
+   "text": "The ball goes in the box!",
+   "t": 348.766,
+   "dur": 1.37
+  },
+  {
+   "who": "mishu",
+   "text": "The blocks go in the box!",
+   "t": 351.185,
+   "dur": 1.326
+  },
+  {
+   "who": "gul",
+   "text": "Teddy goes in the box!",
+   "t": 353.561,
+   "dur": 1.279
+  },
+  {
+   "who": "mishu",
+   "text": "Crayons go in the box too!",
+   "t": 355.89,
+   "dur": 1.55
+  },
+  {
+   "who": "gul",
+   "text": "The toy car goes in the box!",
+   "t": 358.49,
+   "dur": 1.548
+  },
+  {
+   "who": "mishu",
+   "text": "And books go on the shelf!",
+   "t": 361.088,
+   "dur": 1.268
+  },
+  {
+   "who": "both",
+   "text": "Tidy up, tidy up, put your toys away!",
+   "t": 363.406,
+   "dur": 2.198
+  },
+  {
+   "who": "gul",
+   "text": "Our room is clean! Now we can find our toys again!",
+   "t": 366.254,
+   "dur": 2.605
+  },
+  {
+   "who": "mishu",
+   "text": "Good kids help at home! Let's help!",
+   "t": 370.509,
+   "dur": 2.008
+  },
+  {
+   "who": "gul",
+   "text": "I water the plants. Drink up, flowers!",
+   "t": 373.367,
+   "dur": 2.057
+  },
+  {
+   "who": "mishu",
+   "text": "I feed the puppy. Here you go, puppy!",
+   "t": 376.875,
+   "dur": 2.011
+  },
+  {
+   "who": "gul",
+   "text": "I set the table for dinner!",
+   "t": 380.336,
+   "dur": 1.476
+  },
+  {
+   "who": "mishu",
+   "text": "How do you help at home?",
+   "t": 383.261,
+   "dur": 1.049
+  },
+  {
+   "who": "gul",
+   "text": "Helping makes everyone happy!",
+   "t": 387.96,
+   "dur": 1.602
+  },
+  {
+   "who": "mishu",
+   "text": "Let's use our magic words!",
+   "t": 391.212,
+   "dur": 1.485
+  },
+  {
+   "who": "mishu",
+   "text": "Gul, may I have the red crayon, please?",
+   "t": 393.548,
+   "dur": 2.127
+  },
+  {
+   "who": "gul",
+   "text": "Here you go, Mishu!",
+   "t": 396.224,
+   "dur": 1.143
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you, Gul!",
+   "t": 397.917,
+   "dur": 0.883
+  },
+  {
+   "who": "gul",
+   "text": "You're welcome!",
+   "t": 399.351,
+   "dur": 0.771
+  },
+  {
+   "who": "gul",
+   "text": "Oops! I bumped you. Sorry, Mishu!",
+   "t": 401.571,
+   "dur": 1.805
+  },
+  {
+   "who": "mishu",
+   "text": "That's okay, Gul!",
+   "t": 403.927,
+   "dur": 1.093
+  },
+  {
+   "who": "mishu",
+   "text": "Achoo! Excuse me!",
+   "t": 406.77,
+   "dur": 1.312
+  },
+  {
+   "who": "gul",
+   "text": "Bless you!",
+   "t": 408.731,
+   "dur": 0.632
+  },
+  {
+   "who": "gul",
+   "text": "Mishu, can I play with the ball too?",
+   "t": 410.113,
+   "dur": 1.815
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! Let's take turns! You go first!",
+   "t": 412.478,
+   "dur": 2.108
+  },
+  {
+   "who": "both",
+   "text": "Please, thank you, sorry, excuse me! Magic words!",
+   "t": 415.236,
+   "dur": 2.985
+  },
+  {
+   "who": "mishu",
+   "text": "The sun goes down. It's bedtime!",
+   "t": 419.871,
+   "dur": 2.002
+  },
+  {
+   "who": "gul",
+   "text": "First, a warm bath! Splish, splash!",
+   "t": 422.723,
+   "dur": 2.042
+  },
+  {
+   "who": "mishu",
+   "text": "Then we put on our pyjamas!",
+   "t": 425.615,
+   "dur": 1.533
+  },
+  {
+   "who": "gul",
+   "text": "We brush our teeth again, before bed!",
+   "t": 427.998,
+   "dur": 1.81
+  },
+  {
+   "who": "mishu",
+   "text": "Now, a bedtime story!",
+   "t": 430.657,
+   "dur": 1.433
+  },
+  {
+   "who": "both",
+   "text": "Lights off. Good night, moon!",
+   "t": 432.94,
+   "dur": 1.527
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! What do we do before bed?",
+   "t": 435.318,
+   "dur": 1.924
+  },
+  {
+   "who": "mishu",
+   "text": "Bath, pyjamas, brush our teeth, and a story!",
+   "t": 440.891,
+   "dur": 2.517
+  },
+  {
+   "who": "gul",
+   "text": "Sleep helps us grow big and strong!",
+   "t": 444.058,
+   "dur": 1.83
+  },
+  {
+   "who": "both",
+   "text": "Good night!",
+   "t": 446.538,
+   "dur": 0.7
+  },
+  {
+   "who": "gul",
+   "text": "Game time! Is it a good habit, or a bad habit?",
+   "t": 449.488,
+   "dur": 2.42
+  },
+  {
+   "who": "mishu",
+   "text": "Good habit, or bad habit?",
+   "t": 453.458,
+   "dur": 1.548
+  },
+  {
+   "who": "gul",
+   "text": "Brushing your teeth is a good habit!",
+   "t": 458.456,
+   "dur": 1.722
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 460.727,
+   "dur": 0.782
+  },
+  {
+   "who": "gul",
+   "text": "Good habit, or bad habit?",
+   "t": 463.059,
+   "dur": 1.546
+  },
+  {
+   "who": "mishu",
+   "text": "Leaving toys everywhere? Bad habit! Let's tidy up!",
+   "t": 468.055,
+   "dur": 3.052
+  },
+  {
+   "who": "gul",
+   "text": "Yay! You got it!",
+   "t": 471.658,
+   "dur": 0.902
+  },
+  {
+   "who": "mishu",
+   "text": "Good habit, or bad habit?",
+   "t": 474.109,
+   "dur": 1.548
+  },
+  {
+   "who": "gul",
+   "text": "Washing your hands is a good habit!",
+   "t": 479.107,
+   "dur": 1.744
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 481.401,
+   "dur": 0.577
+  },
+  {
+   "who": "gul",
+   "text": "Good habit, or bad habit?",
+   "t": 483.528,
+   "dur": 1.546
+  },
+  {
+   "who": "mishu",
+   "text": "Watching TV all night? Bad habit! We need sleep!",
+   "t": 488.525,
+   "dur": 3.01
+  },
+  {
+   "who": "gul",
+   "text": "Well done!",
+   "t": 492.084,
+   "dur": 0.678
+  },
+  {
+   "who": "mishu",
+   "text": "Good habit, or bad habit?",
+   "t": 494.313,
+   "dur": 1.548
+  },
+  {
+   "who": "gul",
+   "text": "Sharing with friends is a good habit!",
+   "t": 499.31,
+   "dur": 1.769
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "t": 501.629,
+   "dur": 0.597
+  },
+  {
+   "who": "gul",
+   "text": "Good habit, or bad habit?",
+   "t": 503.776,
+   "dur": 1.546
+  },
+  {
+   "who": "mishu",
+   "text": "Eating lots of candy? Bad habit! Just a little, sometimes!",
+   "t": 508.772,
+   "dur": 3.57
+  },
+  {
+   "who": "gul",
+   "text": "You're so smart!",
+   "t": 512.893,
+   "dur": 0.899
+  },
+  {
+   "who": "mishu",
+   "text": "Good habit, or bad habit?",
+   "t": 515.342,
+   "dur": 1.548
+  },
+  {
+   "who": "gul",
+   "text": "Drinking water is a good habit!",
+   "t": 520.339,
+   "dur": 1.779
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 522.668,
+   "dur": 0.782
+  },
+  {
+   "who": "gul",
+   "text": "Good habit, or bad habit?",
+   "t": 525.0,
+   "dur": 1.546
+  },
+  {
+   "who": "mishu",
+   "text": "Making your bed is a good habit!",
+   "t": 529.996,
+   "dur": 1.692
+  },
+  {
+   "who": "gul",
+   "text": "Yay! You got it!",
+   "t": 532.238,
+   "dur": 0.902
+  },
+  {
+   "who": "mishu",
+   "text": "Good habit, or bad habit?",
+   "t": 534.689,
+   "dur": 1.548
+  },
+  {
+   "who": "gul",
+   "text": "Stopping at the red light is a good habit!",
+   "t": 539.687,
+   "dur": 2.088
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 542.325,
+   "dur": 0.577
+  },
+  {
+   "who": "gul",
+   "text": "Good habit, or bad habit?",
+   "t": 544.452,
+   "dur": 1.546
+  },
+  {
+   "who": "mishu",
+   "text": "Putting your toys away is a good habit!",
+   "t": 549.448,
+   "dur": 2.125
+  },
+  {
+   "who": "gul",
+   "text": "Well done!",
+   "t": 552.123,
+   "dur": 0.678
+  },
+  {
+   "who": "mishu",
+   "text": "Good habit, or bad habit?",
+   "t": 554.351,
+   "dur": 1.548
+  },
+  {
+   "who": "gul",
+   "text": "A donut for breakfast every day? Bad habit!",
+   "t": 559.348,
+   "dur": 2.555
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "t": 562.453,
+   "dur": 0.597
+  },
+  {
+   "who": "gul",
+   "text": "Good habit, or bad habit?",
+   "t": 564.6,
+   "dur": 1.546
+  },
+  {
+   "who": "mishu",
+   "text": "Helping set the table is a good habit!",
+   "t": 569.596,
+   "dur": 2.025
+  },
+  {
+   "who": "gul",
+   "text": "You're so smart!",
+   "t": 572.171,
+   "dur": 0.899
+  },
+  {
+   "who": "both",
+   "text": "Good habits, every day!",
+   "t": 573.92,
+   "dur": 1.372
+  },
+  {
+   "who": "gul",
+   "text": "Brush and wash, and tidy away!",
+   "t": 576.043,
+   "dur": 1.664
+  },
+  {
+   "who": "mishu",
+   "text": "Eat good food, and drink your water!",
+   "t": 578.456,
+   "dur": 1.925
+  },
+  {
+   "who": "both",
+   "text": "Please and thank you, that's the way!",
+   "t": 581.131,
+   "dur": 1.765
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends! Have a happy day!",
+   "t": 583.646,
+   "dur": 1.99
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "wake",
+   "bg": "bedroom",
+   "t0": 1.0,
+   "ring_t": 2.4,
+   "wake_t": 6.049,
+   "t1": 13.805
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 13.805,
+   "title": "MAKE THE BED!",
+   "t1": 16.707
+  },
+  {
+   "kind": "bed",
+   "bg": "bedroom",
+   "t0": 16.707,
+   "fix_t": 25.585,
+   "stretch_t": 28.158,
+   "t1": 33.59
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 33.59,
+   "title": "MORNING EXERCISE!",
+   "t1": 37.253
+  },
+  {
+   "kind": "exercise",
+   "bg": "bedroom",
+   "t0": 37.253,
+   "moves": [
+    [
+     37.253,
+     "JUMP!"
+    ],
+    [
+     40.927,
+     "CLAP!"
+    ],
+    [
+     44.735,
+     "SPIN!"
+    ],
+    [
+     48.311,
+     "STOMP!"
+    ],
+    [
+     51.91,
+     "WIGGLE!"
+    ]
+   ],
+   "t1": 59.139
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom",
+   "t0": 59.139,
+   "title": "BRUSH YOUR TEETH!",
+   "t1": 62.898
+  },
+  {
+   "kind": "brush",
+   "bg": "bathroom",
+   "t0": 62.898,
+   "paste_t": 66.331,
+   "brush_t": 67.131,
+   "chant": [
+    67.131,
+    69.287,
+    71.768,
+    74.25,
+    76.518,
+    78.674
+   ],
+   "rinse_t": 87.157,
+   "shine_t": 89.591,
+   "brush_end": 95.165,
+   "t1": 95.165
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom",
+   "t0": 95.165,
+   "title": "WASH YOUR HANDS!",
+   "t1": 99.263
+  },
+  {
+   "kind": "wash",
+   "bg": "bathroom",
+   "t0": 99.263,
+   "scrub_t": 106.628,
+   "chant": [
+    106.628,
+    109.211,
+    111.499,
+    113.804,
+    116.377,
+    118.817
+   ],
+   "steps": [
+    [
+     99.263,
+     "WATER",
+     "water"
+    ],
+    [
+     101.821,
+     "SOAP",
+     "soap"
+    ],
+    [
+     103.989,
+     "SCRUB",
+     "bubbles"
+    ],
+    [
+     128.115,
+     "RINSE",
+     "water"
+    ],
+    [
+     130.472,
+     "DRY",
+     "towel"
+    ]
+   ],
+   "scrub_end": 128.115,
+   "t1": 136.586
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 136.586,
+   "title": "GET DRESSED!",
+   "t1": 139.584
+  },
+  {
+   "kind": "dress",
+   "bg": "bedroom",
+   "t0": 139.584,
+   "q_t": 143.339,
+   "items": [
+    [
+     139.584,
+     "shirt"
+    ],
+    [
+     140.879,
+     "shorts"
+    ],
+    [
+     142.079,
+     "socks"
+    ],
+    [
+     151.551,
+     "shoes"
+    ]
+   ],
+   "change_gul": 152.795,
+   "change_mishu": 154.214,
+   "t1": 156.612
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 156.612,
+   "title": "DRESS FOR THE WEATHER!",
+   "t1": 160.395
+  },
+  {
+   "kind": "weather",
+   "bg": "bedroom",
+   "t0": 160.395,
+   "weather": "rainy",
+   "items": [
+    "umbrella",
+    "boots",
+    "raincoat"
+   ],
+   "answer_t": 166.001,
+   "t1": 170.209
+  },
+  {
+   "kind": "weather",
+   "bg": "bedroom",
+   "t0": 170.209,
+   "weather": "cold",
+   "items": [
+    "jacket",
+    "scarf"
+   ],
+   "answer_t": 176.448,
+   "t1": 180.158
+  },
+  {
+   "kind": "weather",
+   "bg": "bedroom",
+   "t0": 180.158,
+   "weather": "sunny",
+   "items": [
+    "sunhat",
+    "sunglasses",
+    "water"
+   ],
+   "answer_t": 186.2,
+   "t1": 190.697
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 190.697,
+   "title": "HEALTHY BREAKFAST!",
+   "t1": 194.232
+  },
+  {
+   "kind": "breakfast",
+   "bg": "kitchen",
+   "t0": 194.232,
+   "food": [
+    [
+     194.232,
+     "milk"
+    ],
+    [
+     196.468,
+     "egg"
+    ],
+    [
+     198.679,
+     "toast"
+    ],
+    [
+     200.741,
+     "oatmeal"
+    ],
+    [
+     203.325,
+     "banana"
+    ],
+    [
+     205.348,
+     "water"
+    ]
+   ],
+   "eat_t": 209.315,
+   "t1": 213.518
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 213.518,
+   "title": "HEALTHY OR JUNK FOOD?",
+   "t1": 217.949
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 217.949,
+   "key": "apple",
+   "healthy": true,
+   "answer_t": 223.407,
+   "t1": 225.559
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 225.559,
+   "key": "soda",
+   "healthy": false,
+   "answer_t": 231.02,
+   "t1": 233.974
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 233.974,
+   "key": "carrot",
+   "healthy": true,
+   "answer_t": 239.432,
+   "t1": 241.873
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 241.873,
+   "key": "chips",
+   "healthy": false,
+   "answer_t": 247.334,
+   "t1": 250.702
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 250.702,
+   "key": "milk",
+   "healthy": true,
+   "answer_t": 256.159,
+   "t1": 258.783
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 258.783,
+   "key": "donut",
+   "healthy": false,
+   "answer_t": 264.243,
+   "t1": 267.108
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 267.108,
+   "key": "broccoli",
+   "healthy": true,
+   "answer_t": 272.566,
+   "t1": 274.783
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 274.783,
+   "key": "cake",
+   "healthy": false,
+   "answer_t": 280.243,
+   "t1": 282.907
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 282.907,
+   "key": "egg",
+   "healthy": true,
+   "answer_t": 288.364,
+   "t1": 290.495
+  },
+  {
+   "kind": "junk",
+   "bg": "kitchen",
+   "t0": 290.495,
+   "key": "candy",
+   "healthy": false,
+   "answer_t": 295.955,
+   "t1": 298.811
+  },
+  {
+   "kind": "title",
+   "bg": "hall",
+   "t0": 298.811,
+   "title": "PACK YOUR BAG!",
+   "t1": 301.772
+  },
+  {
+   "kind": "bag",
+   "bg": "hall",
+   "t0": 301.772,
+   "q_t": 309.032,
+   "packed": [
+    [
+     301.772,
+     "book"
+    ],
+    [
+     303.514,
+     "pencil"
+    ],
+    [
+     305.263,
+     "crayon"
+    ],
+    [
+     307.164,
+     "lunchbox"
+    ],
+    [
+     314.046,
+     "bottle"
+    ]
+   ],
+   "zip_t": 315.928,
+   "t1": 319.362
+  },
+  {
+   "kind": "title",
+   "bg": "road",
+   "t0": 319.362,
+   "title": "SAFE ON THE ROAD!",
+   "t1": 323.383
+  },
+  {
+   "kind": "road",
+   "bg": "road",
+   "t0": 323.383,
+   "red_t": 325.28,
+   "left_t": 331.991,
+   "right_t": 333.295,
+   "hold_t": 334.607,
+   "green_t": 336.775,
+   "walk_t": 339.703,
+   "t1": 344.774
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 344.774,
+   "title": "TIDY UP TIME!",
+   "t1": 348.766
+  },
+  {
+   "kind": "tidy",
+   "bg": "bedroom",
+   "t0": 348.766,
+   "toys": [
+    [
+     348.766,
+     "ball"
+    ],
+    [
+     351.185,
+     "blocks"
+    ],
+    [
+     353.561,
+     "teddy"
+    ],
+    [
+     355.89,
+     "crayon"
+    ],
+    [
+     358.49,
+     "car"
+    ],
+    [
+     361.088,
+     "book"
+    ]
+   ],
+   "done_t": 366.254,
+   "t1": 369.909
+  },
+  {
+   "kind": "title",
+   "bg": "hall",
+   "t0": 369.909,
+   "title": "HELPING AT HOME!",
+   "t1": 373.367
+  },
+  {
+   "kind": "help",
+   "bg": "hall",
+   "t0": 373.367,
+   "jobs": [
+    [
+     373.367,
+     [
+      "watering_can",
+      "plant"
+     ],
+     "WATER THE PLANTS"
+    ],
+    [
+     376.875,
+     [
+      "pet_bowl",
+      "puppy"
+     ],
+     "FEED THE PUPPY"
+    ],
+    [
+     380.336,
+     [
+      "plates",
+      "water"
+     ],
+     "SET THE TABLE"
+    ]
+   ],
+   "t1": 390.612
+  },
+  {
+   "kind": "title",
+   "bg": "hall",
+   "t0": 390.612,
+   "title": "MAGIC WORDS!",
+   "t1": 393.548
+  },
+  {
+   "kind": "polite",
+   "bg": "hall",
+   "t0": 393.548,
+   "give_t": 396.224,
+   "bump_t": 400.971,
+   "sneeze_t": 405.87,
+   "share_t": 410.113,
+   "words": [
+    [
+     393.548,
+     "PLEASE",
+     "mishu"
+    ],
+    [
+     397.917,
+     "THANK YOU",
+     "mishu"
+    ],
+    [
+     399.351,
+     "YOU'RE WELCOME",
+     "gul"
+    ],
+    [
+     401.571,
+     "SORRY",
+     "gul"
+    ],
+    [
+     406.77,
+     "EXCUSE ME",
+     "mishu"
+    ],
+    [
+     410.113,
+     "CAN I PLAY?",
+     "gul"
+    ],
+    [
+     412.478,
+     "TAKE TURNS",
+     "mishu"
+    ]
+   ],
+   "t1": 419.271
+  },
+  {
+   "kind": "title",
+   "bg": "night",
+   "t0": 419.271,
+   "title": "BEDTIME!",
+   "t1": 422.723
+  },
+  {
+   "kind": "bedtime",
+   "bg": "night",
+   "t0": 422.723,
+   "steps": [
+    [
+     422.723,
+     "bathtub",
+     "BATH TIME"
+    ],
+    [
+     425.615,
+     "pyjamas",
+     "PYJAMAS"
+    ],
+    [
+     427.998,
+     "toothbrush",
+     "BRUSH AGAIN"
+    ],
+    [
+     430.657,
+     "book",
+     "STORY TIME"
+    ],
+    [
+     432.94,
+     "moon",
+     "GOOD NIGHT"
+    ]
+   ],
+   "sleep_t": 444.058,
+   "t1": 448.888
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 448.888,
+   "title": "GOOD OR BAD HABIT?",
+   "t1": 452.758
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 452.758,
+   "key": "toothbrush",
+   "good": true,
+   "answer_t": 458.456,
+   "t1": 462.359
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 462.359,
+   "key": "messy_toys",
+   "good": false,
+   "answer_t": 468.055,
+   "t1": 473.409
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 473.409,
+   "key": "soap",
+   "good": true,
+   "answer_t": 479.107,
+   "t1": 482.828
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 482.828,
+   "key": "tv_late",
+   "good": false,
+   "answer_t": 488.525,
+   "t1": 493.613
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 493.613,
+   "key": "sharing",
+   "good": true,
+   "answer_t": 499.31,
+   "t1": 503.076
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 503.076,
+   "key": "candy",
+   "good": false,
+   "answer_t": 508.772,
+   "t1": 514.642
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 514.642,
+   "key": "water",
+   "good": true,
+   "answer_t": 520.339,
+   "t1": 524.3
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 524.3,
+   "key": "bed_neat",
+   "good": true,
+   "answer_t": 529.996,
+   "t1": 533.989
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 533.989,
+   "key": "traffic_red",
+   "good": true,
+   "answer_t": 539.687,
+   "t1": 543.752
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 543.752,
+   "key": "teddy",
+   "good": true,
+   "answer_t": 549.448,
+   "t1": 553.651
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 553.651,
+   "key": "donut",
+   "good": false,
+   "answer_t": 559.348,
+   "t1": 563.9
+  },
+  {
+   "kind": "habit",
+   "bg": "bedroom",
+   "t0": 563.9,
+   "key": "plates",
+   "good": true,
+   "answer_t": 569.596,
+   "t1": 573.92
+  },
+  {
+   "kind": "outro",
+   "bg": "bedroom",
+   "t0": 573.92,
+   "chant": [
+    573.92,
+    576.043,
+    578.456,
+    581.131
+   ],
+   "bye_t": 583.646,
+   "t1": 587.886
+  }
+ ],
+ "prompts": [
+  [
+   20.01,
+   22.41
+  ],
+  [
+   38.727,
+   40.927
+  ],
+  [
+   42.535,
+   44.735
+  ],
+  [
+   46.111,
+   48.311
+  ],
+  [
+   49.71,
+   51.91
+  ],
+  [
+   53.659,
+   55.859
+  ],
+  [
+   83.157,
+   87.157
+  ],
+  [
+   124.115,
+   128.115
+  ],
+  [
+   146.258,
+   149.458
+  ],
+  [
+   163.001,
+   166.001
+  ],
+  [
+   173.448,
+   176.448
+  ],
+  [
+   183.2,
+   186.2
+  ],
+  [
+   220.607,
+   223.407
+  ],
+  [
+   228.22,
+   231.02
+  ],
+  [
+   236.632,
+   239.432
+  ],
+  [
+   244.534,
+   247.334
+  ],
+  [
+   253.359,
+   256.159
+  ],
+  [
+   261.443,
+   264.243
+  ],
+  [
+   269.766,
+   272.566
+  ],
+  [
+   277.443,
+   280.243
+  ],
+  [
+   285.564,
+   288.364
+  ],
+  [
+   293.155,
+   295.955
+  ],
+  [
+   311.046,
+   314.046
+  ],
+  [
+   327.054,
+   330.054
+  ],
+  [
+   384.76,
+   387.96
+  ],
+  [
+   437.691,
+   440.891
+  ],
+  [
+   455.456,
+   458.456
+  ],
+  [
+   465.055,
+   468.055
+  ],
+  [
+   476.107,
+   479.107
+  ],
+  [
+   485.525,
+   488.525
+  ],
+  [
+   496.31,
+   499.31
+  ],
+  [
+   505.772,
+   508.772
+  ],
+  [
+   517.339,
+   520.339
+  ],
+  [
+   526.996,
+   529.996
+  ],
+  [
+   536.687,
+   539.687
+  ],
+  [
+   546.448,
+   549.448
+  ],
+  [
+   556.348,
+   559.348
+  ],
+  [
+   566.596,
+   569.596
+  ]
+ ],
+ "stars": [
+  26.385,
+  55.859,
+  89.591,
+  132.883,
+  155.812,
+  168.782,
+  178.63,
+  189.25,
+  316.628,
+  341.303,
+  366.254,
+  387.96,
+  415.236,
+  460.727,
+  481.401,
+  501.629,
+  522.668,
+  532.238,
+  542.325,
+  552.123,
+  572.171
+ ],
+ "total": 587.89
+}
