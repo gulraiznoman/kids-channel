@@ -1,0 +1,2232 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Dinosaurs!",
+   "t": 3.4,
+   "dur": 0.817
+  },
+  {
+   "who": "gul",
+   "text": "Let's go on a dino adventure!",
+   "t": 4.567,
+   "dur": 1.702
+  },
+  {
+   "who": "mishu",
+   "text": "Let's meet twelve amazing dinosaurs!",
+   "t": 6.619,
+   "dur": 2.095
+  },
+  {
+   "who": "gul",
+   "text": "Stomp, stomp! Here they come!",
+   "t": 9.763,
+   "dur": 1.407
+  },
+  {
+   "who": "mishu",
+   "text": "Tyrannosaurus Rex, or T-Rex! It had big, strong teeth and tiny little arms!",
+   "t": 13.521,
+   "dur": 4.952
+  },
+  {
+   "who": "gul",
+   "text": "Roar! Stomp, stomp!",
+   "t": 18.873,
+   "dur": 1.182
+  },
+  {
+   "who": "gul",
+   "text": "Can you say T-Rex?",
+   "t": 20.404,
+   "dur": 1.187
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 23.641,
+   "dur": 0.783
+  },
+  {
+   "who": "gul",
+   "text": "Triceratops had three horns on its face. Tri means three!",
+   "t": 26.874,
+   "dur": 3.355
+  },
+  {
+   "who": "mishu",
+   "text": "Roar! Stomp, stomp!",
+   "t": 30.629,
+   "dur": 1.234
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say Triceratops?",
+   "t": 32.213,
+   "dur": 1.519
+  },
+  {
+   "who": "gul",
+   "text": "Yay! You got it!",
+   "t": 35.783,
+   "dur": 0.899
+  },
+  {
+   "who": "mishu",
+   "text": "Stegosaurus had big plates on its back, and spikes on its tail!",
+   "t": 39.131,
+   "dur": 3.582
+  },
+  {
+   "who": "gul",
+   "text": "Roar! Stomp, stomp!",
+   "t": 43.113,
+   "dur": 1.182
+  },
+  {
+   "who": "gul",
+   "text": "Can you say Stegosaurus?",
+   "t": 44.645,
+   "dur": 1.445
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 48.14,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Brachiosaurus had a super long neck, to eat leaves from tall trees!",
+   "t": 51.161,
+   "dur": 3.665
+  },
+  {
+   "who": "mishu",
+   "text": "Honk, honk!",
+   "t": 55.226,
+   "dur": 0.795
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say Brachiosaurus?",
+   "t": 56.371,
+   "dur": 1.496
+  },
+  {
+   "who": "gul",
+   "text": "Well done!",
+   "t": 59.917,
+   "dur": 0.677
+  },
+  {
+   "who": "mishu",
+   "text": "Pteranodon could fly! It was a flying reptile, not really a dinosaur.",
+   "t": 63.044,
+   "dur": 4.199
+  },
+  {
+   "who": "gul",
+   "text": "Whoosh! Up in the sky!",
+   "t": 67.643,
+   "dur": 1.148
+  },
+  {
+   "who": "gul",
+   "text": "Can you say Pteranodon?",
+   "t": 69.141,
+   "dur": 1.369
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "t": 72.56,
+   "dur": 0.597
+  },
+  {
+   "who": "gul",
+   "text": "Velociraptor was very fast, and it had feathers, like a bird!",
+   "t": 75.607,
+   "dur": 3.492
+  },
+  {
+   "who": "mishu",
+   "text": "Zoom, zoom!",
+   "t": 79.499,
+   "dur": 0.903
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say Velociraptor?",
+   "t": 80.752,
+   "dur": 1.514
+  },
+  {
+   "who": "gul",
+   "text": "Roar-some!",
+   "t": 84.316,
+   "dur": 0.691
+  },
+  {
+   "who": "mishu",
+   "text": "Ankylosaurus had hard armour, like a tank, and a club on its tail!",
+   "t": 87.457,
+   "dur": 3.785
+  },
+  {
+   "who": "gul",
+   "text": "Roar! Stomp, stomp!",
+   "t": 91.642,
+   "dur": 1.182
+  },
+  {
+   "who": "gul",
+   "text": "Can you say Ankylosaurus?",
+   "t": 93.174,
+   "dur": 1.494
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 96.717,
+   "dur": 0.783
+  },
+  {
+   "who": "gul",
+   "text": "Spinosaurus had a big sail on its back, and it loved to eat fish!",
+   "t": 99.95,
+   "dur": 3.488
+  },
+  {
+   "who": "mishu",
+   "text": "Roar! Stomp, stomp!",
+   "t": 103.838,
+   "dur": 1.234
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say Spinosaurus?",
+   "t": 105.422,
+   "dur": 1.332
+  },
+  {
+   "who": "gul",
+   "text": "Yay! You got it!",
+   "t": 108.804,
+   "dur": 0.899
+  },
+  {
+   "who": "mishu",
+   "text": "Parasaurolophus had a long crest on its head, to make loud honking sounds!",
+   "t": 112.153,
+   "dur": 4.303
+  },
+  {
+   "who": "gul",
+   "text": "Honk, honk!",
+   "t": 116.856,
+   "dur": 0.763
+  },
+  {
+   "who": "gul",
+   "text": "Can you say Parasaurolophus?",
+   "t": 117.97,
+   "dur": 1.591
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 121.611,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Diplodocus had a long neck, and a very, very long tail!",
+   "t": 124.632,
+   "dur": 3.253
+  },
+  {
+   "who": "mishu",
+   "text": "Honk, honk!",
+   "t": 128.285,
+   "dur": 0.795
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say Diplodocus?",
+   "t": 129.43,
+   "dur": 1.372
+  },
+  {
+   "who": "gul",
+   "text": "Well done!",
+   "t": 132.852,
+   "dur": 0.677
+  },
+  {
+   "who": "mishu",
+   "text": "Pachycephalosaurus had a hard, round dome on its head!",
+   "t": 135.979,
+   "dur": 3.072
+  },
+  {
+   "who": "gul",
+   "text": "Roar! Stomp, stomp!",
+   "t": 139.451,
+   "dur": 1.182
+  },
+  {
+   "who": "gul",
+   "text": "Can you say Pachycephalosaurus?",
+   "t": 140.983,
+   "dur": 1.693
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "t": 144.725,
+   "dur": 0.597
+  },
+  {
+   "who": "gul",
+   "text": "Compsognathus was a tiny dinosaur, about as big as a chicken!",
+   "t": 147.772,
+   "dur": 3.665
+  },
+  {
+   "who": "mishu",
+   "text": "Zoom, zoom!",
+   "t": 151.837,
+   "dur": 0.903
+  },
+  {
+   "who": "mishu",
+   "text": "Can you say Compsognathus?",
+   "t": 153.09,
+   "dur": 1.571
+  },
+  {
+   "who": "gul",
+   "text": "Roar-some!",
+   "t": 156.711,
+   "dur": 0.691
+  },
+  {
+   "who": "mishu",
+   "text": "Dance time! Move like the dinosaurs!",
+   "t": 158.452,
+   "dur": 2.135
+  },
+  {
+   "who": "gul",
+   "text": "Stomp like a T-Rex! Stomp, stomp, stomp!",
+   "t": 161.037,
+   "dur": 2.379
+  },
+  {
+   "who": "mishu",
+   "text": "Stretch your neck up high, like a Brachiosaurus!",
+   "t": 166.065,
+   "dur": 2.483
+  },
+  {
+   "who": "gul",
+   "text": "Flap your wings, like a Pteranodon!",
+   "t": 171.198,
+   "dur": 1.804
+  },
+  {
+   "who": "mishu",
+   "text": "Swish your tail, like a Stegosaurus!",
+   "t": 175.652,
+   "dur": 1.96
+  },
+  {
+   "who": "gul",
+   "text": "Run super fast, like a Velociraptor!",
+   "t": 180.262,
+   "dur": 2.235
+  },
+  {
+   "who": "both",
+   "text": "Now roar like a dinosaur! ROAR!",
+   "t": 185.146,
+   "dur": 1.887
+  },
+  {
+   "who": "gul",
+   "text": "Again, but super fast!",
+   "t": 189.683,
+   "dur": 1.4
+  },
+  {
+   "who": "gul",
+   "text": "Stomp like a T-Rex! Stomp, stomp, stomp!",
+   "t": 191.533,
+   "dur": 2.379
+  },
+  {
+   "who": "mishu",
+   "text": "Stretch your neck up high, like a Brachiosaurus!",
+   "t": 195.562,
+   "dur": 2.483
+  },
+  {
+   "who": "gul",
+   "text": "Flap your wings, like a Pteranodon!",
+   "t": 199.694,
+   "dur": 1.804
+  },
+  {
+   "who": "mishu",
+   "text": "Swish your tail, like a Stegosaurus!",
+   "t": 203.148,
+   "dur": 1.96
+  },
+  {
+   "who": "gul",
+   "text": "Run super fast, like a Velociraptor!",
+   "t": 206.758,
+   "dur": 2.235
+  },
+  {
+   "who": "both",
+   "text": "Now roar like a dinosaur! ROAR!",
+   "t": 210.643,
+   "dur": 1.887
+  },
+  {
+   "who": "gul",
+   "text": "Listen carefully! Which dinosaur is making that sound?",
+   "t": 214.679,
+   "dur": 3.043
+  },
+  {
+   "who": "mishu",
+   "text": "Listen!",
+   "t": 218.172,
+   "dur": 0.594
+  },
+  {
+   "who": "gul",
+   "text": "A big roar! It's T-Rex!",
+   "t": 222.416,
+   "dur": 1.433
+  },
+  {
+   "who": "gul",
+   "text": "Listen!",
+   "t": 224.499,
+   "dur": 0.597
+  },
+  {
+   "who": "mishu",
+   "text": "Honk, honk! It's Parasaurolophus, with its long crest!",
+   "t": 228.746,
+   "dur": 3.116
+  },
+  {
+   "who": "mishu",
+   "text": "Listen!",
+   "t": 232.512,
+   "dur": 0.594
+  },
+  {
+   "who": "gul",
+   "text": "Skree! It's Pteranodon, flying in the sky!",
+   "t": 236.757,
+   "dur": 2.161
+  },
+  {
+   "who": "gul",
+   "text": "Listen!",
+   "t": 239.568,
+   "dur": 0.597
+  },
+  {
+   "who": "mishu",
+   "text": "A tiny squeak! It's little Compsognathus!",
+   "t": 243.814,
+   "dur": 2.439
+  },
+  {
+   "who": "mishu",
+   "text": "How many dinosaurs can you see?",
+   "t": 247.404,
+   "dur": 1.578
+  },
+  {
+   "who": "gul",
+   "text": "How many?",
+   "t": 249.432,
+   "dur": 0.71
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 252.192,
+   "dur": 0.488
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 252.88,
+   "dur": 0.459
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 253.539,
+   "dur": 0.524
+  },
+  {
+   "who": "mishu",
+   "text": "Three dinosaurs!",
+   "t": 254.264,
+   "dur": 0.996
+  },
+  {
+   "who": "mishu",
+   "text": "How many?",
+   "t": 255.909,
+   "dur": 0.626
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 258.586,
+   "dur": 0.488
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 259.273,
+   "dur": 0.459
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 259.933,
+   "dur": 0.524
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 260.657,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 261.392,
+   "dur": 0.576
+  },
+  {
+   "who": "gul",
+   "text": "Five dinosaurs!",
+   "t": 262.168,
+   "dur": 1.091
+  },
+  {
+   "who": "gul",
+   "text": "How many?",
+   "t": 263.91,
+   "dur": 0.71
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 266.67,
+   "dur": 0.488
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 267.358,
+   "dur": 0.459
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 268.017,
+   "dur": 0.524
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 268.741,
+   "dur": 0.535
+  },
+  {
+   "who": "mishu",
+   "text": "Four dinosaurs!",
+   "t": 269.477,
+   "dur": 0.982
+  },
+  {
+   "who": "gul",
+   "text": "Some dinosaurs were huge, and some were tiny!",
+   "t": 271.609,
+   "dur": 2.574
+  },
+  {
+   "who": "mishu",
+   "text": "Which dinosaur is bigger?",
+   "t": 275.232,
+   "dur": 1.382
+  },
+  {
+   "who": "gul",
+   "text": "Brachiosaurus is big! Compsognathus is small!",
+   "t": 279.265,
+   "dur": 2.896
+  },
+  {
+   "who": "mishu",
+   "text": "Brachiosaurus was as tall as a four floor building!",
+   "t": 282.611,
+   "dur": 2.738
+  },
+  {
+   "who": "gul",
+   "text": "Which one is bigger?",
+   "t": 286.499,
+   "dur": 1.138
+  },
+  {
+   "who": "mishu",
+   "text": "T-Rex is big! Velociraptor is small, about as big as a turkey!",
+   "t": 290.286,
+   "dur": 4.301
+  },
+  {
+   "who": "mishu",
+   "text": "Who is longer?",
+   "t": 295.638,
+   "dur": 0.867
+  },
+  {
+   "who": "gul",
+   "text": "Diplodocus! It was as long as three buses!",
+   "t": 299.154,
+   "dur": 2.481
+  },
+  {
+   "who": "mishu",
+   "text": "What did dinosaurs eat? Plants, or meat?",
+   "t": 302.586,
+   "dur": 2.385
+  },
+  {
+   "who": "gul",
+   "text": "Plants, or meat?",
+   "t": 306.02,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Triceratops ate plants!",
+   "t": 309.47,
+   "dur": 1.462
+  },
+  {
+   "who": "mishu",
+   "text": "Plants, or meat?",
+   "t": 312.083,
+   "dur": 0.941
+  },
+  {
+   "who": "gul",
+   "text": "T-Rex ate meat!",
+   "t": 315.573,
+   "dur": 1.029
+  },
+  {
+   "who": "gul",
+   "text": "Plants, or meat?",
+   "t": 317.752,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Brachiosaurus ate leaves from tall trees!",
+   "t": 321.202,
+   "dur": 2.176
+  },
+  {
+   "who": "mishu",
+   "text": "Plants, or meat?",
+   "t": 324.529,
+   "dur": 0.941
+  },
+  {
+   "who": "gul",
+   "text": "Velociraptor ate meat!",
+   "t": 328.019,
+   "dur": 1.436
+  },
+  {
+   "who": "gul",
+   "text": "Plants, or meat?",
+   "t": 330.605,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Stegosaurus ate plants!",
+   "t": 334.055,
+   "dur": 1.389
+  },
+  {
+   "who": "mishu",
+   "text": "Plants, or meat?",
+   "t": 336.595,
+   "dur": 0.941
+  },
+  {
+   "who": "gul",
+   "text": "Spinosaurus ate fish!",
+   "t": 340.085,
+   "dur": 1.268
+  },
+  {
+   "who": "gul",
+   "text": "Plants, or meat?",
+   "t": 342.504,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Ankylosaurus ate plants!",
+   "t": 345.953,
+   "dur": 1.458
+  },
+  {
+   "who": "gul",
+   "text": "Plant eaters are called herbivores!",
+   "t": 347.961,
+   "dur": 1.771
+  },
+  {
+   "who": "mishu",
+   "text": "And meat eaters are called carnivores!",
+   "t": 350.083,
+   "dur": 2.02
+  },
+  {
+   "who": "gul",
+   "text": "Dinosaurs came from eggs! Who will hatch?",
+   "t": 353.253,
+   "dur": 2.154
+  },
+  {
+   "who": "mishu",
+   "text": "Crack, crack! Who is inside?",
+   "t": 356.257,
+   "dur": 1.632
+  },
+  {
+   "who": "gul",
+   "text": "A baby Triceratops!",
+   "t": 360.938,
+   "dur": 1.388
+  },
+  {
+   "who": "gul",
+   "text": "Crack, crack! Who is inside?",
+   "t": 363.376,
+   "dur": 1.456
+  },
+  {
+   "who": "mishu",
+   "text": "A baby Stegosaurus!",
+   "t": 367.882,
+   "dur": 1.243
+  },
+  {
+   "who": "mishu",
+   "text": "Crack, crack! Who is inside?",
+   "t": 370.175,
+   "dur": 1.632
+  },
+  {
+   "who": "gul",
+   "text": "A baby Pteranodon! It wants to fly!",
+   "t": 374.857,
+   "dur": 2.139
+  },
+  {
+   "who": "gul",
+   "text": "Crack, crack! Who is inside?",
+   "t": 378.046,
+   "dur": 1.456
+  },
+  {
+   "who": "mishu",
+   "text": "A baby T-Rex! Hello, little one!",
+   "t": 382.552,
+   "dur": 2.086
+  },
+  {
+   "who": "mishu",
+   "text": "Look! Giant footprints in the ground!",
+   "t": 385.788,
+   "dur": 1.789
+  },
+  {
+   "who": "gul",
+   "text": "How many toes? Let's count!",
+   "t": 388.428,
+   "dur": 1.503
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 390.48,
+   "dur": 0.488
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 391.368,
+   "dur": 0.459
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 392.228,
+   "dur": 0.524
+  },
+  {
+   "who": "mishu",
+   "text": "Three big toes! Whose footprint is this?",
+   "t": 393.152,
+   "dur": 2.162
+  },
+  {
+   "who": "gul",
+   "text": "It's T-Rex! Stomp, stomp!",
+   "t": 397.764,
+   "dur": 1.521
+  },
+  {
+   "who": "gul",
+   "text": "Let's dig for dinosaur bones! Brush, brush, brush!",
+   "t": 400.436,
+   "dur": 3.015
+  },
+  {
+   "who": "mishu",
+   "text": "Brush away the sand, very gently.",
+   "t": 403.901,
+   "dur": 1.848
+  },
+  {
+   "who": "gul",
+   "text": "Wow! A dinosaur skeleton!",
+   "t": 407.299,
+   "dur": 1.495
+  },
+  {
+   "who": "mishu",
+   "text": "Dinosaurs lived a long, long time ago, before there were any people!",
+   "t": 409.244,
+   "dur": 3.85
+  },
+  {
+   "who": "gul",
+   "text": "Today we find their bones in rocks. They are called fossils!",
+   "t": 413.544,
+   "dur": 3.172
+  },
+  {
+   "who": "mishu",
+   "text": "People who dig up fossils are called paleontologists!",
+   "t": 417.166,
+   "dur": 3.136
+  },
+  {
+   "who": "gul",
+   "text": "Big kids, can you say paleontologist?",
+   "t": 420.552,
+   "dur": 2.03
+  },
+  {
+   "who": "mishu",
+   "text": "Wow, you're a dino expert!",
+   "t": 424.832,
+   "dur": 1.385
+  },
+  {
+   "who": "mishu",
+   "text": "Dinosaurs have letters too! Let's say the dino ABC!",
+   "t": 427.368,
+   "dur": 3.345
+  },
+  {
+   "who": "gul",
+   "text": "A is for Ankylosaurus!",
+   "t": 431.163,
+   "dur": 1.381
+  },
+  {
+   "who": "both",
+   "text": "A!",
+   "t": 432.893,
+   "dur": 0.438
+  },
+  {
+   "who": "mishu",
+   "text": "B is for Brachiosaurus!",
+   "t": 433.982,
+   "dur": 1.481
+  },
+  {
+   "who": "both",
+   "text": "B!",
+   "t": 435.813,
+   "dur": 0.455
+  },
+  {
+   "who": "gul",
+   "text": "D is for Diplodocus!",
+   "t": 436.917,
+   "dur": 1.414
+  },
+  {
+   "who": "both",
+   "text": "D!",
+   "t": 438.681,
+   "dur": 0.477
+  },
+  {
+   "who": "mishu",
+   "text": "P is for Pteranodon!",
+   "t": 439.808,
+   "dur": 1.357
+  },
+  {
+   "who": "both",
+   "text": "P!",
+   "t": 441.516,
+   "dur": 0.506
+  },
+  {
+   "who": "gul",
+   "text": "S is for Stegosaurus!",
+   "t": 442.671,
+   "dur": 1.414
+  },
+  {
+   "who": "both",
+   "text": "S!",
+   "t": 444.436,
+   "dur": 0.49
+  },
+  {
+   "who": "mishu",
+   "text": "T is for T-Rex!",
+   "t": 445.575,
+   "dur": 1.115
+  },
+  {
+   "who": "both",
+   "text": "T!",
+   "t": 447.04,
+   "dur": 0.484
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Here are some amazing dino facts!",
+   "t": 448.674,
+   "dur": 2.364
+  },
+  {
+   "who": "mishu",
+   "text": "Dinosaurs lived on Earth for more than one hundred and sixty million years!",
+   "t": 451.788,
+   "dur": 4.037
+  },
+  {
+   "who": "gul",
+   "text": "Wow!",
+   "t": 456.275,
+   "dur": 0.476
+  },
+  {
+   "who": "gul",
+   "text": "Birds are related to dinosaurs! A chicken is a tiny cousin of T-Rex!",
+   "t": 457.701,
+   "dur": 4.099
+  },
+  {
+   "who": "mishu",
+   "text": "Wow!",
+   "t": 462.25,
+   "dur": 0.456
+  },
+  {
+   "who": "mishu",
+   "text": "All dinosaurs hatched from eggs, just like baby birds!",
+   "t": 463.656,
+   "dur": 3.128
+  },
+  {
+   "who": "gul",
+   "text": "Wow!",
+   "t": 467.234,
+   "dur": 0.476
+  },
+  {
+   "who": "gul",
+   "text": "T-Rex had about sixty teeth, and some were as big as bananas!",
+   "t": 468.66,
+   "dur": 3.476
+  },
+  {
+   "who": "mishu",
+   "text": "Wow!",
+   "t": 472.586,
+   "dur": 0.456
+  },
+  {
+   "who": "mishu",
+   "text": "The biggest dinosaurs were heavier than ten elephants!",
+   "t": 473.992,
+   "dur": 3.064
+  },
+  {
+   "who": "gul",
+   "text": "Wow!",
+   "t": 477.506,
+   "dur": 0.476
+  },
+  {
+   "who": "mishu",
+   "text": "Dino quiz time! Are you ready?",
+   "t": 479.131,
+   "dur": 1.904
+  },
+  {
+   "who": "gul",
+   "text": "Which dinosaur had three horns?",
+   "t": 481.485,
+   "dur": 1.673
+  },
+  {
+   "who": "mishu",
+   "text": "Triceratops!",
+   "t": 485.908,
+   "dur": 0.961
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 487.219,
+   "dur": 0.608
+  },
+  {
+   "who": "mishu",
+   "text": "Who could fly?",
+   "t": 488.377,
+   "dur": 0.829
+  },
+  {
+   "who": "gul",
+   "text": "Pteranodon!",
+   "t": 491.957,
+   "dur": 0.792
+  },
+  {
+   "who": "mishu",
+   "text": "Well done!",
+   "t": 493.099,
+   "dur": 0.667
+  },
+  {
+   "who": "gul",
+   "text": "Who had a super long neck?",
+   "t": 494.316,
+   "dur": 1.318
+  },
+  {
+   "who": "mishu",
+   "text": "Brachiosaurus!",
+   "t": 498.384,
+   "dur": 0.972
+  },
+  {
+   "who": "gul",
+   "text": "Super!",
+   "t": 499.706,
+   "dur": 0.612
+  },
+  {
+   "who": "mishu",
+   "text": "Who had plates on its back?",
+   "t": 500.868,
+   "dur": 1.227
+  },
+  {
+   "who": "gul",
+   "text": "Stegosaurus!",
+   "t": 504.845,
+   "dur": 0.909
+  },
+  {
+   "who": "mishu",
+   "text": "Roar-some!",
+   "t": 506.104,
+   "dur": 0.687
+  },
+  {
+   "who": "gul",
+   "text": "Who was tiny, like a chicken?",
+   "t": 507.341,
+   "dur": 1.464
+  },
+  {
+   "who": "mishu",
+   "text": "Compsognathus!",
+   "t": 511.555,
+   "dur": 0.986
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 512.891,
+   "dur": 0.831
+  },
+  {
+   "who": "mishu",
+   "text": "What do we call dinosaur bones in rocks?",
+   "t": 514.272,
+   "dur": 2.072
+  },
+  {
+   "who": "gul",
+   "text": "Fossils!",
+   "t": 519.094,
+   "dur": 0.655
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! You got it!",
+   "t": 520.099,
+   "dur": 0.975
+  },
+  {
+   "who": "gul",
+   "text": "Who had a big sail on its back?",
+   "t": 521.624,
+   "dur": 1.45
+  },
+  {
+   "who": "mishu",
+   "text": "Spinosaurus!",
+   "t": 525.824,
+   "dur": 0.837
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 527.011,
+   "dur": 0.608
+  },
+  {
+   "who": "mishu",
+   "text": "Who had a club on its tail?",
+   "t": 528.169,
+   "dur": 1.263
+  },
+  {
+   "who": "gul",
+   "text": "Ankylosaurus!",
+   "t": 532.182,
+   "dur": 1.015
+  },
+  {
+   "who": "mishu",
+   "text": "Well done!",
+   "t": 533.547,
+   "dur": 0.667
+  },
+  {
+   "who": "mishu",
+   "text": "Which dinosaur is your favourite?",
+   "t": 534.764,
+   "dur": 1.571
+  },
+  {
+   "who": "gul",
+   "text": "Mine is T-Rex! ROAR!",
+   "t": 536.685,
+   "dur": 1.272
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, dino friends!",
+   "t": 538.307,
+   "dur": 1.365
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "valley",
+   "t0": 0.0,
+   "crack_t": 1.3,
+   "hatch_t": 2.0,
+   "title_t": 3.4,
+   "kids_t": 4.567,
+   "t1": 9.263
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 9.263,
+   "title": "MEET THE DINOSAURS!",
+   "t1": 11.621
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 11.621,
+   "key": "trex",
+   "label": "T-REX",
+   "num": 1,
+   "size": "big",
+   "fact": "Tyrannosaurus Rex, or T-Rex! It had big, strong teeth and tiny little arms!",
+   "roar_t": 12.621,
+   "label_t": 13.521,
+   "t1": 24.974
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 24.974,
+   "key": "triceratops",
+   "label": "TRICERATOPS",
+   "num": 2,
+   "size": "big",
+   "fact": "Triceratops had three horns on its face. Tri means three!",
+   "roar_t": 25.974,
+   "label_t": 26.874,
+   "t1": 37.231
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 37.231,
+   "key": "stegosaurus",
+   "label": "STEGOSAURUS",
+   "num": 3,
+   "size": "big",
+   "fact": "Stegosaurus had big plates on its back, and spikes on its tail!",
+   "roar_t": 38.231,
+   "label_t": 39.131,
+   "t1": 49.261
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 49.261,
+   "key": "brachiosaurus",
+   "label": "BRACHIOSAURUS",
+   "num": 4,
+   "size": "big",
+   "fact": "Brachiosaurus had a super long neck, to eat leaves from tall trees!",
+   "roar_t": 50.261,
+   "label_t": 51.161,
+   "t1": 61.144
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 61.144,
+   "key": "pteranodon",
+   "label": "PTERANODON",
+   "num": 5,
+   "size": "mid",
+   "fact": "Pteranodon could fly! It was a flying reptile, not really a dinosaur.",
+   "roar_t": 62.144,
+   "label_t": 63.044,
+   "t1": 73.707
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 73.707,
+   "key": "velociraptor",
+   "label": "VELOCIRAPTOR",
+   "num": 6,
+   "size": "mid",
+   "fact": "Velociraptor was very fast, and it had feathers, like a bird!",
+   "roar_t": 74.707,
+   "label_t": 75.607,
+   "t1": 85.557
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 85.557,
+   "key": "ankylosaurus",
+   "label": "ANKYLOSAURUS",
+   "num": 7,
+   "size": "big",
+   "fact": "Ankylosaurus had hard armour, like a tank, and a club on its tail!",
+   "roar_t": 86.557,
+   "label_t": 87.457,
+   "t1": 98.05
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 98.05,
+   "key": "spinosaurus",
+   "label": "SPINOSAURUS",
+   "num": 8,
+   "size": "big",
+   "fact": "Spinosaurus had a big sail on its back, and it loved to eat fish!",
+   "roar_t": 99.05,
+   "label_t": 99.95,
+   "t1": 110.253
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 110.253,
+   "key": "parasaurolophus",
+   "label": "PARASAUROLOPHUS",
+   "num": 9,
+   "size": "big",
+   "fact": "Parasaurolophus had a long crest on its head, to make loud honking sounds!",
+   "roar_t": 111.253,
+   "label_t": 112.153,
+   "t1": 122.732
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 122.732,
+   "key": "diplodocus",
+   "label": "DIPLODOCUS",
+   "num": 10,
+   "size": "big",
+   "fact": "Diplodocus had a long neck, and a very, very long tail!",
+   "roar_t": 123.732,
+   "label_t": 124.632,
+   "t1": 134.079
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 134.079,
+   "key": "pachycephalosaurus",
+   "label": "PACHYCEPHALOSAURUS",
+   "num": 11,
+   "size": "mid",
+   "fact": "Pachycephalosaurus had a hard, round dome on its head!",
+   "roar_t": 135.079,
+   "label_t": 135.979,
+   "t1": 145.872
+  },
+  {
+   "kind": "dino",
+   "bg": "valley",
+   "t0": 145.872,
+   "key": "compsognathus",
+   "label": "COMPSOGNATHUS",
+   "num": 12,
+   "size": "small",
+   "fact": "Compsognathus was a tiny dinosaur, about as big as a chicken!",
+   "roar_t": 146.872,
+   "label_t": 147.772,
+   "t1": 157.952
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 157.952,
+   "title": "DINO DANCE!",
+   "t1": 161.037
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 161.037,
+   "key": "trex",
+   "word": "STOMP!",
+   "fast": false,
+   "say_t": 161.037,
+   "t1": 166.065
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 166.065,
+   "key": "brachiosaurus",
+   "word": "STRETCH!",
+   "fast": false,
+   "say_t": 166.065,
+   "t1": 171.198
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 171.198,
+   "key": "pteranodon",
+   "word": "FLAP!",
+   "fast": false,
+   "say_t": 171.198,
+   "t1": 175.652
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 175.652,
+   "key": "stegosaurus",
+   "word": "SWISH!",
+   "fast": false,
+   "say_t": 175.652,
+   "t1": 180.262
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 180.262,
+   "key": "velociraptor",
+   "word": "RUN!",
+   "fast": false,
+   "say_t": 180.262,
+   "t1": 185.146
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 185.146,
+   "key": "trex",
+   "word": "ROAR!",
+   "fast": false,
+   "say_t": 185.146,
+   "t1": 189.683
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 189.683,
+   "title": "FASTER!",
+   "t1": 191.533
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 191.533,
+   "key": "trex",
+   "word": "STOMP!",
+   "fast": true,
+   "say_t": 191.533,
+   "t1": 195.562
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 195.562,
+   "key": "brachiosaurus",
+   "word": "STRETCH!",
+   "fast": true,
+   "say_t": 195.562,
+   "t1": 199.694
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 199.694,
+   "key": "pteranodon",
+   "word": "FLAP!",
+   "fast": true,
+   "say_t": 199.694,
+   "t1": 203.148
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 203.148,
+   "key": "stegosaurus",
+   "word": "SWISH!",
+   "fast": true,
+   "say_t": 203.148,
+   "t1": 206.758
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 206.758,
+   "key": "velociraptor",
+   "word": "RUN!",
+   "fast": true,
+   "say_t": 206.758,
+   "t1": 210.643
+  },
+  {
+   "kind": "dance",
+   "bg": "valley",
+   "t0": 210.643,
+   "key": "trex",
+   "word": "ROAR!",
+   "fast": true,
+   "say_t": 210.643,
+   "t1": 214.179
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 214.179,
+   "title": "WHO'S THAT SOUND?",
+   "t1": 218.172
+  },
+  {
+   "kind": "sound",
+   "bg": "valley",
+   "t0": 218.172,
+   "key": "trex",
+   "sound_t": 219.016,
+   "reveal_t": 222.416,
+   "t1": 224.499
+  },
+  {
+   "kind": "sound",
+   "bg": "valley",
+   "t0": 224.499,
+   "key": "parasaurolophus",
+   "sound_t": 225.346,
+   "reveal_t": 228.746,
+   "t1": 232.512
+  },
+  {
+   "kind": "sound",
+   "bg": "valley",
+   "t0": 232.512,
+   "key": "pteranodon",
+   "sound_t": 233.357,
+   "reveal_t": 236.757,
+   "t1": 239.568
+  },
+  {
+   "kind": "sound",
+   "bg": "valley",
+   "t0": 239.568,
+   "key": "compsognathus",
+   "sound_t": 240.414,
+   "reveal_t": 243.814,
+   "t1": 246.904
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 246.904,
+   "title": "COUNT THE DINOS!",
+   "t1": 249.432
+  },
+  {
+   "kind": "countd",
+   "bg": "valley",
+   "t0": 249.432,
+   "key": "triceratops",
+   "n": 3,
+   "count_t": [
+    252.192,
+    252.88,
+    253.539
+   ],
+   "answer_t": 254.264,
+   "t1": 255.909
+  },
+  {
+   "kind": "countd",
+   "bg": "valley",
+   "t0": 255.909,
+   "key": "stegosaurus",
+   "n": 5,
+   "count_t": [
+    258.586,
+    259.273,
+    259.933,
+    260.657,
+    261.392
+   ],
+   "answer_t": 262.168,
+   "t1": 263.91
+  },
+  {
+   "kind": "countd",
+   "bg": "valley",
+   "t0": 263.91,
+   "key": "compsognathus",
+   "n": 4,
+   "count_t": [
+    266.67,
+    267.358,
+    268.017,
+    268.741
+   ],
+   "answer_t": 269.477,
+   "t1": 271.109
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 271.109,
+   "title": "BIG OR SMALL?",
+   "t1": 274.632
+  },
+  {
+   "kind": "size",
+   "bg": "valley",
+   "t0": 274.632,
+   "big": "brachiosaurus",
+   "small": "compsognathus",
+   "flip": false,
+   "extra": "building",
+   "answer_t": 279.265,
+   "extra_t": 282.611,
+   "t1": 285.899
+  },
+  {
+   "kind": "size",
+   "bg": "valley",
+   "t0": 285.899,
+   "big": "trex",
+   "small": "velociraptor",
+   "flip": true,
+   "extra": null,
+   "answer_t": 290.286,
+   "t1": 295.038
+  },
+  {
+   "kind": "size",
+   "bg": "valley",
+   "t0": 295.038,
+   "big": "diplodocus",
+   "small": "pteranodon",
+   "flip": false,
+   "extra": null,
+   "answer_t": 299.154,
+   "t1": 302.086
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 302.086,
+   "title": "PLANTS OR MEAT?",
+   "t1": 305.42
+  },
+  {
+   "kind": "eat",
+   "bg": "valley",
+   "t0": 305.42,
+   "key": "triceratops",
+   "plant": true,
+   "answer_t": 309.47,
+   "t1": 311.483
+  },
+  {
+   "kind": "eat",
+   "bg": "valley",
+   "t0": 311.483,
+   "key": "trex",
+   "plant": false,
+   "answer_t": 315.573,
+   "t1": 317.152
+  },
+  {
+   "kind": "eat",
+   "bg": "valley",
+   "t0": 317.152,
+   "key": "brachiosaurus",
+   "plant": true,
+   "answer_t": 321.202,
+   "t1": 323.929
+  },
+  {
+   "kind": "eat",
+   "bg": "valley",
+   "t0": 323.929,
+   "key": "velociraptor",
+   "plant": false,
+   "answer_t": 328.019,
+   "t1": 330.005
+  },
+  {
+   "kind": "eat",
+   "bg": "valley",
+   "t0": 330.005,
+   "key": "stegosaurus",
+   "plant": true,
+   "answer_t": 334.055,
+   "t1": 335.995
+  },
+  {
+   "kind": "eat",
+   "bg": "valley",
+   "t0": 335.995,
+   "key": "spinosaurus",
+   "plant": false,
+   "answer_t": 340.085,
+   "t1": 341.904
+  },
+  {
+   "kind": "eat",
+   "bg": "valley",
+   "t0": 341.904,
+   "key": "ankylosaurus",
+   "plant": true,
+   "answer_t": 345.953,
+   "t1": 347.961
+  },
+  {
+   "kind": "eatsum",
+   "bg": "valley",
+   "t0": 347.961,
+   "t1": 352.753
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 352.753,
+   "title": "WHO WILL HATCH?",
+   "t1": 355.857
+  },
+  {
+   "kind": "egg",
+   "bg": "valley",
+   "t0": 355.857,
+   "key": "triceratops",
+   "colour": "#4FA3E0",
+   "crack_t": 360.338,
+   "hatch_t": 360.938,
+   "t1": 362.976
+  },
+  {
+   "kind": "egg",
+   "bg": "valley",
+   "t0": 362.976,
+   "key": "stegosaurus",
+   "colour": "#F2A65A",
+   "crack_t": 367.282,
+   "hatch_t": 367.882,
+   "t1": 369.775
+  },
+  {
+   "kind": "egg",
+   "bg": "valley",
+   "t0": 369.775,
+   "key": "pteranodon",
+   "colour": "#FF8FA3",
+   "crack_t": 374.257,
+   "hatch_t": 374.857,
+   "t1": 377.646
+  },
+  {
+   "kind": "egg",
+   "bg": "valley",
+   "t0": 377.646,
+   "key": "trex",
+   "colour": "#6CC24A",
+   "crack_t": 381.952,
+   "hatch_t": 382.552,
+   "t1": 385.288
+  },
+  {
+   "kind": "title",
+   "bg": "dig",
+   "t0": 385.288,
+   "title": "DINO FOOTPRINTS!",
+   "t1": 388.028
+  },
+  {
+   "kind": "foot",
+   "bg": "dig",
+   "t0": 388.028,
+   "count_t": [
+    390.48,
+    391.368,
+    392.228
+   ],
+   "reveal_t": 397.764,
+   "t1": 399.936
+  },
+  {
+   "kind": "title",
+   "bg": "dig",
+   "t0": 399.936,
+   "title": "FOSSIL DIG!",
+   "t1": 403.901
+  },
+  {
+   "kind": "dig",
+   "bg": "dig",
+   "t0": 403.901,
+   "brush_t": 403.901,
+   "reveal_t": 407.299,
+   "word_t": 417.166,
+   "t1": 426.868
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 426.868,
+   "title": "DINO ABC!",
+   "t1": 431.163
+  },
+  {
+   "kind": "abc",
+   "bg": "valley",
+   "t0": 431.163,
+   "letter": "A",
+   "key": "ankylosaurus",
+   "say_t": 431.163,
+   "t1": 433.982
+  },
+  {
+   "kind": "abc",
+   "bg": "valley",
+   "t0": 433.982,
+   "letter": "B",
+   "key": "brachiosaurus",
+   "say_t": 433.982,
+   "t1": 436.917
+  },
+  {
+   "kind": "abc",
+   "bg": "valley",
+   "t0": 436.917,
+   "letter": "D",
+   "key": "diplodocus",
+   "say_t": 436.917,
+   "t1": 439.808
+  },
+  {
+   "kind": "abc",
+   "bg": "valley",
+   "t0": 439.808,
+   "letter": "P",
+   "key": "pteranodon",
+   "say_t": 439.808,
+   "t1": 442.671
+  },
+  {
+   "kind": "abc",
+   "bg": "valley",
+   "t0": 442.671,
+   "letter": "S",
+   "key": "stegosaurus",
+   "say_t": 442.671,
+   "t1": 445.575
+  },
+  {
+   "kind": "abc",
+   "bg": "valley",
+   "t0": 445.575,
+   "letter": "T",
+   "key": "trex",
+   "say_t": 445.575,
+   "t1": 448.174
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 448.174,
+   "title": "AMAZING DINO FACTS!",
+   "t1": 451.488
+  },
+  {
+   "kind": "fact",
+   "bg": "valley",
+   "t0": 451.488,
+   "vis": "volcano",
+   "num": 1,
+   "say_t": 451.788,
+   "t1": 457.401
+  },
+  {
+   "kind": "fact",
+   "bg": "valley",
+   "t0": 457.401,
+   "vis": "bird",
+   "num": 2,
+   "say_t": 457.701,
+   "t1": 463.356
+  },
+  {
+   "kind": "fact",
+   "bg": "valley",
+   "t0": 463.356,
+   "vis": "egg",
+   "num": 3,
+   "say_t": 463.656,
+   "t1": 468.36
+  },
+  {
+   "kind": "fact",
+   "bg": "valley",
+   "t0": 468.36,
+   "vis": "trex",
+   "num": 4,
+   "say_t": 468.66,
+   "t1": 473.692
+  },
+  {
+   "kind": "fact",
+   "bg": "valley",
+   "t0": 473.692,
+   "vis": "brachiosaurus",
+   "num": 5,
+   "say_t": 473.992,
+   "t1": 478.631
+  },
+  {
+   "kind": "title",
+   "bg": "valley",
+   "t0": 478.631,
+   "title": "DINO QUIZ!",
+   "t1": 481.485
+  },
+  {
+   "kind": "quiz",
+   "bg": "valley",
+   "t0": 481.485,
+   "key": "triceratops",
+   "q": "WHICH DINOSAUR HAD THREE HORNS?",
+   "answer_t": 485.908,
+   "t1": 488.377
+  },
+  {
+   "kind": "quiz",
+   "bg": "valley",
+   "t0": 488.377,
+   "key": "pteranodon",
+   "q": "WHO COULD FLY?",
+   "answer_t": 491.957,
+   "t1": 494.316
+  },
+  {
+   "kind": "quiz",
+   "bg": "valley",
+   "t0": 494.316,
+   "key": "brachiosaurus",
+   "q": "WHO HAD A SUPER LONG NECK?",
+   "answer_t": 498.384,
+   "t1": 500.868
+  },
+  {
+   "kind": "quiz",
+   "bg": "valley",
+   "t0": 500.868,
+   "key": "stegosaurus",
+   "q": "WHO HAD PLATES ON ITS BACK?",
+   "answer_t": 504.845,
+   "t1": 507.341
+  },
+  {
+   "kind": "quiz",
+   "bg": "valley",
+   "t0": 507.341,
+   "key": "compsognathus",
+   "q": "WHO WAS TINY, LIKE A CHICKEN?",
+   "answer_t": 511.555,
+   "t1": 514.272
+  },
+  {
+   "kind": "quiz",
+   "bg": "valley",
+   "t0": 514.272,
+   "key": "fossil",
+   "q": "WHAT DO WE CALL DINOSAUR BONES IN ROCKS?",
+   "answer_t": 519.094,
+   "t1": 521.624
+  },
+  {
+   "kind": "quiz",
+   "bg": "valley",
+   "t0": 521.624,
+   "key": "spinosaurus",
+   "q": "WHO HAD A BIG SAIL ON ITS BACK?",
+   "answer_t": 525.824,
+   "t1": 528.169
+  },
+  {
+   "kind": "quiz",
+   "bg": "valley",
+   "t0": 528.169,
+   "key": "ankylosaurus",
+   "q": "WHO HAD A CLUB ON ITS TAIL?",
+   "answer_t": 532.182,
+   "t1": 534.764
+  },
+  {
+   "kind": "outro",
+   "bg": "valley",
+   "t0": 534.764,
+   "bye_t": 538.307,
+   "t1": 541.622
+  }
+ ],
+ "prompts": [
+  [
+   21.841,
+   23.641
+  ],
+  [
+   33.983,
+   35.783
+  ],
+  [
+   46.34,
+   48.14
+  ],
+  [
+   58.117,
+   59.917
+  ],
+  [
+   70.76,
+   72.56
+  ],
+  [
+   82.516,
+   84.316
+  ],
+  [
+   94.917,
+   96.717
+  ],
+  [
+   107.004,
+   108.804
+  ],
+  [
+   119.811,
+   121.611
+  ],
+  [
+   131.052,
+   132.852
+  ],
+  [
+   142.925,
+   144.725
+  ],
+  [
+   154.911,
+   156.711
+  ],
+  [
+   163.665,
+   166.065
+  ],
+  [
+   168.798,
+   171.198
+  ],
+  [
+   173.252,
+   175.652
+  ],
+  [
+   177.862,
+   180.262
+  ],
+  [
+   182.746,
+   185.146
+  ],
+  [
+   187.283,
+   189.683
+  ],
+  [
+   194.162,
+   195.562
+  ],
+  [
+   198.294,
+   199.694
+  ],
+  [
+   201.748,
+   203.148
+  ],
+  [
+   205.358,
+   206.758
+  ],
+  [
+   209.243,
+   210.643
+  ],
+  [
+   212.779,
+   214.179
+  ],
+  [
+   220.416,
+   222.416
+  ],
+  [
+   226.746,
+   228.746
+  ],
+  [
+   234.757,
+   236.757
+  ],
+  [
+   241.814,
+   243.814
+  ],
+  [
+   250.392,
+   252.192
+  ],
+  [
+   256.786,
+   258.586
+  ],
+  [
+   264.87,
+   266.67
+  ],
+  [
+   276.865,
+   279.265
+  ],
+  [
+   287.886,
+   290.286
+  ],
+  [
+   296.754,
+   299.154
+  ],
+  [
+   307.17,
+   309.47
+  ],
+  [
+   313.273,
+   315.573
+  ],
+  [
+   318.902,
+   321.202
+  ],
+  [
+   325.719,
+   328.019
+  ],
+  [
+   331.755,
+   334.055
+  ],
+  [
+   337.785,
+   340.085
+  ],
+  [
+   343.653,
+   345.953
+  ],
+  [
+   358.138,
+   360.338
+  ],
+  [
+   365.082,
+   367.282
+  ],
+  [
+   372.057,
+   374.257
+  ],
+  [
+   379.752,
+   381.952
+  ],
+  [
+   390.18,
+   390.48
+  ],
+  [
+   395.564,
+   397.764
+  ],
+  [
+   422.832,
+   424.832
+  ],
+  [
+   483.408,
+   485.908
+  ],
+  [
+   489.457,
+   491.957
+  ],
+  [
+   495.884,
+   498.384
+  ],
+  [
+   502.345,
+   504.845
+  ],
+  [
+   509.055,
+   511.555
+  ],
+  [
+   516.594,
+   519.094
+  ],
+  [
+   523.324,
+   525.824
+  ],
+  [
+   529.682,
+   532.182
+  ]
+ ],
+ "stars": [
+  23.641,
+  35.783,
+  48.14,
+  59.917,
+  72.56,
+  84.316,
+  96.717,
+  108.804,
+  121.611,
+  132.852,
+  144.725,
+  156.711,
+  255.909,
+  263.91,
+  271.109,
+  285.899,
+  295.038,
+  302.086,
+  424.832,
+  487.219,
+  493.099,
+  499.706,
+  506.104,
+  512.891,
+  520.099,
+  527.011,
+  533.547
+ ],
+ "total": 541.62
+}
