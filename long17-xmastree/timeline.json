@@ -1,0 +1,2779 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "It's Christmas time!",
+   "t": 1.4,
+   "dur": 1.141
+  },
+  {
+   "who": "mishu",
+   "text": "Let's decorate the Christmas tree together!",
+   "t": 2.891,
+   "dur": 1.989
+  },
+  {
+   "who": "gul",
+   "text": "Count, colours, and shapes! Let's go!",
+   "t": 5.23,
+   "dur": 1.865
+  },
+  {
+   "who": "gul",
+   "text": "Here comes our Christmas tree! Heave, ho!",
+   "t": 7.644,
+   "dur": 2.119
+  },
+  {
+   "who": "mishu",
+   "text": "It's so big and green! Now it needs decorations!",
+   "t": 10.114,
+   "dur": 2.939
+  },
+  {
+   "who": "gul",
+   "text": "Let's decorate, and count!",
+   "t": 14.203,
+   "dur": 1.354
+  },
+  {
+   "who": "mishu",
+   "text": "First, the twinkly lights! Let's count the colours!",
+   "t": 16.007,
+   "dur": 2.771
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 19.028,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 19.785,
+   "dur": 0.465
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 20.519,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 21.328,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 22.128,
+   "dur": 0.573
+  },
+  {
+   "who": "gul",
+   "text": "Five lights! Red, orange, yellow, green, blue!",
+   "t": 22.971,
+   "dur": 2.301
+  },
+  {
+   "who": "gul",
+   "text": "Now, shiny red balls! Count them with us!",
+   "t": 25.921,
+   "dur": 2.06
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 28.231,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 28.988,
+   "dur": 0.465
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 29.723,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 30.531,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 31.331,
+   "dur": 0.573
+  },
+  {
+   "who": "mishu",
+   "text": "Five red balls! They're round, like circles!",
+   "t": 32.174,
+   "dur": 2.489
+  },
+  {
+   "who": "mishu",
+   "text": "Next, golden bells! Ding, ding, ding!",
+   "t": 35.313,
+   "dur": 2.49
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 38.053,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 38.81,
+   "dur": 0.465
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 39.545,
+   "dur": 0.538
+  },
+  {
+   "who": "gul",
+   "text": "Three golden bells! Jingle, jingle!",
+   "t": 40.353,
+   "dur": 1.979
+  },
+  {
+   "who": "gul",
+   "text": "Candy canes! Red and white stripes!",
+   "t": 42.982,
+   "dur": 1.872
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 45.104,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 45.861,
+   "dur": 0.465
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 46.596,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 47.404,
+   "dur": 0.53
+  },
+  {
+   "who": "mishu",
+   "text": "Four candy canes! They look like the letter J!",
+   "t": 48.204,
+   "dur": 2.63
+  },
+  {
+   "who": "mishu",
+   "text": "Two gingerbread friends!",
+   "t": 51.484,
+   "dur": 1.326
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 53.06,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 53.817,
+   "dur": 0.465
+  },
+  {
+   "who": "gul",
+   "text": "Two gingerbread friends! Run, run, as fast as you can!",
+   "t": 54.551,
+   "dur": 3.2
+  },
+  {
+   "who": "gul",
+   "text": "And sparkly snowflakes!",
+   "t": 58.401,
+   "dur": 1.444
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 60.095,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 60.852,
+   "dur": 0.465
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 61.586,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 62.395,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 63.195,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 64.038,
+   "dur": 0.581
+  },
+  {
+   "who": "mishu",
+   "text": "Six snowflakes! Every snowflake is different!",
+   "t": 64.889,
+   "dur": 2.663
+  },
+  {
+   "who": "mishu",
+   "text": "Now, the most important part! The star on top!",
+   "t": 68.202,
+   "dur": 2.719
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 71.171,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 72.109,
+   "dur": 0.465
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 72.974,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Wow! Our Christmas tree is beautiful!",
+   "t": 73.86,
+   "dur": 1.922
+  },
+  {
+   "who": "gul",
+   "text": "Can you find shapes on our tree?",
+   "t": 77.233,
+   "dur": 1.637
+  },
+  {
+   "who": "mishu",
+   "text": "The red ball is a circle!",
+   "t": 79.319,
+   "dur": 1.403
+  },
+  {
+   "who": "gul",
+   "text": "The tree is a big triangle!",
+   "t": 81.372,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "The star on top is a star shape!",
+   "t": 83.633,
+   "dur": 1.703
+  },
+  {
+   "who": "gul",
+   "text": "The present is a rectangle!",
+   "t": 85.987,
+   "dur": 1.643
+  },
+  {
+   "who": "mishu",
+   "text": "And look, a heart! We love Christmas!",
+   "t": 88.28,
+   "dur": 1.94
+  },
+  {
+   "who": "mishu",
+   "text": "Christmas is so colourful! What colour is it?",
+   "t": 91.37,
+   "dur": 2.588
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 94.408,
+   "dur": 0.993
+  },
+  {
+   "who": "mishu",
+   "text": "The stocking is red!",
+   "t": 97.251,
+   "dur": 1.15
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 98.95,
+   "dur": 1.042
+  },
+  {
+   "who": "gul",
+   "text": "The tree is green!",
+   "t": 101.842,
+   "dur": 1.123
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 103.515,
+   "dur": 0.993
+  },
+  {
+   "who": "mishu",
+   "text": "The bell is gold!",
+   "t": 106.358,
+   "dur": 0.982
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 107.889,
+   "dur": 1.042
+  },
+  {
+   "who": "gul",
+   "text": "The snowflake is white!",
+   "t": 110.781,
+   "dur": 1.291
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 112.622,
+   "dur": 0.993
+  },
+  {
+   "who": "mishu",
+   "text": "The gingerbread man is brown!",
+   "t": 115.465,
+   "dur": 1.476
+  },
+  {
+   "who": "gul",
+   "text": "Presents under the tree! Let's guess what's inside!",
+   "t": 117.991,
+   "dur": 2.527
+  },
+  {
+   "who": "mishu",
+   "text": "It's round, and it bounces!",
+   "t": 120.967,
+   "dur": 1.462
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside?",
+   "t": 122.679,
+   "dur": 0.902
+  },
+  {
+   "who": "gul",
+   "text": "A ball!",
+   "t": 125.631,
+   "dur": 0.576
+  },
+  {
+   "who": "gul",
+   "text": "It's soft and cuddly!",
+   "t": 126.856,
+   "dur": 1.303
+  },
+  {
+   "who": "gul",
+   "text": "What's inside?",
+   "t": 128.41,
+   "dur": 0.945
+  },
+  {
+   "who": "mishu",
+   "text": "A teddy bear!",
+   "t": 131.405,
+   "dur": 0.801
+  },
+  {
+   "who": "mishu",
+   "text": "It has four wheels! Vroom!",
+   "t": 132.856,
+   "dur": 1.593
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside?",
+   "t": 134.7,
+   "dur": 0.902
+  },
+  {
+   "who": "gul",
+   "text": "A toy car!",
+   "t": 137.651,
+   "dur": 0.841
+  },
+  {
+   "who": "gul",
+   "text": "You can draw with them!",
+   "t": 139.142,
+   "dur": 1.154
+  },
+  {
+   "who": "gul",
+   "text": "What's inside?",
+   "t": 140.546,
+   "dur": 0.945
+  },
+  {
+   "who": "mishu",
+   "text": "Crayons!",
+   "t": 143.541,
+   "dur": 0.709
+  },
+  {
+   "who": "mishu",
+   "text": "Let's hang a stocking for everyone in the family!",
+   "t": 145.4,
+   "dur": 2.262
+  },
+  {
+   "who": "gul",
+   "text": "One for Gul!",
+   "t": 148.111,
+   "dur": 0.848
+  },
+  {
+   "who": "mishu",
+   "text": "One for Mishu!",
+   "t": 149.31,
+   "dur": 0.92
+  },
+  {
+   "who": "gul",
+   "text": "One for Mama!",
+   "t": 150.579,
+   "dur": 0.899
+  },
+  {
+   "who": "mishu",
+   "text": "One for Papa!",
+   "t": 151.829,
+   "dur": 0.93
+  },
+  {
+   "who": "both",
+   "text": "Four stockings! One, two, three, four!",
+   "t": 153.109,
+   "dur": 2.288
+  },
+  {
+   "who": "gul",
+   "text": "Let's learn Christmas words! Say them with us!",
+   "t": 156.547,
+   "dur": 2.293
+  },
+  {
+   "who": "mishu",
+   "text": "Christmas tree!",
+   "t": 159.29,
+   "dur": 0.874
+  },
+  {
+   "who": "gul",
+   "text": "Star!",
+   "t": 161.514,
+   "dur": 0.591
+  },
+  {
+   "who": "mishu",
+   "text": "Present!",
+   "t": 163.455,
+   "dur": 0.575
+  },
+  {
+   "who": "gul",
+   "text": "Stocking!",
+   "t": 165.38,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "Candy cane!",
+   "t": 167.418,
+   "dur": 0.814
+  },
+  {
+   "who": "gul",
+   "text": "Bell!",
+   "t": 169.581,
+   "dur": 0.483
+  },
+  {
+   "who": "mishu",
+   "text": "Gingerbread man!",
+   "t": 171.415,
+   "dur": 0.968
+  },
+  {
+   "who": "gul",
+   "text": "Snowman!",
+   "t": 173.733,
+   "dur": 0.728
+  },
+  {
+   "who": "mishu",
+   "text": "Santa hat!",
+   "t": 175.81,
+   "dur": 0.842
+  },
+  {
+   "who": "gul",
+   "text": "Snowflake!",
+   "t": 178.002,
+   "dur": 0.76
+  },
+  {
+   "who": "mishu",
+   "text": "So many presents under the tree! Let's count them!",
+   "t": 180.112,
+   "dur": 2.704
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 183.066,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 183.853,
+   "dur": 0.465
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 184.617,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 185.456,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 186.286,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 187.159,
+   "dur": 0.581
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 188.04,
+   "dur": 0.613
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 188.952,
+   "dur": 0.502
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 189.754,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 190.585,
+   "dur": 0.505
+  },
+  {
+   "who": "gul",
+   "text": "Ten presents! Wow!",
+   "t": 191.389,
+   "dur": 1.154
+  },
+  {
+   "who": "mishu",
+   "text": "Let's bake gingerbread cookies!",
+   "t": 193.693,
+   "dur": 1.658
+  },
+  {
+   "who": "gul",
+   "text": "First, mix flour, sugar, and spices. Stir, stir, stir!",
+   "t": 195.801,
+   "dur": 3.377
+  },
+  {
+   "who": "mishu",
+   "text": "Roll the dough, nice and flat.",
+   "t": 199.828,
+   "dur": 1.761
+  },
+  {
+   "who": "gul",
+   "text": "Cut out gingerbread shapes!",
+   "t": 202.24,
+   "dur": 1.412
+  },
+  {
+   "who": "mishu",
+   "text": "Bake them in the oven. Ask a grown-up to help!",
+   "t": 204.302,
+   "dur": 2.53
+  },
+  {
+   "who": "gul",
+   "text": "Decorate with icing and sweets! Yummy!",
+   "t": 207.482,
+   "dur": 2.061
+  },
+  {
+   "who": "gul",
+   "text": "Let's build a snowman, step by step!",
+   "t": 210.692,
+   "dur": 1.891
+  },
+  {
+   "who": "mishu",
+   "text": "First, a big snowball for the bottom!",
+   "t": 213.033,
+   "dur": 1.979
+  },
+  {
+   "who": "gul",
+   "text": "A middle snowball on top!",
+   "t": 215.562,
+   "dur": 1.45
+  },
+  {
+   "who": "mishu",
+   "text": "A small snowball for the head!",
+   "t": 217.562,
+   "dur": 1.502
+  },
+  {
+   "who": "gul",
+   "text": "Two eyes, and a carrot nose!",
+   "t": 219.614,
+   "dur": 1.556
+  },
+  {
+   "who": "mishu",
+   "text": "Stick arms! Hello, snowman!",
+   "t": 221.721,
+   "dur": 1.642
+  },
+  {
+   "who": "gul",
+   "text": "And a warm Santa hat!",
+   "t": 223.912,
+   "dur": 1.323
+  },
+  {
+   "who": "both",
+   "text": "Our snowman is ready! Brrr!",
+   "t": 225.785,
+   "dur": 2.144
+  },
+  {
+   "who": "mishu",
+   "text": "Let's wrap a present for someone we love!",
+   "t": 229.079,
+   "dur": 1.916
+  },
+  {
+   "who": "gul",
+   "text": "Put the toy in the box.",
+   "t": 231.445,
+   "dur": 1.25
+  },
+  {
+   "who": "mishu",
+   "text": "Wrap it in shiny paper.",
+   "t": 233.245,
+   "dur": 1.388
+  },
+  {
+   "who": "gul",
+   "text": "Tape it, so it stays closed.",
+   "t": 235.183,
+   "dur": 1.564
+  },
+  {
+   "who": "mishu",
+   "text": "Add a big bow on top!",
+   "t": 237.297,
+   "dur": 1.257
+  },
+  {
+   "who": "gul",
+   "text": "Write a name tag: To Grandma, with love!",
+   "t": 239.104,
+   "dur": 2.348
+  },
+  {
+   "who": "both",
+   "text": "Ta-da! A beautiful present!",
+   "t": 242.003,
+   "dur": 1.572
+  },
+  {
+   "who": "gul",
+   "text": "Is it a Christmas thing? Yes, or no?",
+   "t": 244.725,
+   "dur": 2.008
+  },
+  {
+   "who": "mishu",
+   "text": "A jingle bell?",
+   "t": 247.183,
+   "dur": 0.902
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Christmas!",
+   "t": 249.935,
+   "dur": 0.889
+  },
+  {
+   "who": "gul",
+   "text": "A hot sunny beach?",
+   "t": 251.374,
+   "dur": 1.139
+  },
+  {
+   "who": "mishu",
+   "text": "No! Christmas is in winter!",
+   "t": 254.363,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "A snowman?",
+   "t": 256.524,
+   "dur": 0.717
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Christmas!",
+   "t": 259.091,
+   "dur": 0.889
+  },
+  {
+   "who": "gul",
+   "text": "An ice cream cone?",
+   "t": 260.53,
+   "dur": 1.134
+  },
+  {
+   "who": "mishu",
+   "text": "No, that's for summer!",
+   "t": 263.515,
+   "dur": 1.165
+  },
+  {
+   "who": "mishu",
+   "text": "A candy cane?",
+   "t": 265.229,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Christmas!",
+   "t": 267.972,
+   "dur": 0.889
+  },
+  {
+   "who": "gul",
+   "text": "A rain umbrella?",
+   "t": 269.411,
+   "dur": 1.051
+  },
+  {
+   "who": "mishu",
+   "text": "No, not Christmas!",
+   "t": 272.312,
+   "dur": 1.117
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Look at the pattern. What comes next?",
+   "t": 274.479,
+   "dur": 2.265
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 277.194,
+   "dur": 1.007
+  },
+  {
+   "who": "gul",
+   "text": "Green!",
+   "t": 280.451,
+   "dur": 0.559
+  },
+  {
+   "who": "gul",
+   "text": "What comes next?",
+   "t": 281.56,
+   "dur": 0.99
+  },
+  {
+   "who": "mishu",
+   "text": "A bell!",
+   "t": 284.8,
+   "dur": 0.555
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 285.905,
+   "dur": 1.007
+  },
+  {
+   "who": "gul",
+   "text": "Gold!",
+   "t": 289.162,
+   "dur": 0.591
+  },
+  {
+   "who": "gul",
+   "text": "Which ball is bigger?",
+   "t": 290.303,
+   "dur": 1.198
+  },
+  {
+   "who": "mishu",
+   "text": "This one!",
+   "t": 293.351,
+   "dur": 0.664
+  },
+  {
+   "who": "mishu",
+   "text": "Which present is smaller?",
+   "t": 294.566,
+   "dur": 1.283
+  },
+  {
+   "who": "gul",
+   "text": "This one!",
+   "t": 297.699,
+   "dur": 0.675
+  },
+  {
+   "who": "gul",
+   "text": "Which star is bigger?",
+   "t": 298.924,
+   "dur": 1.165
+  },
+  {
+   "who": "mishu",
+   "text": "This one!",
+   "t": 301.938,
+   "dur": 0.664
+  },
+  {
+   "who": "mishu",
+   "text": "Listen! What makes this Christmas sound?",
+   "t": 303.653,
+   "dur": 1.917
+  },
+  {
+   "who": "gul",
+   "text": "What is it?",
+   "t": 307.92,
+   "dur": 0.722
+  },
+  {
+   "who": "mishu",
+   "text": "Jingle bells!",
+   "t": 310.491,
+   "dur": 0.88
+  },
+  {
+   "who": "mishu",
+   "text": "What is it?",
+   "t": 313.822,
+   "dur": 0.675
+  },
+  {
+   "who": "gul",
+   "text": "The fire! Crackle, crackle!",
+   "t": 316.347,
+   "dur": 1.479
+  },
+  {
+   "who": "gul",
+   "text": "What is it?",
+   "t": 320.276,
+   "dur": 0.722
+  },
+  {
+   "who": "mishu",
+   "text": "Wrapping paper! Rip, rip!",
+   "t": 322.848,
+   "dur": 1.696
+  },
+  {
+   "who": "mishu",
+   "text": "What is it?",
+   "t": 326.994,
+   "dur": 0.675
+  },
+  {
+   "who": "gul",
+   "text": "Ho, ho, ho! It's Santa!",
+   "t": 329.519,
+   "dur": 1.381
+  },
+  {
+   "who": "gul",
+   "text": "Christmas is about love, and being kind!",
+   "t": 331.95,
+   "dur": 2.065
+  },
+  {
+   "who": "mishu",
+   "text": "Make a present for someone you love!",
+   "t": 334.465,
+   "dur": 1.694
+  },
+  {
+   "who": "gul",
+   "text": "Make a Christmas card for Grandma!",
+   "t": 336.809,
+   "dur": 1.719
+  },
+  {
+   "who": "mishu",
+   "text": "Help your family decorate the tree!",
+   "t": 339.178,
+   "dur": 1.783
+  },
+  {
+   "who": "mishu",
+   "text": "How does Christmas make you feel?",
+   "t": 342.112,
+   "dur": 1.593
+  },
+  {
+   "who": "gul",
+   "text": "Presents! I feel so excited!",
+   "t": 344.155,
+   "dur": 1.565
+  },
+  {
+   "who": "mishu",
+   "text": "A new teddy? Wow! I feel surprised!",
+   "t": 347.47,
+   "dur": 2.375
+  },
+  {
+   "who": "gul",
+   "text": "Christmas with my family makes me feel happy!",
+   "t": 351.595,
+   "dur": 2.379
+  },
+  {
+   "who": "mishu",
+   "text": "I made a card for Grandma! I feel proud!",
+   "t": 355.723,
+   "dur": 2.337
+  },
+  {
+   "who": "gul",
+   "text": "Something is hiding under a present! Can you find it?",
+   "t": 360.31,
+   "dur": 2.5
+  },
+  {
+   "who": "mishu",
+   "text": "Which present is it under?",
+   "t": 363.26,
+   "dur": 1.366
+  },
+  {
+   "who": "gul",
+   "text": "The star is under the blue present!",
+   "t": 366.876,
+   "dur": 1.689
+  },
+  {
+   "who": "gul",
+   "text": "Which present is it under?",
+   "t": 369.116,
+   "dur": 1.446
+  },
+  {
+   "who": "mishu",
+   "text": "The bell is under the green present!",
+   "t": 372.811,
+   "dur": 1.695
+  },
+  {
+   "who": "mishu",
+   "text": "Which present is it under?",
+   "t": 375.056,
+   "dur": 1.366
+  },
+  {
+   "who": "gul",
+   "text": "The candy cane is under the pink present!",
+   "t": 378.672,
+   "dur": 2.076
+  },
+  {
+   "who": "gul",
+   "text": "Which present is it under?",
+   "t": 381.298,
+   "dur": 1.446
+  },
+  {
+   "who": "mishu",
+   "text": "Gingerbread man, found you!",
+   "t": 384.994,
+   "dur": 1.422
+  },
+  {
+   "who": "both",
+   "text": "Jingle, jingle, little bell,",
+   "t": 386.966,
+   "dur": 1.678
+  },
+  {
+   "who": "both",
+   "text": "lights so bright, and snow so white!",
+   "t": 388.995,
+   "dur": 1.873
+  },
+  {
+   "who": "both",
+   "text": "Presents, cookies, stockings too,",
+   "t": 391.218,
+   "dur": 1.917
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas, me and you!",
+   "t": 393.484,
+   "dur": 1.363
+  },
+  {
+   "who": "both",
+   "text": "Jingle, jingle, little bell,",
+   "t": 395.197,
+   "dur": 1.678
+  },
+  {
+   "who": "both",
+   "text": "lights so bright, and snow so white!",
+   "t": 397.225,
+   "dur": 1.873
+  },
+  {
+   "who": "both",
+   "text": "Presents, cookies, stockings too,",
+   "t": 399.448,
+   "dur": 1.917
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas, me and you!",
+   "t": 401.715,
+   "dur": 1.363
+  },
+  {
+   "who": "gul",
+   "text": "Stand up! Let's do the Christmas dance!",
+   "t": 404.228,
+   "dur": 1.761
+  },
+  {
+   "who": "both",
+   "text": "Stand tall like a Christmas tree!",
+   "t": 406.439,
+   "dur": 1.744
+  },
+  {
+   "who": "both",
+   "text": "Twinkle, twinkle, little lights!",
+   "t": 409.933,
+   "dur": 1.712
+  },
+  {
+   "who": "both",
+   "text": "Jingle like a bell!",
+   "t": 413.396,
+   "dur": 1.079
+  },
+  {
+   "who": "both",
+   "text": "Spin like a snowflake!",
+   "t": 416.225,
+   "dur": 1.255
+  },
+  {
+   "who": "both",
+   "text": "Jump for presents!",
+   "t": 419.23,
+   "dur": 1.068
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas! Hooray!",
+   "t": 422.048,
+   "dur": 1.325
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 425.123,
+   "dur": 1.03
+  },
+  {
+   "who": "both",
+   "text": "Stand tall like a Christmas tree!",
+   "t": 426.503,
+   "dur": 1.744
+  },
+  {
+   "who": "both",
+   "text": "Twinkle, twinkle, little lights!",
+   "t": 429.298,
+   "dur": 1.712
+  },
+  {
+   "who": "both",
+   "text": "Jingle like a bell!",
+   "t": 432.06,
+   "dur": 1.079
+  },
+  {
+   "who": "both",
+   "text": "Spin like a snowflake!",
+   "t": 434.189,
+   "dur": 1.255
+  },
+  {
+   "who": "both",
+   "text": "Jump for presents!",
+   "t": 436.494,
+   "dur": 1.068
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas! Hooray!",
+   "t": 438.612,
+   "dur": 1.325
+  },
+  {
+   "who": "mishu",
+   "text": "Quiz time! Are you ready?",
+   "t": 441.487,
+   "dur": 1.414
+  },
+  {
+   "who": "gul",
+   "text": "What goes on top of the tree?",
+   "t": 443.351,
+   "dur": 1.503
+  },
+  {
+   "who": "mishu",
+   "text": "A star!",
+   "t": 447.504,
+   "dur": 0.643
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is a Christmas tree?",
+   "t": 448.797,
+   "dur": 1.574
+  },
+  {
+   "who": "gul",
+   "text": "Green!",
+   "t": 453.022,
+   "dur": 0.559
+  },
+  {
+   "who": "gul",
+   "text": "What shape is a Christmas ball?",
+   "t": 454.231,
+   "dur": 1.554
+  },
+  {
+   "who": "mishu",
+   "text": "A circle!",
+   "t": 458.435,
+   "dur": 0.711
+  },
+  {
+   "who": "mishu",
+   "text": "How many golden bells did we hang?",
+   "t": 459.797,
+   "dur": 1.784
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 464.231,
+   "dur": 0.538
+  },
+  {
+   "who": "gul",
+   "text": "What shape is the tree?",
+   "t": 465.419,
+   "dur": 1.268
+  },
+  {
+   "who": "mishu",
+   "text": "A triangle!",
+   "t": 469.337,
+   "dur": 0.811
+  },
+  {
+   "who": "mishu",
+   "text": "What has red and white stripes?",
+   "t": 470.799,
+   "dur": 1.478
+  },
+  {
+   "who": "gul",
+   "text": "A candy cane!",
+   "t": 474.927,
+   "dur": 1.003
+  },
+  {
+   "who": "gul",
+   "text": "What do we hang by the fireplace?",
+   "t": 476.58,
+   "dur": 1.693
+  },
+  {
+   "who": "mishu",
+   "text": "Stockings!",
+   "t": 480.923,
+   "dur": 0.768
+  },
+  {
+   "who": "mishu",
+   "text": "What do we say at Christmas?",
+   "t": 482.341,
+   "dur": 1.327
+  },
+  {
+   "who": "gul",
+   "text": "Merry Christmas!",
+   "t": 486.319,
+   "dur": 0.926
+  },
+  {
+   "who": "gul",
+   "text": "What do we bake at Christmas?",
+   "t": 487.894,
+   "dur": 1.323
+  },
+  {
+   "who": "mishu",
+   "text": "Gingerbread cookies!",
+   "t": 491.868,
+   "dur": 1.154
+  },
+  {
+   "who": "mishu",
+   "text": "What makes a jingle sound?",
+   "t": 493.672,
+   "dur": 1.337
+  },
+  {
+   "who": "gul",
+   "text": "Bells!",
+   "t": 497.66,
+   "dur": 0.567
+  },
+  {
+   "who": "gul",
+   "text": "What is made of snow, with a carrot nose?",
+   "t": 498.877,
+   "dur": 1.929
+  },
+  {
+   "who": "mishu",
+   "text": "A snowman!",
+   "t": 503.456,
+   "dur": 0.698
+  },
+  {
+   "who": "mishu",
+   "text": "Red, green, red, green... what's next?",
+   "t": 504.804,
+   "dur": 2.308
+  },
+  {
+   "who": "gul",
+   "text": "Red!",
+   "t": 509.762,
+   "dur": 0.505
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you for decorating the tree with us!",
+   "t": 510.917,
+   "dur": 1.904
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas, friends! Bye bye!",
+   "t": 513.171,
+   "dur": 1.998
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "xmasroom",
+   "t0": 0.0,
+   "on_t": 0.4,
+   "title_t": 1.4,
+   "kids_t": 2.891,
+   "t1": 7.644
+  },
+  {
+   "kind": "bring",
+   "bg": "xmasroom",
+   "t0": 7.644,
+   "set_t": 10.114,
+   "t1": 13.703
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 13.703,
+   "title": "DECORATE THE TREE!",
+   "t1": 16.007
+  },
+  {
+   "kind": "decor",
+   "bg": "xmasroom",
+   "t0": 16.007,
+   "key": "lights",
+   "n": 5,
+   "stage": 0,
+   "intro_t": 16.007,
+   "cts": [
+    19.028,
+    19.785,
+    20.519,
+    21.328,
+    22.128
+   ],
+   "sum_t": 22.971,
+   "t1": 25.921
+  },
+  {
+   "kind": "decor",
+   "bg": "xmasroom",
+   "t0": 25.921,
+   "key": "baubles",
+   "n": 5,
+   "stage": 1,
+   "intro_t": 25.921,
+   "cts": [
+    28.231,
+    28.988,
+    29.723,
+    30.531,
+    31.331
+   ],
+   "sum_t": 32.174,
+   "t1": 35.313
+  },
+  {
+   "kind": "decor",
+   "bg": "xmasroom",
+   "t0": 35.313,
+   "key": "bells",
+   "n": 3,
+   "stage": 2,
+   "intro_t": 35.313,
+   "cts": [
+    38.053,
+    38.81,
+    39.545
+   ],
+   "sum_t": 40.353,
+   "t1": 42.982
+  },
+  {
+   "kind": "decor",
+   "bg": "xmasroom",
+   "t0": 42.982,
+   "key": "canes",
+   "n": 4,
+   "stage": 3,
+   "intro_t": 42.982,
+   "cts": [
+    45.104,
+    45.861,
+    46.596,
+    47.404
+   ],
+   "sum_t": 48.204,
+   "t1": 51.484
+  },
+  {
+   "kind": "decor",
+   "bg": "xmasroom",
+   "t0": 51.484,
+   "key": "ginger",
+   "n": 2,
+   "stage": 4,
+   "intro_t": 51.484,
+   "cts": [
+    53.06,
+    53.817
+   ],
+   "sum_t": 54.551,
+   "t1": 58.401
+  },
+  {
+   "kind": "decor",
+   "bg": "xmasroom",
+   "t0": 58.401,
+   "key": "flakes",
+   "n": 6,
+   "stage": 5,
+   "intro_t": 58.401,
+   "cts": [
+    60.095,
+    60.852,
+    61.586,
+    62.395,
+    63.195,
+    64.038
+   ],
+   "sum_t": 64.889,
+   "t1": 68.202
+  },
+  {
+   "kind": "star",
+   "bg": "xmasroom",
+   "t0": 68.202,
+   "cd": [
+    71.171,
+    72.109,
+    72.974
+   ],
+   "star_t": 73.86,
+   "t1": 76.733
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 76.733,
+   "title": "CHRISTMAS SHAPES!",
+   "t1": 79.319
+  },
+  {
+   "kind": "shape",
+   "bg": "xmasroom",
+   "t0": 79.319,
+   "shape": "circle",
+   "say_t": 79.319,
+   "t1": 81.372
+  },
+  {
+   "kind": "shape",
+   "bg": "xmasroom",
+   "t0": 81.372,
+   "shape": "triangle",
+   "say_t": 81.372,
+   "t1": 83.633
+  },
+  {
+   "kind": "shape",
+   "bg": "xmasroom",
+   "t0": 83.633,
+   "shape": "star",
+   "say_t": 83.633,
+   "t1": 85.987
+  },
+  {
+   "kind": "shape",
+   "bg": "xmasroom",
+   "t0": 85.987,
+   "shape": "rectangle",
+   "say_t": 85.987,
+   "t1": 88.28
+  },
+  {
+   "kind": "shape",
+   "bg": "xmasroom",
+   "t0": 88.28,
+   "shape": "heart",
+   "say_t": 88.28,
+   "t1": 90.87
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 90.87,
+   "title": "CHRISTMAS COLOURS!",
+   "t1": 94.408
+  },
+  {
+   "kind": "colour",
+   "bg": "xmasroom",
+   "t0": 94.408,
+   "col": "red",
+   "key": "stocking",
+   "answer_t": 97.251,
+   "t1": 98.95
+  },
+  {
+   "kind": "colour",
+   "bg": "xmasroom",
+   "t0": 98.95,
+   "col": "green",
+   "key": "tree",
+   "answer_t": 101.842,
+   "t1": 103.515
+  },
+  {
+   "kind": "colour",
+   "bg": "xmasroom",
+   "t0": 103.515,
+   "col": "gold",
+   "key": "bell",
+   "answer_t": 106.358,
+   "t1": 107.889
+  },
+  {
+   "kind": "colour",
+   "bg": "xmasroom",
+   "t0": 107.889,
+   "col": "white",
+   "key": "snowflake",
+   "answer_t": 110.781,
+   "t1": 112.622
+  },
+  {
+   "kind": "colour",
+   "bg": "xmasroom",
+   "t0": 112.622,
+   "col": "brown",
+   "key": "gingerbread",
+   "answer_t": 115.465,
+   "t1": 117.491
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 117.491,
+   "title": "WHAT'S INSIDE?",
+   "t1": 120.967
+  },
+  {
+   "kind": "present",
+   "bg": "xmasroom",
+   "t0": 120.967,
+   "box": "present1",
+   "inside": "ball",
+   "shake_t": 120.967,
+   "open_t": 125.631,
+   "t1": 126.856
+  },
+  {
+   "kind": "present",
+   "bg": "xmasroom",
+   "t0": 126.856,
+   "box": "present2",
+   "inside": "teddy",
+   "shake_t": 126.856,
+   "open_t": 131.405,
+   "t1": 132.856
+  },
+  {
+   "kind": "present",
+   "bg": "xmasroom",
+   "t0": 132.856,
+   "box": "present3",
+   "inside": "car",
+   "shake_t": 132.856,
+   "open_t": 137.651,
+   "t1": 139.142
+  },
+  {
+   "kind": "present",
+   "bg": "xmasroom",
+   "t0": 139.142,
+   "box": "present1",
+   "inside": "crayons",
+   "shake_t": 139.142,
+   "open_t": 143.541,
+   "t1": 144.9
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 144.9,
+   "title": "HANG THE STOCKINGS!",
+   "t1": 148.111
+  },
+  {
+   "kind": "stockings",
+   "bg": "xmasroom",
+   "t0": 148.111,
+   "ts": [
+    148.111,
+    149.31,
+    150.579,
+    151.829
+   ],
+   "count_t": 153.109,
+   "t1": 156.047
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 156.047,
+   "title": "CHRISTMAS WORDS!",
+   "t1": 159.29
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 159.29,
+   "key": "tree",
+   "w": "CHRISTMAS TREE",
+   "num": 1,
+   "say_t": 159.29,
+   "t1": 161.514
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 161.514,
+   "key": "topstar",
+   "w": "STAR",
+   "num": 2,
+   "say_t": 161.514,
+   "t1": 163.455
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 163.455,
+   "key": "present1",
+   "w": "PRESENT",
+   "num": 3,
+   "say_t": 163.455,
+   "t1": 165.38
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 165.38,
+   "key": "stocking",
+   "w": "STOCKING",
+   "num": 4,
+   "say_t": 165.38,
+   "t1": 167.418
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 167.418,
+   "key": "candycane",
+   "w": "CANDY CANE",
+   "num": 5,
+   "say_t": 167.418,
+   "t1": 169.581
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 169.581,
+   "key": "bell",
+   "w": "BELL",
+   "num": 6,
+   "say_t": 169.581,
+   "t1": 171.415
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 171.415,
+   "key": "gingerbread",
+   "w": "GINGERBREAD MAN",
+   "num": 7,
+   "say_t": 171.415,
+   "t1": 173.733
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 173.733,
+   "key": "snowman",
+   "w": "SNOWMAN",
+   "num": 8,
+   "say_t": 173.733,
+   "t1": 175.81
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 175.81,
+   "key": "santahat",
+   "w": "SANTA HAT",
+   "num": 9,
+   "say_t": 175.81,
+   "t1": 178.002
+  },
+  {
+   "kind": "cword",
+   "bg": "xmasroom",
+   "t0": 178.002,
+   "key": "snowflake",
+   "w": "SNOWFLAKE",
+   "num": 10,
+   "say_t": 178.002,
+   "t1": 180.112
+  },
+  {
+   "kind": "count",
+   "bg": "xmasroom",
+   "t0": 180.112,
+   "cts": [
+    183.066,
+    183.853,
+    184.617,
+    185.456,
+    186.286,
+    187.159,
+    188.04,
+    188.952,
+    189.754,
+    190.585
+   ],
+   "t1": 193.193
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 193.193,
+   "title": "BAKE GINGERBREAD!",
+   "t1": 195.801
+  },
+  {
+   "kind": "bake",
+   "bg": "xmasroom",
+   "t0": 195.801,
+   "key": "bowl",
+   "num": 1,
+   "say_t": 195.801,
+   "t1": 199.828
+  },
+  {
+   "kind": "bake",
+   "bg": "xmasroom",
+   "t0": 199.828,
+   "key": "roll",
+   "num": 2,
+   "say_t": 199.828,
+   "t1": 202.24
+  },
+  {
+   "kind": "bake",
+   "bg": "xmasroom",
+   "t0": 202.24,
+   "key": "cut",
+   "num": 3,
+   "say_t": 202.24,
+   "t1": 204.302
+  },
+  {
+   "kind": "bake",
+   "bg": "xmasroom",
+   "t0": 204.302,
+   "key": "oven",
+   "num": 4,
+   "say_t": 204.302,
+   "t1": 207.482
+  },
+  {
+   "kind": "bake",
+   "bg": "xmasroom",
+   "t0": 207.482,
+   "key": "decorate",
+   "num": 5,
+   "say_t": 207.482,
+   "t1": 210.192
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 210.192,
+   "title": "BUILD A SNOWMAN!",
+   "t1": 213.033
+  },
+  {
+   "kind": "snowman",
+   "bg": "xmasroom",
+   "t0": 213.033,
+   "ts": [
+    213.033,
+    215.562,
+    217.562,
+    219.614,
+    221.721,
+    223.912
+   ],
+   "done_t": 225.785,
+   "t1": 228.579
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 228.579,
+   "title": "WRAP A PRESENT!",
+   "t1": 231.445
+  },
+  {
+   "kind": "wrap",
+   "bg": "xmasroom",
+   "t0": 231.445,
+   "ts": [
+    231.445,
+    233.245,
+    235.183,
+    237.297,
+    239.104
+   ],
+   "done_t": 242.003,
+   "t1": 244.225
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 244.225,
+   "title": "CHRISTMAS OR NOT?",
+   "t1": 247.183
+  },
+  {
+   "kind": "xornot",
+   "bg": "xmasroom",
+   "t0": 247.183,
+   "key": "bell",
+   "good": true,
+   "q": "A JINGLE BELL?",
+   "answer_t": 249.935,
+   "t1": 251.374
+  },
+  {
+   "kind": "xornot",
+   "bg": "xmasroom",
+   "t0": 251.374,
+   "key": "sunny",
+   "good": false,
+   "q": "A HOT SUNNY BEACH?",
+   "answer_t": 254.363,
+   "t1": 256.524
+  },
+  {
+   "kind": "xornot",
+   "bg": "xmasroom",
+   "t0": 256.524,
+   "key": "snowman",
+   "good": true,
+   "q": "A SNOWMAN?",
+   "answer_t": 259.091,
+   "t1": 260.53
+  },
+  {
+   "kind": "xornot",
+   "bg": "xmasroom",
+   "t0": 260.53,
+   "key": "icecream",
+   "good": false,
+   "q": "AN ICE CREAM CONE?",
+   "answer_t": 263.515,
+   "t1": 265.229
+  },
+  {
+   "kind": "xornot",
+   "bg": "xmasroom",
+   "t0": 265.229,
+   "key": "candycane",
+   "good": true,
+   "q": "A CANDY CANE?",
+   "answer_t": 267.972,
+   "t1": 269.411
+  },
+  {
+   "kind": "xornot",
+   "bg": "xmasroom",
+   "t0": 269.411,
+   "key": "umbrella",
+   "good": false,
+   "q": "A RAIN UMBRELLA?",
+   "answer_t": 272.312,
+   "t1": 273.979
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 273.979,
+   "title": "WHAT COMES NEXT?",
+   "t1": 277.194
+  },
+  {
+   "kind": "pattern",
+   "bg": "xmasroom",
+   "t0": 277.194,
+   "seq": [
+    "red",
+    "green",
+    "red",
+    "green",
+    "red"
+   ],
+   "ans": "green",
+   "answer_t": 280.451,
+   "t1": 281.56
+  },
+  {
+   "kind": "pattern",
+   "bg": "xmasroom",
+   "t0": 281.56,
+   "seq": [
+    "star",
+    "bell",
+    "star",
+    "bell",
+    "star"
+   ],
+   "ans": "bell",
+   "answer_t": 284.8,
+   "t1": 285.905
+  },
+  {
+   "kind": "pattern",
+   "bg": "xmasroom",
+   "t0": 285.905,
+   "seq": [
+    "red",
+    "red",
+    "gold",
+    "red",
+    "red"
+   ],
+   "ans": "gold",
+   "answer_t": 289.162,
+   "t1": 290.303
+  },
+  {
+   "kind": "bigsmall",
+   "bg": "xmasroom",
+   "t0": 290.303,
+   "ans": "big",
+   "kind2": "ball",
+   "answer_t": 293.351,
+   "t1": 294.566
+  },
+  {
+   "kind": "bigsmall",
+   "bg": "xmasroom",
+   "t0": 294.566,
+   "ans": "small",
+   "kind2": "present",
+   "answer_t": 297.699,
+   "t1": 298.924
+  },
+  {
+   "kind": "bigsmall",
+   "bg": "xmasroom",
+   "t0": 298.924,
+   "ans": "big",
+   "kind2": "star",
+   "answer_t": 301.938,
+   "t1": 303.153
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 303.153,
+   "title": "CHRISTMAS SOUNDS!",
+   "t1": 306.02
+  },
+  {
+   "kind": "sound",
+   "bg": "xmasroom",
+   "t0": 306.02,
+   "key": "bell",
+   "snd_t": 306.32,
+   "answer_t": 310.491,
+   "t1": 311.922
+  },
+  {
+   "kind": "sound",
+   "bg": "xmasroom",
+   "t0": 311.922,
+   "key": "fire",
+   "snd_t": 312.222,
+   "answer_t": 316.347,
+   "t1": 318.376
+  },
+  {
+   "kind": "sound",
+   "bg": "xmasroom",
+   "t0": 318.376,
+   "key": "present1",
+   "snd_t": 318.676,
+   "answer_t": 322.848,
+   "t1": 325.094
+  },
+  {
+   "kind": "sound",
+   "bg": "xmasroom",
+   "t0": 325.094,
+   "key": "santahat",
+   "snd_t": 325.394,
+   "answer_t": 329.519,
+   "t1": 331.45
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 331.45,
+   "title": "CHRISTMAS KINDNESS!",
+   "t1": 334.465
+  },
+  {
+   "kind": "kindness",
+   "bg": "xmasroom",
+   "t0": 334.465,
+   "key": "present2",
+   "say_t": 334.465,
+   "t1": 336.809
+  },
+  {
+   "kind": "kindness",
+   "bg": "xmasroom",
+   "t0": 336.809,
+   "key": "heart",
+   "say_t": 336.809,
+   "t1": 339.178
+  },
+  {
+   "kind": "kindness",
+   "bg": "xmasroom",
+   "t0": 339.178,
+   "key": "tree",
+   "say_t": 339.178,
+   "t1": 341.612
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 341.612,
+   "title": "CHRISTMAS FEELINGS!",
+   "t1": 344.155
+  },
+  {
+   "kind": "feel",
+   "bg": "xmasroom",
+   "t0": 344.155,
+   "emo": "excited",
+   "who": "gul",
+   "say_t": 344.155,
+   "t1": 347.47
+  },
+  {
+   "kind": "feel",
+   "bg": "xmasroom",
+   "t0": 347.47,
+   "emo": "surprised",
+   "who": "misheal",
+   "say_t": 347.47,
+   "t1": 351.595
+  },
+  {
+   "kind": "feel",
+   "bg": "xmasroom",
+   "t0": 351.595,
+   "emo": "happy",
+   "who": "gul",
+   "say_t": 351.595,
+   "t1": 355.723
+  },
+  {
+   "kind": "feel",
+   "bg": "xmasroom",
+   "t0": 355.723,
+   "emo": "proud",
+   "who": "misheal",
+   "say_t": 355.723,
+   "t1": 359.81
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 359.81,
+   "title": "WHERE IS IT HIDING?",
+   "t1": 363.26
+  },
+  {
+   "kind": "hide",
+   "bg": "xmasroom",
+   "t0": 363.26,
+   "key": "topstar",
+   "pos": 1,
+   "reveal_t": 366.876,
+   "t1": 369.116
+  },
+  {
+   "kind": "hide",
+   "bg": "xmasroom",
+   "t0": 369.116,
+   "key": "bell",
+   "pos": 2,
+   "reveal_t": 372.811,
+   "t1": 375.056
+  },
+  {
+   "kind": "hide",
+   "bg": "xmasroom",
+   "t0": 375.056,
+   "key": "candycane",
+   "pos": 0,
+   "reveal_t": 378.672,
+   "t1": 381.298
+  },
+  {
+   "kind": "hide",
+   "bg": "xmasroom",
+   "t0": 381.298,
+   "key": "gingerbread",
+   "pos": 1,
+   "reveal_t": 384.994,
+   "t1": 386.966
+  },
+  {
+   "kind": "chant",
+   "bg": "xmasroom",
+   "t0": 386.966,
+   "l": [
+    386.966,
+    388.995,
+    391.218,
+    393.484,
+    395.197,
+    397.225,
+    399.448,
+    401.715
+   ],
+   "t1": 403.728
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 403.728,
+   "title": "CHRISTMAS DANCE!",
+   "t1": 406.439
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 406.439,
+   "move": "stretch",
+   "fast": false,
+   "word": "STAND TALL LIKE A CHRISTMAS TREE!",
+   "say_t": 406.439,
+   "t1": 409.933
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 409.933,
+   "move": "wiggle",
+   "fast": false,
+   "word": "TWINKLE, TWINKLE, LITTLE LIGHTS!",
+   "say_t": 409.933,
+   "t1": 413.396
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 413.396,
+   "move": "shake",
+   "fast": false,
+   "word": "JINGLE LIKE A BELL!",
+   "say_t": 413.396,
+   "t1": 416.225
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 416.225,
+   "move": "spin",
+   "fast": false,
+   "word": "SPIN LIKE A SNOWFLAKE!",
+   "say_t": 416.225,
+   "t1": 419.23
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 419.23,
+   "move": "jump",
+   "fast": false,
+   "word": "JUMP FOR PRESENTS!",
+   "say_t": 419.23,
+   "t1": 422.048
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 422.048,
+   "move": "jump",
+   "fast": false,
+   "word": "MERRY CHRISTMAS!",
+   "say_t": 422.048,
+   "t1": 425.123
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 425.123,
+   "title": "FASTER!",
+   "t1": 426.503
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 426.503,
+   "move": "stretch",
+   "fast": true,
+   "word": "STAND TALL LIKE A CHRISTMAS TREE!",
+   "say_t": 426.503,
+   "t1": 429.298
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 429.298,
+   "move": "wiggle",
+   "fast": true,
+   "word": "TWINKLE, TWINKLE, LITTLE LIGHTS!",
+   "say_t": 429.298,
+   "t1": 432.06
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 432.06,
+   "move": "shake",
+   "fast": true,
+   "word": "JINGLE LIKE A BELL!",
+   "say_t": 432.06,
+   "t1": 434.189
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 434.189,
+   "move": "spin",
+   "fast": true,
+   "word": "SPIN LIKE A SNOWFLAKE!",
+   "say_t": 434.189,
+   "t1": 436.494
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 436.494,
+   "move": "jump",
+   "fast": true,
+   "word": "JUMP FOR PRESENTS!",
+   "say_t": 436.494,
+   "t1": 438.612
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 438.612,
+   "move": "jump",
+   "fast": true,
+   "word": "MERRY CHRISTMAS!",
+   "say_t": 438.612,
+   "t1": 440.987
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 440.987,
+   "title": "CHRISTMAS QUIZ!",
+   "t1": 443.351
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 443.351,
+   "q": "WHAT GOES ON TOP OF THE TREE?",
+   "vis": "topstar",
+   "answer_t": 447.504,
+   "t1": 448.797
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 448.797,
+   "q": "WHAT COLOUR IS A CHRISTMAS TREE?",
+   "vis": "tree",
+   "answer_t": 453.022,
+   "t1": 454.231
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 454.231,
+   "q": "WHAT SHAPE IS A CHRISTMAS BALL?",
+   "vis": "bauble",
+   "answer_t": 458.435,
+   "t1": 459.797
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 459.797,
+   "q": "HOW MANY GOLDEN BELLS DID WE HANG?",
+   "vis": "bell",
+   "answer_t": 464.231,
+   "t1": 465.419
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 465.419,
+   "q": "WHAT SHAPE IS THE TREE?",
+   "vis": "tree",
+   "answer_t": 469.337,
+   "t1": 470.799
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 470.799,
+   "q": "WHAT HAS RED AND WHITE STRIPES?",
+   "vis": "candycane",
+   "answer_t": 474.927,
+   "t1": 476.58
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 476.58,
+   "q": "WHAT DO WE HANG BY THE FIREPLACE?",
+   "vis": "stocking",
+   "answer_t": 480.923,
+   "t1": 482.341
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 482.341,
+   "q": "WHAT DO WE SAY AT CHRISTMAS?",
+   "vis": "present1",
+   "answer_t": 486.319,
+   "t1": 487.894
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 487.894,
+   "q": "WHAT DO WE BAKE AT CHRISTMAS?",
+   "vis": "gingerbread",
+   "answer_t": 491.868,
+   "t1": 493.672
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 493.672,
+   "q": "WHAT MAKES A JINGLE SOUND?",
+   "vis": "bell",
+   "answer_t": 497.66,
+   "t1": 498.877
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 498.877,
+   "q": "WHAT IS MADE OF SNOW, WITH A CARROT NOSE?",
+   "vis": "snowman",
+   "answer_t": 503.456,
+   "t1": 504.804
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 504.804,
+   "q": "RED, GREEN, RED, GREEN... WHAT'S NEXT?",
+   "vis": "bauble",
+   "answer_t": 509.762,
+   "t1": 510.917
+  },
+  {
+   "kind": "outro",
+   "bg": "xmasroom",
+   "t0": 510.917,
+   "bye_t": 513.171,
+   "t1": 517.119
+  }
+ ],
+ "prompts": [
+  [
+   95.651,
+   97.251
+  ],
+  [
+   100.242,
+   101.842
+  ],
+  [
+   104.758,
+   106.358
+  ],
+  [
+   109.181,
+   110.781
+  ],
+  [
+   113.865,
+   115.465
+  ],
+  [
+   123.831,
+   125.631
+  ],
+  [
+   129.605,
+   131.405
+  ],
+  [
+   135.851,
+   137.651
+  ],
+  [
+   141.741,
+   143.541
+  ],
+  [
+   160.414,
+   161.514
+  ],
+  [
+   162.355,
+   163.455
+  ],
+  [
+   164.28,
+   165.38
+  ],
+  [
+   166.318,
+   167.418
+  ],
+  [
+   168.481,
+   169.581
+  ],
+  [
+   170.315,
+   171.415
+  ],
+  [
+   172.633,
+   173.733
+  ],
+  [
+   174.71,
+   175.81
+  ],
+  [
+   176.902,
+   178.002
+  ],
+  [
+   179.012,
+   180.112
+  ],
+  [
+   248.335,
+   249.935
+  ],
+  [
+   252.763,
+   254.363
+  ],
+  [
+   257.491,
+   259.091
+  ],
+  [
+   261.915,
+   263.515
+  ],
+  [
+   266.372,
+   267.972
+  ],
+  [
+   270.712,
+   272.312
+  ],
+  [
+   278.451,
+   280.451
+  ],
+  [
+   282.8,
+   284.8
+  ],
+  [
+   287.162,
+   289.162
+  ],
+  [
+   291.751,
+   293.351
+  ],
+  [
+   296.099,
+   297.699
+  ],
+  [
+   300.338,
+   301.938
+  ],
+  [
+   308.891,
+   310.491
+  ],
+  [
+   314.747,
+   316.347
+  ],
+  [
+   321.248,
+   322.848
+  ],
+  [
+   327.919,
+   329.519
+  ],
+  [
+   346.07,
+   347.47
+  ],
+  [
+   350.195,
+   351.595
+  ],
+  [
+   354.323,
+   355.723
+  ],
+  [
+   358.41,
+   359.81
+  ],
+  [
+   364.876,
+   366.876
+  ],
+  [
+   370.811,
+   372.811
+  ],
+  [
+   376.672,
+   378.672
+  ],
+  [
+   382.994,
+   384.994
+  ],
+  [
+   408.333,
+   409.933
+  ],
+  [
+   411.796,
+   413.396
+  ],
+  [
+   414.625,
+   416.225
+  ],
+  [
+   417.63,
+   419.23
+  ],
+  [
+   420.448,
+   422.048
+  ],
+  [
+   423.523,
+   425.123
+  ],
+  [
+   428.398,
+   429.298
+  ],
+  [
+   431.16,
+   432.06
+  ],
+  [
+   433.289,
+   434.189
+  ],
+  [
+   435.594,
+   436.494
+  ],
+  [
+   437.712,
+   438.612
+  ],
+  [
+   440.087,
+   440.987
+  ],
+  [
+   445.104,
+   447.504
+  ],
+  [
+   450.622,
+   453.022
+  ],
+  [
+   456.035,
+   458.435
+  ],
+  [
+   461.831,
+   464.231
+  ],
+  [
+   466.937,
+   469.337
+  ],
+  [
+   472.527,
+   474.927
+  ],
+  [
+   478.523,
+   480.923
+  ],
+  [
+   483.919,
+   486.319
+  ],
+  [
+   489.468,
+   491.868
+  ],
+  [
+   495.26,
+   497.66
+  ],
+  [
+   501.056,
+   503.456
+  ],
+  [
+   507.362,
+   509.762
+  ]
+ ],
+ "stars": [
+  22.971,
+  32.174,
+  40.353,
+  48.204,
+  54.551,
+  64.889,
+  448.797,
+  454.231,
+  459.797,
+  465.419,
+  470.799,
+  476.58,
+  482.341,
+  487.894,
+  493.672,
+  498.877,
+  504.804,
+  510.917
+ ],
+ "total": 517.12
+}

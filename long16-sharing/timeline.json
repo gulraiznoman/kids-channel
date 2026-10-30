@@ -1,0 +1,2265 @@
+{
+ "lines": [
+  {
+   "who": "gul",
+   "text": "Mine!",
+   "t": 0.0,
+   "dur": 0.531
+  },
+  {
+   "who": "mishu",
+   "text": "No, mine!",
+   "t": 0.681,
+   "dur": 0.718
+  },
+  {
+   "who": "both",
+   "text": "Sharing is caring!",
+   "t": 1.649,
+   "dur": 1.048
+  },
+  {
+   "who": "mishu",
+   "text": "Let's learn how to share, take turns, and be kind!",
+   "t": 3.048,
+   "dur": 2.649
+  },
+  {
+   "who": "gul",
+   "text": "Let's go!",
+   "t": 6.047,
+   "dur": 0.711
+  },
+  {
+   "who": "gul",
+   "text": "What does sharing mean?",
+   "t": 7.808,
+   "dur": 1.154
+  },
+  {
+   "who": "mishu",
+   "text": "Sharing means letting a friend use or have some of what you have.",
+   "t": 9.412,
+   "dur": 3.322
+  },
+  {
+   "who": "gul",
+   "text": "When we share, our friends feel happy.",
+   "t": 13.085,
+   "dur": 1.828
+  },
+  {
+   "who": "mishu",
+   "text": "And we feel happy too! Our hearts grow big!",
+   "t": 15.263,
+   "dur": 2.44
+  },
+  {
+   "who": "mishu",
+   "text": "Let's watch Gul and Mishu learn to share!",
+   "t": 18.853,
+   "dur": 2.002
+  },
+  {
+   "who": "gul",
+   "text": "Gul has one big cookie.",
+   "t": 21.304,
+   "dur": 1.412
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu has no cookie. She feels sad.",
+   "t": 23.067,
+   "dur": 2.282
+  },
+  {
+   "who": "gul",
+   "text": "What can we do?",
+   "t": 25.599,
+   "dur": 0.924
+  },
+  {
+   "who": "mishu",
+   "text": "Gul breaks the cookie in half. One for you, one for me!",
+   "t": 28.572,
+   "dur": 2.912
+  },
+  {
+   "who": "both",
+   "text": "Yummy! Sharing is caring!",
+   "t": 31.834,
+   "dur": 1.473
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu is drawing with all the crayons.",
+   "t": 33.957,
+   "dur": 1.959
+  },
+  {
+   "who": "gul",
+   "text": "Gul wants to draw too.",
+   "t": 36.265,
+   "dur": 1.297
+  },
+  {
+   "who": "mishu",
+   "text": "What can we do?",
+   "t": 37.813,
+   "dur": 0.826
+  },
+  {
+   "who": "gul",
+   "text": "Mishu shares her crayons. You take blue, I take red!",
+   "t": 40.688,
+   "dur": 2.96
+  },
+  {
+   "who": "both",
+   "text": "Now we can draw together!",
+   "t": 43.999,
+   "dur": 1.394
+  },
+  {
+   "who": "gul",
+   "text": "There is only one swing.",
+   "t": 46.042,
+   "dur": 1.222
+  },
+  {
+   "who": "mishu",
+   "text": "Gul and Mishu both want to swing!",
+   "t": 47.615,
+   "dur": 1.706
+  },
+  {
+   "who": "gul",
+   "text": "What can we do?",
+   "t": 49.571,
+   "dur": 0.924
+  },
+  {
+   "who": "mishu",
+   "text": "Let's take turns! Ten swings each. One, two, three...",
+   "t": 52.545,
+   "dur": 3.205
+  },
+  {
+   "who": "both",
+   "text": "Taking turns is fair!",
+   "t": 56.1,
+   "dur": 1.257
+  },
+  {
+   "who": "mishu",
+   "text": "Oh no! It's raining!",
+   "t": 58.007,
+   "dur": 1.166
+  },
+  {
+   "who": "gul",
+   "text": "Mishu forgot her umbrella.",
+   "t": 59.523,
+   "dur": 1.531
+  },
+  {
+   "who": "mishu",
+   "text": "What can we do?",
+   "t": 61.304,
+   "dur": 0.826
+  },
+  {
+   "who": "gul",
+   "text": "Gul shares his umbrella. Come under, Mishu!",
+   "t": 64.18,
+   "dur": 2.431
+  },
+  {
+   "who": "both",
+   "text": "Now we both stay dry!",
+   "t": 66.961,
+   "dur": 1.28
+  },
+  {
+   "who": "gul",
+   "text": "Gul has the bucket and the spade.",
+   "t": 68.89,
+   "dur": 1.715
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu wants to build a sandcastle too.",
+   "t": 70.956,
+   "dur": 2.092
+  },
+  {
+   "who": "gul",
+   "text": "What can we do?",
+   "t": 73.298,
+   "dur": 0.924
+  },
+  {
+   "who": "mishu",
+   "text": "Let's build it together! You dig, and I fill the bucket!",
+   "t": 76.272,
+   "dur": 3.062
+  },
+  {
+   "who": "both",
+   "text": "Wow! A big sandcastle! Teamwork!",
+   "t": 79.684,
+   "dur": 1.868
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu is playing with the toy car.",
+   "t": 82.202,
+   "dur": 1.665
+  },
+  {
+   "who": "gul",
+   "text": "Gul asks: Can I have a turn, please?",
+   "t": 84.217,
+   "dur": 1.903
+  },
+  {
+   "who": "mishu",
+   "text": "What can we do?",
+   "t": 86.37,
+   "dur": 0.826
+  },
+  {
+   "who": "gul",
+   "text": "Mishu says: Sure! Here you go! Vroom vroom!",
+   "t": 89.246,
+   "dur": 2.222
+  },
+  {
+   "who": "both",
+   "text": "Asking nicely works!",
+   "t": 91.818,
+   "dur": 1.288
+  },
+  {
+   "who": "gul",
+   "text": "Gul is playing with his new ball.",
+   "t": 93.756,
+   "dur": 1.602
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu is sitting all alone.",
+   "t": 95.708,
+   "dur": 1.438
+  },
+  {
+   "who": "gul",
+   "text": "What can we do?",
+   "t": 97.396,
+   "dur": 0.924
+  },
+  {
+   "who": "mishu",
+   "text": "Gul says: Let's play catch together! Catch!",
+   "t": 100.37,
+   "dur": 2.632
+  },
+  {
+   "who": "both",
+   "text": "Playing together is more fun!",
+   "t": 103.352,
+   "dur": 1.592
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu has her favourite teddy.",
+   "t": 105.594,
+   "dur": 1.642
+  },
+  {
+   "who": "gul",
+   "text": "Gul fell down, and he is crying.",
+   "t": 107.586,
+   "dur": 1.643
+  },
+  {
+   "who": "mishu",
+   "text": "What can we do?",
+   "t": 109.478,
+   "dur": 0.826
+  },
+  {
+   "who": "gul",
+   "text": "Mishu says: Here, hug my teddy. You'll feel better!",
+   "t": 112.354,
+   "dur": 2.43
+  },
+  {
+   "who": "both",
+   "text": "Sharing makes friends feel better!",
+   "t": 115.134,
+   "dur": 1.6
+  },
+  {
+   "who": "gul",
+   "text": "Gul has a big pizza.",
+   "t": 117.384,
+   "dur": 1.304
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu is very hungry.",
+   "t": 119.039,
+   "dur": 1.453
+  },
+  {
+   "who": "gul",
+   "text": "What can we do?",
+   "t": 120.742,
+   "dur": 0.924
+  },
+  {
+   "who": "mishu",
+   "text": "Gul says: Let's share! Two slices for you, two for me!",
+   "t": 123.715,
+   "dur": 3.048
+  },
+  {
+   "who": "both",
+   "text": "Pizza party for two!",
+   "t": 127.113,
+   "dur": 1.25
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu has two shiny apples.",
+   "t": 129.013,
+   "dur": 1.611
+  },
+  {
+   "who": "gul",
+   "text": "Gul has no snack today.",
+   "t": 130.974,
+   "dur": 1.39
+  },
+  {
+   "who": "mishu",
+   "text": "What can we do?",
+   "t": 132.613,
+   "dur": 0.826
+  },
+  {
+   "who": "gul",
+   "text": "Mishu says: One for you, and one for me!",
+   "t": 135.489,
+   "dur": 2.101
+  },
+  {
+   "who": "both",
+   "text": "Crunch, crunch! Thank you, Mishu!",
+   "t": 137.94,
+   "dur": 1.805
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Let's share fairly, so everyone gets the same!",
+   "t": 140.896,
+   "dur": 2.845
+  },
+  {
+   "who": "mishu",
+   "text": "6 cookies, for 2 friends.",
+   "t": 144.191,
+   "dur": 1.624
+  },
+  {
+   "who": "gul",
+   "text": "How many does each friend get?",
+   "t": 146.065,
+   "dur": 1.469
+  },
+  {
+   "who": "mishu",
+   "text": "One for you, one for me...",
+   "t": 149.584,
+   "dur": 1.471
+  },
+  {
+   "who": "gul",
+   "text": "Three each! That's fair!",
+   "t": 151.805,
+   "dur": 1.243
+  },
+  {
+   "who": "gul",
+   "text": "4 apples, for 2 friends.",
+   "t": 153.598,
+   "dur": 1.496
+  },
+  {
+   "who": "mishu",
+   "text": "How many does each friend get?",
+   "t": 155.345,
+   "dur": 1.508
+  },
+  {
+   "who": "gul",
+   "text": "One for you, one for me...",
+   "t": 158.902,
+   "dur": 1.264
+  },
+  {
+   "who": "mishu",
+   "text": "Two each! That's fair!",
+   "t": 160.916,
+   "dur": 1.282
+  },
+  {
+   "who": "mishu",
+   "text": "10 crayons, for 2 friends.",
+   "t": 162.748,
+   "dur": 1.738
+  },
+  {
+   "who": "gul",
+   "text": "How many does each friend get?",
+   "t": 164.736,
+   "dur": 1.469
+  },
+  {
+   "who": "mishu",
+   "text": "One for you, one for me...",
+   "t": 168.255,
+   "dur": 1.471
+  },
+  {
+   "who": "gul",
+   "text": "Five each! That's fair!",
+   "t": 170.477,
+   "dur": 1.295
+  },
+  {
+   "who": "gul",
+   "text": "8 strawberries, for 4 friends.",
+   "t": 172.322,
+   "dur": 1.704
+  },
+  {
+   "who": "mishu",
+   "text": "How many does each friend get?",
+   "t": 174.276,
+   "dur": 1.508
+  },
+  {
+   "who": "gul",
+   "text": "One for you, one for me...",
+   "t": 177.834,
+   "dur": 1.264
+  },
+  {
+   "who": "mishu",
+   "text": "Two each! That's fair!",
+   "t": 179.848,
+   "dur": 1.282
+  },
+  {
+   "who": "mishu",
+   "text": "8 cookies, for 4 friends.",
+   "t": 181.68,
+   "dur": 1.517
+  },
+  {
+   "who": "gul",
+   "text": "How many does each friend get?",
+   "t": 183.447,
+   "dur": 1.469
+  },
+  {
+   "who": "mishu",
+   "text": "One for you, one for me...",
+   "t": 186.966,
+   "dur": 1.471
+  },
+  {
+   "who": "gul",
+   "text": "Two each! That's fair!",
+   "t": 189.187,
+   "dur": 1.302
+  },
+  {
+   "who": "gul",
+   "text": "6 apples, for 3 friends.",
+   "t": 191.04,
+   "dur": 1.584
+  },
+  {
+   "who": "mishu",
+   "text": "How many does each friend get?",
+   "t": 192.874,
+   "dur": 1.508
+  },
+  {
+   "who": "gul",
+   "text": "One for you, one for me...",
+   "t": 196.431,
+   "dur": 1.264
+  },
+  {
+   "who": "mishu",
+   "text": "Two each! That's fair!",
+   "t": 198.445,
+   "dur": 1.282
+  },
+  {
+   "who": "gul",
+   "text": "There is one slide. Let's take turns!",
+   "t": 200.777,
+   "dur": 1.993
+  },
+  {
+   "who": "gul",
+   "text": "Gul's turn! Whee!",
+   "t": 203.22,
+   "dur": 0.971
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu's turn! Whee!",
+   "t": 205.341,
+   "dur": 1.285
+  },
+  {
+   "who": "gul",
+   "text": "Gul's turn again!",
+   "t": 207.776,
+   "dur": 1.087
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu's turn again!",
+   "t": 210.013,
+   "dur": 1.157
+  },
+  {
+   "who": "both",
+   "text": "Taking turns is fun, and fair!",
+   "t": 212.321,
+   "dur": 1.722
+  },
+  {
+   "who": "mishu",
+   "text": "When you want a turn, ask nicely!",
+   "t": 215.193,
+   "dur": 1.815
+  },
+  {
+   "who": "gul",
+   "text": "Can I play with the ball too, please?",
+   "t": 217.458,
+   "dur": 1.743
+  },
+  {
+   "who": "both",
+   "text": "Your turn! Say it with us!",
+   "t": 219.552,
+   "dur": 1.462
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! Let's play together!",
+   "t": 222.764,
+   "dur": 1.467
+  },
+  {
+   "who": "mishu",
+   "text": "Can I have a turn on the swing, please?",
+   "t": 224.882,
+   "dur": 1.85
+  },
+  {
+   "who": "both",
+   "text": "Your turn! Say it with us!",
+   "t": 227.081,
+   "dur": 1.462
+  },
+  {
+   "who": "gul",
+   "text": "Sure! After ten swings, it's your turn!",
+   "t": 230.294,
+   "dur": 1.99
+  },
+  {
+   "who": "gul",
+   "text": "May I use the green crayon, please?",
+   "t": 232.934,
+   "dur": 1.811
+  },
+  {
+   "who": "both",
+   "text": "Your turn! Say it with us!",
+   "t": 235.095,
+   "dur": 1.462
+  },
+  {
+   "who": "mishu",
+   "text": "Here you go! You're welcome!",
+   "t": 238.307,
+   "dur": 1.463
+  },
+  {
+   "who": "mishu",
+   "text": "Can we play with the car together, please?",
+   "t": 240.42,
+   "dur": 1.997
+  },
+  {
+   "who": "both",
+   "text": "Your turn! Say it with us!",
+   "t": 242.768,
+   "dur": 1.462
+  },
+  {
+   "who": "gul",
+   "text": "Yes! You push, and I'll catch!",
+   "t": 245.98,
+   "dur": 1.45
+  },
+  {
+   "who": "gul",
+   "text": "May I have some cookie, please?",
+   "t": 248.08,
+   "dur": 1.495
+  },
+  {
+   "who": "both",
+   "text": "Your turn! Say it with us!",
+   "t": 249.924,
+   "dur": 1.462
+  },
+  {
+   "who": "mishu",
+   "text": "Of course! Half for you!",
+   "t": 253.137,
+   "dur": 1.254
+  },
+  {
+   "who": "gul",
+   "text": "Is it kind, or unkind? You decide!",
+   "t": 255.541,
+   "dur": 2.171
+  },
+  {
+   "who": "mishu",
+   "text": "Sharing your toys with a friend?",
+   "t": 258.162,
+   "dur": 1.509
+  },
+  {
+   "who": "gul",
+   "text": "Kind! That's sharing!",
+   "t": 261.721,
+   "dur": 1.175
+  },
+  {
+   "who": "gul",
+   "text": "Grabbing a toy away from a friend?",
+   "t": 263.446,
+   "dur": 1.648
+  },
+  {
+   "who": "mishu",
+   "text": "Unkind! Ask nicely instead.",
+   "t": 267.143,
+   "dur": 2.067
+  },
+  {
+   "who": "mishu",
+   "text": "Waiting for your turn on the slide?",
+   "t": 269.76,
+   "dur": 1.58
+  },
+  {
+   "who": "gul",
+   "text": "Kind! Taking turns!",
+   "t": 273.389,
+   "dur": 1.269
+  },
+  {
+   "who": "gul",
+   "text": "Shouting, Mine! Mine! Mine!",
+   "t": 275.209,
+   "dur": 1.407
+  },
+  {
+   "who": "mishu",
+   "text": "Unkind! We can share.",
+   "t": 278.666,
+   "dur": 1.393
+  },
+  {
+   "who": "mishu",
+   "text": "Helping a friend build a tower?",
+   "t": 280.609,
+   "dur": 1.565
+  },
+  {
+   "who": "gul",
+   "text": "Kind! Teamwork!",
+   "t": 284.224,
+   "dur": 0.984
+  },
+  {
+   "who": "gul",
+   "text": "Saying thank you when a friend shares?",
+   "t": 285.758,
+   "dur": 1.732
+  },
+  {
+   "who": "mishu",
+   "text": "Kind! Thank you!",
+   "t": 289.54,
+   "dur": 1.017
+  },
+  {
+   "who": "mishu",
+   "text": "Pushing to be first on the slide?",
+   "t": 291.107,
+   "dur": 1.625
+  },
+  {
+   "who": "gul",
+   "text": "Unkind! Wait in line.",
+   "t": 294.781,
+   "dur": 1.38
+  },
+  {
+   "who": "gul",
+   "text": "Asking a lonely friend to play?",
+   "t": 296.711,
+   "dur": 1.679
+  },
+  {
+   "who": "mishu",
+   "text": "Kind! Everyone can play!",
+   "t": 300.44,
+   "dur": 1.511
+  },
+  {
+   "who": "mishu",
+   "text": "Hiding all the cookies for yourself?",
+   "t": 302.501,
+   "dur": 1.684
+  },
+  {
+   "who": "gul",
+   "text": "Unkind! Let's share them.",
+   "t": 306.235,
+   "dur": 1.277
+  },
+  {
+   "who": "gul",
+   "text": "Saying sorry when you bump a friend?",
+   "t": 308.062,
+   "dur": 1.661
+  },
+  {
+   "who": "mishu",
+   "text": "Kind! Sorry helps.",
+   "t": 311.773,
+   "dur": 1.117
+  },
+  {
+   "who": "mishu",
+   "text": "When a friend shares, what do we say?",
+   "t": 313.94,
+   "dur": 1.857
+  },
+  {
+   "who": "gul",
+   "text": "Mishu shares a cookie with Gul.",
+   "t": 316.247,
+   "dur": 1.625
+  },
+  {
+   "who": "both",
+   "text": "Thank you!",
+   "t": 319.722,
+   "dur": 0.689
+  },
+  {
+   "who": "mishu",
+   "text": "Gul shares his crayons with Mishu.",
+   "t": 321.061,
+   "dur": 1.899
+  },
+  {
+   "who": "both",
+   "text": "Thank you!",
+   "t": 324.81,
+   "dur": 0.689
+  },
+  {
+   "who": "gul",
+   "text": "Mishu shares her umbrella.",
+   "t": 326.149,
+   "dur": 1.547
+  },
+  {
+   "who": "both",
+   "text": "Thank you!",
+   "t": 329.547,
+   "dur": 0.689
+  },
+  {
+   "who": "mishu",
+   "text": "Gul shares his ball.",
+   "t": 330.886,
+   "dur": 1.123
+  },
+  {
+   "who": "both",
+   "text": "Thank you!",
+   "t": 333.858,
+   "dur": 0.689
+  },
+  {
+   "who": "gul",
+   "text": "We can share with our family too!",
+   "t": 335.697,
+   "dur": 1.599
+  },
+  {
+   "who": "mishu",
+   "text": "At dinner, Gul shares his food with Papa. Here you go, Papa!",
+   "t": 337.746,
+   "dur": 3.326
+  },
+  {
+   "who": "gul",
+   "text": "Mishu shares her crayons with her baby cousin.",
+   "t": 341.722,
+   "dur": 2.305
+  },
+  {
+   "who": "mishu",
+   "text": "Gul shares his cookies with Grandma. Grandma smiles!",
+   "t": 344.677,
+   "dur": 3.32
+  },
+  {
+   "who": "gul",
+   "text": "Mishu lets her little brother hold her teddy.",
+   "t": 348.647,
+   "dur": 2.233
+  },
+  {
+   "who": "both",
+   "text": "Sharing, sharing, it's so nice!",
+   "t": 351.529,
+   "dur": 1.686
+  },
+  {
+   "who": "both",
+   "text": "One for you, and one for me!",
+   "t": 353.615,
+   "dur": 1.582
+  },
+  {
+   "who": "both",
+   "text": "Taking turns, and playing fair!",
+   "t": 355.597,
+   "dur": 1.725
+  },
+  {
+   "who": "both",
+   "text": "Sharing is caring, everywhere!",
+   "t": 357.722,
+   "dur": 1.623
+  },
+  {
+   "who": "both",
+   "text": "Sharing, sharing, it's so nice!",
+   "t": 359.745,
+   "dur": 1.686
+  },
+  {
+   "who": "both",
+   "text": "One for you, and one for me!",
+   "t": 361.831,
+   "dur": 1.582
+  },
+  {
+   "who": "both",
+   "text": "Taking turns, and playing fair!",
+   "t": 363.813,
+   "dur": 1.725
+  },
+  {
+   "who": "both",
+   "text": "Sharing is caring, everywhere!",
+   "t": 365.937,
+   "dur": 1.623
+  },
+  {
+   "who": "both",
+   "text": "Sharing, sharing, it's so nice!",
+   "t": 367.96,
+   "dur": 1.686
+  },
+  {
+   "who": "both",
+   "text": "One for you, and one for me!",
+   "t": 370.046,
+   "dur": 1.582
+  },
+  {
+   "who": "both",
+   "text": "Taking turns, and playing fair!",
+   "t": 372.028,
+   "dur": 1.725
+  },
+  {
+   "who": "both",
+   "text": "Sharing is caring, everywhere!",
+   "t": 374.153,
+   "dur": 1.623
+  },
+  {
+   "who": "mishu",
+   "text": "Every time we share, our heart grows bigger!",
+   "t": 376.476,
+   "dur": 2.354
+  },
+  {
+   "who": "both",
+   "text": "Share a toy!",
+   "t": 379.08,
+   "dur": 0.825
+  },
+  {
+   "who": "both",
+   "text": "Take a turn!",
+   "t": 380.305,
+   "dur": 0.811
+  },
+  {
+   "who": "both",
+   "text": "Say thank you!",
+   "t": 381.516,
+   "dur": 0.912
+  },
+  {
+   "who": "both",
+   "text": "Help a friend!",
+   "t": 382.828,
+   "dur": 0.871
+  },
+  {
+   "who": "gul",
+   "text": "A big, happy heart!",
+   "t": 384.1,
+   "dur": 1.18
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! Let's do the sharing dance!",
+   "t": 386.43,
+   "dur": 1.913
+  },
+  {
+   "who": "both",
+   "text": "Share with your friend! Give, give, give!",
+   "t": 388.793,
+   "dur": 2.133
+  },
+  {
+   "who": "both",
+   "text": "Take turns! You go, I go!",
+   "t": 392.676,
+   "dur": 1.6
+  },
+  {
+   "who": "both",
+   "text": "Give a big hug!",
+   "t": 396.026,
+   "dur": 0.927
+  },
+  {
+   "who": "both",
+   "text": "High five! Teamwork!",
+   "t": 398.703,
+   "dur": 1.191
+  },
+  {
+   "who": "both",
+   "text": "Hearts so happy! Jump, jump!",
+   "t": 401.644,
+   "dur": 1.812
+  },
+  {
+   "who": "both",
+   "text": "Sharing is caring! Hooray!",
+   "t": 405.206,
+   "dur": 1.44
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 408.396,
+   "dur": 1.022
+  },
+  {
+   "who": "both",
+   "text": "Share with your friend! Give, give, give!",
+   "t": 409.768,
+   "dur": 2.133
+  },
+  {
+   "who": "both",
+   "text": "Take turns! You go, I go!",
+   "t": 412.951,
+   "dur": 1.6
+  },
+  {
+   "who": "both",
+   "text": "Give a big hug!",
+   "t": 415.601,
+   "dur": 0.927
+  },
+  {
+   "who": "both",
+   "text": "High five! Teamwork!",
+   "t": 417.578,
+   "dur": 1.191
+  },
+  {
+   "who": "both",
+   "text": "Hearts so happy! Jump, jump!",
+   "t": 419.82,
+   "dur": 1.812
+  },
+  {
+   "who": "both",
+   "text": "Sharing is caring! Hooray!",
+   "t": 422.681,
+   "dur": 1.44
+  },
+  {
+   "who": "gul",
+   "text": "Quiz time! Are you ready?",
+   "t": 425.672,
+   "dur": 1.303
+  },
+  {
+   "who": "gul",
+   "text": "What do we say when we want a turn?",
+   "t": 427.425,
+   "dur": 1.618
+  },
+  {
+   "who": "mishu",
+   "text": "Can I have a turn, please?",
+   "t": 431.693,
+   "dur": 1.291
+  },
+  {
+   "who": "mishu",
+   "text": "What do we say when a friend shares?",
+   "t": 433.633,
+   "dur": 1.631
+  },
+  {
+   "who": "gul",
+   "text": "Thank you!",
+   "t": 437.914,
+   "dur": 0.689
+  },
+  {
+   "who": "gul",
+   "text": "Six cookies, two friends. How many each?",
+   "t": 439.253,
+   "dur": 2.024
+  },
+  {
+   "who": "mishu",
+   "text": "Three each!",
+   "t": 443.927,
+   "dur": 0.71
+  },
+  {
+   "who": "mishu",
+   "text": "There is one swing. What do we do?",
+   "t": 445.288,
+   "dur": 1.926
+  },
+  {
+   "who": "gul",
+   "text": "Take turns!",
+   "t": 449.864,
+   "dur": 0.775
+  },
+  {
+   "who": "gul",
+   "text": "Is grabbing kind or unkind?",
+   "t": 451.289,
+   "dur": 1.883
+  },
+  {
+   "who": "mishu",
+   "text": "Unkind! Ask nicely.",
+   "t": 455.822,
+   "dur": 1.502
+  },
+  {
+   "who": "mishu",
+   "text": "How does sharing make us feel?",
+   "t": 457.974,
+   "dur": 1.514
+  },
+  {
+   "who": "gul",
+   "text": "Happy!",
+   "t": 462.138,
+   "dur": 0.554
+  },
+  {
+   "who": "gul",
+   "text": "Your friend forgot her umbrella. What can you do?",
+   "t": 463.342,
+   "dur": 2.48
+  },
+  {
+   "who": "mishu",
+   "text": "Share yours!",
+   "t": 468.473,
+   "dur": 0.813
+  },
+  {
+   "who": "mishu",
+   "text": "Sharing is...?",
+   "t": 469.935,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Caring!",
+   "t": 473.386,
+   "dur": 0.596
+  },
+  {
+   "who": "gul",
+   "text": "Eight cookies, four friends. How many each?",
+   "t": 474.632,
+   "dur": 2.007
+  },
+  {
+   "who": "mishu",
+   "text": "Two each!",
+   "t": 479.288,
+   "dur": 0.639
+  },
+  {
+   "who": "mishu",
+   "text": "A friend is sitting alone. What can you do?",
+   "t": 480.578,
+   "dur": 2.222
+  },
+  {
+   "who": "gul",
+   "text": "Ask them to play!",
+   "t": 485.449,
+   "dur": 1.057
+  },
+  {
+   "who": "gul",
+   "text": "Who can we share with at home?",
+   "t": 487.157,
+   "dur": 1.284
+  },
+  {
+   "who": "mishu",
+   "text": "Our family!",
+   "t": 491.09,
+   "dur": 0.753
+  },
+  {
+   "who": "mishu",
+   "text": "Two friends want the swing. What do we do?",
+   "t": 492.493,
+   "dur": 2.331
+  },
+  {
+   "who": "gul",
+   "text": "Take turns!",
+   "t": 497.474,
+   "dur": 0.775
+  },
+  {
+   "who": "mishu",
+   "text": "Today, share something with a friend, or your family!",
+   "t": 498.898,
+   "dur": 2.672
+  },
+  {
+   "who": "gul",
+   "text": "Remember: sharing is caring!",
+   "t": 501.92,
+   "dur": 1.46
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, kind friends!",
+   "t": 503.73,
+   "dur": 1.348
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "room",
+   "t0": 0.0,
+   "tug_t": 0.0,
+   "stop_t": 1.649,
+   "kids_t": 3.048,
+   "t1": 7.308
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 7.308,
+   "title": "WHAT IS SHARING?",
+   "t1": 9.412
+  },
+  {
+   "kind": "what",
+   "bg": "room",
+   "t0": 9.412,
+   "l1": 9.412,
+   "l2": 13.085,
+   "l3": 15.263,
+   "t1": 18.353
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 18.353,
+   "title": "SHARING STORIES!",
+   "t1": 21.304
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 21.304,
+   "key": "cookie",
+   "num": 1,
+   "setup_t": 21.304,
+   "prob_t": 23.067,
+   "sol_t": 28.572,
+   "end_t": 31.834,
+   "t1": 33.957
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 33.957,
+   "key": "crayons",
+   "num": 2,
+   "setup_t": 33.957,
+   "prob_t": 36.265,
+   "sol_t": 40.688,
+   "end_t": 43.999,
+   "t1": 46.042
+  },
+  {
+   "kind": "story",
+   "bg": "park",
+   "t0": 46.042,
+   "key": "swing",
+   "num": 3,
+   "setup_t": 46.042,
+   "prob_t": 47.615,
+   "sol_t": 52.545,
+   "end_t": 56.1,
+   "t1": 58.007
+  },
+  {
+   "kind": "story",
+   "bg": "park",
+   "t0": 58.007,
+   "key": "umbrella",
+   "num": 4,
+   "setup_t": 58.007,
+   "prob_t": 59.523,
+   "sol_t": 64.18,
+   "end_t": 66.961,
+   "t1": 68.89
+  },
+  {
+   "kind": "story",
+   "bg": "park",
+   "t0": 68.89,
+   "key": "sandcastle",
+   "num": 5,
+   "setup_t": 68.89,
+   "prob_t": 70.956,
+   "sol_t": 76.272,
+   "end_t": 79.684,
+   "t1": 82.202
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 82.202,
+   "key": "car",
+   "num": 6,
+   "setup_t": 82.202,
+   "prob_t": 84.217,
+   "sol_t": 89.246,
+   "end_t": 91.818,
+   "t1": 93.756
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 93.756,
+   "key": "ball",
+   "num": 7,
+   "setup_t": 93.756,
+   "prob_t": 95.708,
+   "sol_t": 100.37,
+   "end_t": 103.352,
+   "t1": 105.594
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 105.594,
+   "key": "teddy",
+   "num": 8,
+   "setup_t": 105.594,
+   "prob_t": 107.586,
+   "sol_t": 112.354,
+   "end_t": 115.134,
+   "t1": 117.384
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 117.384,
+   "key": "pizza",
+   "num": 9,
+   "setup_t": 117.384,
+   "prob_t": 119.039,
+   "sol_t": 123.715,
+   "end_t": 127.113,
+   "t1": 129.013
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 129.013,
+   "key": "apple",
+   "num": 10,
+   "setup_t": 129.013,
+   "prob_t": 130.974,
+   "sol_t": 135.489,
+   "end_t": 137.94,
+   "t1": 140.396
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 140.396,
+   "title": "FAIR SHARE!",
+   "t1": 144.191
+  },
+  {
+   "kind": "fair",
+   "bg": "room",
+   "t0": 144.191,
+   "key": "cookie",
+   "n": 6,
+   "people": 2,
+   "deal_t": 149.584,
+   "answer_t": 151.805,
+   "t1": 153.598
+  },
+  {
+   "kind": "fair",
+   "bg": "room",
+   "t0": 153.598,
+   "key": "apple",
+   "n": 4,
+   "people": 2,
+   "deal_t": 158.902,
+   "answer_t": 160.916,
+   "t1": 162.748
+  },
+  {
+   "kind": "fair",
+   "bg": "room",
+   "t0": 162.748,
+   "key": "crayons1",
+   "n": 10,
+   "people": 2,
+   "deal_t": 168.255,
+   "answer_t": 170.477,
+   "t1": 172.322
+  },
+  {
+   "kind": "fair",
+   "bg": "room",
+   "t0": 172.322,
+   "key": "strawberry",
+   "n": 8,
+   "people": 4,
+   "deal_t": 177.834,
+   "answer_t": 179.848,
+   "t1": 181.68
+  },
+  {
+   "kind": "fair",
+   "bg": "room",
+   "t0": 181.68,
+   "key": "cookie",
+   "n": 8,
+   "people": 4,
+   "deal_t": 186.966,
+   "answer_t": 189.187,
+   "t1": 191.04
+  },
+  {
+   "kind": "fair",
+   "bg": "room",
+   "t0": 191.04,
+   "key": "apple",
+   "n": 6,
+   "people": 3,
+   "deal_t": 196.431,
+   "answer_t": 198.445,
+   "t1": 200.277
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 200.277,
+   "title": "MY TURN, YOUR TURN!",
+   "t1": 203.22
+  },
+  {
+   "kind": "turns",
+   "bg": "park",
+   "t0": 203.22,
+   "ts": [
+    203.22,
+    205.341,
+    207.776,
+    210.013
+   ],
+   "t1": 214.693
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 214.693,
+   "title": "ASK NICELY!",
+   "t1": 217.458
+  },
+  {
+   "kind": "ask",
+   "bg": "park",
+   "t0": 217.458,
+   "key": "ball",
+   "ask_t": 217.458,
+   "ans_t": 222.764,
+   "t1": 224.882
+  },
+  {
+   "kind": "ask",
+   "bg": "park",
+   "t0": 224.882,
+   "key": "swing",
+   "ask_t": 224.882,
+   "ans_t": 230.294,
+   "t1": 232.934
+  },
+  {
+   "kind": "ask",
+   "bg": "park",
+   "t0": 232.934,
+   "key": "crayons",
+   "ask_t": 232.934,
+   "ans_t": 238.307,
+   "t1": 240.42
+  },
+  {
+   "kind": "ask",
+   "bg": "park",
+   "t0": 240.42,
+   "key": "car",
+   "ask_t": 240.42,
+   "ans_t": 245.98,
+   "t1": 248.08
+  },
+  {
+   "kind": "ask",
+   "bg": "park",
+   "t0": 248.08,
+   "key": "cookie",
+   "ask_t": 248.08,
+   "ans_t": 253.137,
+   "t1": 255.041
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 255.041,
+   "title": "KIND OR UNKIND?",
+   "t1": 258.162
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 258.162,
+   "key": "share",
+   "good": true,
+   "q": "SHARING YOUR TOYS WITH A FRIEND?",
+   "answer_t": 261.721,
+   "t1": 263.446
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 263.446,
+   "key": "grab",
+   "good": false,
+   "q": "GRABBING A TOY AWAY FROM A FRIEND?",
+   "answer_t": 267.143,
+   "t1": 269.76
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 269.76,
+   "key": "wait",
+   "good": true,
+   "q": "WAITING FOR YOUR TURN ON THE SLIDE?",
+   "answer_t": 273.389,
+   "t1": 275.209
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 275.209,
+   "key": "mine",
+   "good": false,
+   "q": "SHOUTING, MINE! MINE! MINE!",
+   "answer_t": 278.666,
+   "t1": 280.609
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 280.609,
+   "key": "help",
+   "good": true,
+   "q": "HELPING A FRIEND BUILD A TOWER?",
+   "answer_t": 284.224,
+   "t1": 285.758
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 285.758,
+   "key": "thanks",
+   "good": true,
+   "q": "SAYING THANK YOU WHEN A FRIEND SHARES?",
+   "answer_t": 289.54,
+   "t1": 291.107
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 291.107,
+   "key": "push",
+   "good": false,
+   "q": "PUSHING TO BE FIRST ON THE SLIDE?",
+   "answer_t": 294.781,
+   "t1": 296.711
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 296.711,
+   "key": "invite",
+   "good": true,
+   "q": "ASKING A LONELY FRIEND TO PLAY?",
+   "answer_t": 300.44,
+   "t1": 302.501
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 302.501,
+   "key": "hide",
+   "good": false,
+   "q": "HIDING ALL THE COOKIES FOR YOURSELF?",
+   "answer_t": 306.235,
+   "t1": 308.062
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 308.062,
+   "key": "sorry",
+   "good": true,
+   "q": "SAYING SORRY WHEN YOU BUMP A FRIEND?",
+   "answer_t": 311.773,
+   "t1": 313.44
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 313.44,
+   "title": "SAY THANK YOU!",
+   "t1": 316.247
+  },
+  {
+   "kind": "thanks",
+   "bg": "room",
+   "t0": 316.247,
+   "key": "cookie",
+   "say_t": 316.247,
+   "ty_t": 319.722,
+   "t1": 321.061
+  },
+  {
+   "kind": "thanks",
+   "bg": "room",
+   "t0": 321.061,
+   "key": "crayons",
+   "say_t": 321.061,
+   "ty_t": 324.81,
+   "t1": 326.149
+  },
+  {
+   "kind": "thanks",
+   "bg": "room",
+   "t0": 326.149,
+   "key": "umbrella",
+   "say_t": 326.149,
+   "ty_t": 329.547,
+   "t1": 330.886
+  },
+  {
+   "kind": "thanks",
+   "bg": "room",
+   "t0": 330.886,
+   "key": "ball",
+   "say_t": 330.886,
+   "ty_t": 333.858,
+   "t1": 335.197
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 335.197,
+   "title": "SHARING AT HOME!",
+   "t1": 337.746
+  },
+  {
+   "kind": "family",
+   "bg": "room",
+   "t0": 337.746,
+   "key": "plate",
+   "num": 1,
+   "say_t": 337.746,
+   "t1": 341.722
+  },
+  {
+   "kind": "family",
+   "bg": "room",
+   "t0": 341.722,
+   "key": "crayons",
+   "num": 2,
+   "say_t": 341.722,
+   "t1": 344.677
+  },
+  {
+   "kind": "family",
+   "bg": "room",
+   "t0": 344.677,
+   "key": "cookie",
+   "num": 3,
+   "say_t": 344.677,
+   "t1": 348.647
+  },
+  {
+   "kind": "family",
+   "bg": "room",
+   "t0": 348.647,
+   "key": "teddy",
+   "num": 4,
+   "say_t": 348.647,
+   "t1": 351.529
+  },
+  {
+   "kind": "chant",
+   "bg": "room",
+   "t0": 351.529,
+   "l": [
+    351.529,
+    353.615,
+    355.597,
+    357.722,
+    359.745,
+    361.831,
+    363.813,
+    365.937,
+    367.96,
+    370.046,
+    372.028,
+    374.153
+   ],
+   "t1": 376.476
+  },
+  {
+   "kind": "heart",
+   "bg": "room",
+   "t0": 376.476,
+   "l1": 376.476,
+   "grow": [
+    379.08,
+    380.305,
+    381.516,
+    382.828
+   ],
+   "t1": 385.93
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 385.93,
+   "title": "SHARING DANCE!",
+   "t1": 388.793
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 388.793,
+   "move": "sway",
+   "fast": false,
+   "word": "SHARE WITH YOUR FRIEND!",
+   "say_t": 388.793,
+   "t1": 392.676
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 392.676,
+   "move": "hop",
+   "fast": false,
+   "word": "TAKE TURNS!",
+   "say_t": 392.676,
+   "t1": 396.026
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 396.026,
+   "move": "wiggle",
+   "fast": false,
+   "word": "GIVE A BIG HUG!",
+   "say_t": 396.026,
+   "t1": 398.703
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 398.703,
+   "move": "jump",
+   "fast": false,
+   "word": "HIGH FIVE!",
+   "say_t": 398.703,
+   "t1": 401.644
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 401.644,
+   "move": "jump",
+   "fast": false,
+   "word": "HEARTS SO HAPPY!",
+   "say_t": 401.644,
+   "t1": 405.206
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 405.206,
+   "move": "spin",
+   "fast": false,
+   "word": "SHARING IS CARING!",
+   "say_t": 405.206,
+   "t1": 408.396
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 408.396,
+   "title": "FASTER!",
+   "t1": 409.768
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 409.768,
+   "move": "sway",
+   "fast": true,
+   "word": "SHARE WITH YOUR FRIEND!",
+   "say_t": 409.768,
+   "t1": 412.951
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 412.951,
+   "move": "hop",
+   "fast": true,
+   "word": "TAKE TURNS!",
+   "say_t": 412.951,
+   "t1": 415.601
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 415.601,
+   "move": "wiggle",
+   "fast": true,
+   "word": "GIVE A BIG HUG!",
+   "say_t": 415.601,
+   "t1": 417.578
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 417.578,
+   "move": "jump",
+   "fast": true,
+   "word": "HIGH FIVE!",
+   "say_t": 417.578,
+   "t1": 419.82
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 419.82,
+   "move": "jump",
+   "fast": true,
+   "word": "HEARTS SO HAPPY!",
+   "say_t": 419.82,
+   "t1": 422.681
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 422.681,
+   "move": "spin",
+   "fast": true,
+   "word": "SHARING IS CARING!",
+   "say_t": 422.681,
+   "t1": 425.172
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 425.172,
+   "title": "SHARING QUIZ!",
+   "t1": 427.425
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 427.425,
+   "q": "WHAT DO WE SAY WHEN WE WANT A TURN?",
+   "vis": "heart",
+   "answer_t": 431.693,
+   "t1": 433.633
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 433.633,
+   "q": "WHAT DO WE SAY WHEN A FRIEND SHARES?",
+   "vis": "heart",
+   "answer_t": 437.914,
+   "t1": 439.253
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 439.253,
+   "q": "SIX COOKIES, TWO FRIENDS. HOW MANY EACH?",
+   "vis": "cookie",
+   "answer_t": 443.927,
+   "t1": 445.288
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 445.288,
+   "q": "THERE IS ONE SWING. WHAT DO WE DO?",
+   "vis": "swing",
+   "answer_t": 449.864,
+   "t1": 451.289
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 451.289,
+   "q": "IS GRABBING KIND OR UNKIND?",
+   "vis": "car",
+   "answer_t": 455.822,
+   "t1": 457.974
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 457.974,
+   "q": "HOW DOES SHARING MAKE US FEEL?",
+   "vis": "heart",
+   "answer_t": 462.138,
+   "t1": 463.342
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 463.342,
+   "q": "YOUR FRIEND FORGOT HER UMBRELLA. WHAT CAN YOU DO?",
+   "vis": "umbrella",
+   "answer_t": 468.473,
+   "t1": 469.935
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 469.935,
+   "q": "SHARING IS...?",
+   "vis": "heart",
+   "answer_t": 473.386,
+   "t1": 474.632
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 474.632,
+   "q": "EIGHT COOKIES, FOUR FRIENDS. HOW MANY EACH?",
+   "vis": "cookie",
+   "answer_t": 479.288,
+   "t1": 480.578
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 480.578,
+   "q": "A FRIEND IS SITTING ALONE. WHAT CAN YOU DO?",
+   "vis": "ball",
+   "answer_t": 485.449,
+   "t1": 487.157
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 487.157,
+   "q": "WHO CAN WE SHARE WITH AT HOME?",
+   "vis": "heart",
+   "answer_t": 491.09,
+   "t1": 492.493
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 492.493,
+   "q": "TWO FRIENDS WANT THE SWING. WHAT DO WE DO?",
+   "vis": "swing",
+   "answer_t": 497.474,
+   "t1": 498.898
+  },
+  {
+   "kind": "outro",
+   "bg": "park",
+   "t0": 498.898,
+   "bye_t": 503.73,
+   "t1": 507.028
+  }
+ ],
+ "prompts": [
+  [
+   26.772,
+   28.572
+  ],
+  [
+   38.888,
+   40.688
+  ],
+  [
+   50.745,
+   52.545
+  ],
+  [
+   62.38,
+   64.18
+  ],
+  [
+   74.472,
+   76.272
+  ],
+  [
+   87.446,
+   89.246
+  ],
+  [
+   98.57,
+   100.37
+  ],
+  [
+   110.554,
+   112.354
+  ],
+  [
+   121.915,
+   123.715
+  ],
+  [
+   133.689,
+   135.489
+  ],
+  [
+   147.784,
+   149.584
+  ],
+  [
+   157.102,
+   158.902
+  ],
+  [
+   166.455,
+   168.255
+  ],
+  [
+   176.034,
+   177.834
+  ],
+  [
+   185.166,
+   186.966
+  ],
+  [
+   194.631,
+   196.431
+  ],
+  [
+   219.552,
+   221.352
+  ],
+  [
+   227.081,
+   228.881
+  ],
+  [
+   235.095,
+   236.895
+  ],
+  [
+   242.768,
+   244.568
+  ],
+  [
+   249.924,
+   251.724
+  ],
+  [
+   259.921,
+   261.721
+  ],
+  [
+   265.343,
+   267.143
+  ],
+  [
+   271.589,
+   273.389
+  ],
+  [
+   276.866,
+   278.666
+  ],
+  [
+   282.424,
+   284.224
+  ],
+  [
+   287.74,
+   289.54
+  ],
+  [
+   292.981,
+   294.781
+  ],
+  [
+   298.64,
+   300.44
+  ],
+  [
+   304.435,
+   306.235
+  ],
+  [
+   309.973,
+   311.773
+  ],
+  [
+   318.122,
+   319.722
+  ],
+  [
+   323.21,
+   324.81
+  ],
+  [
+   327.947,
+   329.547
+  ],
+  [
+   332.258,
+   333.858
+  ],
+  [
+   391.076,
+   392.676
+  ],
+  [
+   394.426,
+   396.026
+  ],
+  [
+   397.103,
+   398.703
+  ],
+  [
+   400.044,
+   401.644
+  ],
+  [
+   403.606,
+   405.206
+  ],
+  [
+   406.796,
+   408.396
+  ],
+  [
+   412.051,
+   412.951
+  ],
+  [
+   414.701,
+   415.601
+  ],
+  [
+   416.678,
+   417.578
+  ],
+  [
+   418.92,
+   419.82
+  ],
+  [
+   421.781,
+   422.681
+  ],
+  [
+   424.272,
+   425.172
+  ],
+  [
+   429.293,
+   431.693
+  ],
+  [
+   435.514,
+   437.914
+  ],
+  [
+   441.527,
+   443.927
+  ],
+  [
+   447.464,
+   449.864
+  ],
+  [
+   453.422,
+   455.822
+  ],
+  [
+   459.738,
+   462.138
+  ],
+  [
+   466.073,
+   468.473
+  ],
+  [
+   470.986,
+   473.386
+  ],
+  [
+   476.888,
+   479.288
+  ],
+  [
+   483.049,
+   485.449
+  ],
+  [
+   488.69,
+   491.09
+  ],
+  [
+   495.074,
+   497.474
+  ]
+ ],
+ "stars": [
+  31.834,
+  43.999,
+  56.1,
+  66.961,
+  79.684,
+  91.818,
+  103.352,
+  115.134,
+  127.113,
+  137.94,
+  151.805,
+  160.916,
+  170.477,
+  179.848,
+  189.187,
+  198.445,
+  433.633,
+  439.253,
+  445.288,
+  451.289,
+  457.974,
+  463.342,
+  469.935,
+  474.632,
+  480.578,
+  487.157,
+  492.493,
+  498.898
+ ],
+ "total": 507.03
+}

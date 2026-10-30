@@ -1,0 +1,2965 @@
+{
+ "lines": [
+  {
+   "who": "gul",
+   "text": "Uh oh! I need to go! I need to go!",
+   "t": 0.0,
+   "dur": 1.733
+  },
+  {
+   "who": "both",
+   "text": "Potty time!",
+   "t": 2.083,
+   "dur": 0.827
+  },
+  {
+   "who": "mishu",
+   "text": "Let's learn how to use the potty, like a big kid!",
+   "t": 3.259,
+   "dur": 2.483
+  },
+  {
+   "who": "gul",
+   "text": "You can do it! Let's go!",
+   "t": 6.092,
+   "dur": 1.325
+  },
+  {
+   "who": "mishu",
+   "text": "Let's look at everything in the bathroom!",
+   "t": 8.467,
+   "dur": 1.838
+  },
+  {
+   "who": "gul",
+   "text": "This is a potty! It's just your size.",
+   "t": 10.955,
+   "dur": 1.938
+  },
+  {
+   "who": "mishu",
+   "text": "This is a big toilet, for big kids and grown-ups.",
+   "t": 13.644,
+   "dur": 2.835
+  },
+  {
+   "who": "gul",
+   "text": "A step stool helps you climb up!",
+   "t": 17.229,
+   "dur": 1.587
+  },
+  {
+   "who": "mishu",
+   "text": "Toilet paper, for wiping.",
+   "t": 19.566,
+   "dur": 1.465
+  },
+  {
+   "who": "gul",
+   "text": "Soap, to wash your hands.",
+   "t": 21.781,
+   "dur": 1.364
+  },
+  {
+   "who": "mishu",
+   "text": "A towel, to dry your hands.",
+   "t": 23.895,
+   "dur": 1.612
+  },
+  {
+   "who": "gul",
+   "text": "And big kid underwear! Yay!",
+   "t": 26.257,
+   "dur": 1.601
+  },
+  {
+   "who": "mishu",
+   "text": "A sticker chart, to collect stars!",
+   "t": 28.608,
+   "dur": 1.947
+  },
+  {
+   "who": "gul",
+   "text": "How do you know when you need to go?",
+   "t": 31.605,
+   "dur": 1.43
+  },
+  {
+   "who": "mishu",
+   "text": "Your tummy feels funny, and you wiggle and dance!",
+   "t": 33.485,
+   "dur": 2.602
+  },
+  {
+   "who": "gul",
+   "text": "You hold your tummy, or cross your legs.",
+   "t": 36.737,
+   "dur": 1.957
+  },
+  {
+   "who": "mishu",
+   "text": "You stop playing, because you need to go.",
+   "t": 39.344,
+   "dur": 2.115
+  },
+  {
+   "who": "gul",
+   "text": "Then, tell a grown-up: I need to go potty!",
+   "t": 42.109,
+   "dur": 2.191
+  },
+  {
+   "who": "mishu",
+   "text": "Let's do it step by step! Gul, your turn!",
+   "t": 45.45,
+   "dur": 2.342
+  },
+  {
+   "who": "mishu",
+   "text": "Tell a grown-up: I need to go!",
+   "t": 48.242,
+   "dur": 1.732
+  },
+  {
+   "who": "gul",
+   "text": "Step 1!",
+   "t": 50.324,
+   "dur": 0.747
+  },
+  {
+   "who": "gul",
+   "text": "Go to the bathroom.",
+   "t": 52.22,
+   "dur": 1.079
+  },
+  {
+   "who": "mishu",
+   "text": "Step 2!",
+   "t": 53.649,
+   "dur": 0.743
+  },
+  {
+   "who": "mishu",
+   "text": "Pull your pants down.",
+   "t": 55.542,
+   "dur": 1.139
+  },
+  {
+   "who": "gul",
+   "text": "Step 3!",
+   "t": 57.031,
+   "dur": 0.785
+  },
+  {
+   "who": "gul",
+   "text": "Sit on the potty.",
+   "t": 58.967,
+   "dur": 0.943
+  },
+  {
+   "who": "mishu",
+   "text": "Step 4!",
+   "t": 60.259,
+   "dur": 0.745
+  },
+  {
+   "who": "mishu",
+   "text": "Pee or poop. Relax, and take your time.",
+   "t": 62.155,
+   "dur": 2.432
+  },
+  {
+   "who": "gul",
+   "text": "Step 5!",
+   "t": 64.936,
+   "dur": 0.82
+  },
+  {
+   "who": "gul",
+   "text": "Wipe with toilet paper.",
+   "t": 66.906,
+   "dur": 1.274
+  },
+  {
+   "who": "mishu",
+   "text": "Step 6!",
+   "t": 68.53,
+   "dur": 0.822
+  },
+  {
+   "who": "mishu",
+   "text": "Pull your pants up.",
+   "t": 70.502,
+   "dur": 1.014
+  },
+  {
+   "who": "gul",
+   "text": "Step 7!",
+   "t": 71.866,
+   "dur": 0.852
+  },
+  {
+   "who": "gul",
+   "text": "Flush! Bye bye!",
+   "t": 73.868,
+   "dur": 0.994
+  },
+  {
+   "who": "mishu",
+   "text": "Step 8!",
+   "t": 75.212,
+   "dur": 0.741
+  },
+  {
+   "who": "mishu",
+   "text": "Wash your hands with soap.",
+   "t": 77.103,
+   "dur": 1.269
+  },
+  {
+   "who": "gul",
+   "text": "Step 9!",
+   "t": 78.722,
+   "dur": 0.795
+  },
+  {
+   "who": "gul",
+   "text": "Dry your hands. All done!",
+   "t": 80.667,
+   "dur": 1.39
+  },
+  {
+   "who": "mishu",
+   "text": "Step 10!",
+   "t": 82.407,
+   "dur": 0.792
+  },
+  {
+   "who": "both",
+   "text": "Hooray! Gul did it all by himself!",
+   "t": 84.349,
+   "dur": 1.935
+  },
+  {
+   "who": "gul",
+   "text": "Now Mishu's turn! Say the steps with us!",
+   "t": 87.434,
+   "dur": 2.144
+  },
+  {
+   "who": "both",
+   "text": "Tell a grown-up: I need to go!",
+   "t": 90.028,
+   "dur": 1.732
+  },
+  {
+   "who": "both",
+   "text": "Go to the bathroom.",
+   "t": 92.16,
+   "dur": 1.079
+  },
+  {
+   "who": "both",
+   "text": "Pull your pants down.",
+   "t": 93.639,
+   "dur": 1.139
+  },
+  {
+   "who": "both",
+   "text": "Sit on the potty.",
+   "t": 95.178,
+   "dur": 0.943
+  },
+  {
+   "who": "both",
+   "text": "Pee or poop. Relax, and take your time.",
+   "t": 96.52,
+   "dur": 2.432
+  },
+  {
+   "who": "both",
+   "text": "Wipe with toilet paper.",
+   "t": 99.352,
+   "dur": 1.323
+  },
+  {
+   "who": "both",
+   "text": "Pull your pants up.",
+   "t": 101.075,
+   "dur": 1.064
+  },
+  {
+   "who": "both",
+   "text": "Flush! Bye bye!",
+   "t": 102.539,
+   "dur": 1.035
+  },
+  {
+   "who": "both",
+   "text": "Wash your hands with soap.",
+   "t": 103.975,
+   "dur": 1.272
+  },
+  {
+   "who": "both",
+   "text": "Dry your hands. All done!",
+   "t": 105.647,
+   "dur": 1.449
+  },
+  {
+   "who": "mishu",
+   "text": "Now let's say all the steps, super fast!",
+   "t": 107.995,
+   "dur": 2.204
+  },
+  {
+   "who": "both",
+   "text": "Tell!",
+   "t": 110.649,
+   "dur": 0.482
+  },
+  {
+   "who": "both",
+   "text": "Go!",
+   "t": 111.331,
+   "dur": 0.474
+  },
+  {
+   "who": "both",
+   "text": "Pants down!",
+   "t": 112.005,
+   "dur": 0.814
+  },
+  {
+   "who": "both",
+   "text": "Sit!",
+   "t": 113.019,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Pee or poop!",
+   "t": 113.726,
+   "dur": 0.867
+  },
+  {
+   "who": "both",
+   "text": "Wipe!",
+   "t": 114.793,
+   "dur": 0.505
+  },
+  {
+   "who": "both",
+   "text": "Pants up!",
+   "t": 115.498,
+   "dur": 0.715
+  },
+  {
+   "who": "both",
+   "text": "Flush!",
+   "t": 116.413,
+   "dur": 0.55
+  },
+  {
+   "who": "both",
+   "text": "Wash!",
+   "t": 117.163,
+   "dur": 0.572
+  },
+  {
+   "who": "both",
+   "text": "Dry!",
+   "t": 117.935,
+   "dur": 0.538
+  },
+  {
+   "who": "mishu",
+   "text": "Wash your hands while we count to twenty! Scrub, scrub!",
+   "t": 118.672,
+   "dur": 3.018
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 121.941,
+   "dur": 0.497
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 122.588,
+   "dur": 0.462
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 123.2,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 123.888,
+   "dur": 0.537
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 124.575,
+   "dur": 0.577
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 125.302,
+   "dur": 0.581
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 126.033,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 126.791,
+   "dur": 0.496
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 127.437,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 128.117,
+   "dur": 0.507
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 128.774,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 129.572,
+   "dur": 0.607
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 130.329,
+   "dur": 0.743
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 131.222,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 132.12,
+   "dur": 0.725
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 132.995,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 133.926,
+   "dur": 0.857
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 134.933,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Nineteen!",
+   "t": 135.769,
+   "dur": 0.755
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 136.673,
+   "dur": 0.655
+  },
+  {
+   "who": "gul",
+   "text": "Clean hands! Germs, go away!",
+   "t": 137.479,
+   "dur": 1.644
+  },
+  {
+   "who": "both",
+   "text": "This is the way we sit on the potty,",
+   "t": 139.772,
+   "dur": 1.762
+  },
+  {
+   "who": "both",
+   "text": "sit on the potty, sit on the potty!",
+   "t": 141.834,
+   "dur": 1.857
+  },
+  {
+   "who": "both",
+   "text": "This is the way we flush the toilet,",
+   "t": 143.991,
+   "dur": 1.797
+  },
+  {
+   "who": "both",
+   "text": "flush, flush, flush!",
+   "t": 146.087,
+   "dur": 1.213
+  },
+  {
+   "who": "both",
+   "text": "This is the way we wash our hands,",
+   "t": 147.601,
+   "dur": 1.822
+  },
+  {
+   "who": "both",
+   "text": "wash our hands, wash our hands!",
+   "t": 149.723,
+   "dur": 1.982
+  },
+  {
+   "who": "gul",
+   "text": "When is a good time to try the potty?",
+   "t": 152.804,
+   "dur": 1.851
+  },
+  {
+   "who": "mishu",
+   "text": "When you wake up in the morning!",
+   "t": 155.105,
+   "dur": 1.303
+  },
+  {
+   "who": "gul",
+   "text": "After you eat lunch!",
+   "t": 157.058,
+   "dur": 1.116
+  },
+  {
+   "who": "mishu",
+   "text": "Before a ride in the car!",
+   "t": 158.824,
+   "dur": 1.279
+  },
+  {
+   "who": "gul",
+   "text": "Before your bath!",
+   "t": 160.753,
+   "dur": 0.974
+  },
+  {
+   "who": "mishu",
+   "text": "After your nap!",
+   "t": 162.377,
+   "dur": 0.841
+  },
+  {
+   "who": "gul",
+   "text": "Before you go out to play!",
+   "t": 163.868,
+   "dur": 1.402
+  },
+  {
+   "who": "mishu",
+   "text": "And before you go to bed!",
+   "t": 165.92,
+   "dur": 1.358
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids can use the potty everywhere!",
+   "t": 168.427,
+   "dur": 1.965
+  },
+  {
+   "who": "gul",
+   "text": "At home!",
+   "t": 170.843,
+   "dur": 0.672
+  },
+  {
+   "who": "mishu",
+   "text": "At school!",
+   "t": 172.165,
+   "dur": 0.76
+  },
+  {
+   "who": "gul",
+   "text": "At the park! Ask a grown-up to find the bathroom.",
+   "t": 173.575,
+   "dur": 2.482
+  },
+  {
+   "who": "mishu",
+   "text": "At Grandma's house!",
+   "t": 176.707,
+   "dur": 1.154
+  },
+  {
+   "who": "gul",
+   "text": "Guess what? Everybody goes potty! Even animals!",
+   "t": 179.011,
+   "dur": 2.469
+  },
+  {
+   "who": "mishu",
+   "text": "A puppy goes potty on the grass, outside!",
+   "t": 181.93,
+   "dur": 2.263
+  },
+  {
+   "who": "gul",
+   "text": "A kitty goes potty in her litter box!",
+   "t": 184.743,
+   "dur": 1.967
+  },
+  {
+   "who": "mishu",
+   "text": "A duckling goes potty in the pond! Quack!",
+   "t": 187.26,
+   "dur": 2.519
+  },
+  {
+   "who": "gul",
+   "text": "An elephant does a giant potty! Wow!",
+   "t": 190.328,
+   "dur": 2.079
+  },
+  {
+   "who": "both",
+   "text": "And you go on the potty, like a big kid!",
+   "t": 192.957,
+   "dur": 2.084
+  },
+  {
+   "who": "mishu",
+   "text": "Let's learn some potty words! Say them with us!",
+   "t": 196.291,
+   "dur": 2.523
+  },
+  {
+   "who": "gul",
+   "text": "Potty!",
+   "t": 199.264,
+   "dur": 0.544
+  },
+  {
+   "who": "both",
+   "text": "Potty!",
+   "t": 201.358,
+   "dur": 0.544
+  },
+  {
+   "who": "mishu",
+   "text": "Toilet!",
+   "t": 202.352,
+   "dur": 0.583
+  },
+  {
+   "who": "both",
+   "text": "Toilet!",
+   "t": 204.485,
+   "dur": 0.583
+  },
+  {
+   "who": "gul",
+   "text": "Wipe!",
+   "t": 205.517,
+   "dur": 0.485
+  },
+  {
+   "who": "both",
+   "text": "Wipe!",
+   "t": 207.552,
+   "dur": 0.505
+  },
+  {
+   "who": "mishu",
+   "text": "Flush!",
+   "t": 208.507,
+   "dur": 0.55
+  },
+  {
+   "who": "both",
+   "text": "Flush!",
+   "t": 210.607,
+   "dur": 0.55
+  },
+  {
+   "who": "gul",
+   "text": "Pee!",
+   "t": 211.607,
+   "dur": 0.447
+  },
+  {
+   "who": "both",
+   "text": "Pee!",
+   "t": 213.604,
+   "dur": 0.503
+  },
+  {
+   "who": "mishu",
+   "text": "Poop!",
+   "t": 214.557,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Poop!",
+   "t": 216.642,
+   "dur": 0.535
+  },
+  {
+   "who": "gul",
+   "text": "Some bathrooms have a hand dryer.",
+   "t": 217.626,
+   "dur": 1.786
+  },
+  {
+   "who": "mishu",
+   "text": "Whoa! It's so loud!",
+   "t": 221.262,
+   "dur": 1.119
+  },
+  {
+   "who": "gul",
+   "text": "It's okay! It's just warm air. You can cover your ears!",
+   "t": 222.732,
+   "dur": 2.841
+  },
+  {
+   "who": "mishu",
+   "text": "I need to go! I'll try the potty!",
+   "t": 226.222,
+   "dur": 1.828
+  },
+  {
+   "who": "gul",
+   "text": "Mishu sits on the potty, and waits.",
+   "t": 228.4,
+   "dur": 1.773
+  },
+  {
+   "who": "mishu",
+   "text": "I did it! I went in the potty!",
+   "t": 230.923,
+   "dur": 1.587
+  },
+  {
+   "who": "gul",
+   "text": "Hooray, Mishu! High five!",
+   "t": 232.86,
+   "dur": 1.391
+  },
+  {
+   "who": "mishu",
+   "text": "Sometimes, we have an accident.",
+   "t": 235.401,
+   "dur": 1.789
+  },
+  {
+   "who": "gul",
+   "text": "Oh no. I didn't make it in time.",
+   "t": 237.64,
+   "dur": 1.623
+  },
+  {
+   "who": "mishu",
+   "text": "That's okay, Gul! Everybody has accidents.",
+   "t": 239.613,
+   "dur": 2.619
+  },
+  {
+   "who": "mishu",
+   "text": "Let's change into dry clothes, and try again next time.",
+   "t": 242.582,
+   "dur": 3.222
+  },
+  {
+   "who": "gul",
+   "text": "Okay! Next time, I'll go sooner!",
+   "t": 246.155,
+   "dur": 1.675
+  },
+  {
+   "who": "gul",
+   "text": "Teddy wants to learn too! Let's help him!",
+   "t": 248.98,
+   "dur": 2.071
+  },
+  {
+   "who": "mishu",
+   "text": "Teddy says, I need to go!",
+   "t": 251.501,
+   "dur": 1.42
+  },
+  {
+   "who": "gul",
+   "text": "Teddy sits on the potty.",
+   "t": 253.271,
+   "dur": 1.315
+  },
+  {
+   "who": "mishu",
+   "text": "Flush! And now, wash your paws, Teddy!",
+   "t": 255.036,
+   "dur": 2.085
+  },
+  {
+   "who": "both",
+   "text": "Good job, Teddy!",
+   "t": 257.471,
+   "dur": 1.08
+  },
+  {
+   "who": "mishu",
+   "text": "Every time you use the potty, you get a star!",
+   "t": 259.7,
+   "dur": 2.229
+  },
+  {
+   "who": "both",
+   "text": "One star!",
+   "t": 262.379,
+   "dur": 0.796
+  },
+  {
+   "who": "both",
+   "text": "Two stars!",
+   "t": 263.526,
+   "dur": 0.796
+  },
+  {
+   "who": "both",
+   "text": "Three stars!",
+   "t": 264.672,
+   "dur": 0.867
+  },
+  {
+   "who": "both",
+   "text": "Four stars!",
+   "t": 265.889,
+   "dur": 0.855
+  },
+  {
+   "who": "both",
+   "text": "Five stars!",
+   "t": 267.094,
+   "dur": 0.877
+  },
+  {
+   "who": "both",
+   "text": "Six stars!",
+   "t": 268.321,
+   "dur": 0.895
+  },
+  {
+   "who": "both",
+   "text": "Seven stars!",
+   "t": 269.566,
+   "dur": 1.003
+  },
+  {
+   "who": "gul",
+   "text": "Seven stars! A whole week! I'm a potty star!",
+   "t": 270.919,
+   "dur": 2.476
+  },
+  {
+   "who": "mishu",
+   "text": "Now you can wear big kid underwear!",
+   "t": 274.045,
+   "dur": 1.779
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, diapers! We're big kids now!",
+   "t": 276.174,
+   "dur": 2.316
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Is it a good idea? Yes, or no?",
+   "t": 279.741,
+   "dur": 2.428
+  },
+  {
+   "who": "mishu",
+   "text": "Wash your hands after the potty?",
+   "t": 282.618,
+   "dur": 1.618
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Always wash your hands!",
+   "t": 286.286,
+   "dur": 1.615
+  },
+  {
+   "who": "gul",
+   "text": "Play with the toilet paper?",
+   "t": 288.451,
+   "dur": 1.334
+  },
+  {
+   "who": "mishu",
+   "text": "No! Toilet paper is for wiping.",
+   "t": 291.835,
+   "dur": 1.955
+  },
+  {
+   "who": "mishu",
+   "text": "Tell a grown-up when you need to go?",
+   "t": 294.34,
+   "dur": 1.527
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Good job!",
+   "t": 297.917,
+   "dur": 0.992
+  },
+  {
+   "who": "gul",
+   "text": "Wait and wait until it's too late?",
+   "t": 299.459,
+   "dur": 1.595
+  },
+  {
+   "who": "mishu",
+   "text": "No! Go as soon as you feel it.",
+   "t": 303.104,
+   "dur": 1.602
+  },
+  {
+   "who": "mishu",
+   "text": "Flush when you're done?",
+   "t": 305.256,
+   "dur": 0.993
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Flush, flush!",
+   "t": 308.299,
+   "dur": 1.094
+  },
+  {
+   "who": "gul",
+   "text": "Put toys in the toilet?",
+   "t": 309.944,
+   "dur": 1.352
+  },
+  {
+   "who": "mishu",
+   "text": "No, no! Toys stay out of the toilet!",
+   "t": 313.346,
+   "dur": 2.066
+  },
+  {
+   "who": "mishu",
+   "text": "Use a step stool to climb up?",
+   "t": 315.963,
+   "dur": 1.583
+  },
+  {
+   "who": "gul",
+   "text": "Yes! It helps you reach!",
+   "t": 319.596,
+   "dur": 1.274
+  },
+  {
+   "who": "gul",
+   "text": "Run out without pulling your pants up?",
+   "t": 321.42,
+   "dur": 1.786
+  },
+  {
+   "who": "mishu",
+   "text": "No! Pants up first!",
+   "t": 325.256,
+   "dur": 1.234
+  },
+  {
+   "who": "mishu",
+   "text": "Try the potty before bedtime?",
+   "t": 327.041,
+   "dur": 1.673
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Great idea!",
+   "t": 330.763,
+   "dur": 1.079
+  },
+  {
+   "who": "gul",
+   "text": "Tell a grown-up if you feel scared?",
+   "t": 332.392,
+   "dur": 1.702
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! Grown-ups can help!",
+   "t": 336.145,
+   "dur": 1.465
+  },
+  {
+   "who": "mishu",
+   "text": "Close the lid before you flush?",
+   "t": 338.16,
+   "dur": 1.721
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Close it, then flush!",
+   "t": 341.931,
+   "dur": 1.393
+  },
+  {
+   "who": "gul",
+   "text": "Climb on the sink?",
+   "t": 343.874,
+   "dur": 0.903
+  },
+  {
+   "who": "mishu",
+   "text": "No! Use your step stool safely.",
+   "t": 346.827,
+   "dur": 1.828
+  },
+  {
+   "who": "mishu",
+   "text": "Sit and relax on the potty?",
+   "t": 349.205,
+   "dur": 1.575
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Take your time.",
+   "t": 352.83,
+   "dur": 1.118
+  },
+  {
+   "who": "gul",
+   "text": "Hide when you need to go?",
+   "t": 354.497,
+   "dur": 1.206
+  },
+  {
+   "who": "mishu",
+   "text": "No! Tell a grown-up right away.",
+   "t": 357.753,
+   "dur": 1.701
+  },
+  {
+   "who": "both",
+   "text": "Tell a grown-up, sit on the potty,",
+   "t": 360.004,
+   "dur": 1.831
+  },
+  {
+   "who": "both",
+   "text": "wipe, and flush, and wash your hands!",
+   "t": 362.185,
+   "dur": 1.931
+  },
+  {
+   "who": "both",
+   "text": "I'm a potty star! I'm a potty star!",
+   "t": 364.466,
+   "dur": 1.927
+  },
+  {
+   "who": "both",
+   "text": "Tell a grown-up, sit on the potty,",
+   "t": 366.743,
+   "dur": 1.831
+  },
+  {
+   "who": "both",
+   "text": "wipe, and flush, and wash your hands!",
+   "t": 368.924,
+   "dur": 1.931
+  },
+  {
+   "who": "both",
+   "text": "I'm a potty star! Hooray!",
+   "t": 371.205,
+   "dur": 1.371
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! It's time for the potty dance!",
+   "t": 373.726,
+   "dur": 2.162
+  },
+  {
+   "who": "both",
+   "text": "Wiggle, wiggle, potty dance!",
+   "t": 376.339,
+   "dur": 1.738
+  },
+  {
+   "who": "both",
+   "text": "Hop to the bathroom!",
+   "t": 379.827,
+   "dur": 1.119
+  },
+  {
+   "who": "both",
+   "text": "Sit down on the potty!",
+   "t": 382.696,
+   "dur": 1.237
+  },
+  {
+   "who": "both",
+   "text": "Flush! Whoosh, whoosh!",
+   "t": 385.683,
+   "dur": 1.105
+  },
+  {
+   "who": "both",
+   "text": "Wash, wash, wash your hands!",
+   "t": 388.539,
+   "dur": 1.697
+  },
+  {
+   "who": "both",
+   "text": "Hooray! I did it!",
+   "t": 391.986,
+   "dur": 1.037
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 394.772,
+   "dur": 1.025
+  },
+  {
+   "who": "both",
+   "text": "Wiggle, wiggle, potty dance!",
+   "t": 396.147,
+   "dur": 1.738
+  },
+  {
+   "who": "both",
+   "text": "Hop to the bathroom!",
+   "t": 398.936,
+   "dur": 1.119
+  },
+  {
+   "who": "both",
+   "text": "Sit down on the potty!",
+   "t": 401.105,
+   "dur": 1.237
+  },
+  {
+   "who": "both",
+   "text": "Flush! Whoosh, whoosh!",
+   "t": 403.392,
+   "dur": 1.105
+  },
+  {
+   "who": "both",
+   "text": "Wash, wash, wash your hands!",
+   "t": 405.547,
+   "dur": 1.697
+  },
+  {
+   "who": "both",
+   "text": "Hooray! I did it!",
+   "t": 408.294,
+   "dur": 1.037
+  },
+  {
+   "who": "gul",
+   "text": "Quiz time! Are you ready?",
+   "t": 410.881,
+   "dur": 1.302
+  },
+  {
+   "who": "gul",
+   "text": "What do you say when you need to go?",
+   "t": 412.633,
+   "dur": 1.49
+  },
+  {
+   "who": "mishu",
+   "text": "I need to go potty!",
+   "t": 416.774,
+   "dur": 1.068
+  },
+  {
+   "who": "mishu",
+   "text": "What do we use to wipe?",
+   "t": 418.492,
+   "dur": 1.067
+  },
+  {
+   "who": "gul",
+   "text": "Toilet paper!",
+   "t": 422.209,
+   "dur": 0.883
+  },
+  {
+   "who": "gul",
+   "text": "What do we do after we flush?",
+   "t": 423.741,
+   "dur": 1.548
+  },
+  {
+   "who": "mishu",
+   "text": "Wash our hands!",
+   "t": 427.94,
+   "dur": 0.973
+  },
+  {
+   "who": "mishu",
+   "text": "What helps you climb up?",
+   "t": 429.563,
+   "dur": 1.145
+  },
+  {
+   "who": "gul",
+   "text": "A step stool!",
+   "t": 433.358,
+   "dur": 0.899
+  },
+  {
+   "who": "gul",
+   "text": "Is it okay to have an accident?",
+   "t": 434.907,
+   "dur": 1.783
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! Just try again next time!",
+   "t": 439.34,
+   "dur": 1.767
+  },
+  {
+   "who": "mishu",
+   "text": "What do big kids wear?",
+   "t": 441.757,
+   "dur": 1.242
+  },
+  {
+   "who": "gul",
+   "text": "Big kid underwear!",
+   "t": 445.649,
+   "dur": 1.083
+  },
+  {
+   "who": "gul",
+   "text": "What do we get on the sticker chart?",
+   "t": 447.382,
+   "dur": 1.455
+  },
+  {
+   "who": "mishu",
+   "text": "A shiny star!",
+   "t": 451.487,
+   "dur": 0.871
+  },
+  {
+   "who": "mishu",
+   "text": "How long do we wash our hands?",
+   "t": 453.008,
+   "dur": 1.717
+  },
+  {
+   "who": "gul",
+   "text": "Count to twenty!",
+   "t": 457.375,
+   "dur": 1.047
+  },
+  {
+   "who": "gul",
+   "text": "Where does a puppy go potty?",
+   "t": 459.072,
+   "dur": 1.39
+  },
+  {
+   "who": "mishu",
+   "text": "Outside, on the grass!",
+   "t": 463.112,
+   "dur": 1.239
+  },
+  {
+   "who": "mishu",
+   "text": "When should we try the potty?",
+   "t": 465.002,
+   "dur": 1.33
+  },
+  {
+   "who": "gul",
+   "text": "Before bed!",
+   "t": 468.982,
+   "dur": 0.816
+  },
+  {
+   "who": "gul",
+   "text": "What do we pull up after the potty?",
+   "t": 470.448,
+   "dur": 1.642
+  },
+  {
+   "who": "mishu",
+   "text": "Our pants!",
+   "t": 474.74,
+   "dur": 0.725
+  },
+  {
+   "who": "mishu",
+   "text": "Who can help us at the potty?",
+   "t": 476.116,
+   "dur": 1.384
+  },
+  {
+   "who": "gul",
+   "text": "A grown-up!",
+   "t": 480.15,
+   "dur": 0.726
+  },
+  {
+   "who": "gul",
+   "text": "Where do big kids wash their hands?",
+   "t": 481.525,
+   "dur": 1.861
+  },
+  {
+   "who": "mishu",
+   "text": "At the sink!",
+   "t": 486.036,
+   "dur": 0.793
+  },
+  {
+   "who": "mishu",
+   "text": "Is the hand dryer scary?",
+   "t": 487.479,
+   "dur": 1.388
+  },
+  {
+   "who": "gul",
+   "text": "No! It's just loud!",
+   "t": 491.517,
+   "dur": 1.081
+  },
+  {
+   "who": "gul",
+   "text": "What does a kitty use?",
+   "t": 493.249,
+   "dur": 1.136
+  },
+  {
+   "who": "mishu",
+   "text": "A litter box!",
+   "t": 497.034,
+   "dur": 0.865
+  },
+  {
+   "who": "mishu",
+   "text": "What do we do before the car ride?",
+   "t": 498.549,
+   "dur": 1.603
+  },
+  {
+   "who": "gul",
+   "text": "Try the potty!",
+   "t": 502.802,
+   "dur": 0.882
+  },
+  {
+   "who": "mishu",
+   "text": "You're doing great! Keep practising, every day.",
+   "t": 504.334,
+   "dur": 2.622
+  },
+  {
+   "who": "gul",
+   "text": "Remember: tell a grown-up, sit, flush, and wash!",
+   "t": 507.306,
+   "dur": 2.452
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, potty stars!",
+   "t": 510.109,
+   "dur": 1.358
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "bathroom2",
+   "t0": 0.0,
+   "wiggle_t": 0.0,
+   "title_t": 2.083,
+   "kids_t": 3.259,
+   "t1": 7.967
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 7.967,
+   "title": "MEET THE POTTY!",
+   "t1": 10.755
+  },
+  {
+   "kind": "meet",
+   "bg": "bathroom2",
+   "t0": 10.755,
+   "key": "potty",
+   "num": 1,
+   "done": [],
+   "say_t": 10.955,
+   "t1": 13.444
+  },
+  {
+   "kind": "meet",
+   "bg": "bathroom2",
+   "t0": 13.444,
+   "key": "toilet",
+   "num": 2,
+   "done": [
+    "potty"
+   ],
+   "say_t": 13.644,
+   "t1": 17.029
+  },
+  {
+   "kind": "meet",
+   "bg": "bathroom2",
+   "t0": 17.029,
+   "key": "stool",
+   "num": 3,
+   "done": [
+    "potty",
+    "toilet"
+   ],
+   "say_t": 17.229,
+   "t1": 19.366
+  },
+  {
+   "kind": "meet",
+   "bg": "bathroom2",
+   "t0": 19.366,
+   "key": "paper",
+   "num": 4,
+   "done": [
+    "potty",
+    "toilet",
+    "stool"
+   ],
+   "say_t": 19.566,
+   "t1": 21.581
+  },
+  {
+   "kind": "meet",
+   "bg": "bathroom2",
+   "t0": 21.581,
+   "key": "soap",
+   "num": 5,
+   "done": [
+    "potty",
+    "toilet",
+    "stool",
+    "paper"
+   ],
+   "say_t": 21.781,
+   "t1": 23.695
+  },
+  {
+   "kind": "meet",
+   "bg": "bathroom2",
+   "t0": 23.695,
+   "key": "towel",
+   "num": 6,
+   "done": [
+    "potty",
+    "toilet",
+    "stool",
+    "paper",
+    "soap"
+   ],
+   "say_t": 23.895,
+   "t1": 26.057
+  },
+  {
+   "kind": "meet",
+   "bg": "bathroom2",
+   "t0": 26.057,
+   "key": "undies",
+   "num": 7,
+   "done": [
+    "potty",
+    "toilet",
+    "stool",
+    "paper",
+    "soap",
+    "towel"
+   ],
+   "say_t": 26.257,
+   "t1": 28.408
+  },
+  {
+   "kind": "meet",
+   "bg": "bathroom2",
+   "t0": 28.408,
+   "key": "chart",
+   "num": 8,
+   "done": [
+    "potty",
+    "toilet",
+    "stool",
+    "paper",
+    "soap",
+    "towel",
+    "undies"
+   ],
+   "say_t": 28.608,
+   "t1": 31.105
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 31.105,
+   "title": "HOW DO I KNOW?",
+   "t1": 33.485
+  },
+  {
+   "kind": "sign",
+   "bg": "bathroom2",
+   "t0": 33.485,
+   "key": "wiggle",
+   "say_t": 33.485,
+   "t1": 36.737
+  },
+  {
+   "kind": "sign",
+   "bg": "bathroom2",
+   "t0": 36.737,
+   "key": "hold",
+   "say_t": 36.737,
+   "t1": 39.344
+  },
+  {
+   "kind": "sign",
+   "bg": "bathroom2",
+   "t0": 39.344,
+   "key": "stop",
+   "say_t": 39.344,
+   "t1": 42.109
+  },
+  {
+   "kind": "sign",
+   "bg": "bathroom2",
+   "t0": 42.109,
+   "key": "tell",
+   "say_t": 42.109,
+   "t1": 44.95
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 44.95,
+   "title": "POTTY STEPS!",
+   "t1": 48.242
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 48.242,
+   "key": "tell",
+   "num": 1,
+   "who": "gul",
+   "say_t": 48.242,
+   "t1": 52.22
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 52.22,
+   "key": "walk",
+   "num": 2,
+   "who": "gul",
+   "say_t": 52.22,
+   "t1": 55.542
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 55.542,
+   "key": "pants",
+   "num": 3,
+   "who": "gul",
+   "say_t": 55.542,
+   "t1": 58.967
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 58.967,
+   "key": "sit",
+   "num": 4,
+   "who": "gul",
+   "say_t": 58.967,
+   "t1": 62.155
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 62.155,
+   "key": "go",
+   "num": 5,
+   "who": "gul",
+   "say_t": 62.155,
+   "t1": 66.906
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 66.906,
+   "key": "wipe",
+   "num": 6,
+   "who": "gul",
+   "say_t": 66.906,
+   "t1": 70.502
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 70.502,
+   "key": "up",
+   "num": 7,
+   "who": "gul",
+   "say_t": 70.502,
+   "t1": 73.868
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 73.868,
+   "key": "flush",
+   "num": 8,
+   "who": "gul",
+   "say_t": 73.868,
+   "t1": 77.103
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 77.103,
+   "key": "wash",
+   "num": 9,
+   "who": "gul",
+   "say_t": 77.103,
+   "t1": 80.667
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 80.667,
+   "key": "dry",
+   "num": 10,
+   "who": "gul",
+   "say_t": 80.667,
+   "t1": 84.349
+  },
+  {
+   "kind": "celebrate",
+   "bg": "bathroom2",
+   "t0": 84.349,
+   "who": "gul",
+   "t_t": 84.349,
+   "t1": 86.934
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 86.934,
+   "title": "NOW MISHU!",
+   "t1": 90.028
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 90.028,
+   "key": "tell",
+   "num": 1,
+   "who": "misheal",
+   "say_t": 90.028,
+   "t1": 92.16
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 92.16,
+   "key": "walk",
+   "num": 2,
+   "who": "misheal",
+   "say_t": 92.16,
+   "t1": 93.639
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 93.639,
+   "key": "pants",
+   "num": 3,
+   "who": "misheal",
+   "say_t": 93.639,
+   "t1": 95.178
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 95.178,
+   "key": "sit",
+   "num": 4,
+   "who": "misheal",
+   "say_t": 95.178,
+   "t1": 96.52
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 96.52,
+   "key": "go",
+   "num": 5,
+   "who": "misheal",
+   "say_t": 96.52,
+   "t1": 99.352
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 99.352,
+   "key": "wipe",
+   "num": 6,
+   "who": "misheal",
+   "say_t": 99.352,
+   "t1": 101.075
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 101.075,
+   "key": "up",
+   "num": 7,
+   "who": "misheal",
+   "say_t": 101.075,
+   "t1": 102.539
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 102.539,
+   "key": "flush",
+   "num": 8,
+   "who": "misheal",
+   "say_t": 102.539,
+   "t1": 103.975
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 103.975,
+   "key": "wash",
+   "num": 9,
+   "who": "misheal",
+   "say_t": 103.975,
+   "t1": 105.647
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 105.647,
+   "key": "dry",
+   "num": 10,
+   "who": "misheal",
+   "say_t": 105.647,
+   "t1": 107.495
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 107.495,
+   "title": "SUPER FAST!",
+   "t1": 110.649
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 110.649,
+   "key": "tell",
+   "num": 1,
+   "who": "misheal",
+   "say_t": 110.649,
+   "t1": 111.331
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 111.331,
+   "key": "walk",
+   "num": 2,
+   "who": "gul",
+   "say_t": 111.331,
+   "t1": 112.005
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 112.005,
+   "key": "pants",
+   "num": 3,
+   "who": "misheal",
+   "say_t": 112.005,
+   "t1": 113.019
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 113.019,
+   "key": "sit",
+   "num": 4,
+   "who": "gul",
+   "say_t": 113.019,
+   "t1": 113.726
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 113.726,
+   "key": "go",
+   "num": 5,
+   "who": "misheal",
+   "say_t": 113.726,
+   "t1": 114.793
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 114.793,
+   "key": "wipe",
+   "num": 6,
+   "who": "gul",
+   "say_t": 114.793,
+   "t1": 115.498
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 115.498,
+   "key": "up",
+   "num": 7,
+   "who": "misheal",
+   "say_t": 115.498,
+   "t1": 116.413
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 116.413,
+   "key": "flush",
+   "num": 8,
+   "who": "gul",
+   "say_t": 116.413,
+   "t1": 117.163
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 117.163,
+   "key": "wash",
+   "num": 9,
+   "who": "misheal",
+   "say_t": 117.163,
+   "t1": 117.935
+  },
+  {
+   "kind": "step",
+   "bg": "bathroom2",
+   "t0": 117.935,
+   "key": "dry",
+   "num": 10,
+   "who": "gul",
+   "say_t": 117.935,
+   "t1": 118.672
+  },
+  {
+   "kind": "wash",
+   "bg": "bathroom2",
+   "t0": 118.672,
+   "water_t": 121.941,
+   "ts": [
+    121.941,
+    122.588,
+    123.2,
+    123.888,
+    124.575,
+    125.302,
+    126.033,
+    126.791,
+    127.437,
+    128.117,
+    128.774,
+    129.572,
+    130.329,
+    131.222,
+    132.12,
+    132.995,
+    133.926,
+    134.933,
+    135.769,
+    136.673
+   ],
+   "t1": 139.772
+  },
+  {
+   "kind": "thisway",
+   "bg": "bathroom2",
+   "t0": 139.772,
+   "l": [
+    139.772,
+    141.834,
+    143.991,
+    146.087,
+    147.601,
+    149.723
+   ],
+   "t1": 152.304
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 152.304,
+   "title": "WHEN DO WE TRY?",
+   "t1": 155.105
+  },
+  {
+   "kind": "when",
+   "bg": "bathroom2",
+   "t0": 155.105,
+   "key": "sunny",
+   "num": 1,
+   "say_t": 155.105,
+   "t1": 157.058
+  },
+  {
+   "kind": "when",
+   "bg": "bathroom2",
+   "t0": 157.058,
+   "key": "plate",
+   "num": 2,
+   "say_t": 157.058,
+   "t1": 158.824
+  },
+  {
+   "kind": "when",
+   "bg": "bathroom2",
+   "t0": 158.824,
+   "key": "car",
+   "num": 3,
+   "say_t": 158.824,
+   "t1": 160.753
+  },
+  {
+   "kind": "when",
+   "bg": "bathroom2",
+   "t0": 160.753,
+   "key": "bathtub",
+   "num": 4,
+   "say_t": 160.753,
+   "t1": 162.377
+  },
+  {
+   "kind": "when",
+   "bg": "bathroom2",
+   "t0": 162.377,
+   "key": "clock",
+   "num": 5,
+   "say_t": 162.377,
+   "t1": 163.868
+  },
+  {
+   "kind": "when",
+   "bg": "bathroom2",
+   "t0": 163.868,
+   "key": "ball",
+   "num": 6,
+   "say_t": 163.868,
+   "t1": 165.92
+  },
+  {
+   "kind": "when",
+   "bg": "bathroom2",
+   "t0": 165.92,
+   "key": "moon",
+   "num": 7,
+   "say_t": 165.92,
+   "t1": 167.927
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 167.927,
+   "title": "WHERE CAN WE GO?",
+   "t1": 170.843
+  },
+  {
+   "kind": "where",
+   "bg": "bathroom2",
+   "t0": 170.843,
+   "place": "bedroom",
+   "say_t": 170.843,
+   "t1": 172.165
+  },
+  {
+   "kind": "where",
+   "bg": "bathroom2",
+   "t0": 172.165,
+   "place": "hall",
+   "say_t": 172.165,
+   "t1": 173.575
+  },
+  {
+   "kind": "where",
+   "bg": "bathroom2",
+   "t0": 173.575,
+   "place": "park",
+   "say_t": 173.575,
+   "t1": 176.707
+  },
+  {
+   "kind": "where",
+   "bg": "bathroom2",
+   "t0": 176.707,
+   "place": "kitchen",
+   "say_t": 176.707,
+   "t1": 178.511
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 178.511,
+   "title": "ANIMALS GO POTTY TOO!",
+   "t1": 181.93
+  },
+  {
+   "kind": "animal",
+   "bg": "bathroom2",
+   "t0": 181.93,
+   "key": "puppy",
+   "say_t": 181.93,
+   "t1": 184.743
+  },
+  {
+   "kind": "animal",
+   "bg": "bathroom2",
+   "t0": 184.743,
+   "key": "kitten",
+   "say_t": 184.743,
+   "t1": 187.26
+  },
+  {
+   "kind": "animal",
+   "bg": "bathroom2",
+   "t0": 187.26,
+   "key": "duckling",
+   "say_t": 187.26,
+   "t1": 190.328
+  },
+  {
+   "kind": "animal",
+   "bg": "bathroom2",
+   "t0": 190.328,
+   "key": "elephant",
+   "say_t": 190.328,
+   "t1": 192.957
+  },
+  {
+   "kind": "animal",
+   "bg": "bathroom2",
+   "t0": 192.957,
+   "key": "potty",
+   "say_t": 192.957,
+   "t1": 195.791
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 195.791,
+   "title": "POTTY WORDS!",
+   "t1": 199.264
+  },
+  {
+   "kind": "pword",
+   "bg": "bathroom2",
+   "t0": 199.264,
+   "key": "potty",
+   "w": "POTTY",
+   "say_t": 199.264,
+   "t1": 202.352
+  },
+  {
+   "kind": "pword",
+   "bg": "bathroom2",
+   "t0": 202.352,
+   "key": "toilet",
+   "w": "TOILET",
+   "say_t": 202.352,
+   "t1": 205.517
+  },
+  {
+   "kind": "pword",
+   "bg": "bathroom2",
+   "t0": 205.517,
+   "key": "paper",
+   "w": "WIPE",
+   "say_t": 205.517,
+   "t1": 208.507
+  },
+  {
+   "kind": "pword",
+   "bg": "bathroom2",
+   "t0": 208.507,
+   "key": "flushw",
+   "w": "FLUSH",
+   "say_t": 208.507,
+   "t1": 211.607
+  },
+  {
+   "kind": "pword",
+   "bg": "bathroom2",
+   "t0": 211.607,
+   "key": "pee",
+   "w": "PEE",
+   "say_t": 211.607,
+   "t1": 214.557
+  },
+  {
+   "kind": "pword",
+   "bg": "bathroom2",
+   "t0": 214.557,
+   "key": "poop",
+   "w": "POOP",
+   "say_t": 214.557,
+   "t1": 217.626
+  },
+  {
+   "kind": "dryer",
+   "bg": "bathroom2",
+   "t0": 217.626,
+   "l1": 217.626,
+   "whoosh_t": 219.662,
+   "scared_t": 221.262,
+   "ok_t": 222.732,
+   "t1": 226.222
+  },
+  {
+   "kind": "mishu1",
+   "bg": "bathroom2",
+   "t0": 226.222,
+   "l1": 226.222,
+   "sit_t": 228.4,
+   "done_t": 230.923,
+   "t1": 234.901
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 234.901,
+   "title": "OOPS!",
+   "t1": 237.64
+  },
+  {
+   "kind": "oops",
+   "bg": "bathroom2",
+   "t0": 237.64,
+   "sad_t": 237.64,
+   "ok_t": 239.613,
+   "happy_t": 246.155,
+   "t1": 248.48
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 248.48,
+   "title": "TEDDY'S TURN!",
+   "t1": 251.501
+  },
+  {
+   "kind": "teddy",
+   "bg": "bathroom2",
+   "t0": 251.501,
+   "l1": 251.501,
+   "l2": 253.271,
+   "flush_t": 255.036,
+   "yay_t": 257.471,
+   "t1": 259.2
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 259.2,
+   "title": "STICKER CHART!",
+   "t1": 262.379
+  },
+  {
+   "kind": "chart",
+   "bg": "bathroom2",
+   "t0": 262.379,
+   "ts": [
+    262.379,
+    263.526,
+    264.672,
+    265.889,
+    267.094,
+    268.321,
+    269.566
+   ],
+   "t1": 274.045
+  },
+  {
+   "kind": "undies",
+   "bg": "bathroom2",
+   "t0": 274.045,
+   "in_t": 274.045,
+   "yay_t": 276.174,
+   "t1": 279.241
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 279.241,
+   "title": "YES OR NO?",
+   "t1": 282.618
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 282.618,
+   "key": "wash",
+   "good": true,
+   "q": "WASH YOUR HANDS AFTER THE POTTY?",
+   "answer_t": 286.286,
+   "t1": 288.451
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 288.451,
+   "key": "play",
+   "good": false,
+   "q": "PLAY WITH THE TOILET PAPER?",
+   "answer_t": 291.835,
+   "t1": 294.34
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 294.34,
+   "key": "tell",
+   "good": true,
+   "q": "TELL A GROWN-UP WHEN YOU NEED TO GO?",
+   "answer_t": 297.917,
+   "t1": 299.459
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 299.459,
+   "key": "wait",
+   "good": false,
+   "q": "WAIT AND WAIT UNTIL IT'S TOO LATE?",
+   "answer_t": 303.104,
+   "t1": 305.256
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 305.256,
+   "key": "flush",
+   "good": true,
+   "q": "FLUSH WHEN YOU'RE DONE?",
+   "answer_t": 308.299,
+   "t1": 309.944
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 309.944,
+   "key": "toys",
+   "good": false,
+   "q": "PUT TOYS IN THE TOILET?",
+   "answer_t": 313.346,
+   "t1": 315.963
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 315.963,
+   "key": "stool",
+   "good": true,
+   "q": "USE A STEP STOOL TO CLIMB UP?",
+   "answer_t": 319.596,
+   "t1": 321.42
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 321.42,
+   "key": "rush",
+   "good": false,
+   "q": "RUN OUT WITHOUT PULLING YOUR PANTS UP?",
+   "answer_t": 325.256,
+   "t1": 327.041
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 327.041,
+   "key": "try",
+   "good": true,
+   "q": "TRY THE POTTY BEFORE BEDTIME?",
+   "answer_t": 330.763,
+   "t1": 332.392
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 332.392,
+   "key": "scared",
+   "good": true,
+   "q": "TELL A GROWN-UP IF YOU FEEL SCARED?",
+   "answer_t": 336.145,
+   "t1": 338.16
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 338.16,
+   "key": "lid",
+   "good": true,
+   "q": "CLOSE THE LID BEFORE YOU FLUSH?",
+   "answer_t": 341.931,
+   "t1": 343.874
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 343.874,
+   "key": "climb",
+   "good": false,
+   "q": "CLIMB ON THE SINK?",
+   "answer_t": 346.827,
+   "t1": 349.205
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 349.205,
+   "key": "relax",
+   "good": true,
+   "q": "SIT AND RELAX ON THE POTTY?",
+   "answer_t": 352.83,
+   "t1": 354.497
+  },
+  {
+   "kind": "yesno",
+   "bg": "bathroom2",
+   "t0": 354.497,
+   "key": "hide",
+   "good": false,
+   "q": "HIDE WHEN YOU NEED TO GO?",
+   "answer_t": 357.753,
+   "t1": 360.004
+  },
+  {
+   "kind": "thisway",
+   "bg": "bathroom2",
+   "t0": 360.004,
+   "l": [
+    360.004,
+    362.185,
+    364.466,
+    366.743,
+    368.924,
+    371.205
+   ],
+   "t1": 373.226
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 373.226,
+   "title": "POTTY DANCE!",
+   "t1": 376.339
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 376.339,
+   "move": "wiggle",
+   "fast": false,
+   "word": "WIGGLE, WIGGLE, POTTY DANCE!",
+   "say_t": 376.339,
+   "t1": 379.827
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 379.827,
+   "move": "hop",
+   "fast": false,
+   "word": "HOP TO THE BATHROOM!",
+   "say_t": 379.827,
+   "t1": 382.696
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 382.696,
+   "move": "sit",
+   "fast": false,
+   "word": "SIT DOWN ON THE POTTY!",
+   "say_t": 382.696,
+   "t1": 385.683
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 385.683,
+   "move": "spin",
+   "fast": false,
+   "word": "FLUSH!",
+   "say_t": 385.683,
+   "t1": 388.539
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 388.539,
+   "move": "shake",
+   "fast": false,
+   "word": "WASH, WASH, WASH YOUR HANDS!",
+   "say_t": 388.539,
+   "t1": 391.986
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 391.986,
+   "move": "jump",
+   "fast": false,
+   "word": "HOORAY!",
+   "say_t": 391.986,
+   "t1": 394.772
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 394.772,
+   "title": "FASTER!",
+   "t1": 396.147
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 396.147,
+   "move": "wiggle",
+   "fast": true,
+   "word": "WIGGLE, WIGGLE, POTTY DANCE!",
+   "say_t": 396.147,
+   "t1": 398.936
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 398.936,
+   "move": "hop",
+   "fast": true,
+   "word": "HOP TO THE BATHROOM!",
+   "say_t": 398.936,
+   "t1": 401.105
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 401.105,
+   "move": "sit",
+   "fast": true,
+   "word": "SIT DOWN ON THE POTTY!",
+   "say_t": 401.105,
+   "t1": 403.392
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 403.392,
+   "move": "spin",
+   "fast": true,
+   "word": "FLUSH!",
+   "say_t": 403.392,
+   "t1": 405.547
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 405.547,
+   "move": "shake",
+   "fast": true,
+   "word": "WASH, WASH, WASH YOUR HANDS!",
+   "say_t": 405.547,
+   "t1": 408.294
+  },
+  {
+   "kind": "dance",
+   "bg": "bathroom2",
+   "t0": 408.294,
+   "move": "jump",
+   "fast": true,
+   "word": "HOORAY!",
+   "say_t": 408.294,
+   "t1": 410.381
+  },
+  {
+   "kind": "title",
+   "bg": "bathroom2",
+   "t0": 410.381,
+   "title": "POTTY QUIZ!",
+   "t1": 412.633
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 412.633,
+   "q": "WHAT DO YOU SAY WHEN YOU NEED TO GO?",
+   "vis": "potty",
+   "answer_t": 416.774,
+   "t1": 418.492
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 418.492,
+   "q": "WHAT DO WE USE TO WIPE?",
+   "vis": "paper",
+   "answer_t": 422.209,
+   "t1": 423.741
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 423.741,
+   "q": "WHAT DO WE DO AFTER WE FLUSH?",
+   "vis": "soap",
+   "answer_t": 427.94,
+   "t1": 429.563
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 429.563,
+   "q": "WHAT HELPS YOU CLIMB UP?",
+   "vis": "stool",
+   "answer_t": 433.358,
+   "t1": 434.907
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 434.907,
+   "q": "IS IT OKAY TO HAVE AN ACCIDENT?",
+   "vis": "heart",
+   "answer_t": 439.34,
+   "t1": 441.757
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 441.757,
+   "q": "WHAT DO BIG KIDS WEAR?",
+   "vis": "undies",
+   "answer_t": 445.649,
+   "t1": 447.382
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 447.382,
+   "q": "WHAT DO WE GET ON THE STICKER CHART?",
+   "vis": "star",
+   "answer_t": 451.487,
+   "t1": 453.008
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 453.008,
+   "q": "HOW LONG DO WE WASH OUR HANDS?",
+   "vis": "soap",
+   "answer_t": 457.375,
+   "t1": 459.072
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 459.072,
+   "q": "WHERE DOES A PUPPY GO POTTY?",
+   "vis": "puppy",
+   "answer_t": 463.112,
+   "t1": 465.002
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 465.002,
+   "q": "WHEN SHOULD WE TRY THE POTTY?",
+   "vis": "moon",
+   "answer_t": 468.982,
+   "t1": 470.448
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 470.448,
+   "q": "WHAT DO WE PULL UP AFTER THE POTTY?",
+   "vis": "undies",
+   "answer_t": 474.74,
+   "t1": 476.116
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 476.116,
+   "q": "WHO CAN HELP US AT THE POTTY?",
+   "vis": "heart",
+   "answer_t": 480.15,
+   "t1": 481.525
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 481.525,
+   "q": "WHERE DO BIG KIDS WASH THEIR HANDS?",
+   "vis": "soap",
+   "answer_t": 486.036,
+   "t1": 487.479
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 487.479,
+   "q": "IS THE HAND DRYER SCARY?",
+   "vis": "heart",
+   "answer_t": 491.517,
+   "t1": 493.249
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 493.249,
+   "q": "WHAT DOES A KITTY USE?",
+   "vis": "kitten",
+   "answer_t": 497.034,
+   "t1": 498.549
+  },
+  {
+   "kind": "quiz",
+   "bg": "bathroom2",
+   "t0": 498.549,
+   "q": "WHAT DO WE DO BEFORE THE CAR RIDE?",
+   "vis": "car",
+   "answer_t": 502.802,
+   "t1": 504.334
+  },
+  {
+   "kind": "outro",
+   "bg": "bathroom2",
+   "t0": 504.334,
+   "bye_t": 510.109,
+   "t1": 513.416
+  }
+ ],
+ "prompts": [
+  [
+   51.32,
+   52.22
+  ],
+  [
+   54.642,
+   55.542
+  ],
+  [
+   58.067,
+   58.967
+  ],
+  [
+   61.255,
+   62.155
+  ],
+  [
+   66.006,
+   66.906
+  ],
+  [
+   69.602,
+   70.502
+  ],
+  [
+   72.968,
+   73.868
+  ],
+  [
+   76.203,
+   77.103
+  ],
+  [
+   79.767,
+   80.667
+  ],
+  [
+   83.449,
+   84.349
+  ],
+  [
+   200.058,
+   201.358
+  ],
+  [
+   203.185,
+   204.485
+  ],
+  [
+   206.252,
+   207.552
+  ],
+  [
+   209.307,
+   210.607
+  ],
+  [
+   212.304,
+   213.604
+  ],
+  [
+   215.342,
+   216.642
+  ],
+  [
+   284.486,
+   286.286
+  ],
+  [
+   290.035,
+   291.835
+  ],
+  [
+   296.117,
+   297.917
+  ],
+  [
+   301.304,
+   303.104
+  ],
+  [
+   306.499,
+   308.299
+  ],
+  [
+   311.546,
+   313.346
+  ],
+  [
+   317.796,
+   319.596
+  ],
+  [
+   323.456,
+   325.256
+  ],
+  [
+   328.963,
+   330.763
+  ],
+  [
+   334.345,
+   336.145
+  ],
+  [
+   340.131,
+   341.931
+  ],
+  [
+   345.027,
+   346.827
+  ],
+  [
+   351.03,
+   352.83
+  ],
+  [
+   355.953,
+   357.753
+  ],
+  [
+   378.227,
+   379.827
+  ],
+  [
+   381.096,
+   382.696
+  ],
+  [
+   384.083,
+   385.683
+  ],
+  [
+   386.939,
+   388.539
+  ],
+  [
+   390.386,
+   391.986
+  ],
+  [
+   393.172,
+   394.772
+  ],
+  [
+   398.036,
+   398.936
+  ],
+  [
+   400.205,
+   401.105
+  ],
+  [
+   402.492,
+   403.392
+  ],
+  [
+   404.647,
+   405.547
+  ],
+  [
+   407.394,
+   408.294
+  ],
+  [
+   409.481,
+   410.381
+  ],
+  [
+   414.374,
+   416.774
+  ],
+  [
+   419.809,
+   422.209
+  ],
+  [
+   425.54,
+   427.94
+  ],
+  [
+   430.958,
+   433.358
+  ],
+  [
+   436.94,
+   439.34
+  ],
+  [
+   443.249,
+   445.649
+  ],
+  [
+   449.087,
+   451.487
+  ],
+  [
+   454.975,
+   457.375
+  ],
+  [
+   460.712,
+   463.112
+  ],
+  [
+   466.582,
+   468.982
+  ],
+  [
+   472.341,
+   474.74
+  ],
+  [
+   477.75,
+   480.15
+  ],
+  [
+   483.636,
+   486.036
+  ],
+  [
+   489.117,
+   491.517
+  ],
+  [
+   494.634,
+   497.034
+  ],
+  [
+   500.402,
+   502.802
+  ]
+ ],
+ "stars": [
+  84.349,
+  230.923,
+  418.492,
+  423.741,
+  429.563,
+  434.907,
+  441.757,
+  447.382,
+  453.008,
+  459.072,
+  465.002,
+  470.448,
+  476.116,
+  481.525,
+  487.479,
+  493.249,
+  498.549,
+  504.334
+ ],
+ "total": 513.42
+}
