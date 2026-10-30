@@ -1,0 +1,210 @@
+{
+ "events": [
+  {
+   "who": "gul",
+   "word": "Animal",
+   "t": 2.0,
+   "dur": 0.574
+  },
+  {
+   "who": "mishu",
+   "word": "Animal",
+   "t": 2.0,
+   "dur": 0.526
+  },
+  {
+   "who": "gul",
+   "word": "dance!",
+   "t": 3.0,
+   "dur": 0.535
+  },
+  {
+   "who": "mishu",
+   "word": "dance!",
+   "t": 3.0,
+   "dur": 0.564
+  },
+  {
+   "who": "gul",
+   "word": "Elephant!",
+   "t": 4.0,
+   "dur": 0.639
+  },
+  {
+   "who": "gul",
+   "word": "Elephant!",
+   "t": 5.0,
+   "dur": 0.639
+  },
+  {
+   "who": "gul",
+   "word": "Stomp",
+   "t": 6.0,
+   "dur": 0.517
+  },
+  {
+   "who": "gul",
+   "word": "Stomp",
+   "t": 6.5,
+   "dur": 0.517
+  },
+  {
+   "who": "gul",
+   "word": "Stomp!",
+   "t": 7.0,
+   "dur": 0.586
+  },
+  {
+   "who": "mishu",
+   "word": "Bunny!",
+   "t": 8.0,
+   "dur": 0.505
+  },
+  {
+   "who": "mishu",
+   "word": "Bunny!",
+   "t": 9.0,
+   "dur": 0.505
+  },
+  {
+   "who": "mishu",
+   "word": "Jump",
+   "t": 10.0,
+   "dur": 0.496
+  },
+  {
+   "who": "mishu",
+   "word": "Jump",
+   "t": 10.5,
+   "dur": 0.496
+  },
+  {
+   "who": "mishu",
+   "word": "Jump!",
+   "t": 11.0,
+   "dur": 0.496
+  },
+  {
+   "who": "gul",
+   "word": "Monkey!",
+   "t": 12.0,
+   "dur": 0.607
+  },
+  {
+   "who": "gul",
+   "word": "Monkey!",
+   "t": 13.0,
+   "dur": 0.607
+  },
+  {
+   "who": "gul",
+   "word": "Swing",
+   "t": 14.0,
+   "dur": 0.517
+  },
+  {
+   "who": "gul",
+   "word": "Swing",
+   "t": 14.5,
+   "dur": 0.517
+  },
+  {
+   "who": "gul",
+   "word": "Swing!",
+   "t": 15.0,
+   "dur": 0.555
+  },
+  {
+   "who": "mishu",
+   "word": "Duckling!",
+   "t": 16.0,
+   "dur": 0.609
+  },
+  {
+   "who": "mishu",
+   "word": "Duckling!",
+   "t": 17.0,
+   "dur": 0.609
+  },
+  {
+   "who": "mishu",
+   "word": "Quack",
+   "t": 18.0,
+   "dur": 0.511
+  },
+  {
+   "who": "mishu",
+   "word": "Quack",
+   "t": 18.5,
+   "dur": 0.511
+  },
+  {
+   "who": "mishu",
+   "word": "Quack!",
+   "t": 19.0,
+   "dur": 0.511
+  },
+  {
+   "who": "gul",
+   "word": "Dance",
+   "t": 20.0,
+   "dur": 0.517
+  },
+  {
+   "who": "mishu",
+   "word": "Dance",
+   "t": 20.0,
+   "dur": 0.517
+  },
+  {
+   "who": "gul",
+   "word": "dance",
+   "t": 20.5,
+   "dur": 0.517
+  },
+  {
+   "who": "mishu",
+   "word": "dance",
+   "t": 20.5,
+   "dur": 0.517
+  },
+  {
+   "who": "gul",
+   "word": "dance!",
+   "t": 21.0,
+   "dur": 0.535
+  },
+  {
+   "who": "mishu",
+   "word": "dance!",
+   "t": 21.0,
+   "dur": 0.564
+  },
+  {
+   "who": "gul",
+   "word": "Everybody",
+   "t": 22.0,
+   "dur": 0.721
+  },
+  {
+   "who": "mishu",
+   "word": "Everybody",
+   "t": 22.0,
+   "dur": 0.626
+  },
+  {
+   "who": "gul",
+   "word": "dance!",
+   "t": 23.0,
+   "dur": 0.535
+  },
+  {
+   "who": "mishu",
+   "word": "dance!",
+   "t": 23.0,
+   "dur": 0.564
+  }
+ ],
+ "total": 25.0,
+ "bpm": 120
+}
