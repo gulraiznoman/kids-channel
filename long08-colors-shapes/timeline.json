@@ -1,0 +1,2819 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Colors and shapes!",
+   "t": 1.98,
+   "dur": 1.056
+  },
+  {
+   "who": "mishu",
+   "text": "Today we'll draw, mix, build, and play!",
+   "t": 3.386,
+   "dur": 1.984
+  },
+  {
+   "who": "gul",
+   "text": "Let's go!",
+   "t": 5.72,
+   "dur": 0.71
+  },
+  {
+   "who": "gul",
+   "text": "Magic crayons! What will they draw? Let's see!",
+   "t": 7.481,
+   "dur": 2.302
+  },
+  {
+   "who": "gul",
+   "text": "Red crayon! What will it draw?",
+   "t": 10.233,
+   "dur": 1.506
+  },
+  {
+   "who": "mishu",
+   "text": "A red fire truck! Nee naw, nee naw!",
+   "t": 12.933,
+   "dur": 2.07
+  },
+  {
+   "who": "gul",
+   "text": "Red means stop at the traffic light!",
+   "t": 15.353,
+   "dur": 1.723
+  },
+  {
+   "who": "mishu",
+   "text": "Say red!",
+   "t": 17.326,
+   "dur": 0.673
+  },
+  {
+   "who": "mishu",
+   "text": "Orange crayon! What will it draw?",
+   "t": 19.549,
+   "dur": 1.839
+  },
+  {
+   "who": "gul",
+   "text": "An orange pumpkin!",
+   "t": 22.249,
+   "dur": 1.198
+  },
+  {
+   "who": "mishu",
+   "text": "Orange is warm, like the sunset!",
+   "t": 23.798,
+   "dur": 1.791
+  },
+  {
+   "who": "gul",
+   "text": "Say orange!",
+   "t": 25.839,
+   "dur": 0.802
+  },
+  {
+   "who": "gul",
+   "text": "Yellow crayon! What will it draw?",
+   "t": 28.191,
+   "dur": 1.669
+  },
+  {
+   "who": "mishu",
+   "text": "A yellow duckling! Quack quack!",
+   "t": 30.891,
+   "dur": 1.73
+  },
+  {
+   "who": "gul",
+   "text": "Yellow is bright, like the sunshine!",
+   "t": 32.971,
+   "dur": 1.691
+  },
+  {
+   "who": "mishu",
+   "text": "Say yellow!",
+   "t": 34.911,
+   "dur": 0.678
+  },
+  {
+   "who": "mishu",
+   "text": "Green crayon! What will it draw?",
+   "t": 37.14,
+   "dur": 1.781
+  },
+  {
+   "who": "gul",
+   "text": "A green frog! Ribbit!",
+   "t": 39.84,
+   "dur": 1.3
+  },
+  {
+   "who": "mishu",
+   "text": "Grass and leaves are green too!",
+   "t": 41.489,
+   "dur": 1.49
+  },
+  {
+   "who": "gul",
+   "text": "Say green!",
+   "t": 43.229,
+   "dur": 0.779
+  },
+  {
+   "who": "gul",
+   "text": "Blue crayon! What will it draw?",
+   "t": 45.557,
+   "dur": 1.531
+  },
+  {
+   "who": "mishu",
+   "text": "A blue whale! Splash!",
+   "t": 48.257,
+   "dur": 1.392
+  },
+  {
+   "who": "gul",
+   "text": "The sky and the sea look blue!",
+   "t": 49.999,
+   "dur": 1.546
+  },
+  {
+   "who": "mishu",
+   "text": "Say blue!",
+   "t": 51.795,
+   "dur": 0.661
+  },
+  {
+   "who": "mishu",
+   "text": "Purple crayon! What will it draw?",
+   "t": 54.006,
+   "dur": 1.841
+  },
+  {
+   "who": "gul",
+   "text": "A purple eggplant!",
+   "t": 56.706,
+   "dur": 1.137
+  },
+  {
+   "who": "mishu",
+   "text": "Purple is a color for kings and queens!",
+   "t": 58.194,
+   "dur": 2.088
+  },
+  {
+   "who": "gul",
+   "text": "Say purple!",
+   "t": 60.532,
+   "dur": 0.821
+  },
+  {
+   "who": "gul",
+   "text": "Pink crayon! What will it draw?",
+   "t": 62.903,
+   "dur": 1.51
+  },
+  {
+   "who": "mishu",
+   "text": "A pink piglet! Oink oink!",
+   "t": 65.603,
+   "dur": 1.673
+  },
+  {
+   "who": "gul",
+   "text": "Pink is a light, soft red!",
+   "t": 67.626,
+   "dur": 1.465
+  },
+  {
+   "who": "mishu",
+   "text": "Say pink!",
+   "t": 69.341,
+   "dur": 0.698
+  },
+  {
+   "who": "mishu",
+   "text": "Brown crayon! What will it draw?",
+   "t": 71.589,
+   "dur": 1.764
+  },
+  {
+   "who": "gul",
+   "text": "A brown chocolate cupcake! Yum!",
+   "t": 74.289,
+   "dur": 1.841
+  },
+  {
+   "who": "mishu",
+   "text": "Tree trunks are brown too!",
+   "t": 76.48,
+   "dur": 1.368
+  },
+  {
+   "who": "gul",
+   "text": "Say brown!",
+   "t": 78.098,
+   "dur": 0.756
+  },
+  {
+   "who": "gul",
+   "text": "Black crayon! What will it draw?",
+   "t": 80.404,
+   "dur": 1.53
+  },
+  {
+   "who": "mishu",
+   "text": "A black magic hat!",
+   "t": 83.104,
+   "dur": 1.192
+  },
+  {
+   "who": "gul",
+   "text": "The night sky is black!",
+   "t": 84.646,
+   "dur": 1.171
+  },
+  {
+   "who": "mishu",
+   "text": "Say black!",
+   "t": 86.068,
+   "dur": 0.75
+  },
+  {
+   "who": "mishu",
+   "text": "White crayon! What will it draw?",
+   "t": 88.368,
+   "dur": 1.724
+  },
+  {
+   "who": "gul",
+   "text": "A white snowman! Brrr!",
+   "t": 91.068,
+   "dur": 1.75
+  },
+  {
+   "who": "mishu",
+   "text": "Snow and clouds are white!",
+   "t": 93.168,
+   "dur": 1.359
+  },
+  {
+   "who": "gul",
+   "text": "Say white!",
+   "t": 94.776,
+   "dur": 0.699
+  },
+  {
+   "who": "mishu",
+   "text": "Now let's be scientists, and mix paint!",
+   "t": 97.525,
+   "dur": 2.135
+  },
+  {
+   "who": "gul",
+   "text": "Red, yellow, and blue are primary colors.",
+   "t": 100.11,
+   "dur": 2.108
+  },
+  {
+   "who": "mishu",
+   "text": "We can mix them to make new colors! Watch!",
+   "t": 102.568,
+   "dur": 2.502
+  },
+  {
+   "who": "gul",
+   "text": "Red paint...",
+   "t": 105.621,
+   "dur": 0.801
+  },
+  {
+   "who": "mishu",
+   "text": "and yellow paint!",
+   "t": 107.072,
+   "dur": 0.999
+  },
+  {
+   "who": "both",
+   "text": "Mix, mix, mix!",
+   "t": 108.521,
+   "dur": 1.066
+  },
+  {
+   "who": "gul",
+   "text": "What color did we make?",
+   "t": 109.837,
+   "dur": 1.246
+  },
+  {
+   "who": "mishu",
+   "text": "It's orange!",
+   "t": 113.332,
+   "dur": 0.788
+  },
+  {
+   "who": "gul",
+   "text": "Red and yellow make orange!",
+   "t": 114.47,
+   "dur": 1.421
+  },
+  {
+   "who": "mishu",
+   "text": "Blue paint...",
+   "t": 116.542,
+   "dur": 0.84
+  },
+  {
+   "who": "gul",
+   "text": "and yellow paint!",
+   "t": 118.031,
+   "dur": 0.999
+  },
+  {
+   "who": "both",
+   "text": "Mix, mix, mix!",
+   "t": 119.48,
+   "dur": 1.066
+  },
+  {
+   "who": "mishu",
+   "text": "What color did we make?",
+   "t": 120.796,
+   "dur": 1.239
+  },
+  {
+   "who": "gul",
+   "text": "It's green!",
+   "t": 124.285,
+   "dur": 0.758
+  },
+  {
+   "who": "mishu",
+   "text": "Blue and yellow make green!",
+   "t": 125.393,
+   "dur": 1.32
+  },
+  {
+   "who": "gul",
+   "text": "Red paint...",
+   "t": 127.363,
+   "dur": 0.801
+  },
+  {
+   "who": "mishu",
+   "text": "and blue paint!",
+   "t": 128.814,
+   "dur": 0.911
+  },
+  {
+   "who": "both",
+   "text": "Mix, mix, mix!",
+   "t": 130.175,
+   "dur": 1.066
+  },
+  {
+   "who": "gul",
+   "text": "What color did we make?",
+   "t": 131.491,
+   "dur": 1.246
+  },
+  {
+   "who": "mishu",
+   "text": "It's purple!",
+   "t": 134.987,
+   "dur": 0.817
+  },
+  {
+   "who": "gul",
+   "text": "Red and blue make purple!",
+   "t": 136.154,
+   "dur": 1.454
+  },
+  {
+   "who": "mishu",
+   "text": "Red paint...",
+   "t": 138.258,
+   "dur": 0.86
+  },
+  {
+   "who": "gul",
+   "text": "and white paint!",
+   "t": 139.768,
+   "dur": 0.93
+  },
+  {
+   "who": "both",
+   "text": "Mix, mix, mix!",
+   "t": 141.148,
+   "dur": 1.066
+  },
+  {
+   "who": "mishu",
+   "text": "What color did we make?",
+   "t": 142.464,
+   "dur": 1.239
+  },
+  {
+   "who": "gul",
+   "text": "It's pink!",
+   "t": 145.953,
+   "dur": 0.738
+  },
+  {
+   "who": "mishu",
+   "text": "Red and white make pink!",
+   "t": 147.041,
+   "dur": 1.29
+  },
+  {
+   "who": "gul",
+   "text": "Black paint...",
+   "t": 148.981,
+   "dur": 0.801
+  },
+  {
+   "who": "mishu",
+   "text": "and white paint!",
+   "t": 150.432,
+   "dur": 0.908
+  },
+  {
+   "who": "both",
+   "text": "Mix, mix, mix!",
+   "t": 151.79,
+   "dur": 1.066
+  },
+  {
+   "who": "gul",
+   "text": "What color did we make?",
+   "t": 153.106,
+   "dur": 1.246
+  },
+  {
+   "who": "mishu",
+   "text": "It's grey!",
+   "t": 156.602,
+   "dur": 0.709
+  },
+  {
+   "who": "gul",
+   "text": "Black and white make grey, like an elephant!",
+   "t": 157.661,
+   "dur": 2.131
+  },
+  {
+   "who": "gul",
+   "text": "Look up! A rainbow!",
+   "t": 160.441,
+   "dur": 1.125
+  },
+  {
+   "who": "mishu",
+   "text": "Say the rainbow colors with us!",
+   "t": 161.916,
+   "dur": 1.594
+  },
+  {
+   "who": "both",
+   "text": "Red!",
+   "t": 163.86,
+   "dur": 0.505
+  },
+  {
+   "who": "both",
+   "text": "Orange!",
+   "t": 164.665,
+   "dur": 0.657
+  },
+  {
+   "who": "both",
+   "text": "Yellow!",
+   "t": 165.622,
+   "dur": 0.548
+  },
+  {
+   "who": "both",
+   "text": "Green!",
+   "t": 166.471,
+   "dur": 0.584
+  },
+  {
+   "who": "both",
+   "text": "Blue!",
+   "t": 167.354,
+   "dur": 0.481
+  },
+  {
+   "who": "both",
+   "text": "Indigo!",
+   "t": 168.135,
+   "dur": 0.672
+  },
+  {
+   "who": "both",
+   "text": "Violet!",
+   "t": 169.107,
+   "dur": 0.634
+  },
+  {
+   "who": "mishu",
+   "text": "A rainbow has seven colors!",
+   "t": 170.041,
+   "dur": 1.659
+  },
+  {
+   "who": "gul",
+   "text": "Rainbows come when the sun shines through the rain!",
+   "t": 172.05,
+   "dur": 2.249
+  },
+  {
+   "who": "mishu",
+   "text": "Choo choo! The color train is here!",
+   "t": 175.449,
+   "dur": 1.844
+  },
+  {
+   "who": "gul",
+   "text": "Put each thing in the wagon with the same color!",
+   "t": 177.743,
+   "dur": 2.16
+  },
+  {
+   "who": "gul",
+   "text": "Where does the tomato go?",
+   "t": 180.553,
+   "dur": 1.343
+  },
+  {
+   "who": "mishu",
+   "text": "The red wagon!",
+   "t": 183.947,
+   "dur": 0.879
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the corn go?",
+   "t": 185.376,
+   "dur": 1.032
+  },
+  {
+   "who": "gul",
+   "text": "The yellow wagon!",
+   "t": 188.458,
+   "dur": 1.032
+  },
+  {
+   "who": "gul",
+   "text": "Where does the broccoli go?",
+   "t": 190.04,
+   "dur": 1.326
+  },
+  {
+   "who": "mishu",
+   "text": "The green wagon!",
+   "t": 193.415,
+   "dur": 0.927
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the blueberries go?",
+   "t": 194.893,
+   "dur": 1.322
+  },
+  {
+   "who": "gul",
+   "text": "The blue wagon!",
+   "t": 198.265,
+   "dur": 0.988
+  },
+  {
+   "who": "gul",
+   "text": "Where does the duckling go?",
+   "t": 199.803,
+   "dur": 1.297
+  },
+  {
+   "who": "mishu",
+   "text": "The yellow wagon!",
+   "t": 203.15,
+   "dur": 0.977
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the strawberry go?",
+   "t": 204.677,
+   "dur": 1.324
+  },
+  {
+   "who": "gul",
+   "text": "The red wagon!",
+   "t": 208.051,
+   "dur": 0.915
+  },
+  {
+   "who": "gul",
+   "text": "Where does the whale go?",
+   "t": 209.516,
+   "dur": 1.1
+  },
+  {
+   "who": "mishu",
+   "text": "The blue wagon!",
+   "t": 212.665,
+   "dur": 0.88
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the frog go?",
+   "t": 214.095,
+   "dur": 1.098
+  },
+  {
+   "who": "gul",
+   "text": "The green wagon!",
+   "t": 217.243,
+   "dur": 0.978
+  },
+  {
+   "who": "both",
+   "text": "All aboard! Choo choo!",
+   "t": 218.772,
+   "dur": 1.226
+  },
+  {
+   "who": "gul",
+   "text": "Shapes are everywhere! Let's meet them!",
+   "t": 221.848,
+   "dur": 1.695
+  },
+  {
+   "who": "gul",
+   "text": "This is a circle!",
+   "t": 224.192,
+   "dur": 1.072
+  },
+  {
+   "who": "mishu",
+   "text": "A circle is round. It has no corners at all!",
+   "t": 225.614,
+   "dur": 2.642
+  },
+  {
+   "who": "gul",
+   "text": "A clock is a circle!",
+   "t": 228.606,
+   "dur": 1.265
+  },
+  {
+   "who": "mishu",
+   "text": "Draw a circle in the air with your finger!",
+   "t": 230.221,
+   "dur": 2.04
+  },
+  {
+   "who": "mishu",
+   "text": "This is a square!",
+   "t": 234.711,
+   "dur": 0.934
+  },
+  {
+   "who": "gul",
+   "text": "Four sides, all the same! One, two, three, four!",
+   "t": 235.994,
+   "dur": 2.653
+  },
+  {
+   "who": "mishu",
+   "text": "This window is a square!",
+   "t": 238.997,
+   "dur": 1.234
+  },
+  {
+   "who": "gul",
+   "text": "Draw a square in the air with your finger!",
+   "t": 240.581,
+   "dur": 1.866
+  },
+  {
+   "who": "gul",
+   "text": "This is a triangle!",
+   "t": 244.897,
+   "dur": 1.213
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count the sides! One, two, three!",
+   "t": 246.46,
+   "dur": 2.282
+  },
+  {
+   "who": "gul",
+   "text": "A pizza slice is a triangle!",
+   "t": 249.092,
+   "dur": 1.784
+  },
+  {
+   "who": "mishu",
+   "text": "Draw a triangle in the air with your finger!",
+   "t": 251.226,
+   "dur": 2.207
+  },
+  {
+   "who": "mishu",
+   "text": "This is a rectangle!",
+   "t": 255.883,
+   "dur": 1.206
+  },
+  {
+   "who": "gul",
+   "text": "Four sides! Two long, and two short!",
+   "t": 257.439,
+   "dur": 1.882
+  },
+  {
+   "who": "mishu",
+   "text": "A book is a rectangle!",
+   "t": 259.671,
+   "dur": 1.334
+  },
+  {
+   "who": "gul",
+   "text": "This is a oval!",
+   "t": 261.555,
+   "dur": 1.026
+  },
+  {
+   "who": "mishu",
+   "text": "An oval is round, and long, like an egg!",
+   "t": 262.931,
+   "dur": 2.304
+  },
+  {
+   "who": "gul",
+   "text": "An egg is an oval!",
+   "t": 265.585,
+   "dur": 1.267
+  },
+  {
+   "who": "mishu",
+   "text": "This is a star!",
+   "t": 267.402,
+   "dur": 0.912
+  },
+  {
+   "who": "gul",
+   "text": "A star has five points! One, two, three, four, five!",
+   "t": 268.664,
+   "dur": 2.968
+  },
+  {
+   "who": "mishu",
+   "text": "A starfish is a star!",
+   "t": 271.982,
+   "dur": 1.27
+  },
+  {
+   "who": "gul",
+   "text": "Draw a star in the air with your finger!",
+   "t": 273.602,
+   "dur": 1.843
+  },
+  {
+   "who": "gul",
+   "text": "This is a heart!",
+   "t": 277.895,
+   "dur": 0.93
+  },
+  {
+   "who": "mishu",
+   "text": "A heart means love! Two bumps on top!",
+   "t": 279.176,
+   "dur": 2.29
+  },
+  {
+   "who": "gul",
+   "text": "This cookie is a heart! Yum!",
+   "t": 281.816,
+   "dur": 1.44
+  },
+  {
+   "who": "mishu",
+   "text": "This is a diamond!",
+   "t": 283.806,
+   "dur": 1.057
+  },
+  {
+   "who": "gul",
+   "text": "A diamond has four sides! It stands on its tip!",
+   "t": 285.213,
+   "dur": 2.643
+  },
+  {
+   "who": "mishu",
+   "text": "A kite is a diamond!",
+   "t": 288.207,
+   "dur": 1.206
+  },
+  {
+   "who": "gul",
+   "text": "This is a pentagon!",
+   "t": 289.962,
+   "dur": 1.311
+  },
+  {
+   "who": "mishu",
+   "text": "Five sides! One, two, three, four, five!",
+   "t": 291.624,
+   "dur": 2.451
+  },
+  {
+   "who": "gul",
+   "text": "A birdhouse is a pentagon!",
+   "t": 294.424,
+   "dur": 1.581
+  },
+  {
+   "who": "mishu",
+   "text": "This is a hexagon!",
+   "t": 296.555,
+   "dur": 1.192
+  },
+  {
+   "who": "gul",
+   "text": "Six sides! One, two, three, four, five, six!",
+   "t": 298.097,
+   "dur": 2.514
+  },
+  {
+   "who": "mishu",
+   "text": "Bees make hexagons in their honeycomb!",
+   "t": 300.961,
+   "dur": 1.952
+  },
+  {
+   "who": "gul",
+   "text": "This is a crescent!",
+   "t": 303.463,
+   "dur": 1.097
+  },
+  {
+   "who": "mishu",
+   "text": "A crescent is a thin curve, like a smile!",
+   "t": 304.91,
+   "dur": 2.294
+  },
+  {
+   "who": "gul",
+   "text": "The moon can look like a crescent!",
+   "t": 307.554,
+   "dur": 1.687
+  },
+  {
+   "who": "mishu",
+   "text": "Shapes are hiding outside! Can you find them?",
+   "t": 310.09,
+   "dur": 2.331
+  },
+  {
+   "who": "gul",
+   "text": "Can you find a triangle?",
+   "t": 312.871,
+   "dur": 1.417
+  },
+  {
+   "who": "mishu",
+   "text": "The roof is a triangle!",
+   "t": 316.738,
+   "dur": 1.355
+  },
+  {
+   "who": "mishu",
+   "text": "Can you find a square?",
+   "t": 318.644,
+   "dur": 1.112
+  },
+  {
+   "who": "gul",
+   "text": "The window is a square!",
+   "t": 322.206,
+   "dur": 1.319
+  },
+  {
+   "who": "gul",
+   "text": "Can you find a rectangle?",
+   "t": 324.074,
+   "dur": 1.429
+  },
+  {
+   "who": "mishu",
+   "text": "The door is a rectangle!",
+   "t": 327.954,
+   "dur": 1.357
+  },
+  {
+   "who": "mishu",
+   "text": "Can you find a circle?",
+   "t": 329.861,
+   "dur": 1.234
+  },
+  {
+   "who": "gul",
+   "text": "The sun is a circle!",
+   "t": 333.545,
+   "dur": 1.251
+  },
+  {
+   "who": "gul",
+   "text": "Can you find a diamond?",
+   "t": 335.346,
+   "dur": 1.289
+  },
+  {
+   "who": "mishu",
+   "text": "The kite is a diamond!",
+   "t": 339.085,
+   "dur": 1.244
+  },
+  {
+   "who": "mishu",
+   "text": "Can you find a oval?",
+   "t": 340.879,
+   "dur": 1.158
+  },
+  {
+   "who": "gul",
+   "text": "The pond is an oval!",
+   "t": 344.487,
+   "dur": 1.278
+  },
+  {
+   "who": "gul",
+   "text": "Let's put shapes together, and make a picture!",
+   "t": 346.815,
+   "dur": 2.178
+  },
+  {
+   "who": "gul",
+   "text": "A big square, a triangle on top, and a rectangle door.",
+   "t": 349.443,
+   "dur": 3.023
+  },
+  {
+   "who": "mishu",
+   "text": "What did we make?",
+   "t": 352.916,
+   "dur": 0.887
+  },
+  {
+   "who": "gul",
+   "text": "A house!",
+   "t": 355.853,
+   "dur": 0.619
+  },
+  {
+   "who": "mishu",
+   "text": "A long rectangle, three triangles, and a circle window.",
+   "t": 357.122,
+   "dur": 3.318
+  },
+  {
+   "who": "gul",
+   "text": "What did we make?",
+   "t": 360.891,
+   "dur": 0.855
+  },
+  {
+   "who": "mishu",
+   "text": "A rocket! Blast off!",
+   "t": 363.796,
+   "dur": 1.419
+  },
+  {
+   "who": "gul",
+   "text": "Two rectangles, and two circles.",
+   "t": 365.865,
+   "dur": 1.881
+  },
+  {
+   "who": "mishu",
+   "text": "What did we make?",
+   "t": 369.065,
+   "dur": 0.887
+  },
+  {
+   "who": "gul",
+   "text": "A car! Beep beep!",
+   "t": 372.002,
+   "dur": 1.082
+  },
+  {
+   "who": "mishu",
+   "text": "A triangle, and three circles on top.",
+   "t": 373.734,
+   "dur": 2.187
+  },
+  {
+   "who": "gul",
+   "text": "What did we make?",
+   "t": 376.934,
+   "dur": 0.855
+  },
+  {
+   "who": "mishu",
+   "text": "An ice cream! Yummy!",
+   "t": 379.839,
+   "dur": 1.469
+  },
+  {
+   "who": "gul",
+   "text": "An oval, a triangle, and a little circle.",
+   "t": 381.958,
+   "dur": 2.336
+  },
+  {
+   "who": "mishu",
+   "text": "What did we make?",
+   "t": 385.158,
+   "dur": 0.887
+  },
+  {
+   "who": "gul",
+   "text": "A fish! Swim, swim!",
+   "t": 388.095,
+   "dur": 1.232
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids! Some shapes are flat, and some are 3D, like real things!",
+   "t": 390.477,
+   "dur": 4.122
+  },
+  {
+   "who": "gul",
+   "text": "This is a sphere.",
+   "t": 395.649,
+   "dur": 1.007
+  },
+  {
+   "who": "mishu",
+   "text": "A ball is a sphere! It can roll!",
+   "t": 397.006,
+   "dur": 1.898
+  },
+  {
+   "who": "mishu",
+   "text": "This is a cube.",
+   "t": 400.154,
+   "dur": 0.941
+  },
+  {
+   "who": "gul",
+   "text": "A dice is a cube! It has six square faces!",
+   "t": 401.445,
+   "dur": 2.651
+  },
+  {
+   "who": "gul",
+   "text": "This is a cone.",
+   "t": 405.347,
+   "dur": 1.008
+  },
+  {
+   "who": "mishu",
+   "text": "A traffic cone is a cone!",
+   "t": 406.705,
+   "dur": 1.46
+  },
+  {
+   "who": "mishu",
+   "text": "This is a cylinder.",
+   "t": 409.415,
+   "dur": 1.08
+  },
+  {
+   "who": "gul",
+   "text": "A drum is a cylinder! Boom boom!",
+   "t": 410.845,
+   "dur": 1.879
+  },
+  {
+   "who": "gul",
+   "text": "This is a pyramid.",
+   "t": 413.974,
+   "dur": 1.13
+  },
+  {
+   "who": "mishu",
+   "text": "The big pyramids in Egypt are this shape!",
+   "t": 415.454,
+   "dur": 1.99
+  },
+  {
+   "who": "gul",
+   "text": "Patterns repeat, again and again. What comes next?",
+   "t": 418.594,
+   "dur": 2.712
+  },
+  {
+   "who": "gul",
+   "text": "red circle, blue square, red circle, blue square...",
+   "t": 421.755,
+   "dur": 2.569
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 424.574,
+   "dur": 1.004
+  },
+  {
+   "who": "gul",
+   "text": "Red circle!",
+   "t": 428.028,
+   "dur": 0.847
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 429.225,
+   "dur": 0.783
+  },
+  {
+   "who": "mishu",
+   "text": "yellow star, yellow star, green triangle, yellow star, yellow star...",
+   "t": 430.558,
+   "dur": 4.02
+  },
+  {
+   "who": "gul",
+   "text": "What comes next?",
+   "t": 434.828,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "Green triangle!",
+   "t": 438.267,
+   "dur": 0.954
+  },
+  {
+   "who": "gul",
+   "text": "Yes! You got it!",
+   "t": 439.57,
+   "dur": 0.904
+  },
+  {
+   "who": "gul",
+   "text": "red circle, yellow triangle, blue square, red circle, yellow triangle...",
+   "t": 441.024,
+   "dur": 3.955
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 445.23,
+   "dur": 1.004
+  },
+  {
+   "who": "gul",
+   "text": "Blue square!",
+   "t": 448.684,
+   "dur": 0.749
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 449.783,
+   "dur": 0.57
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! Let's dance with shapes! Copy us!",
+   "t": 451.403,
+   "dur": 2.422
+  },
+  {
+   "who": "both",
+   "text": "Make a big circle with your arms!",
+   "t": 454.275,
+   "dur": 1.655
+  },
+  {
+   "who": "both",
+   "text": "Hands up high, make a triangle!",
+   "t": 457.68,
+   "dur": 1.764
+  },
+  {
+   "who": "both",
+   "text": "Jump, jump, like a star!",
+   "t": 461.194,
+   "dur": 1.403
+  },
+  {
+   "who": "both",
+   "text": "Draw a square in the air!",
+   "t": 464.347,
+   "dur": 1.194
+  },
+  {
+   "who": "both",
+   "text": "Wiggle, wiggle, like a rainbow!",
+   "t": 467.291,
+   "dur": 1.842
+  },
+  {
+   "who": "both",
+   "text": "Make a heart with your hands!",
+   "t": 470.883,
+   "dur": 1.29
+  },
+  {
+   "who": "gul",
+   "text": "Now faster!",
+   "t": 473.923,
+   "dur": 0.884
+  },
+  {
+   "who": "both",
+   "text": "Make a big circle with your arms!",
+   "t": 475.157,
+   "dur": 1.655
+  },
+  {
+   "who": "both",
+   "text": "Hands up high, make a triangle!",
+   "t": 477.861,
+   "dur": 1.764
+  },
+  {
+   "who": "both",
+   "text": "Jump, jump, like a star!",
+   "t": 480.675,
+   "dur": 1.403
+  },
+  {
+   "who": "both",
+   "text": "Draw a square in the air!",
+   "t": 483.128,
+   "dur": 1.194
+  },
+  {
+   "who": "both",
+   "text": "Wiggle, wiggle, like a rainbow!",
+   "t": 485.372,
+   "dur": 1.842
+  },
+  {
+   "who": "both",
+   "text": "Make a heart with your hands!",
+   "t": 488.264,
+   "dur": 1.29
+  },
+  {
+   "who": "gul",
+   "text": "Quiz time! Are you ready?",
+   "t": 491.104,
+   "dur": 1.303
+  },
+  {
+   "who": "mishu",
+   "text": "How many sides does a triangle have?",
+   "t": 492.857,
+   "dur": 2.026
+  },
+  {
+   "who": "gul",
+   "text": "Three sides!",
+   "t": 497.533,
+   "dur": 0.821
+  },
+  {
+   "who": "gul",
+   "text": "What do red and yellow make?",
+   "t": 499.005,
+   "dur": 1.454
+  },
+  {
+   "who": "mishu",
+   "text": "Orange!",
+   "t": 503.109,
+   "dur": 0.615
+  },
+  {
+   "who": "mishu",
+   "text": "Which shape has no corners?",
+   "t": 504.373,
+   "dur": 1.422
+  },
+  {
+   "who": "gul",
+   "text": "A circle!",
+   "t": 508.445,
+   "dur": 0.711
+  },
+  {
+   "who": "gul",
+   "text": "What shape is a pizza slice?",
+   "t": 509.806,
+   "dur": 1.595
+  },
+  {
+   "who": "mishu",
+   "text": "A triangle!",
+   "t": 514.051,
+   "dur": 0.81
+  },
+  {
+   "who": "mishu",
+   "text": "How many colors are in a rainbow?",
+   "t": 515.511,
+   "dur": 1.638
+  },
+  {
+   "who": "gul",
+   "text": "Seven colors!",
+   "t": 519.8,
+   "dur": 0.964
+  },
+  {
+   "who": "gul",
+   "text": "What do blue and yellow make?",
+   "t": 521.414,
+   "dur": 1.482
+  },
+  {
+   "who": "mishu",
+   "text": "Green!",
+   "t": 525.546,
+   "dur": 0.584
+  },
+  {
+   "who": "mishu",
+   "text": "What shape is a ball?",
+   "t": 526.779,
+   "dur": 1.13
+  },
+  {
+   "who": "gul",
+   "text": "A sphere!",
+   "t": 530.559,
+   "dur": 0.676
+  },
+  {
+   "who": "mishu",
+   "text": "Look around your home! Can you find a circle? Something red?",
+   "t": 531.885,
+   "dur": 3.198
+  },
+  {
+   "who": "gul",
+   "text": "Colors and shapes are everywhere!",
+   "t": 535.432,
+   "dur": 1.668
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends!",
+   "t": 537.45,
+   "dur": 1.075
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "studio",
+   "t0": 0.0,
+   "splats": [
+    [
+     0.0,
+     "red"
+    ],
+    [
+     0.33,
+     "yellow"
+    ],
+    [
+     0.66,
+     "blue"
+    ],
+    [
+     0.99,
+     "green"
+    ],
+    [
+     1.32,
+     "pink"
+    ],
+    [
+     1.65,
+     "orange"
+    ]
+   ],
+   "title_t": 1.98,
+   "kids_t": 3.386,
+   "t1": 6.981
+  },
+  {
+   "kind": "title",
+   "bg": "studio",
+   "t0": 6.981,
+   "title": "CRAYON SURPRISE!",
+   "t1": 10.233
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 10.233,
+   "col": "red",
+   "art": "firetruck",
+   "num": 1,
+   "pop_t": 12.633,
+   "t1": 19.549
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 19.549,
+   "col": "orange",
+   "art": "pumpkinveg",
+   "num": 2,
+   "pop_t": 21.949,
+   "t1": 28.191
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 28.191,
+   "col": "yellow",
+   "art": "duckling",
+   "num": 3,
+   "pop_t": 30.591,
+   "t1": 37.14
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 37.14,
+   "col": "green",
+   "art": "frog",
+   "num": 4,
+   "pop_t": 39.54,
+   "t1": 45.557
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 45.557,
+   "col": "blue",
+   "art": "whale",
+   "num": 5,
+   "pop_t": 47.957,
+   "t1": 54.006
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 54.006,
+   "col": "purple",
+   "art": "eggplant",
+   "num": 6,
+   "pop_t": 56.406,
+   "t1": 62.903
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 62.903,
+   "col": "pink",
+   "art": "piglet",
+   "num": 7,
+   "pop_t": 65.303,
+   "t1": 71.589
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 71.589,
+   "col": "brown",
+   "art": "cupcake",
+   "num": 8,
+   "pop_t": 73.989,
+   "t1": 80.404
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 80.404,
+   "col": "black",
+   "art": "tophat",
+   "num": 9,
+   "pop_t": 82.804,
+   "t1": 88.368
+  },
+  {
+   "kind": "crayon",
+   "bg": "studio",
+   "t0": 88.368,
+   "col": "white",
+   "art": "snowman",
+   "num": 10,
+   "pop_t": 90.768,
+   "t1": 97.025
+  },
+  {
+   "kind": "title",
+   "bg": "studio",
+   "t0": 97.025,
+   "title": "MIX THE COLORS!",
+   "t1": 100.11
+  },
+  {
+   "kind": "primary",
+   "bg": "studio",
+   "t0": 100.11,
+   "show_t": 100.11,
+   "t1": 105.621
+  },
+  {
+   "kind": "mix",
+   "bg": "studio",
+   "t0": 105.621,
+   "c1": "red",
+   "c2": "yellow",
+   "res": "orange",
+   "pour1_t": 105.621,
+   "pour2_t": 107.072,
+   "swirl_t": 108.521,
+   "reveal_t": 113.332,
+   "t1": 116.542
+  },
+  {
+   "kind": "mix",
+   "bg": "studio",
+   "t0": 116.542,
+   "c1": "blue",
+   "c2": "yellow",
+   "res": "green",
+   "pour1_t": 116.542,
+   "pour2_t": 118.031,
+   "swirl_t": 119.48,
+   "reveal_t": 124.285,
+   "t1": 127.363
+  },
+  {
+   "kind": "mix",
+   "bg": "studio",
+   "t0": 127.363,
+   "c1": "red",
+   "c2": "blue",
+   "res": "purple",
+   "pour1_t": 127.363,
+   "pour2_t": 128.814,
+   "swirl_t": 130.175,
+   "reveal_t": 134.987,
+   "t1": 138.258
+  },
+  {
+   "kind": "mix",
+   "bg": "studio",
+   "t0": 138.258,
+   "c1": "red",
+   "c2": "white",
+   "res": "pink",
+   "pour1_t": 138.258,
+   "pour2_t": 139.768,
+   "swirl_t": 141.148,
+   "reveal_t": 145.953,
+   "t1": 148.981
+  },
+  {
+   "kind": "mix",
+   "bg": "studio",
+   "t0": 148.981,
+   "c1": "black",
+   "c2": "white",
+   "res": "grey",
+   "pour1_t": 148.981,
+   "pour2_t": 150.432,
+   "swirl_t": 151.79,
+   "reveal_t": 156.602,
+   "t1": 160.441
+  },
+  {
+   "kind": "rainbow",
+   "bg": "sky",
+   "t0": 160.441,
+   "arcs": [
+    163.86,
+    164.665,
+    165.622,
+    166.471,
+    167.354,
+    168.135,
+    169.107
+   ],
+   "fact_t": 170.041,
+   "t1": 174.949
+  },
+  {
+   "kind": "title",
+   "bg": "track",
+   "t0": 174.949,
+   "title": "COLOR TRAIN!",
+   "t1": 177.743
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 177.743,
+   "phase": "in",
+   "t1": 180.553
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 180.553,
+   "phase": "load",
+   "art": "tomato",
+   "col": "red",
+   "loaded": [],
+   "answer_t": 183.947,
+   "t1": 185.376
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 185.376,
+   "phase": "load",
+   "art": "corn",
+   "col": "yellow",
+   "loaded": [
+    [
+     "tomato",
+     "red"
+    ]
+   ],
+   "answer_t": 188.458,
+   "t1": 190.04
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 190.04,
+   "phase": "load",
+   "art": "broccoli",
+   "col": "green",
+   "loaded": [
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "corn",
+     "yellow"
+    ]
+   ],
+   "answer_t": 193.415,
+   "t1": 194.893
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 194.893,
+   "phase": "load",
+   "art": "blueberries",
+   "col": "blue",
+   "loaded": [
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "corn",
+     "yellow"
+    ],
+    [
+     "broccoli",
+     "green"
+    ]
+   ],
+   "answer_t": 198.265,
+   "t1": 199.803
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 199.803,
+   "phase": "load",
+   "art": "duckling",
+   "col": "yellow",
+   "loaded": [
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "corn",
+     "yellow"
+    ],
+    [
+     "broccoli",
+     "green"
+    ],
+    [
+     "blueberries",
+     "blue"
+    ]
+   ],
+   "answer_t": 203.15,
+   "t1": 204.677
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 204.677,
+   "phase": "load",
+   "art": "strawberry",
+   "col": "red",
+   "loaded": [
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "corn",
+     "yellow"
+    ],
+    [
+     "broccoli",
+     "green"
+    ],
+    [
+     "blueberries",
+     "blue"
+    ],
+    [
+     "duckling",
+     "yellow"
+    ]
+   ],
+   "answer_t": 208.051,
+   "t1": 209.516
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 209.516,
+   "phase": "load",
+   "art": "whale",
+   "col": "blue",
+   "loaded": [
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "corn",
+     "yellow"
+    ],
+    [
+     "broccoli",
+     "green"
+    ],
+    [
+     "blueberries",
+     "blue"
+    ],
+    [
+     "duckling",
+     "yellow"
+    ],
+    [
+     "strawberry",
+     "red"
+    ]
+   ],
+   "answer_t": 212.665,
+   "t1": 214.095
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 214.095,
+   "phase": "load",
+   "art": "frog",
+   "col": "green",
+   "loaded": [
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "corn",
+     "yellow"
+    ],
+    [
+     "broccoli",
+     "green"
+    ],
+    [
+     "blueberries",
+     "blue"
+    ],
+    [
+     "duckling",
+     "yellow"
+    ],
+    [
+     "strawberry",
+     "red"
+    ],
+    [
+     "whale",
+     "blue"
+    ]
+   ],
+   "answer_t": 217.243,
+   "t1": 218.772
+  },
+  {
+   "kind": "train",
+   "bg": "track",
+   "t0": 218.772,
+   "phase": "out",
+   "loaded": [
+    [
+     "tomato",
+     "red"
+    ],
+    [
+     "corn",
+     "yellow"
+    ],
+    [
+     "broccoli",
+     "green"
+    ],
+    [
+     "blueberries",
+     "blue"
+    ],
+    [
+     "duckling",
+     "yellow"
+    ],
+    [
+     "strawberry",
+     "red"
+    ],
+    [
+     "whale",
+     "blue"
+    ],
+    [
+     "frog",
+     "green"
+    ]
+   ],
+   "t1": 221.348
+  },
+  {
+   "kind": "title",
+   "bg": "board",
+   "t0": 221.348,
+   "title": "MEET THE SHAPES!",
+   "t1": 223.992
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 223.992,
+   "shape": "circle",
+   "n": 0,
+   "ex": "clock",
+   "num": 1,
+   "name_t": 224.192,
+   "count_t": 225.614,
+   "ex_t": 228.606,
+   "air_t": 230.221,
+   "t1": 234.511
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 234.511,
+   "shape": "square",
+   "n": 4,
+   "ex": "window",
+   "num": 2,
+   "name_t": 234.711,
+   "count_t": 235.994,
+   "ex_t": 238.997,
+   "air_t": 240.581,
+   "t1": 244.697
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 244.697,
+   "shape": "triangle",
+   "n": 3,
+   "ex": "pizza",
+   "num": 3,
+   "name_t": 244.897,
+   "count_t": 246.46,
+   "ex_t": 249.092,
+   "air_t": 251.226,
+   "t1": 255.683
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 255.683,
+   "shape": "rectangle",
+   "n": 4,
+   "ex": "book",
+   "num": 4,
+   "name_t": 255.883,
+   "count_t": 257.439,
+   "ex_t": 259.671,
+   "t1": 261.355
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 261.355,
+   "shape": "oval",
+   "n": 0,
+   "ex": "egg",
+   "num": 5,
+   "name_t": 261.555,
+   "count_t": 262.931,
+   "ex_t": 265.585,
+   "t1": 267.202
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 267.202,
+   "shape": "star",
+   "n": 5,
+   "ex": "starfish",
+   "num": 6,
+   "name_t": 267.402,
+   "count_t": 268.664,
+   "ex_t": 271.982,
+   "air_t": 273.602,
+   "t1": 277.695
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 277.695,
+   "shape": "heart",
+   "n": 0,
+   "ex": "heartcookie",
+   "num": 7,
+   "name_t": 277.895,
+   "count_t": 279.176,
+   "ex_t": 281.816,
+   "t1": 283.606
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 283.606,
+   "shape": "diamond",
+   "n": 4,
+   "ex": "kite",
+   "num": 8,
+   "name_t": 283.806,
+   "count_t": 285.213,
+   "ex_t": 288.207,
+   "t1": 289.762
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 289.762,
+   "shape": "pentagon",
+   "n": 5,
+   "ex": "birdhouse",
+   "num": 9,
+   "name_t": 289.962,
+   "count_t": 291.624,
+   "ex_t": 294.424,
+   "t1": 296.355
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 296.355,
+   "shape": "hexagon",
+   "n": 6,
+   "ex": "honeycomb",
+   "num": 10,
+   "name_t": 296.555,
+   "count_t": 298.097,
+   "ex_t": 300.961,
+   "t1": 303.263
+  },
+  {
+   "kind": "shape",
+   "bg": "board",
+   "t0": 303.263,
+   "shape": "crescent",
+   "n": 0,
+   "ex": "moon",
+   "num": 11,
+   "name_t": 303.463,
+   "count_t": 304.91,
+   "ex_t": 307.554,
+   "t1": 309.59
+  },
+  {
+   "kind": "title",
+   "bg": "street",
+   "t0": 309.59,
+   "title": "SHAPE HUNT!",
+   "t1": 312.871
+  },
+  {
+   "kind": "hunt",
+   "bg": "street",
+   "t0": 312.871,
+   "shape": "triangle",
+   "found_t": 316.738,
+   "t1": 318.644
+  },
+  {
+   "kind": "hunt",
+   "bg": "street",
+   "t0": 318.644,
+   "shape": "square",
+   "found_t": 322.206,
+   "t1": 324.074
+  },
+  {
+   "kind": "hunt",
+   "bg": "street",
+   "t0": 324.074,
+   "shape": "rectangle",
+   "found_t": 327.954,
+   "t1": 329.861
+  },
+  {
+   "kind": "hunt",
+   "bg": "street",
+   "t0": 329.861,
+   "shape": "circle",
+   "found_t": 333.545,
+   "t1": 335.346
+  },
+  {
+   "kind": "hunt",
+   "bg": "street",
+   "t0": 335.346,
+   "shape": "diamond",
+   "found_t": 339.085,
+   "t1": 340.879
+  },
+  {
+   "kind": "hunt",
+   "bg": "street",
+   "t0": 340.879,
+   "shape": "oval",
+   "found_t": 344.487,
+   "t1": 346.315
+  },
+  {
+   "kind": "title",
+   "bg": "studio",
+   "t0": 346.315,
+   "title": "BUILD WITH SHAPES!",
+   "t1": 349.443
+  },
+  {
+   "kind": "build",
+   "bg": "studio",
+   "t0": 349.443,
+   "thing": "house",
+   "build_t": 349.443,
+   "reveal_t": 355.853,
+   "t1": 357.122
+  },
+  {
+   "kind": "build",
+   "bg": "studio",
+   "t0": 357.122,
+   "thing": "rocket",
+   "build_t": 357.122,
+   "reveal_t": 363.796,
+   "t1": 365.865
+  },
+  {
+   "kind": "build",
+   "bg": "studio",
+   "t0": 365.865,
+   "thing": "car",
+   "build_t": 365.865,
+   "reveal_t": 372.002,
+   "t1": 373.734
+  },
+  {
+   "kind": "build",
+   "bg": "studio",
+   "t0": 373.734,
+   "thing": "icecream",
+   "build_t": 373.734,
+   "reveal_t": 379.839,
+   "t1": 381.958
+  },
+  {
+   "kind": "build",
+   "bg": "studio",
+   "t0": 381.958,
+   "thing": "fish",
+   "build_t": 381.958,
+   "reveal_t": 388.095,
+   "t1": 389.977
+  },
+  {
+   "kind": "title",
+   "bg": "board",
+   "t0": 389.977,
+   "title": "3D SHAPES!",
+   "t1": 395.049
+  },
+  {
+   "kind": "solid",
+   "bg": "board",
+   "t0": 395.049,
+   "solid": "sphere",
+   "flat": "circle",
+   "ex": "ball",
+   "pop_t": 395.049,
+   "ex_t": 397.006,
+   "t1": 399.554
+  },
+  {
+   "kind": "solid",
+   "bg": "board",
+   "t0": 399.554,
+   "solid": "cube",
+   "flat": "square",
+   "ex": "dice",
+   "pop_t": 399.554,
+   "ex_t": 401.445,
+   "t1": 404.747
+  },
+  {
+   "kind": "solid",
+   "bg": "board",
+   "t0": 404.747,
+   "solid": "cone",
+   "flat": "triangle",
+   "ex": "trafficcone",
+   "pop_t": 404.747,
+   "ex_t": 406.705,
+   "t1": 408.815
+  },
+  {
+   "kind": "solid",
+   "bg": "board",
+   "t0": 408.815,
+   "solid": "cylinder",
+   "flat": "rectangle",
+   "ex": "drum",
+   "pop_t": 408.815,
+   "ex_t": 410.845,
+   "t1": 413.374
+  },
+  {
+   "kind": "solid",
+   "bg": "board",
+   "t0": 413.374,
+   "solid": "pyramid3d",
+   "flat": "triangle",
+   "ex": "pyramidegypt",
+   "pop_t": 413.374,
+   "ex_t": 415.454,
+   "t1": 418.094
+  },
+  {
+   "kind": "title",
+   "bg": "board",
+   "t0": 418.094,
+   "title": "WHAT COMES NEXT?",
+   "t1": 421.755
+  },
+  {
+   "kind": "pattern",
+   "bg": "board",
+   "t0": 421.755,
+   "seq": [
+    [
+     "circle",
+     "red"
+    ],
+    [
+     "square",
+     "blue"
+    ],
+    [
+     "circle",
+     "red"
+    ],
+    [
+     "square",
+     "blue"
+    ]
+   ],
+   "ans": [
+    "circle",
+    "red"
+   ],
+   "read_t": 421.755,
+   "answer_t": 428.028,
+   "t1": 430.558
+  },
+  {
+   "kind": "pattern",
+   "bg": "board",
+   "t0": 430.558,
+   "seq": [
+    [
+     "star",
+     "yellow"
+    ],
+    [
+     "star",
+     "yellow"
+    ],
+    [
+     "triangle",
+     "green"
+    ],
+    [
+     "star",
+     "yellow"
+    ],
+    [
+     "star",
+     "yellow"
+    ]
+   ],
+   "ans": [
+    "triangle",
+    "green"
+   ],
+   "read_t": 430.558,
+   "answer_t": 438.267,
+   "t1": 441.024
+  },
+  {
+   "kind": "pattern",
+   "bg": "board",
+   "t0": 441.024,
+   "seq": [
+    [
+     "circle",
+     "red"
+    ],
+    [
+     "triangle",
+     "yellow"
+    ],
+    [
+     "square",
+     "blue"
+    ],
+    [
+     "circle",
+     "red"
+    ],
+    [
+     "triangle",
+     "yellow"
+    ]
+   ],
+   "ans": [
+    "square",
+    "blue"
+   ],
+   "read_t": 441.024,
+   "answer_t": 448.684,
+   "t1": 450.903
+  },
+  {
+   "kind": "title",
+   "bg": "sky",
+   "t0": 450.903,
+   "title": "SHAPE DANCE!",
+   "t1": 454.275
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 454.275,
+   "shape": "circle",
+   "move": "sway",
+   "fast": false,
+   "say_t": 454.275,
+   "t1": 457.68
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 457.68,
+   "shape": "triangle",
+   "move": "pop",
+   "fast": false,
+   "say_t": 457.68,
+   "t1": 461.194
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 461.194,
+   "shape": "star",
+   "move": "jump",
+   "fast": false,
+   "say_t": 461.194,
+   "t1": 464.347
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 464.347,
+   "shape": "square",
+   "move": "slow",
+   "fast": false,
+   "say_t": 464.347,
+   "t1": 467.291
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 467.291,
+   "shape": "rainbow",
+   "move": "shake",
+   "fast": false,
+   "say_t": 467.291,
+   "t1": 470.883
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 470.883,
+   "shape": "heart",
+   "move": "sway",
+   "fast": false,
+   "say_t": 470.883,
+   "t1": 473.923
+  },
+  {
+   "kind": "title",
+   "bg": "sky",
+   "t0": 473.923,
+   "title": "FASTER!",
+   "t1": 475.157
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 475.157,
+   "shape": "circle",
+   "move": "sway",
+   "fast": true,
+   "say_t": 475.157,
+   "t1": 477.861
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 477.861,
+   "shape": "triangle",
+   "move": "pop",
+   "fast": true,
+   "say_t": 477.861,
+   "t1": 480.675
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 480.675,
+   "shape": "star",
+   "move": "jump",
+   "fast": true,
+   "say_t": 480.675,
+   "t1": 483.128
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 483.128,
+   "shape": "square",
+   "move": "slow",
+   "fast": true,
+   "say_t": 483.128,
+   "t1": 485.372
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 485.372,
+   "shape": "rainbow",
+   "move": "shake",
+   "fast": true,
+   "say_t": 485.372,
+   "t1": 488.264
+  },
+  {
+   "kind": "dance",
+   "bg": "sky",
+   "t0": 488.264,
+   "shape": "heart",
+   "move": "sway",
+   "fast": true,
+   "say_t": 488.264,
+   "t1": 490.604
+  },
+  {
+   "kind": "title",
+   "bg": "studio",
+   "t0": 490.604,
+   "title": "BIG KIDS QUIZ!",
+   "t1": 492.857
+  },
+  {
+   "kind": "quiz",
+   "bg": "studio",
+   "t0": 492.857,
+   "q": "HOW MANY SIDES DOES A TRIANGLE HAVE?",
+   "vis": [
+    "shape",
+    "triangle"
+   ],
+   "answer_t": 497.533,
+   "t1": 499.005
+  },
+  {
+   "kind": "quiz",
+   "bg": "studio",
+   "t0": 499.005,
+   "q": "WHAT DO RED AND YELLOW MAKE?",
+   "vis": [
+    "blob",
+    "orange"
+   ],
+   "answer_t": 503.109,
+   "t1": 504.373
+  },
+  {
+   "kind": "quiz",
+   "bg": "studio",
+   "t0": 504.373,
+   "q": "WHICH SHAPE HAS NO CORNERS?",
+   "vis": [
+    "shape",
+    "circle"
+   ],
+   "answer_t": 508.445,
+   "t1": 509.806
+  },
+  {
+   "kind": "quiz",
+   "bg": "studio",
+   "t0": 509.806,
+   "q": "WHAT SHAPE IS A PIZZA SLICE?",
+   "vis": [
+    "item",
+    "pizza"
+   ],
+   "answer_t": 514.051,
+   "t1": 515.511
+  },
+  {
+   "kind": "quiz",
+   "bg": "studio",
+   "t0": 515.511,
+   "q": "HOW MANY COLORS ARE IN A RAINBOW?",
+   "vis": [
+    "rainbow",
+    ""
+   ],
+   "answer_t": 519.8,
+   "t1": 521.414
+  },
+  {
+   "kind": "quiz",
+   "bg": "studio",
+   "t0": 521.414,
+   "q": "WHAT DO BLUE AND YELLOW MAKE?",
+   "vis": [
+    "blob",
+    "green"
+   ],
+   "answer_t": 525.546,
+   "t1": 526.779
+  },
+  {
+   "kind": "quiz",
+   "bg": "studio",
+   "t0": 526.779,
+   "q": "WHAT SHAPE IS A BALL?",
+   "vis": [
+    "item",
+    "sphere"
+   ],
+   "answer_t": 530.559,
+   "t1": 531.885
+  },
+  {
+   "kind": "outro",
+   "bg": "sky",
+   "t0": 531.885,
+   "bye_t": 537.45,
+   "t1": 540.475
+  }
+ ],
+ "prompts": [
+  [
+   18.249,
+   19.549
+  ],
+  [
+   26.891,
+   28.191
+  ],
+  [
+   35.84,
+   37.14
+  ],
+  [
+   44.257,
+   45.557
+  ],
+  [
+   52.706,
+   54.006
+  ],
+  [
+   61.603,
+   62.903
+  ],
+  [
+   70.289,
+   71.589
+  ],
+  [
+   79.104,
+   80.404
+  ],
+  [
+   87.068,
+   88.368
+  ],
+  [
+   95.725,
+   97.025
+  ],
+  [
+   111.332,
+   113.332
+  ],
+  [
+   122.285,
+   124.285
+  ],
+  [
+   132.987,
+   134.987
+  ],
+  [
+   143.953,
+   145.953
+  ],
+  [
+   154.602,
+   156.602
+  ],
+  [
+   182.147,
+   183.947
+  ],
+  [
+   186.658,
+   188.458
+  ],
+  [
+   191.615,
+   193.415
+  ],
+  [
+   196.465,
+   198.265
+  ],
+  [
+   201.35,
+   203.15
+  ],
+  [
+   206.251,
+   208.051
+  ],
+  [
+   210.865,
+   212.665
+  ],
+  [
+   215.443,
+   217.243
+  ],
+  [
+   232.511,
+   234.511
+  ],
+  [
+   242.697,
+   244.697
+  ],
+  [
+   253.683,
+   255.683
+  ],
+  [
+   275.695,
+   277.695
+  ],
+  [
+   314.538,
+   316.738
+  ],
+  [
+   320.006,
+   322.206
+  ],
+  [
+   325.754,
+   327.954
+  ],
+  [
+   331.345,
+   333.545
+  ],
+  [
+   336.885,
+   339.085
+  ],
+  [
+   342.287,
+   344.487
+  ],
+  [
+   354.053,
+   355.853
+  ],
+  [
+   361.996,
+   363.796
+  ],
+  [
+   370.202,
+   372.002
+  ],
+  [
+   378.039,
+   379.839
+  ],
+  [
+   386.295,
+   388.095
+  ],
+  [
+   425.828,
+   428.028
+  ],
+  [
+   436.067,
+   438.267
+  ],
+  [
+   446.484,
+   448.684
+  ],
+  [
+   456.08,
+   457.68
+  ],
+  [
+   459.594,
+   461.194
+  ],
+  [
+   462.747,
+   464.347
+  ],
+  [
+   465.691,
+   467.291
+  ],
+  [
+   469.283,
+   470.883
+  ],
+  [
+   472.323,
+   473.923
+  ],
+  [
+   476.961,
+   477.861
+  ],
+  [
+   479.775,
+   480.675
+  ],
+  [
+   482.228,
+   483.128
+  ],
+  [
+   484.472,
+   485.372
+  ],
+  [
+   487.364,
+   488.264
+  ],
+  [
+   489.704,
+   490.604
+  ],
+  [
+   495.133,
+   497.533
+  ],
+  [
+   500.709,
+   503.109
+  ],
+  [
+   506.045,
+   508.445
+  ],
+  [
+   511.651,
+   514.051
+  ],
+  [
+   517.4,
+   519.8
+  ],
+  [
+   523.146,
+   525.546
+  ],
+  [
+   528.159,
+   530.559
+  ]
+ ],
+ "stars": [
+  18.549,
+  27.191,
+  36.14,
+  44.557,
+  53.006,
+  61.903,
+  70.589,
+  79.404,
+  87.368,
+  96.025,
+  113.332,
+  124.285,
+  134.987,
+  145.953,
+  156.602,
+  355.853,
+  363.796,
+  372.002,
+  379.839,
+  388.095,
+  428.028,
+  438.267,
+  448.684,
+  499.005,
+  504.373,
+  509.806,
+  515.511,
+  521.414,
+  526.779,
+  531.885
+ ],
+ "total": 540.47
+}
