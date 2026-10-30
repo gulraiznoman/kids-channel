@@ -14,7 +14,7 @@ ART.update({"book": ROOT / "long04-good-habits/art/item_book.png", "watering": R
             "star": ROOT / "long15-potty/art/item_star.png", "moon": ROOT / "long04-good-habits/art/item_moon.png",
             "bed": ROOT / "long04-good-habits/art/item_bed_neat.png", "toast": ROOT / "long04-good-habits/art/item_toast.png"})
 ART.update({w: ROOT / f"long01-animals-fun/art/fruit_{w}.png" for w in ("sunny", "rainy", "cloudy", "windy", "snowy", "rainbow")})
-BGS = {"playroom": ROOT / "long05-body-parts/art/bg_playroom.png", "board": ROOT / "long08-colors-shapes/art/bg_board.png",
+BGS = {"playroom": A18 / "bg_wall.png", "board": ROOT / "long08-colors-shapes/art/bg_board.png",
        "beach": ROOT / "long01-animals-fun/art/bg_beach.png", "bedroom": ROOT / "long04-good-habits/art/bg_bedroom.png",
        "patch": ROOT / "long03-fruits-veg/art/bg_patch.png", "kitchen": ROOT / "long03-fruits-veg/art/bg_kitchen.png",
        "park": ROOT / "long05-body-parts/art/bg_park.png", "street": ROOT / "long08-colors-shapes/art/bg_street.png"}
