@@ -1,0 +1,167 @@
+{
+ "events": [
+  {
+   "who": "both",
+   "text": "Let's learn vehicles!",
+   "t": 0.6,
+   "dur": 1.192
+  },
+  {
+   "who": "mishu",
+   "text": "Fire truck!",
+   "t": 3.192,
+   "dur": 0.78
+  },
+  {
+   "who": "gul",
+   "text": "It puts out fires!",
+   "t": 4.322,
+   "dur": 1.165
+  },
+  {
+   "who": "mishu",
+   "text": "Police car!",
+   "t": 8.887,
+   "dur": 0.723
+  },
+  {
+   "who": "gul",
+   "text": "It keeps us safe!",
+   "t": 9.96,
+   "dur": 1.01
+  },
+  {
+   "who": "mishu",
+   "text": "Ambulance!",
+   "t": 14.371,
+   "dur": 0.773
+  },
+  {
+   "who": "gul",
+   "text": "It helps sick people!",
+   "t": 15.493,
+   "dur": 1.146
+  },
+  {
+   "who": "mishu",
+   "text": "Big school bus!",
+   "t": 20.04,
+   "dur": 1.013
+  },
+  {
+   "who": "gul",
+   "text": "It takes kids to school!",
+   "t": 21.402,
+   "dur": 1.33
+  },
+  {
+   "who": "mishu",
+   "text": "Train!",
+   "t": 25.432,
+   "dur": 0.572
+  },
+  {
+   "who": "gul",
+   "text": "It goes on tracks! Choo-choo!",
+   "t": 26.354,
+   "dur": 1.607
+  },
+  {
+   "who": "mishu",
+   "text": "Which one do you like best?",
+   "t": 31.261,
+   "dur": 1.291
+  },
+  {
+   "who": "both",
+   "text": "Bye bye!",
+   "t": 32.952,
+   "dur": 0.706
+  }
+ ],
+ "segs": [
+  {
+   "key": "firetruck",
+   "name": "FIRE TRUCK",
+   "col": [
+    255,
+    226,
+    214
+   ],
+   "icon": "fire",
+   "t0": 2.292,
+   "t_name": 3.192,
+   "t_job": 4.322,
+   "t_sound": 5.737,
+   "t_out": 7.437,
+   "t1": 7.987
+  },
+  {
+   "key": "police",
+   "name": "POLICE CAR",
+   "col": [
+    214,
+    228,
+    255
+   ],
+   "icon": "badge",
+   "t0": 7.987,
+   "t_name": 8.887,
+   "t_job": 9.96,
+   "t_sound": 11.221,
+   "t_out": 12.921,
+   "t1": 13.471
+  },
+  {
+   "key": "ambulance",
+   "name": "AMBULANCE",
+   "col": [
+    255,
+    222,
+    230
+   ],
+   "icon": "heart",
+   "t0": 13.471,
+   "t_name": 14.371,
+   "t_job": 15.493,
+   "t_sound": 16.89,
+   "t_out": 18.59,
+   "t1": 19.14
+  },
+  {
+   "key": "bus",
+   "name": "BIG SCHOOL BUS",
+   "col": [
+    255,
+    243,
+    200
+   ],
+   "icon": "abc",
+   "t0": 19.14,
+   "t_name": 20.04,
+   "t_job": 21.402,
+   "t_sound": 22.982,
+   "t_out": 23.982,
+   "t1": 24.532
+  },
+  {
+   "key": "train",
+   "name": "TRAIN",
+   "col": [
+    214,
+    245,
+    222
+   ],
+   "icon": "tracks",
+   "t0": 24.532,
+   "t_name": 25.432,
+   "t_job": 26.354,
+   "t_sound": 28.211,
+   "t_out": 29.911,
+   "t1": 30.461
+  }
+ ],
+ "intro_end": 2.292104166666667,
+ "outro": 30.461,
+ "total": 34.56
+}
