@@ -1,0 +1,97 @@
+{
+ "lines": [
+  {
+   "who": "mishu",
+   "text": "What's inside? Let's find out!",
+   "t": 0.4,
+   "dur": 1.751
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside the apple?",
+   "t": 2.901,
+   "dur": 1.289
+  },
+  {
+   "who": "gul",
+   "text": "A hidden star! With little seeds!",
+   "t": 5.64,
+   "dur": 1.732
+  },
+  {
+   "who": "gul",
+   "text": "What's inside the orange?",
+   "t": 8.322,
+   "dur": 1.421
+  },
+  {
+   "who": "mishu",
+   "text": "Juicy slices, like a wheel!",
+   "t": 11.193,
+   "dur": 1.526
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside the watermelon?",
+   "t": 13.669,
+   "dur": 1.588
+  },
+  {
+   "who": "gul",
+   "text": "Red and juicy, with black seeds!",
+   "t": 16.707,
+   "dur": 1.74
+  },
+  {
+   "who": "gul",
+   "text": "What's inside the tomato?",
+   "t": 19.397,
+   "dur": 1.476
+  },
+  {
+   "who": "mishu",
+   "text": "Tiny seeds, in little rooms!",
+   "t": 22.322,
+   "dur": 1.564
+  },
+  {
+   "who": "both",
+   "text": "Which one is your favourite?",
+   "t": 24.387,
+   "dur": 1.414
+  }
+ ],
+ "steps": [
+  {
+   "t0": 2.451,
+   "q_t": 2.901,
+   "cut_t": 5.09,
+   "a_t": 5.64,
+   "t1": 7.872
+  },
+  {
+   "t0": 7.872,
+   "q_t": 8.322,
+   "cut_t": 10.643,
+   "a_t": 11.193,
+   "t1": 13.219
+  },
+  {
+   "t0": 13.219,
+   "q_t": 13.669,
+   "cut_t": 16.157,
+   "a_t": 16.707,
+   "t1": 18.947
+  },
+  {
+   "t0": 18.947,
+   "q_t": 19.397,
+   "cut_t": 21.772,
+   "a_t": 22.322,
+   "t1": 24.387
+  }
+ ],
+ "intro_end": 2.4508541666666663,
+ "end_t": 24.387,
+ "total": 27.0
+}
