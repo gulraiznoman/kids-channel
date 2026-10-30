@@ -1,0 +1,169 @@
+{
+ "events": [
+  {
+   "who": "mishu",
+   "text": "Halloween is coming!",
+   "t": 0.5,
+   "dur": 1.085
+  },
+  {
+   "who": "gul",
+   "text": "Let's get ready!",
+   "t": 1.935,
+   "dur": 0.961
+  },
+  {
+   "who": "gul",
+   "text": "Look! A big orange pumpkin!",
+   "t": 4.147,
+   "dur": 1.477
+  },
+  {
+   "who": "mishu",
+   "text": "Let's give it a happy face!",
+   "t": 7.193,
+   "dur": 1.424
+  },
+  {
+   "who": "gul",
+   "text": "Jack-o'-lantern!",
+   "t": 8.967,
+   "dur": 0.934
+  },
+  {
+   "who": "gul",
+   "text": "Costume time! I'm a pumpkin!",
+   "t": 11.152,
+   "dur": 1.605
+  },
+  {
+   "who": "mishu",
+   "text": "And I'm a little witch!",
+   "t": 13.107,
+   "dur": 1.147
+  },
+  {
+   "who": "mishu",
+   "text": "A little bat! Flap, flap!",
+   "t": 15.504,
+   "dur": 1.498
+  },
+  {
+   "who": "gul",
+   "text": "A friendly ghost! Boo!",
+   "t": 18.972,
+   "dur": 1.319
+  },
+  {
+   "who": "mishu",
+   "text": "Hello, ghosty!",
+   "t": 20.64,
+   "dur": 0.938
+  },
+  {
+   "who": "mishu",
+   "text": "A black cat!",
+   "t": 22.829,
+   "dur": 0.892
+  },
+  {
+   "who": "both",
+   "text": "Trick or treat!",
+   "t": 25.61,
+   "dur": 0.931
+  },
+  {
+   "who": "gul",
+   "text": "Yummy candy!",
+   "t": 26.891,
+   "dur": 0.904
+  },
+  {
+   "who": "both",
+   "text": "Happy Halloween!",
+   "t": 29.045,
+   "dur": 0.971
+  }
+ ],
+ "steps": [
+  {
+   "key": "intro",
+   "word": null,
+   "t0": 0.5,
+   "cues": {},
+   "t1": 3.547
+  },
+  {
+   "key": "pumpkin",
+   "word": "PUMPKIN!",
+   "t0": 3.547,
+   "cues": {
+    "sfx": 5.973
+   },
+   "t1": 6.593
+  },
+  {
+   "key": "carve",
+   "word": "JACK-O'-LANTERN!",
+   "t0": 6.593,
+   "cues": {
+    "glow": 8.967
+   },
+   "t1": 10.552
+  },
+  {
+   "key": "costume",
+   "word": "COSTUMES!",
+   "t0": 10.552,
+   "cues": {
+    "hat_gul": 11.152,
+    "hat_misheal": 13.107
+   },
+   "t1": 14.904
+  },
+  {
+   "key": "bat",
+   "word": "BAT!",
+   "t0": 14.904,
+   "cues": {
+    "sfx": 17.352
+   },
+   "t1": 18.372
+  },
+  {
+   "key": "ghost",
+   "word": "GHOST!",
+   "t0": 18.372,
+   "cues": {},
+   "t1": 22.229
+  },
+  {
+   "key": "blackcat",
+   "word": "BLACK CAT!",
+   "t0": 22.229,
+   "cues": {
+    "sfx": 24.07
+   },
+   "t1": 25.01
+  },
+  {
+   "key": "candy",
+   "word": "TRICK OR TREAT!",
+   "t0": 25.01,
+   "cues": {
+    "candy": 26.891
+   },
+   "t1": 28.445
+  },
+  {
+   "key": "end",
+   "word": "HAPPY HALLOWEEN!",
+   "t0": 28.445,
+   "cues": {
+    "party": 29.045
+   },
+   "t1": 30.666
+  }
+ ],
+ "total": 31.87
+}
