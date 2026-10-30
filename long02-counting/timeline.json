@@ -1,0 +1,3916 @@
+{
+ "lines": [
+  {
+   "who": "gul",
+   "text": "Hi friends! I'm Gul!",
+   "t": 1.0,
+   "dur": 1.254
+  },
+  {
+   "who": "mishu",
+   "text": "And I'm Mishu! Today let's count from one to ten!",
+   "t": 2.654,
+   "dur": 2.69
+  },
+  {
+   "who": "gul",
+   "text": "Ready? Let's count together!",
+   "t": 5.744,
+   "dur": 1.369
+  },
+  {
+   "who": "mishu",
+   "text": "First, let's meet the numbers!",
+   "t": 8.513,
+   "dur": 1.596
+  },
+  {
+   "who": "mishu",
+   "text": "This is number one!",
+   "t": 11.409,
+   "dur": 1.095
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 13.004,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "One big elephant!",
+   "t": 14.013,
+   "dur": 1.136
+  },
+  {
+   "who": "mishu",
+   "text": "Toot, toot!",
+   "t": 15.549,
+   "dur": 0.814
+  },
+  {
+   "who": "gul",
+   "text": "Can you show one finger?",
+   "t": 16.763,
+   "dur": 1.304
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 20.467,
+   "dur": 0.783
+  },
+  {
+   "who": "gul",
+   "text": "This is number two!",
+   "t": 22.55,
+   "dur": 1.125
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 24.175,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 24.884,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Two little bunnies!",
+   "t": 25.869,
+   "dur": 0.981
+  },
+  {
+   "who": "gul",
+   "text": "Hop, hop!",
+   "t": 27.25,
+   "dur": 0.704
+  },
+  {
+   "who": "mishu",
+   "text": "Can you show two fingers?",
+   "t": 28.354,
+   "dur": 1.413
+  },
+  {
+   "who": "gul",
+   "text": "Yay! Well done!",
+   "t": 32.167,
+   "dur": 0.911
+  },
+  {
+   "who": "mishu",
+   "text": "This is number three!",
+   "t": 34.378,
+   "dur": 1.146
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 36.024,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 36.734,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 37.418,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Three ducklings!",
+   "t": 38.472,
+   "dur": 0.886
+  },
+  {
+   "who": "mishu",
+   "text": "Quack, quack!",
+   "t": 39.759,
+   "dur": 0.794
+  },
+  {
+   "who": "gul",
+   "text": "Can you show three fingers?",
+   "t": 40.953,
+   "dur": 1.473
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 44.826,
+   "dur": 0.577
+  },
+  {
+   "who": "gul",
+   "text": "This is number four!",
+   "t": 46.703,
+   "dur": 1.129
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 48.331,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 49.041,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 49.725,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 50.479,
+   "dur": 0.53
+  },
+  {
+   "who": "mishu",
+   "text": "Four chicks!",
+   "t": 51.53,
+   "dur": 0.779
+  },
+  {
+   "who": "gul",
+   "text": "Cheep, cheep!",
+   "t": 52.708,
+   "dur": 0.769
+  },
+  {
+   "who": "mishu",
+   "text": "Can you show four fingers?",
+   "t": 53.878,
+   "dur": 1.439
+  },
+  {
+   "who": "gul",
+   "text": "Super counting!",
+   "t": 57.717,
+   "dur": 0.951
+  },
+  {
+   "who": "mishu",
+   "text": "This is number five!",
+   "t": 59.968,
+   "dur": 1.205
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 61.673,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 62.383,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 63.067,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 63.822,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 64.572,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Five fish!",
+   "t": 65.662,
+   "dur": 0.735
+  },
+  {
+   "who": "mishu",
+   "text": "Blub, blub!",
+   "t": 66.797,
+   "dur": 0.822
+  },
+  {
+   "who": "gul",
+   "text": "Can you show five fingers?",
+   "t": 68.019,
+   "dur": 1.464
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "t": 71.884,
+   "dur": 0.767
+  },
+  {
+   "who": "gul",
+   "text": "This is number six!",
+   "t": 73.951,
+   "dur": 1.095
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 75.546,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 76.255,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 76.939,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 77.694,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 78.444,
+   "dur": 0.571
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 79.234,
+   "dur": 0.577
+  },
+  {
+   "who": "mishu",
+   "text": "Six stars!",
+   "t": 80.331,
+   "dur": 0.892
+  },
+  {
+   "who": "gul",
+   "text": "Twinkle, twinkle!",
+   "t": 81.623,
+   "dur": 1.089
+  },
+  {
+   "who": "mishu",
+   "text": "Can you show six fingers?",
+   "t": 83.113,
+   "dur": 1.449
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "t": 87.562,
+   "dur": 1.186
+  },
+  {
+   "who": "mishu",
+   "text": "This is number seven!",
+   "t": 90.047,
+   "dur": 1.212
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 91.76,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 92.469,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 93.153,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 93.908,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 94.658,
+   "dur": 0.571
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 95.448,
+   "dur": 0.577
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 96.245,
+   "dur": 0.608
+  },
+  {
+   "who": "gul",
+   "text": "Seven hearts!",
+   "t": 97.373,
+   "dur": 0.905
+  },
+  {
+   "who": "mishu",
+   "text": "I love you!",
+   "t": 98.678,
+   "dur": 0.685
+  },
+  {
+   "who": "gul",
+   "text": "Can you show seven fingers?",
+   "t": 99.763,
+   "dur": 1.594
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "t": 104.358,
+   "dur": 0.783
+  },
+  {
+   "who": "gul",
+   "text": "This is number eight!",
+   "t": 106.44,
+   "dur": 1.118
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 108.058,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 108.767,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 109.452,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 110.206,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 110.956,
+   "dur": 0.571
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 111.747,
+   "dur": 0.577
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 112.544,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 113.372,
+   "dur": 0.507
+  },
+  {
+   "who": "mishu",
+   "text": "Eight apples!",
+   "t": 114.399,
+   "dur": 0.799
+  },
+  {
+   "who": "gul",
+   "text": "Crunch, crunch!",
+   "t": 115.598,
+   "dur": 0.922
+  },
+  {
+   "who": "mishu",
+   "text": "Can you show eight fingers?",
+   "t": 116.919,
+   "dur": 1.373
+  },
+  {
+   "who": "gul",
+   "text": "Yay! Well done!",
+   "t": 121.292,
+   "dur": 0.911
+  },
+  {
+   "who": "mishu",
+   "text": "This is number nine!",
+   "t": 123.503,
+   "dur": 1.116
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 125.12,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 125.829,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 126.513,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 127.268,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 128.018,
+   "dur": 0.571
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 128.809,
+   "dur": 0.577
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 129.605,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 130.433,
+   "dur": 0.507
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 131.161,
+   "dur": 0.535
+  },
+  {
+   "who": "gul",
+   "text": "Nine strawberries!",
+   "t": 132.215,
+   "dur": 1.059
+  },
+  {
+   "who": "mishu",
+   "text": "Yummy!",
+   "t": 133.675,
+   "dur": 0.526
+  },
+  {
+   "who": "gul",
+   "text": "Can you show nine fingers?",
+   "t": 134.6,
+   "dur": 1.459
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "t": 139.06,
+   "dur": 0.577
+  },
+  {
+   "who": "gul",
+   "text": "This is number ten!",
+   "t": 140.937,
+   "dur": 1.143
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 142.58,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 143.289,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 143.974,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 144.728,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 145.478,
+   "dur": 0.571
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 146.269,
+   "dur": 0.577
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 147.066,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 147.894,
+   "dur": 0.507
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 148.621,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 149.376,
+   "dur": 0.502
+  },
+  {
+   "who": "mishu",
+   "text": "Ten little cars!",
+   "t": 150.397,
+   "dur": 0.998
+  },
+  {
+   "who": "gul",
+   "text": "Beep, beep!",
+   "t": 151.795,
+   "dur": 0.766
+  },
+  {
+   "who": "mishu",
+   "text": "Can you show ten fingers?",
+   "t": 152.961,
+   "dur": 1.397
+  },
+  {
+   "who": "gul",
+   "text": "Super counting!",
+   "t": 157.358,
+   "dur": 0.951
+  },
+  {
+   "who": "mishu",
+   "text": "Now let's count some yummy fruits!",
+   "t": 159.509,
+   "dur": 1.759
+  },
+  {
+   "who": "mishu",
+   "text": "How many oranges?",
+   "t": 162.769,
+   "dur": 1.051
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 166.419,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 167.58,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 168.289,
+   "dur": 0.458
+  },
+  {
+   "who": "mishu",
+   "text": "Two oranges!",
+   "t": 169.268,
+   "dur": 0.892
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 170.46,
+   "dur": 0.832
+  },
+  {
+   "who": "gul",
+   "text": "How many bananas?",
+   "t": 172.892,
+   "dur": 1.098
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 176.59,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 177.778,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 178.476,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 179.161,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 179.908,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 180.619,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Five bananas!",
+   "t": 181.709,
+   "dur": 0.995
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "t": 183.004,
+   "dur": 1.047
+  },
+  {
+   "who": "mishu",
+   "text": "How many bunches of grapes?",
+   "t": 185.651,
+   "dur": 1.462
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 189.714,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 190.874,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 191.584,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 192.262,
+   "dur": 0.534
+  },
+  {
+   "who": "mishu",
+   "text": "Three bunches of grapes!",
+   "t": 193.316,
+   "dur": 1.277
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 194.894,
+   "dur": 0.603
+  },
+  {
+   "who": "gul",
+   "text": "How many pears?",
+   "t": 197.096,
+   "dur": 0.986
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 200.682,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 201.87,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 202.569,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 203.253,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 204.0,
+   "dur": 0.491
+  },
+  {
+   "who": "gul",
+   "text": "Four pears!",
+   "t": 205.011,
+   "dur": 0.786
+  },
+  {
+   "who": "mishu",
+   "text": "Super counting!",
+   "t": 206.097,
+   "dur": 0.966
+  },
+  {
+   "who": "mishu",
+   "text": "How many watermelons?",
+   "t": 208.663,
+   "dur": 1.321
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 212.584,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 213.744,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 214.454,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 215.132,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Four!",
+   "t": 215.886,
+   "dur": 0.53
+  },
+  {
+   "who": "gul",
+   "text": "Five!",
+   "t": 216.636,
+   "dur": 0.55
+  },
+  {
+   "who": "gul",
+   "text": "Six!",
+   "t": 217.406,
+   "dur": 0.532
+  },
+  {
+   "who": "mishu",
+   "text": "Six watermelons!",
+   "t": 218.458,
+   "dur": 1.159
+  },
+  {
+   "who": "gul",
+   "text": "You did it!",
+   "t": 219.917,
+   "dur": 0.758
+  },
+  {
+   "who": "gul",
+   "text": "How many cherries?",
+   "t": 222.275,
+   "dur": 1.006
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 225.881,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 227.069,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 227.768,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 228.452,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 229.199,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 229.91,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Six!",
+   "t": 230.701,
+   "dur": 0.577
+  },
+  {
+   "who": "mishu",
+   "text": "Seven!",
+   "t": 231.497,
+   "dur": 0.559
+  },
+  {
+   "who": "gul",
+   "text": "Seven cherries!",
+   "t": 232.577,
+   "dur": 0.999
+  },
+  {
+   "who": "mishu",
+   "text": "Good job, friends!",
+   "t": 233.876,
+   "dur": 1.148
+  },
+  {
+   "who": "mishu",
+   "text": "How many lemons?",
+   "t": 236.623,
+   "dur": 0.982
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 240.205,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 241.366,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 242.075,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 242.753,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Four!",
+   "t": 243.508,
+   "dur": 0.53
+  },
+  {
+   "who": "gul",
+   "text": "Five!",
+   "t": 244.258,
+   "dur": 0.55
+  },
+  {
+   "who": "gul",
+   "text": "Six!",
+   "t": 245.028,
+   "dur": 0.532
+  },
+  {
+   "who": "gul",
+   "text": "Seven!",
+   "t": 245.779,
+   "dur": 0.608
+  },
+  {
+   "who": "gul",
+   "text": "Eight!",
+   "t": 246.608,
+   "dur": 0.433
+  },
+  {
+   "who": "mishu",
+   "text": "Eight lemons!",
+   "t": 247.561,
+   "dur": 0.818
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 248.679,
+   "dur": 0.832
+  },
+  {
+   "who": "gul",
+   "text": "How many kiwis?",
+   "t": 251.111,
+   "dur": 0.981
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 254.692,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 255.88,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 256.578,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 257.263,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 258.01,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 258.721,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Six!",
+   "t": 259.511,
+   "dur": 0.577
+  },
+  {
+   "who": "mishu",
+   "text": "Seven!",
+   "t": 260.308,
+   "dur": 0.559
+  },
+  {
+   "who": "mishu",
+   "text": "Eight!",
+   "t": 261.087,
+   "dur": 0.507
+  },
+  {
+   "who": "mishu",
+   "text": "Nine!",
+   "t": 261.814,
+   "dur": 0.507
+  },
+  {
+   "who": "gul",
+   "text": "Nine kiwis!",
+   "t": 262.841,
+   "dur": 0.898
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "t": 264.04,
+   "dur": 1.047
+  },
+  {
+   "who": "gul",
+   "text": "Let's go to the farm and count the animals!",
+   "t": 266.387,
+   "dur": 2.222
+  },
+  {
+   "who": "mishu",
+   "text": "How many cows?",
+   "t": 270.109,
+   "dur": 0.948
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 273.657,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 274.817,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 275.527,
+   "dur": 0.458
+  },
+  {
+   "who": "mishu",
+   "text": "Two cows!",
+   "t": 276.505,
+   "dur": 0.739
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 277.544,
+   "dur": 0.603
+  },
+  {
+   "who": "gul",
+   "text": "How many piglets?",
+   "t": 279.746,
+   "dur": 1.003
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 283.349,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 284.537,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 285.235,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 285.92,
+   "dur": 0.527
+  },
+  {
+   "who": "gul",
+   "text": "Three piglets!",
+   "t": 286.967,
+   "dur": 0.88
+  },
+  {
+   "who": "mishu",
+   "text": "Super counting!",
+   "t": 288.147,
+   "dur": 0.966
+  },
+  {
+   "who": "mishu",
+   "text": "How many lambs?",
+   "t": 290.713,
+   "dur": 0.963
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 294.276,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 295.437,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 296.146,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 296.825,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Four!",
+   "t": 297.579,
+   "dur": 0.53
+  },
+  {
+   "who": "gul",
+   "text": "Five!",
+   "t": 298.329,
+   "dur": 0.55
+  },
+  {
+   "who": "mishu",
+   "text": "Five lambs!",
+   "t": 299.399,
+   "dur": 0.845
+  },
+  {
+   "who": "gul",
+   "text": "You did it!",
+   "t": 300.544,
+   "dur": 0.758
+  },
+  {
+   "who": "gul",
+   "text": "How many puppies?",
+   "t": 302.902,
+   "dur": 0.998
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 306.5,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 307.688,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 308.387,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 309.071,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 309.818,
+   "dur": 0.491
+  },
+  {
+   "who": "gul",
+   "text": "Four puppies!",
+   "t": 310.829,
+   "dur": 0.824
+  },
+  {
+   "who": "mishu",
+   "text": "Good job, friends!",
+   "t": 311.953,
+   "dur": 1.148
+  },
+  {
+   "who": "mishu",
+   "text": "How many kittens?",
+   "t": 314.701,
+   "dur": 0.932
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 318.233,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 319.394,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 320.103,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 320.782,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Four!",
+   "t": 321.536,
+   "dur": 0.53
+  },
+  {
+   "who": "gul",
+   "text": "Five!",
+   "t": 322.286,
+   "dur": 0.55
+  },
+  {
+   "who": "gul",
+   "text": "Six!",
+   "t": 323.056,
+   "dur": 0.532
+  },
+  {
+   "who": "mishu",
+   "text": "Six kittens!",
+   "t": 324.108,
+   "dur": 0.878
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 325.286,
+   "dur": 0.832
+  },
+  {
+   "who": "gul",
+   "text": "How many ducklings?",
+   "t": 327.717,
+   "dur": 1.097
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 331.415,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 332.603,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 333.301,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 333.986,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 334.733,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 335.444,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Six!",
+   "t": 336.234,
+   "dur": 0.577
+  },
+  {
+   "who": "mishu",
+   "text": "Seven!",
+   "t": 337.031,
+   "dur": 0.559
+  },
+  {
+   "who": "gul",
+   "text": "Seven ducklings!",
+   "t": 338.11,
+   "dur": 1.032
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "t": 339.442,
+   "dur": 1.047
+  },
+  {
+   "who": "mishu",
+   "text": "How many chicks?",
+   "t": 342.089,
+   "dur": 0.888
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 345.577,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 346.738,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 347.447,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 348.125,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Four!",
+   "t": 348.88,
+   "dur": 0.53
+  },
+  {
+   "who": "gul",
+   "text": "Five!",
+   "t": 349.63,
+   "dur": 0.55
+  },
+  {
+   "who": "gul",
+   "text": "Six!",
+   "t": 350.4,
+   "dur": 0.532
+  },
+  {
+   "who": "gul",
+   "text": "Seven!",
+   "t": 351.151,
+   "dur": 0.608
+  },
+  {
+   "who": "gul",
+   "text": "Eight!",
+   "t": 351.98,
+   "dur": 0.433
+  },
+  {
+   "who": "gul",
+   "text": "Nine!",
+   "t": 352.633,
+   "dur": 0.535
+  },
+  {
+   "who": "mishu",
+   "text": "Nine chicks!",
+   "t": 353.688,
+   "dur": 0.81
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 354.798,
+   "dur": 0.603
+  },
+  {
+   "who": "gul",
+   "text": "How many bunnies?",
+   "t": 357.001,
+   "dur": 0.963
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 360.564,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 361.752,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 362.451,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 363.135,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 363.882,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 364.593,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Six!",
+   "t": 365.384,
+   "dur": 0.577
+  },
+  {
+   "who": "mishu",
+   "text": "Seven!",
+   "t": 366.18,
+   "dur": 0.559
+  },
+  {
+   "who": "mishu",
+   "text": "Eight!",
+   "t": 366.959,
+   "dur": 0.507
+  },
+  {
+   "who": "mishu",
+   "text": "Nine!",
+   "t": 367.687,
+   "dur": 0.507
+  },
+  {
+   "who": "mishu",
+   "text": "Ten!",
+   "t": 368.414,
+   "dur": 0.502
+  },
+  {
+   "who": "gul",
+   "text": "Ten bunnies!",
+   "t": 369.436,
+   "dur": 0.83
+  },
+  {
+   "who": "mishu",
+   "text": "Super counting!",
+   "t": 370.566,
+   "dur": 0.966
+  },
+  {
+   "who": "mishu",
+   "text": "Beep, beep! Let's count the vehicles!",
+   "t": 372.832,
+   "dur": 2.137
+  },
+  {
+   "who": "mishu",
+   "text": "How many buses?",
+   "t": 376.469,
+   "dur": 1.004
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 380.073,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 381.233,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 381.943,
+   "dur": 0.458
+  },
+  {
+   "who": "mishu",
+   "text": "Two buses!",
+   "t": 382.921,
+   "dur": 0.816
+  },
+  {
+   "who": "gul",
+   "text": "You did it!",
+   "t": 384.037,
+   "dur": 0.758
+  },
+  {
+   "who": "gul",
+   "text": "How many fire trucks?",
+   "t": 386.395,
+   "dur": 1.233
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 390.228,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 391.416,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 392.115,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 392.799,
+   "dur": 0.527
+  },
+  {
+   "who": "gul",
+   "text": "Three fire trucks!",
+   "t": 393.847,
+   "dur": 1.073
+  },
+  {
+   "who": "mishu",
+   "text": "Good job, friends!",
+   "t": 395.22,
+   "dur": 1.148
+  },
+  {
+   "who": "mishu",
+   "text": "How many tractors?",
+   "t": 397.967,
+   "dur": 1.087
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 401.654,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 402.815,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 403.524,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 404.203,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Four!",
+   "t": 404.957,
+   "dur": 0.53
+  },
+  {
+   "who": "mishu",
+   "text": "Four tractors!",
+   "t": 406.007,
+   "dur": 0.961
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 407.268,
+   "dur": 0.832
+  },
+  {
+   "who": "gul",
+   "text": "How many police cars?",
+   "t": 409.699,
+   "dur": 1.221
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 413.52,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 414.708,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 415.407,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 416.091,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 416.838,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 417.549,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Five police cars!",
+   "t": 418.64,
+   "dur": 1.149
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "t": 420.088,
+   "dur": 1.047
+  },
+  {
+   "who": "mishu",
+   "text": "How many trains?",
+   "t": 422.735,
+   "dur": 1.0
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 426.335,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 427.496,
+   "dur": 0.489
+  },
+  {
+   "who": "mishu",
+   "text": "One train!",
+   "t": 428.505,
+   "dur": 0.773
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 429.578,
+   "dur": 0.603
+  },
+  {
+   "who": "gul",
+   "text": "How many cars?",
+   "t": 431.78,
+   "dur": 0.994
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 435.375,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 436.563,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 437.261,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 437.946,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 438.693,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 439.404,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Six!",
+   "t": 440.194,
+   "dur": 0.577
+  },
+  {
+   "who": "gul",
+   "text": "Six cars!",
+   "t": 441.291,
+   "dur": 0.83
+  },
+  {
+   "who": "mishu",
+   "text": "Super counting!",
+   "t": 442.421,
+   "dur": 0.966
+  },
+  {
+   "who": "gul",
+   "text": "It's almost Halloween! Let's count!",
+   "t": 444.687,
+   "dur": 1.767
+  },
+  {
+   "who": "mishu",
+   "text": "How many pumpkins?",
+   "t": 447.954,
+   "dur": 1.088
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 451.641,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 452.802,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 453.511,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 454.19,
+   "dur": 0.534
+  },
+  {
+   "who": "mishu",
+   "text": "Three pumpkins!",
+   "t": 455.244,
+   "dur": 0.897
+  },
+  {
+   "who": "gul",
+   "text": "You did it!",
+   "t": 456.441,
+   "dur": 0.758
+  },
+  {
+   "who": "gul",
+   "text": "How many bats?",
+   "t": 458.799,
+   "dur": 0.899
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 462.298,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 463.486,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 464.185,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 464.869,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 465.616,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 466.327,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Five bats!",
+   "t": 467.418,
+   "dur": 0.779
+  },
+  {
+   "who": "mishu",
+   "text": "Good job, friends!",
+   "t": 468.497,
+   "dur": 1.148
+  },
+  {
+   "who": "mishu",
+   "text": "How many friendly ghosts?",
+   "t": 471.244,
+   "dur": 1.345
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 475.189,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 476.349,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 477.059,
+   "dur": 0.458
+  },
+  {
+   "who": "mishu",
+   "text": "Two friendly ghosts!",
+   "t": 478.037,
+   "dur": 1.191
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 479.528,
+   "dur": 0.832
+  },
+  {
+   "who": "gul",
+   "text": "How many jack-o'-lanterns?",
+   "t": 481.96,
+   "dur": 1.415
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count!",
+   "t": 485.975,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 487.163,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 487.862,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 488.546,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 489.293,
+   "dur": 0.491
+  },
+  {
+   "who": "gul",
+   "text": "Four jack-o'-lanterns!",
+   "t": 490.304,
+   "dur": 1.24
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "t": 491.844,
+   "dur": 1.047
+  },
+  {
+   "who": "mishu",
+   "text": "How many black cats?",
+   "t": 494.491,
+   "dur": 1.228
+  },
+  {
+   "who": "gul",
+   "text": "Let's count!",
+   "t": 498.319,
+   "dur": 0.761
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 499.48,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 500.189,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 500.868,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Four!",
+   "t": 501.622,
+   "dur": 0.53
+  },
+  {
+   "who": "gul",
+   "text": "Five!",
+   "t": 502.372,
+   "dur": 0.55
+  },
+  {
+   "who": "gul",
+   "text": "Six!",
+   "t": 503.142,
+   "dur": 0.532
+  },
+  {
+   "who": "mishu",
+   "text": "Six black cats!",
+   "t": 504.194,
+   "dur": 1.172
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 505.666,
+   "dur": 0.603
+  },
+  {
+   "who": "gul",
+   "text": "Big kids, this one is for you! Let's add!",
+   "t": 507.568,
+   "dur": 2.091
+  },
+  {
+   "who": "mishu",
+   "text": "Adding means putting things together!",
+   "t": 510.059,
+   "dur": 1.698
+  },
+  {
+   "who": "mishu",
+   "text": "One apple...",
+   "t": 513.157,
+   "dur": 0.798
+  },
+  {
+   "who": "mishu",
+   "text": "and one more!",
+   "t": 514.255,
+   "dur": 0.777
+  },
+  {
+   "who": "mishu",
+   "text": "How many altogether?",
+   "t": 515.332,
+   "dur": 1.173
+  },
+  {
+   "who": "gul",
+   "text": "Let's count them all!",
+   "t": 519.305,
+   "dur": 1.024
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 520.73,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 521.439,
+   "dur": 0.458
+  },
+  {
+   "who": "mishu",
+   "text": "One plus one is two!",
+   "t": 522.417,
+   "dur": 1.235
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 523.952,
+   "dur": 0.603
+  },
+  {
+   "who": "gul",
+   "text": "Two bananas...",
+   "t": 526.055,
+   "dur": 0.932
+  },
+  {
+   "who": "gul",
+   "text": "and one more!",
+   "t": 527.287,
+   "dur": 0.839
+  },
+  {
+   "who": "gul",
+   "text": "How many altogether?",
+   "t": 528.426,
+   "dur": 1.202
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count them all!",
+   "t": 532.428,
+   "dur": 1.034
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 533.861,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 534.56,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 535.244,
+   "dur": 0.527
+  },
+  {
+   "who": "gul",
+   "text": "Two plus one is three!",
+   "t": 536.292,
+   "dur": 1.326
+  },
+  {
+   "who": "mishu",
+   "text": "Super counting!",
+   "t": 537.917,
+   "dur": 0.966
+  },
+  {
+   "who": "mishu",
+   "text": "Two ducklings...",
+   "t": 540.383,
+   "dur": 0.887
+  },
+  {
+   "who": "mishu",
+   "text": "and two more!",
+   "t": 541.571,
+   "dur": 0.761
+  },
+  {
+   "who": "mishu",
+   "text": "How many altogether?",
+   "t": 542.632,
+   "dur": 1.173
+  },
+  {
+   "who": "gul",
+   "text": "Let's count them all!",
+   "t": 546.605,
+   "dur": 1.024
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 548.029,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 548.739,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 549.417,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Four!",
+   "t": 550.171,
+   "dur": 0.53
+  },
+  {
+   "who": "mishu",
+   "text": "Two plus two is four!",
+   "t": 551.221,
+   "dur": 1.22
+  },
+  {
+   "who": "gul",
+   "text": "You did it!",
+   "t": 552.741,
+   "dur": 0.758
+  },
+  {
+   "who": "gul",
+   "text": "Three stars...",
+   "t": 554.999,
+   "dur": 0.892
+  },
+  {
+   "who": "gul",
+   "text": "and two more!",
+   "t": 556.191,
+   "dur": 0.811
+  },
+  {
+   "who": "gul",
+   "text": "How many altogether?",
+   "t": 557.302,
+   "dur": 1.202
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count them all!",
+   "t": 561.304,
+   "dur": 1.034
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 562.737,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 563.436,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 564.12,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 564.867,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 565.578,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Three plus two is five!",
+   "t": 566.669,
+   "dur": 1.237
+  },
+  {
+   "who": "mishu",
+   "text": "Good job, friends!",
+   "t": 568.205,
+   "dur": 1.148
+  },
+  {
+   "who": "mishu",
+   "text": "Four cars...",
+   "t": 570.853,
+   "dur": 0.866
+  },
+  {
+   "who": "mishu",
+   "text": "and two more!",
+   "t": 572.019,
+   "dur": 0.761
+  },
+  {
+   "who": "mishu",
+   "text": "How many altogether?",
+   "t": 573.081,
+   "dur": 1.173
+  },
+  {
+   "who": "gul",
+   "text": "Let's count them all!",
+   "t": 577.053,
+   "dur": 1.024
+  },
+  {
+   "who": "gul",
+   "text": "One!",
+   "t": 578.478,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "Two!",
+   "t": 579.187,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Three!",
+   "t": 579.865,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Four!",
+   "t": 580.62,
+   "dur": 0.53
+  },
+  {
+   "who": "gul",
+   "text": "Five!",
+   "t": 581.37,
+   "dur": 0.55
+  },
+  {
+   "who": "gul",
+   "text": "Six!",
+   "t": 582.139,
+   "dur": 0.532
+  },
+  {
+   "who": "mishu",
+   "text": "Four plus two is six!",
+   "t": 583.191,
+   "dur": 1.293
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 584.784,
+   "dur": 0.832
+  },
+  {
+   "who": "gul",
+   "text": "Three strawberries...",
+   "t": 587.116,
+   "dur": 1.03
+  },
+  {
+   "who": "gul",
+   "text": "and four more!",
+   "t": 588.446,
+   "dur": 0.882
+  },
+  {
+   "who": "gul",
+   "text": "How many altogether?",
+   "t": 589.628,
+   "dur": 1.202
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count them all!",
+   "t": 593.63,
+   "dur": 1.034
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 595.064,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 595.762,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 596.447,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 597.194,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 597.905,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Six!",
+   "t": 598.695,
+   "dur": 0.577
+  },
+  {
+   "who": "mishu",
+   "text": "Seven!",
+   "t": 599.492,
+   "dur": 0.559
+  },
+  {
+   "who": "gul",
+   "text": "Three plus four is seven!",
+   "t": 600.571,
+   "dur": 1.404
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "t": 602.275,
+   "dur": 1.047
+  },
+  {
+   "who": "gul",
+   "text": "Let's say a counting rhyme together!",
+   "t": 604.622,
+   "dur": 1.628
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 607.45,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 608.078,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 608.693,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 609.37,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 610.011,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Once I caught a fish alive!",
+   "t": 610.731,
+   "dur": 1.389
+  },
+  {
+   "who": "mishu",
+   "text": "One!",
+   "t": 612.52,
+   "dur": 0.479
+  },
+  {
+   "who": "mishu",
+   "text": "Two!",
+   "t": 613.149,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Three!",
+   "t": 613.763,
+   "dur": 0.527
+  },
+  {
+   "who": "mishu",
+   "text": "Four!",
+   "t": 614.441,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Five!",
+   "t": 615.081,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Six!",
+   "t": 615.802,
+   "dur": 0.577
+  },
+  {
+   "who": "mishu",
+   "text": "Seven!",
+   "t": 616.529,
+   "dur": 0.559
+  },
+  {
+   "who": "mishu",
+   "text": "Eight!",
+   "t": 617.238,
+   "dur": 0.507
+  },
+  {
+   "who": "mishu",
+   "text": "Nine!",
+   "t": 617.895,
+   "dur": 0.507
+  },
+  {
+   "who": "mishu",
+   "text": "Ten!",
+   "t": 618.552,
+   "dur": 0.502
+  },
+  {
+   "who": "gul",
+   "text": "Then I let it go again!",
+   "t": 619.204,
+   "dur": 1.243
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 621.747,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 622.386,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 623.001,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 623.685,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 624.365,
+   "dur": 0.571
+  },
+  {
+   "who": "both",
+   "text": "Once I caught a fish alive!",
+   "t": 625.086,
+   "dur": 1.411
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 626.897,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 627.536,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 628.15,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 628.835,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 629.515,
+   "dur": 0.571
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 630.235,
+   "dur": 0.577
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 630.962,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 631.72,
+   "dur": 0.507
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 632.378,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 633.062,
+   "dur": 0.502
+  },
+  {
+   "who": "both",
+   "text": "Then I let it go again!",
+   "t": 633.714,
+   "dur": 1.243
+  },
+  {
+   "who": "mishu",
+   "text": "Why did you let it go?",
+   "t": 635.757,
+   "dur": 1.119
+  },
+  {
+   "who": "gul",
+   "text": "Because it bit my finger so!",
+   "t": 637.276,
+   "dur": 1.521
+  },
+  {
+   "who": "mishu",
+   "text": "Oh no! Silly fish!",
+   "t": 639.197,
+   "dur": 1.264
+  },
+  {
+   "who": "mishu",
+   "text": "Now let's count backwards! Ten to one!",
+   "t": 641.861,
+   "dur": 2.304
+  },
+  {
+   "who": "gul",
+   "text": "Get ready for blast off!",
+   "t": 644.565,
+   "dur": 1.346
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 647.011,
+   "dur": 0.502
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 647.813,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 648.647,
+   "dur": 0.507
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 649.454,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 650.363,
+   "dur": 0.577
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 651.239,
+   "dur": 0.571
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 652.11,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 652.94,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 653.775,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 654.539,
+   "dur": 0.489
+  },
+  {
+   "who": "both",
+   "text": "Blast off!",
+   "t": 655.328,
+   "dur": 0.798
+  },
+  {
+   "who": "mishu",
+   "text": "Up, up and away!",
+   "t": 658.727,
+   "dur": 1.019
+  },
+  {
+   "who": "gul",
+   "text": "We counted so many things today!",
+   "t": 660.546,
+   "dur": 1.618
+  },
+  {
+   "who": "mishu",
+   "text": "What is your favourite number? Mine is five!",
+   "t": 662.564,
+   "dur": 2.33
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends!",
+   "t": 665.394,
+   "dur": 1.076
+  },
+  {
+   "who": "gul",
+   "text": "See you next time!",
+   "t": 666.869,
+   "dur": 1.074
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "rainbow",
+   "t0": 1.0,
+   "t1": 7.913
+  },
+  {
+   "kind": "title",
+   "bg": "rainbow",
+   "t0": 7.913,
+   "title": "NUMBERS 1 TO 10!",
+   "t1": 10.709
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 10.709,
+   "n": 1,
+   "key": "elephant",
+   "numeral_t": 11.409,
+   "count_t": [
+    13.004
+   ],
+   "phrase_t": 14.012729166666666,
+   "t1": 21.85
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 21.85,
+   "n": 2,
+   "key": "bunny",
+   "numeral_t": 22.55,
+   "count_t": [
+    24.175,
+    24.884
+   ],
+   "phrase_t": 25.868833333333328,
+   "t1": 33.678
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 33.678,
+   "n": 3,
+   "key": "duckling",
+   "numeral_t": 34.378,
+   "count_t": [
+    36.024,
+    36.734,
+    37.418
+   ],
+   "phrase_t": 38.4724375,
+   "t1": 46.003
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 46.003,
+   "n": 4,
+   "key": "chick",
+   "numeral_t": 46.703,
+   "count_t": [
+    48.331,
+    49.041,
+    49.725,
+    50.479
+   ],
+   "phrase_t": 51.529541666666674,
+   "t1": 59.268
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 59.268,
+   "n": 5,
+   "key": "fish",
+   "numeral_t": 59.968,
+   "count_t": [
+    61.673,
+    62.383,
+    63.067,
+    63.822,
+    64.572
+   ],
+   "phrase_t": 65.66220833333335,
+   "t1": 73.251
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 73.251,
+   "n": 6,
+   "key": "star",
+   "numeral_t": 73.951,
+   "count_t": [
+    75.546,
+    76.255,
+    76.939,
+    77.694,
+    78.444,
+    79.234
+   ],
+   "phrase_t": 80.33106250000003,
+   "t1": 89.347
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 89.347,
+   "n": 7,
+   "key": "heart",
+   "numeral_t": 90.047,
+   "count_t": [
+    91.76,
+    92.469,
+    93.153,
+    93.908,
+    94.658,
+    95.448,
+    96.245
+   ],
+   "phrase_t": 97.37339583333336,
+   "t1": 105.74
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 105.74,
+   "n": 8,
+   "key": "apple",
+   "numeral_t": 106.44,
+   "count_t": [
+    108.058,
+    108.767,
+    109.452,
+    110.206,
+    110.956,
+    111.747,
+    112.544,
+    113.372
+   ],
+   "phrase_t": 114.39902083333337,
+   "t1": 122.803
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 122.803,
+   "n": 9,
+   "key": "strawberry",
+   "numeral_t": 123.503,
+   "count_t": [
+    125.12,
+    125.829,
+    126.513,
+    127.268,
+    128.018,
+    128.809,
+    129.605,
+    130.433,
+    131.161
+   ],
+   "phrase_t": 132.2153541666667,
+   "t1": 140.237
+  },
+  {
+   "kind": "number",
+   "bg": "rainbow",
+   "t0": 140.237,
+   "n": 10,
+   "key": "car",
+   "numeral_t": 140.937,
+   "count_t": [
+    142.58,
+    143.289,
+    143.974,
+    144.728,
+    145.478,
+    146.269,
+    147.066,
+    147.894,
+    148.621,
+    149.376
+   ],
+   "phrase_t": 150.3974791666667,
+   "t1": 158.909
+  },
+  {
+   "kind": "title",
+   "bg": "garden",
+   "t0": 158.909,
+   "title": "COUNT THE FRUITS!",
+   "t1": 161.869
+  },
+  {
+   "kind": "count",
+   "bg": "garden",
+   "t0": 161.869,
+   "n": 2,
+   "key": "orange",
+   "count_t": [
+    167.58,
+    168.289
+   ],
+   "answer_t": 169.268,
+   "t1": 171.992
+  },
+  {
+   "kind": "count",
+   "bg": "garden",
+   "t0": 171.992,
+   "n": 5,
+   "key": "banana",
+   "count_t": [
+    177.778,
+    178.476,
+    179.161,
+    179.908,
+    180.619
+   ],
+   "answer_t": 181.709,
+   "t1": 184.751
+  },
+  {
+   "kind": "count",
+   "bg": "garden",
+   "t0": 184.751,
+   "n": 3,
+   "key": "grapes",
+   "count_t": [
+    190.874,
+    191.584,
+    192.262
+   ],
+   "answer_t": 193.316,
+   "t1": 196.196
+  },
+  {
+   "kind": "count",
+   "bg": "garden",
+   "t0": 196.196,
+   "n": 4,
+   "key": "pear",
+   "count_t": [
+    201.87,
+    202.569,
+    203.253,
+    204.0
+   ],
+   "answer_t": 205.011,
+   "t1": 207.763
+  },
+  {
+   "kind": "count",
+   "bg": "garden",
+   "t0": 207.763,
+   "n": 6,
+   "key": "watermelon",
+   "count_t": [
+    213.744,
+    214.454,
+    215.132,
+    215.886,
+    216.636,
+    217.406
+   ],
+   "answer_t": 218.458,
+   "t1": 221.375
+  },
+  {
+   "kind": "count",
+   "bg": "garden",
+   "t0": 221.375,
+   "n": 7,
+   "key": "cherry",
+   "count_t": [
+    227.069,
+    227.768,
+    228.452,
+    229.199,
+    229.91,
+    230.701,
+    231.497
+   ],
+   "answer_t": 232.577,
+   "t1": 235.723
+  },
+  {
+   "kind": "count",
+   "bg": "garden",
+   "t0": 235.723,
+   "n": 8,
+   "key": "lemon",
+   "count_t": [
+    241.366,
+    242.075,
+    242.753,
+    243.508,
+    244.258,
+    245.028,
+    245.779,
+    246.608
+   ],
+   "answer_t": 247.561,
+   "t1": 250.211
+  },
+  {
+   "kind": "count",
+   "bg": "garden",
+   "t0": 250.211,
+   "n": 9,
+   "key": "kiwi",
+   "count_t": [
+    255.88,
+    256.578,
+    257.263,
+    258.01,
+    258.721,
+    259.511,
+    260.308,
+    261.087,
+    261.814
+   ],
+   "answer_t": 262.841,
+   "t1": 265.787
+  },
+  {
+   "kind": "title",
+   "bg": "farm",
+   "t0": 265.787,
+   "title": "COUNT THE ANIMALS!",
+   "t1": 269.209
+  },
+  {
+   "kind": "count",
+   "bg": "farm",
+   "t0": 269.209,
+   "n": 2,
+   "key": "calf",
+   "count_t": [
+    274.817,
+    275.527
+   ],
+   "answer_t": 276.505,
+   "t1": 278.846
+  },
+  {
+   "kind": "count",
+   "bg": "farm",
+   "t0": 278.846,
+   "n": 3,
+   "key": "piglet",
+   "count_t": [
+    284.537,
+    285.235,
+    285.92
+   ],
+   "answer_t": 286.967,
+   "t1": 289.813
+  },
+  {
+   "kind": "count",
+   "bg": "farm",
+   "t0": 289.813,
+   "n": 5,
+   "key": "lamb",
+   "count_t": [
+    295.437,
+    296.146,
+    296.825,
+    297.579,
+    298.329
+   ],
+   "answer_t": 299.399,
+   "t1": 302.002
+  },
+  {
+   "kind": "count",
+   "bg": "farm",
+   "t0": 302.002,
+   "n": 4,
+   "key": "puppy",
+   "count_t": [
+    307.688,
+    308.387,
+    309.071,
+    309.818
+   ],
+   "answer_t": 310.829,
+   "t1": 313.801
+  },
+  {
+   "kind": "count",
+   "bg": "farm",
+   "t0": 313.801,
+   "n": 6,
+   "key": "kitten",
+   "count_t": [
+    319.394,
+    320.103,
+    320.782,
+    321.536,
+    322.286,
+    323.056
+   ],
+   "answer_t": 324.108,
+   "t1": 326.817
+  },
+  {
+   "kind": "count",
+   "bg": "farm",
+   "t0": 326.817,
+   "n": 7,
+   "key": "duckling",
+   "count_t": [
+    332.603,
+    333.301,
+    333.986,
+    334.733,
+    335.444,
+    336.234,
+    337.031
+   ],
+   "answer_t": 338.11,
+   "t1": 341.189
+  },
+  {
+   "kind": "count",
+   "bg": "farm",
+   "t0": 341.189,
+   "n": 9,
+   "key": "chick",
+   "count_t": [
+    346.738,
+    347.447,
+    348.125,
+    348.88,
+    349.63,
+    350.4,
+    351.151,
+    351.98,
+    352.633
+   ],
+   "answer_t": 353.688,
+   "t1": 356.101
+  },
+  {
+   "kind": "count",
+   "bg": "farm",
+   "t0": 356.101,
+   "n": 10,
+   "key": "bunny",
+   "count_t": [
+    361.752,
+    362.451,
+    363.135,
+    363.882,
+    364.593,
+    365.384,
+    366.18,
+    366.959,
+    367.687,
+    368.414
+   ],
+   "answer_t": 369.436,
+   "t1": 372.232
+  },
+  {
+   "kind": "title",
+   "bg": "road",
+   "t0": 372.232,
+   "title": "COUNT THE VEHICLES!",
+   "t1": 375.569
+  },
+  {
+   "kind": "count",
+   "bg": "road",
+   "t0": 375.569,
+   "n": 2,
+   "key": "bus",
+   "count_t": [
+    381.233,
+    381.943
+   ],
+   "answer_t": 382.921,
+   "t1": 385.495
+  },
+  {
+   "kind": "count",
+   "bg": "road",
+   "t0": 385.495,
+   "n": 3,
+   "key": "firetruck",
+   "count_t": [
+    391.416,
+    392.115,
+    392.799
+   ],
+   "answer_t": 393.847,
+   "t1": 397.067
+  },
+  {
+   "kind": "count",
+   "bg": "road",
+   "t0": 397.067,
+   "n": 4,
+   "key": "tractor",
+   "count_t": [
+    402.815,
+    403.524,
+    404.203,
+    404.957
+   ],
+   "answer_t": 406.007,
+   "t1": 408.799
+  },
+  {
+   "kind": "count",
+   "bg": "road",
+   "t0": 408.799,
+   "n": 5,
+   "key": "police",
+   "count_t": [
+    414.708,
+    415.407,
+    416.091,
+    416.838,
+    417.549
+   ],
+   "answer_t": 418.64,
+   "t1": 421.835
+  },
+  {
+   "kind": "count",
+   "bg": "road",
+   "t0": 421.835,
+   "n": 1,
+   "key": "train",
+   "count_t": [
+    427.496
+   ],
+   "answer_t": 428.505,
+   "t1": 430.88
+  },
+  {
+   "kind": "count",
+   "bg": "road",
+   "t0": 430.88,
+   "n": 6,
+   "key": "car",
+   "count_t": [
+    436.563,
+    437.261,
+    437.946,
+    438.693,
+    439.404,
+    440.194
+   ],
+   "answer_t": 441.291,
+   "t1": 444.087
+  },
+  {
+   "kind": "title",
+   "bg": "halloween",
+   "t0": 444.087,
+   "title": "COUNT THE PUMPKINS!",
+   "t1": 447.054
+  },
+  {
+   "kind": "count",
+   "bg": "halloween",
+   "t0": 447.054,
+   "n": 3,
+   "key": "pumpkin",
+   "count_t": [
+    452.802,
+    453.511,
+    454.19
+   ],
+   "answer_t": 455.244,
+   "t1": 457.899
+  },
+  {
+   "kind": "count",
+   "bg": "halloween",
+   "t0": 457.899,
+   "n": 5,
+   "key": "bat",
+   "count_t": [
+    463.486,
+    464.185,
+    464.869,
+    465.616,
+    466.327
+   ],
+   "answer_t": 467.418,
+   "t1": 470.344
+  },
+  {
+   "kind": "count",
+   "bg": "halloween",
+   "t0": 470.344,
+   "n": 2,
+   "key": "ghost",
+   "count_t": [
+    476.349,
+    477.059
+   ],
+   "answer_t": 478.037,
+   "t1": 481.06
+  },
+  {
+   "kind": "count",
+   "bg": "halloween",
+   "t0": 481.06,
+   "n": 4,
+   "key": "jackolantern",
+   "count_t": [
+    487.163,
+    487.862,
+    488.546,
+    489.293
+   ],
+   "answer_t": 490.304,
+   "t1": 493.591
+  },
+  {
+   "kind": "count",
+   "bg": "halloween",
+   "t0": 493.591,
+   "n": 6,
+   "key": "blackcat",
+   "count_t": [
+    499.48,
+    500.189,
+    500.868,
+    501.622,
+    502.372,
+    503.142
+   ],
+   "answer_t": 504.194,
+   "t1": 506.968
+  },
+  {
+   "kind": "title",
+   "bg": "garden",
+   "t0": 506.968,
+   "title": "LET'S ADD!",
+   "t1": 512.357
+  },
+  {
+   "kind": "add",
+   "bg": "garden",
+   "t0": 512.357,
+   "key": "apple",
+   "a": 1,
+   "b": 1,
+   "left_t": 513.1574374999994,
+   "right_t": 514.2551249999995,
+   "count_t": [
+    520.73,
+    521.439
+   ],
+   "answer_t": 522.4170624999995,
+   "t1": 525.255
+  },
+  {
+   "kind": "add",
+   "bg": "garden",
+   "t0": 525.255,
+   "key": "banana",
+   "a": 2,
+   "b": 1,
+   "left_t": 526.0547083333328,
+   "right_t": 527.2870624999995,
+   "count_t": [
+    533.861,
+    534.56,
+    535.244
+   ],
+   "answer_t": 536.2917083333327,
+   "t1": 539.583
+  },
+  {
+   "kind": "add",
+   "bg": "garden",
+   "t0": 539.583,
+   "key": "duckling",
+   "a": 2,
+   "b": 2,
+   "left_t": 540.3832916666661,
+   "right_t": 541.5707291666661,
+   "count_t": [
+    548.029,
+    548.739,
+    549.417,
+    550.171
+   ],
+   "answer_t": 551.2213124999995,
+   "t1": 554.199
+  },
+  {
+   "kind": "add",
+   "bg": "garden",
+   "t0": 554.199,
+   "key": "star",
+   "a": 3,
+   "b": 2,
+   "left_t": 554.9994166666661,
+   "right_t": 556.1909583333328,
+   "count_t": [
+    562.737,
+    563.436,
+    564.12,
+    564.867,
+    565.578
+   ],
+   "answer_t": 566.6686458333328,
+   "t1": 570.053
+  },
+  {
+   "kind": "add",
+   "bg": "garden",
+   "t0": 570.053,
+   "key": "car",
+   "a": 4,
+   "b": 2,
+   "left_t": 570.8528333333327,
+   "right_t": 572.0190624999993,
+   "count_t": [
+    578.478,
+    579.187,
+    579.865,
+    580.62,
+    581.37,
+    582.139
+   ],
+   "answer_t": 583.1911249999995,
+   "t1": 586.316
+  },
+  {
+   "kind": "add",
+   "bg": "garden",
+   "t0": 586.316,
+   "key": "strawberry",
+   "a": 3,
+   "b": 4,
+   "left_t": 587.1160624999994,
+   "right_t": 588.4462291666661,
+   "count_t": [
+    595.064,
+    595.762,
+    596.447,
+    597.194,
+    597.905,
+    598.695,
+    599.492
+   ],
+   "answer_t": 600.5713541666661,
+   "t1": 604.022
+  },
+  {
+   "kind": "title",
+   "bg": "beach",
+   "t0": 604.022,
+   "title": "COUNTING RHYME!",
+   "t1": 606.95
+  },
+  {
+   "kind": "song",
+   "bg": "beach",
+   "t0": 606.95,
+   "count_t": [
+    607.45,
+    608.078,
+    608.693,
+    609.37,
+    610.011
+   ],
+   "line1_t": 610.7314583333329,
+   "count2_t": [
+    615.802,
+    616.529,
+    617.238,
+    617.895,
+    618.552
+   ],
+   "line2_t": 619.2038749999996,
+   "t1": 621.247
+  },
+  {
+   "kind": "song",
+   "bg": "beach",
+   "t0": 621.247,
+   "count_t": [
+    621.747,
+    622.386,
+    623.001,
+    623.685,
+    624.365
+   ],
+   "line1_t": 625.085958333333,
+   "count2_t": [
+    630.235,
+    630.962,
+    631.72,
+    632.378,
+    633.062
+   ],
+   "line2_t": 633.7141249999997,
+   "t1": 635.757
+  },
+  {
+   "kind": "rhyme_end",
+   "bg": "beach",
+   "t0": 635.757,
+   "t1": 641.261
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 641.261,
+   "title": "ROCKET COUNTDOWN!",
+   "t1": 646.511
+  },
+  {
+   "kind": "rocket",
+   "bg": "space",
+   "t0": 646.511,
+   "count_t": [
+    647.011,
+    647.813,
+    648.647,
+    649.454,
+    650.363,
+    651.239,
+    652.11,
+    652.94,
+    653.775,
+    654.539
+   ],
+   "launch_t": 655.3282291666663,
+   "t1": 660.546
+  },
+  {
+   "kind": "outro",
+   "bg": "rainbow",
+   "t0": 660.546,
+   "bye_t": 665.3935416666664,
+   "t1": 669.943
+  }
+ ],
+ "prompts": [
+  [
+   18.267,
+   20.467
+  ],
+  [
+   29.967,
+   32.167
+  ],
+  [
+   42.626,
+   44.826
+  ],
+  [
+   55.517,
+   57.717
+  ],
+  [
+   69.684,
+   71.884
+  ],
+  [
+   84.762,
+   87.562
+  ],
+  [
+   101.558,
+   104.358
+  ],
+  [
+   118.492,
+   121.292
+  ],
+  [
+   136.26,
+   139.06
+  ],
+  [
+   154.558,
+   157.358
+  ],
+  [
+   164.019,
+   166.419
+  ],
+  [
+   174.19,
+   176.59
+  ],
+  [
+   187.314,
+   189.714
+  ],
+  [
+   198.282,
+   200.682
+  ],
+  [
+   210.184,
+   212.584
+  ],
+  [
+   223.481,
+   225.881
+  ],
+  [
+   237.805,
+   240.205
+  ],
+  [
+   252.292,
+   254.692
+  ],
+  [
+   271.257,
+   273.657
+  ],
+  [
+   280.949,
+   283.349
+  ],
+  [
+   291.876,
+   294.276
+  ],
+  [
+   304.1,
+   306.5
+  ],
+  [
+   315.833,
+   318.233
+  ],
+  [
+   329.015,
+   331.415
+  ],
+  [
+   343.177,
+   345.577
+  ],
+  [
+   358.164,
+   360.564
+  ],
+  [
+   377.673,
+   380.073
+  ],
+  [
+   387.828,
+   390.228
+  ],
+  [
+   399.254,
+   401.654
+  ],
+  [
+   411.12,
+   413.52
+  ],
+  [
+   423.935,
+   426.335
+  ],
+  [
+   432.975,
+   435.375
+  ],
+  [
+   449.241,
+   451.641
+  ],
+  [
+   459.898,
+   462.298
+  ],
+  [
+   472.789,
+   475.189
+  ],
+  [
+   483.575,
+   485.975
+  ],
+  [
+   495.919,
+   498.319
+  ],
+  [
+   516.705,
+   519.305
+  ],
+  [
+   529.828,
+   532.428
+  ],
+  [
+   544.005,
+   546.605
+  ],
+  [
+   558.704,
+   561.304
+  ],
+  [
+   574.453,
+   577.053
+  ],
+  [
+   591.03,
+   593.63
+  ]
+ ],
+ "stars": [
+  20.467,
+  32.167,
+  44.826,
+  57.717,
+  71.884,
+  87.562,
+  104.358,
+  121.292,
+  139.06,
+  157.358,
+  170.46,
+  183.004,
+  194.894,
+  206.097,
+  219.917,
+  233.876,
+  248.679,
+  264.04,
+  277.544,
+  288.147,
+  300.544,
+  311.953,
+  325.286,
+  339.442,
+  354.798,
+  370.566,
+  384.037,
+  395.22,
+  407.268,
+  420.088,
+  429.578,
+  442.421,
+  456.441,
+  468.497,
+  479.528,
+  491.844,
+  505.666,
+  523.952,
+  537.917,
+  552.741,
+  568.205,
+  584.784,
+  602.275
+ ],
+ "total": 669.94
+}
