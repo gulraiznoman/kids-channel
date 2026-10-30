@@ -1,0 +1,3289 @@
+{
+ "beats": [
+  {
+   "who": "gul",
+   "text": "Hi friends! I'm Gul!",
+   "wave": "gul",
+   "scene": "intro",
+   "bg": "bg.png",
+   "t": 0.6,
+   "wav": "../audio_kokoro/gul_01f26f2502.wav",
+   "dur": 1.338
+  },
+  {
+   "who": "mishu",
+   "text": "And I'm Mishu! Today is a big fun learning day!",
+   "wave": "mishu",
+   "t": 2.538,
+   "wav": "../audio_kokoro/mishu_b216f2d45a.wav",
+   "dur": 2.804
+  },
+  {
+   "who": "gul",
+   "text": "Animals, shapes, vehicles, ocean friends, numbers, and the weather! Let's go!",
+   "eyes_closed": "gul",
+   "t": 5.942,
+   "wav": "../audio_kokoro/gul_5713f3b68c.wav",
+   "dur": 4.181
+  },
+  {
+   "pause": 0.4,
+   "section": "BABY ANIMALS!",
+   "bg": "bg_farm.png",
+   "t": 10.723,
+   "dur": 0.4
+  },
+  {
+   "who": "mishu",
+   "text": "Let's go to the farm and meet some baby animals!",
+   "section_hold": "BABY ANIMALS!",
+   "t": 11.123,
+   "wav": "../audio_kokoro/mishu_00dc13186d.wav",
+   "dur": 2.75
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "puppy",
+   "t": 14.472,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Who is this?",
+   "t": 15.272,
+   "wav": "../audio_kokoro/mishu_f9483d4475.wav",
+   "dur": 0.866
+  },
+  {
+   "who": "gul",
+   "text": "It's a puppy! A puppy says woof, woof!",
+   "label": "Puppy",
+   "t": 16.738,
+   "wav": "../audio_kokoro/gul_4c8aced859.wav",
+   "dur": 2.0
+  },
+  {
+   "pause": 1.7,
+   "sfx": "puppy",
+   "t": 19.338,
+   "dur": 1.7
+  },
+  {
+   "who": "mishu",
+   "text": "Puppy! Can you say puppy?",
+   "spell": "Puppy",
+   "t": 21.038,
+   "wav": "../audio_kokoro/mishu_b82f6c5120.wav",
+   "dur": 1.455
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 23.093,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 25.693,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.908
+  },
+  {
+   "who": "gul",
+   "text": "Woof, woof!",
+   "t": 27.2,
+   "wav": "../audio_kokoro/gul_998bada2e2.wav",
+   "dur": 0.829
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "puppy",
+   "t": 28.63,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "kitten",
+   "t": 29.13,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Ooh, who is this?",
+   "t": 29.93,
+   "wav": "../audio_kokoro/gul_f460abb1c9.wav",
+   "dur": 1.096
+  },
+  {
+   "who": "mishu",
+   "text": "It's a kitten! A kitten says meow!",
+   "label": "Kitten",
+   "t": 31.626,
+   "wav": "../audio_kokoro/mishu_3ab61023ac.wav",
+   "dur": 1.964
+  },
+  {
+   "pause": 1.7,
+   "sfx": "kitten",
+   "t": 34.19,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Kitten! Can you say kitten?",
+   "spell": "Kitten",
+   "t": 35.89,
+   "wav": "../audio_kokoro/gul_600ee8b497.wav",
+   "dur": 1.403
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 37.893,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 40.493,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.123
+  },
+  {
+   "who": "mishu",
+   "text": "Meow, meow!",
+   "t": 42.215,
+   "wav": "../audio_kokoro/mishu_54f1e22fa5.wav",
+   "dur": 0.822
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "kitten",
+   "t": 43.637,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "duckling",
+   "t": 44.137,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Look! Who is it?",
+   "t": 44.937,
+   "wav": "../audio_kokoro/mishu_03dfe69ada.wav",
+   "dur": 1.009
+  },
+  {
+   "who": "gul",
+   "text": "It's a duckling! A duckling says quack, quack!",
+   "label": "Duckling",
+   "t": 46.546,
+   "wav": "../audio_kokoro/gul_d660a96f15.wav",
+   "dur": 2.319
+  },
+  {
+   "who": "mishu",
+   "text": "Duckling! Can you say duckling?",
+   "spell": "Duckling",
+   "t": 49.464,
+   "wav": "../audio_kokoro/mishu_3c2ed84ff5.wav",
+   "dur": 1.617
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 51.682,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 54.282,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "who": "gul",
+   "text": "Quack, quack!",
+   "t": 55.564,
+   "wav": "../audio_kokoro/gul_119dcd0b82.wav",
+   "dur": 0.86
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "duckling",
+   "t": 57.024,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "chick",
+   "t": 57.524,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Who is this?",
+   "t": 58.324,
+   "wav": "../audio_kokoro/gul_b13625a4ee.wav",
+   "dur": 0.895
+  },
+  {
+   "who": "mishu",
+   "text": "It's a little chick! A chick says cheep, cheep!",
+   "label": "Chick",
+   "t": 59.819,
+   "wav": "../audio_kokoro/mishu_4b3996f012.wav",
+   "dur": 2.331
+  },
+  {
+   "pause": 1.7,
+   "sfx": "chick",
+   "t": 62.749,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Chick! Can you say chick?",
+   "spell": "Chick",
+   "t": 64.449,
+   "wav": "../audio_kokoro/gul_778cf627b8.wav",
+   "dur": 1.257
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 66.306,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 68.906,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "who": "mishu",
+   "text": "Cheep, cheep!",
+   "t": 70.177,
+   "wav": "../audio_kokoro/mishu_7cc59db7a7.wav",
+   "dur": 0.836
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "chick",
+   "t": 71.613,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "lamb",
+   "t": 72.113,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, who is this?",
+   "t": 72.913,
+   "wav": "../audio_kokoro/mishu_67cef00202.wav",
+   "dur": 1.089
+  },
+  {
+   "who": "gul",
+   "text": "It's a lamb! A lamb says baa!",
+   "label": "Lamb",
+   "t": 74.602,
+   "wav": "../audio_kokoro/gul_1b0188ccf8.wav",
+   "dur": 1.732
+  },
+  {
+   "pause": 1.7,
+   "sfx": "lamb",
+   "t": 76.934,
+   "dur": 1.7
+  },
+  {
+   "who": "mishu",
+   "text": "Lamb! Can you say lamb?",
+   "spell": "Lamb",
+   "t": 78.634,
+   "wav": "../audio_kokoro/mishu_e83a4265a7.wav",
+   "dur": 1.484
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 80.719,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 83.319,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "who": "gul",
+   "text": "Baa, baa!",
+   "t": 85.178,
+   "wav": "../audio_kokoro/gul_581949ef60.wav",
+   "dur": 0.748
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "lamb",
+   "t": 86.526,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "piglet",
+   "t": 87.026,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Look! Who is it?",
+   "t": 87.826,
+   "wav": "../audio_kokoro/gul_10aaa8eb11.wav",
+   "dur": 0.944
+  },
+  {
+   "who": "mishu",
+   "text": "It's a piglet! A piglet says oink, oink!",
+   "label": "Piglet",
+   "t": 89.37,
+   "wav": "../audio_kokoro/mishu_67465153a0.wav",
+   "dur": 2.313
+  },
+  {
+   "pause": 1.7,
+   "sfx": "piglet",
+   "t": 92.284,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Piglet! Can you say piglet?",
+   "spell": "Piglet",
+   "t": 93.984,
+   "wav": "../audio_kokoro/gul_6bd09861e3.wav",
+   "dur": 1.533
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 96.117,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 98.717,
+   "wav": "../audio_kokoro/mishu_b64622518b.wav",
+   "dur": 0.84
+  },
+  {
+   "who": "mishu",
+   "text": "Oink, oink!",
+   "t": 100.157,
+   "wav": "../audio_kokoro/mishu_7bbcdd1593.wav",
+   "dur": 0.782
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "piglet",
+   "t": 101.539,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "calf",
+   "t": 102.039,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Who is this?",
+   "t": 102.839,
+   "wav": "../audio_kokoro/mishu_f9483d4475.wav",
+   "dur": 0.866
+  },
+  {
+   "who": "gul",
+   "text": "It's a calf! A baby cow says moo!",
+   "label": "Calf",
+   "t": 104.305,
+   "wav": "../audio_kokoro/gul_5d391dd613.wav",
+   "dur": 1.944
+  },
+  {
+   "pause": 1.7,
+   "sfx": "calf",
+   "t": 106.849,
+   "dur": 1.7
+  },
+  {
+   "who": "mishu",
+   "text": "Calf! Can you say calf?",
+   "spell": "Calf",
+   "t": 108.549,
+   "wav": "../audio_kokoro/mishu_1531c4f470.wav",
+   "dur": 1.386
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 110.535,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 113.135,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.908
+  },
+  {
+   "who": "gul",
+   "text": "Moo, moo!",
+   "t": 114.643,
+   "wav": "../audio_kokoro/gul_cc4c07adae.wav",
+   "dur": 0.734
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "calf",
+   "t": 115.977,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "bunny",
+   "t": 116.477,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Ooh, who is this?",
+   "t": 117.277,
+   "wav": "../audio_kokoro/gul_f460abb1c9.wav",
+   "dur": 1.096
+  },
+  {
+   "who": "mishu",
+   "text": "It's a bunny! Bunnies go hop, hop, hop!",
+   "label": "Bunny",
+   "t": 118.973,
+   "wav": "../audio_kokoro/mishu_1c53add92c.wav",
+   "dur": 2.31
+  },
+  {
+   "who": "gul",
+   "text": "Bunny! Can you say bunny?",
+   "spell": "Bunny",
+   "t": 121.884,
+   "wav": "../audio_kokoro/gul_cb314bc94a.wav",
+   "dur": 1.314
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 123.798,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 126.398,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.123
+  },
+  {
+   "who": "mishu",
+   "text": "Hop, hop, hop!",
+   "t": 128.121,
+   "wav": "../audio_kokoro/mishu_bf5ba6e100.wav",
+   "dur": 1.025
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "bunny",
+   "t": 129.746,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "foal",
+   "t": 130.246,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Look! Who is it?",
+   "t": 131.046,
+   "wav": "../audio_kokoro/mishu_03dfe69ada.wav",
+   "dur": 1.009
+  },
+  {
+   "who": "gul",
+   "text": "It's a foal! A baby horse says neigh!",
+   "label": "Foal",
+   "t": 132.655,
+   "wav": "../audio_kokoro/gul_2771698e75.wav",
+   "dur": 1.91
+  },
+  {
+   "pause": 1.7,
+   "sfx": "foal",
+   "t": 135.165,
+   "dur": 1.7
+  },
+  {
+   "who": "mishu",
+   "text": "Foal! Can you say foal?",
+   "spell": "Foal",
+   "t": 136.865,
+   "wav": "../audio_kokoro/mishu_bc6a626e2c.wav",
+   "dur": 1.371
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 138.836,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 141.436,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "who": "gul",
+   "text": "Neigh!",
+   "t": 142.718,
+   "wav": "../audio_kokoro/gul_118f0fffb1.wav",
+   "dur": 0.562
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "foal",
+   "t": 143.88,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "cub",
+   "t": 144.38,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Who is this?",
+   "t": 145.18,
+   "wav": "../audio_kokoro/gul_b13625a4ee.wav",
+   "dur": 0.895
+  },
+  {
+   "who": "mishu",
+   "text": "It's a lion cub! A lion says roar!",
+   "label": "Lion Cub",
+   "t": 146.675,
+   "wav": "../audio_kokoro/mishu_6485362de5.wav",
+   "dur": 2.376
+  },
+  {
+   "pause": 1.7,
+   "sfx": "cub",
+   "t": 149.651,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Lion Cub! Can you say lion cub?",
+   "spell": "Lion Cub",
+   "t": 151.351,
+   "wav": "../audio_kokoro/gul_c8a2892eb1.wav",
+   "dur": 1.786
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 153.737,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 156.337,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "who": "mishu",
+   "text": "Roar!",
+   "t": 157.608,
+   "wav": "../audio_kokoro/mishu_b9c0fd9d57.wav",
+   "dur": 0.554
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "cub",
+   "t": 158.762,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "elephant",
+   "t": 159.262,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, who is this?",
+   "t": 160.062,
+   "wav": "../audio_kokoro/mishu_67cef00202.wav",
+   "dur": 1.089
+  },
+  {
+   "who": "gul",
+   "text": "It's a baby elephant! It has a long trunk!",
+   "label": "Baby Elephant",
+   "t": 161.752,
+   "wav": "../audio_kokoro/gul_e46e1dd247.wav",
+   "dur": 2.349
+  },
+  {
+   "who": "mishu",
+   "text": "Baby Elephant! Can you say elephant?",
+   "spell": "Baby Elephant",
+   "t": 164.701,
+   "wav": "../audio_kokoro/mishu_77f0e5edf1.wav",
+   "dur": 2.153
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 167.454,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 170.054,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "who": "gul",
+   "text": "Toot, toot!",
+   "t": 171.914,
+   "wav": "../audio_kokoro/gul_6533aaf0e3.wav",
+   "dur": 0.815
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "elephant",
+   "t": 173.329,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "monkey",
+   "t": 173.829,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Look! Who is it?",
+   "t": 174.629,
+   "wav": "../audio_kokoro/gul_10aaa8eb11.wav",
+   "dur": 0.944
+  },
+  {
+   "who": "mishu",
+   "text": "It's a little monkey! Ooh, ooh, aah, aah!",
+   "label": "Monkey",
+   "t": 176.173,
+   "wav": "../audio_kokoro/mishu_9f119968ed.wav",
+   "dur": 2.426
+  },
+  {
+   "pause": 1.7,
+   "sfx": "monkey",
+   "t": 179.198,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Monkey! Can you say monkey?",
+   "spell": "Monkey",
+   "t": 180.898,
+   "wav": "../audio_kokoro/gul_da999ab9ab.wav",
+   "dur": 1.481
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 182.98,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 185.58,
+   "wav": "../audio_kokoro/mishu_b64622518b.wav",
+   "dur": 0.84
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, ooh, aah, aah!",
+   "t": 187.02,
+   "wav": "../audio_kokoro/mishu_c3982db001.wav",
+   "dur": 1.293
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "monkey",
+   "t": 188.912,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.4,
+   "section": "SHAPES!",
+   "bg": "bg.png",
+   "t": 189.412,
+   "dur": 0.4
+  },
+  {
+   "who": "gul",
+   "text": "Now let's learn shapes!",
+   "section_hold": "SHAPES!",
+   "t": 189.812,
+   "wav": "../audio_kokoro/gul_b810292745.wav",
+   "dur": 1.301
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "circle",
+   "t": 191.714,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "What shape is this?",
+   "t": 192.514,
+   "wav": "../audio_kokoro/mishu_30d01a5673.wav",
+   "dur": 1.185
+  },
+  {
+   "who": "gul",
+   "text": "It's a circle! Round like a ball!",
+   "label": "Circle",
+   "t": 194.299,
+   "wav": "../audio_kokoro/gul_b688c36b99.wav",
+   "dur": 1.773
+  },
+  {
+   "who": "mishu",
+   "text": "Circle! Can you say circle?",
+   "spell": "Circle",
+   "t": 196.671,
+   "wav": "../audio_kokoro/mishu_0412acca18.wav",
+   "dur": 1.686
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 198.958,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 201.558,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.908
+  },
+  {
+   "who": "mishu",
+   "text": "Round and round!",
+   "t": 203.065,
+   "wav": "../audio_kokoro/mishu_21421707c4.wav",
+   "dur": 1.01
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "circle",
+   "t": 204.676,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "square",
+   "t": 205.176,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Ooh, what shape is it?",
+   "t": 205.976,
+   "wav": "../audio_kokoro/gul_5c10f60b2c.wav",
+   "dur": 1.179
+  },
+  {
+   "who": "mishu",
+   "text": "It's a square! It has four sides!",
+   "label": "Square",
+   "t": 207.754,
+   "wav": "../audio_kokoro/mishu_ee0e40bb9c.wav",
+   "dur": 1.871
+  },
+  {
+   "who": "gul",
+   "text": "Square! Can you say square?",
+   "spell": "Square",
+   "t": 210.226,
+   "wav": "../audio_kokoro/gul_033a1e1554.wav",
+   "dur": 1.353
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 212.179,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 214.779,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.123
+  },
+  {
+   "who": "gul",
+   "text": "Four sides!",
+   "t": 216.501,
+   "wav": "../audio_kokoro/gul_b52997360c.wav",
+   "dur": 0.914
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "square",
+   "t": 218.015,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "triangle",
+   "t": 218.515,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Look! What shape?",
+   "t": 219.315,
+   "wav": "../audio_kokoro/mishu_5ed95e1bdd.wav",
+   "dur": 1.019
+  },
+  {
+   "who": "gul",
+   "text": "It's a triangle! It has three sides!",
+   "label": "Triangle",
+   "t": 220.934,
+   "wav": "../audio_kokoro/gul_d6a24f9bb4.wav",
+   "dur": 2.036
+  },
+  {
+   "who": "mishu",
+   "text": "Triangle! Can you say triangle?",
+   "spell": "Triangle",
+   "t": 223.571,
+   "wav": "../audio_kokoro/mishu_04043f1c5a.wav",
+   "dur": 1.959
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 226.13,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 228.73,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "who": "mishu",
+   "text": "One, two, three!",
+   "t": 230.012,
+   "wav": "../audio_kokoro/mishu_b2d75bae97.wav",
+   "dur": 1.022
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "triangle",
+   "t": 231.634,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "star",
+   "t": 232.134,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "What shape is this?",
+   "t": 232.934,
+   "wav": "../audio_kokoro/gul_182449e701.wav",
+   "dur": 1.175
+  },
+  {
+   "who": "mishu",
+   "text": "It's a star! Twinkle, twinkle!",
+   "label": "Star",
+   "t": 234.709,
+   "wav": "../audio_kokoro/mishu_7fd17f9b75.wav",
+   "dur": 1.89
+  },
+  {
+   "who": "gul",
+   "text": "Star! Can you say star?",
+   "spell": "Star",
+   "t": 237.199,
+   "wav": "../audio_kokoro/gul_5bc7e5f8c5.wav",
+   "dur": 1.356
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 239.155,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 241.755,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "A shiny star!",
+   "t": 243.026,
+   "wav": "../audio_kokoro/gul_e62e94f06a.wav",
+   "dur": 1.028
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "star",
+   "t": 244.654,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "heart",
+   "t": 245.154,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what shape is it?",
+   "t": 245.954,
+   "wav": "../audio_kokoro/mishu_d38f5a0bbe.wav",
+   "dur": 1.322
+  },
+  {
+   "who": "gul",
+   "text": "It's a heart! I love you!",
+   "label": "Heart",
+   "t": 247.876,
+   "wav": "../audio_kokoro/gul_fbd7a866d3.wav",
+   "dur": 1.358
+  },
+  {
+   "who": "mishu",
+   "text": "Heart! Can you say heart?",
+   "spell": "Heart",
+   "t": 249.834,
+   "wav": "../audio_kokoro/mishu_15a8968c06.wav",
+   "dur": 1.396
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 251.829,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 254.429,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "who": "mishu",
+   "text": "Love you too!",
+   "t": 256.289,
+   "wav": "../audio_kokoro/mishu_414f7cbd3f.wav",
+   "dur": 0.897
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "heart",
+   "t": 257.786,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "rectangle",
+   "t": 258.286,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Look! What shape?",
+   "t": 259.086,
+   "wav": "../audio_kokoro/gul_e74eaea15b.wav",
+   "dur": 0.977
+  },
+  {
+   "who": "mishu",
+   "text": "It's a rectangle! Like a door!",
+   "label": "Rectangle",
+   "t": 260.662,
+   "wav": "../audio_kokoro/mishu_5be9d25e5b.wav",
+   "dur": 1.775
+  },
+  {
+   "who": "gul",
+   "text": "Rectangle! Can you say rectangle?",
+   "spell": "Rectangle",
+   "t": 263.038,
+   "wav": "../audio_kokoro/gul_609eb6d5e5.wav",
+   "dur": 1.879
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 265.516,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 268.116,
+   "wav": "../audio_kokoro/mishu_b64622518b.wav",
+   "dur": 0.84
+  },
+  {
+   "who": "gul",
+   "text": "Knock, knock!",
+   "t": 269.556,
+   "wav": "../audio_kokoro/gul_b0908d3576.wav",
+   "dur": 0.893
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "rectangle",
+   "t": 271.049,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "oval",
+   "t": 271.549,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "What shape is this?",
+   "t": 272.349,
+   "wav": "../audio_kokoro/mishu_30d01a5673.wav",
+   "dur": 1.185
+  },
+  {
+   "who": "gul",
+   "text": "It's an oval! Like an egg!",
+   "label": "Oval",
+   "t": 274.134,
+   "wav": "../audio_kokoro/gul_e078b3ab61.wav",
+   "dur": 1.445
+  },
+  {
+   "who": "mishu",
+   "text": "Oval! Can you say oval?",
+   "spell": "Oval",
+   "t": 276.179,
+   "wav": "../audio_kokoro/mishu_41aed32bd9.wav",
+   "dur": 1.539
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 278.318,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 280.918,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.908
+  },
+  {
+   "who": "mishu",
+   "text": "An egg shape!",
+   "t": 282.426,
+   "wav": "../audio_kokoro/mishu_7367696237.wav",
+   "dur": 0.864
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "oval",
+   "t": 283.889,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "diamond",
+   "t": 284.389,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Ooh, what shape is it?",
+   "t": 285.189,
+   "wav": "../audio_kokoro/gul_5c10f60b2c.wav",
+   "dur": 1.179
+  },
+  {
+   "who": "mishu",
+   "text": "It's a diamond! Like a kite!",
+   "label": "Diamond",
+   "t": 286.968,
+   "wav": "../audio_kokoro/mishu_ff0fd28dc4.wav",
+   "dur": 1.674
+  },
+  {
+   "who": "gul",
+   "text": "Diamond! Can you say diamond?",
+   "spell": "Diamond",
+   "t": 289.242,
+   "wav": "../audio_kokoro/gul_5aa5a6dedb.wav",
+   "dur": 1.539
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 291.381,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 293.981,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.123
+  },
+  {
+   "who": "gul",
+   "text": "Fly, kite, fly!",
+   "t": 295.704,
+   "wav": "../audio_kokoro/gul_09c28fdff6.wav",
+   "dur": 1.092
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "diamond",
+   "t": 297.396,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.4,
+   "section": "VEHICLES!",
+   "bg": "bg_road.png",
+   "t": 297.896,
+   "dur": 0.4
+  },
+  {
+   "who": "mishu",
+   "text": "Beep, beep! Let's see some vehicles!",
+   "section_hold": "VEHICLES!",
+   "t": 298.296,
+   "wav": "../audio_kokoro/mishu_b69b8d04b9.wav",
+   "dur": 2.109
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "car",
+   "t": 301.004,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "What is this?",
+   "t": 301.804,
+   "wav": "../audio_kokoro/mishu_01c7077dd3.wav",
+   "dur": 0.889
+  },
+  {
+   "who": "gul",
+   "text": "It's a car! Beep, beep!",
+   "label": "Car",
+   "t": 303.293,
+   "wav": "../audio_kokoro/gul_de3dc54487.wav",
+   "dur": 1.358
+  },
+  {
+   "pause": 1.7,
+   "sfx": "car",
+   "t": 305.251,
+   "dur": 1.7
+  },
+  {
+   "who": "mishu",
+   "text": "Car! Can you say car?",
+   "spell": "Car",
+   "t": 306.951,
+   "wav": "../audio_kokoro/mishu_84feac3987.wav",
+   "dur": 1.294
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 308.845,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 311.445,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "who": "gul",
+   "text": "Beep, beep!",
+   "t": 312.727,
+   "wav": "../audio_kokoro/gul_621fc5c1c5.wav",
+   "dur": 0.845
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "car",
+   "t": 314.172,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "bus",
+   "t": 314.672,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Ooh, what's this one?",
+   "t": 315.472,
+   "wav": "../audio_kokoro/gul_e636e93bb6.wav",
+   "dur": 1.122
+  },
+  {
+   "who": "mishu",
+   "text": "It's a big yellow bus!",
+   "label": "Bus",
+   "t": 317.195,
+   "wav": "../audio_kokoro/mishu_3c22328518.wav",
+   "dur": 1.372
+  },
+  {
+   "who": "gul",
+   "text": "Bus! Can you say bus?",
+   "spell": "Bus",
+   "t": 319.167,
+   "wav": "../audio_kokoro/gul_c337a36941.wav",
+   "dur": 1.231
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 320.998,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 323.598,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "who": "mishu",
+   "text": "The wheels go round and round!",
+   "t": 324.87,
+   "wav": "../audio_kokoro/mishu_a3c69d8868.wav",
+   "dur": 1.627
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "bus",
+   "t": 327.096,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "firetruck",
+   "t": 327.596,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Look! What is it?",
+   "t": 328.396,
+   "wav": "../audio_kokoro/mishu_5778529c3b.wav",
+   "dur": 1.037
+  },
+  {
+   "who": "gul",
+   "text": "It's a fire truck! Nee naw, nee naw!",
+   "label": "Fire Truck",
+   "t": 330.033,
+   "wav": "../audio_kokoro/gul_64d7aa9ce3.wav",
+   "dur": 1.831
+  },
+  {
+   "pause": 1.7,
+   "sfx": "firetruck",
+   "t": 332.464,
+   "dur": 1.7
+  },
+  {
+   "who": "mishu",
+   "text": "Fire Truck! Can you say fire truck?",
+   "spell": "Fire Truck",
+   "t": 334.164,
+   "wav": "../audio_kokoro/mishu_665b239030.wav",
+   "dur": 2.056
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 336.819,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 339.419,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "who": "gul",
+   "text": "Nee naw, nee naw!",
+   "t": 341.279,
+   "wav": "../audio_kokoro/gul_6acb05b418.wav",
+   "dur": 1.029
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "firetruck",
+   "t": 342.908,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "police",
+   "t": 343.408,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "What is this?",
+   "t": 344.208,
+   "wav": "../audio_kokoro/gul_60a152f62a.wav",
+   "dur": 0.923
+  },
+  {
+   "who": "mishu",
+   "text": "It's a police car! Wee woo, wee woo!",
+   "label": "Police Car",
+   "t": 345.731,
+   "wav": "../audio_kokoro/mishu_13f2c37834.wav",
+   "dur": 2.052
+  },
+  {
+   "pause": 1.7,
+   "sfx": "police",
+   "t": 348.384,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Police Car! Can you say police car?",
+   "spell": "Police Car",
+   "t": 350.084,
+   "wav": "../audio_kokoro/gul_aa8ee59200.wav",
+   "dur": 1.961
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 352.645,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 355.245,
+   "wav": "../audio_kokoro/mishu_b64622518b.wav",
+   "dur": 0.84
+  },
+  {
+   "who": "mishu",
+   "text": "Wee woo!",
+   "t": 356.685,
+   "wav": "../audio_kokoro/mishu_3d4a41c9fe.wav",
+   "dur": 0.656
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "police",
+   "t": 357.941,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "ambulance",
+   "t": 358.441,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what's this one?",
+   "t": 359.241,
+   "wav": "../audio_kokoro/mishu_b26332052e.wav",
+   "dur": 1.216
+  },
+  {
+   "who": "gul",
+   "text": "It's an ambulance! It helps people!",
+   "label": "Ambulance",
+   "t": 361.058,
+   "wav": "../audio_kokoro/gul_c2a5418d65.wav",
+   "dur": 1.839
+  },
+  {
+   "pause": 1.7,
+   "sfx": "ambulance",
+   "t": 363.497,
+   "dur": 1.7
+  },
+  {
+   "who": "mishu",
+   "text": "Ambulance! Can you say ambulance?",
+   "spell": "Ambulance",
+   "t": 365.197,
+   "wav": "../audio_kokoro/mishu_ee133f31e0.wav",
+   "dur": 1.998
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 367.795,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 370.395,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.908
+  },
+  {
+   "who": "gul",
+   "text": "Help is coming!",
+   "t": 371.903,
+   "wav": "../audio_kokoro/gul_706265b6d5.wav",
+   "dur": 1.017
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "ambulance",
+   "t": 373.519,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "train",
+   "t": 374.019,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Look! What is it?",
+   "t": 374.819,
+   "wav": "../audio_kokoro/gul_8b61055439.wav",
+   "dur": 0.942
+  },
+  {
+   "who": "mishu",
+   "text": "It's a train! Choo, choo!",
+   "label": "Train",
+   "t": 376.361,
+   "wav": "../audio_kokoro/mishu_e68a40905b.wav",
+   "dur": 1.535
+  },
+  {
+   "pause": 1.7,
+   "sfx": "train",
+   "t": 378.496,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Train! Can you say train?",
+   "spell": "Train",
+   "t": 380.196,
+   "wav": "../audio_kokoro/gul_38f552c526.wav",
+   "dur": 1.375
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 382.171,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 384.771,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.123
+  },
+  {
+   "who": "mishu",
+   "text": "Choo, choo!",
+   "t": 386.494,
+   "wav": "../audio_kokoro/mishu_60e09bae0c.wav",
+   "dur": 0.757
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "train",
+   "t": 387.851,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "airplane",
+   "t": 388.351,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "What is this?",
+   "t": 389.151,
+   "wav": "../audio_kokoro/mishu_01c7077dd3.wav",
+   "dur": 0.889
+  },
+  {
+   "who": "gul",
+   "text": "It's an airplane! It flies in the sky!",
+   "label": "Airplane",
+   "t": 390.64,
+   "wav": "../audio_kokoro/gul_4349e827a9.wav",
+   "dur": 2.076
+  },
+  {
+   "pause": 1.7,
+   "sfx": "airplane",
+   "t": 393.316,
+   "dur": 1.7
+  },
+  {
+   "who": "mishu",
+   "text": "Airplane! Can you say airplane?",
+   "spell": "Airplane",
+   "t": 395.016,
+   "wav": "../audio_kokoro/mishu_58ddd845a1.wav",
+   "dur": 1.779
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 397.395,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 399.995,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "who": "gul",
+   "text": "Zoom!",
+   "t": 401.277,
+   "wav": "../audio_kokoro/gul_ee63b34c5b.wav",
+   "dur": 0.624
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "airplane",
+   "t": 402.501,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "boat",
+   "t": 403.001,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Ooh, what's this one?",
+   "t": 403.801,
+   "wav": "../audio_kokoro/gul_e636e93bb6.wav",
+   "dur": 1.122
+  },
+  {
+   "who": "mishu",
+   "text": "It's a boat! It floats on water!",
+   "label": "Boat",
+   "t": 405.524,
+   "wav": "../audio_kokoro/mishu_7b500aabc7.wav",
+   "dur": 1.814
+  },
+  {
+   "who": "gul",
+   "text": "Boat! Can you say boat?",
+   "spell": "Boat",
+   "t": 407.938,
+   "wav": "../audio_kokoro/gul_8f71dacff9.wav",
+   "dur": 1.193
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 409.731,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 412.331,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "who": "mishu",
+   "text": "Splish, splash!",
+   "t": 413.602,
+   "wav": "../audio_kokoro/mishu_5a723f74b9.wav",
+   "dur": 1.117
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "boat",
+   "t": 415.319,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "tractor",
+   "t": 415.819,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Look! What is it?",
+   "t": 416.619,
+   "wav": "../audio_kokoro/mishu_5778529c3b.wav",
+   "dur": 1.037
+  },
+  {
+   "who": "gul",
+   "text": "It's a tractor! It works on the farm!",
+   "label": "Tractor",
+   "t": 418.255,
+   "wav": "../audio_kokoro/gul_6da50d9421.wav",
+   "dur": 1.9
+  },
+  {
+   "who": "mishu",
+   "text": "Tractor! Can you say tractor?",
+   "spell": "Tractor",
+   "t": 420.756,
+   "wav": "../audio_kokoro/mishu_8ebe665a4e.wav",
+   "dur": 1.788
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 423.144,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 425.744,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "who": "gul",
+   "text": "Chug, chug!",
+   "t": 427.604,
+   "wav": "../audio_kokoro/gul_37efc8b96b.wav",
+   "dur": 0.865
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "tractor",
+   "t": 429.069,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "helicopter",
+   "t": 429.569,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "What is this?",
+   "t": 430.369,
+   "wav": "../audio_kokoro/gul_60a152f62a.wav",
+   "dur": 0.923
+  },
+  {
+   "who": "mishu",
+   "text": "It's a helicopter! Whirr, whirr!",
+   "label": "Helicopter",
+   "t": 431.892,
+   "wav": "../audio_kokoro/mishu_b9b5971ab0.wav",
+   "dur": 1.824
+  },
+  {
+   "who": "gul",
+   "text": "Helicopter! Can you say helicopter?",
+   "spell": "Helicopter",
+   "t": 434.316,
+   "wav": "../audio_kokoro/gul_b083211374.wav",
+   "dur": 2.016
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 436.932,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 439.532,
+   "wav": "../audio_kokoro/mishu_b64622518b.wav",
+   "dur": 0.84
+  },
+  {
+   "who": "mishu",
+   "text": "Up, up, up!",
+   "t": 440.972,
+   "wav": "../audio_kokoro/mishu_965d118079.wav",
+   "dur": 0.922
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "helicopter",
+   "t": 442.494,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.4,
+   "section": "OCEAN ANIMALS!",
+   "bg": "bg_beach.png",
+   "t": 442.994,
+   "dur": 0.4
+  },
+  {
+   "who": "gul",
+   "text": "Splash! Let's go to the ocean!",
+   "section_hold": "OCEAN ANIMALS!",
+   "t": 443.394,
+   "wav": "../audio_kokoro/gul_12d6c1b7d0.wav",
+   "dur": 1.69
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "fish",
+   "t": 445.684,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Who lives in the ocean?",
+   "t": 446.484,
+   "wav": "../audio_kokoro/mishu_048329dc24.wav",
+   "dur": 1.246
+  },
+  {
+   "who": "gul",
+   "text": "It's a little fish! Swim, swim!",
+   "label": "Fish",
+   "t": 448.329,
+   "wav": "../audio_kokoro/gul_78ae3952cb.wav",
+   "dur": 1.794
+  },
+  {
+   "who": "mishu",
+   "text": "Fish! Can you say fish?",
+   "spell": "Fish",
+   "t": 450.723,
+   "wav": "../audio_kokoro/mishu_09922dc879.wav",
+   "dur": 1.334
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 452.657,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 455.257,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.908
+  },
+  {
+   "who": "mishu",
+   "text": "Blub, blub!",
+   "t": 456.765,
+   "wav": "../audio_kokoro/mishu_ee9d5ae247.wav",
+   "dur": 0.896
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "fish",
+   "t": 458.26,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "octopus",
+   "t": 458.76,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Ooh, who is swimming?",
+   "t": 459.56,
+   "wav": "../audio_kokoro/gul_ad4449536b.wav",
+   "dur": 1.197
+  },
+  {
+   "who": "mishu",
+   "text": "It's an octopus! It has eight arms!",
+   "label": "Octopus",
+   "t": 461.357,
+   "wav": "../audio_kokoro/mishu_e066d3018a.wav",
+   "dur": 2.082
+  },
+  {
+   "who": "gul",
+   "text": "Octopus! Can you say octopus?",
+   "spell": "Octopus",
+   "t": 464.039,
+   "wav": "../audio_kokoro/gul_e567cbff5f.wav",
+   "dur": 1.742
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 466.382,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 468.982,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.123
+  },
+  {
+   "who": "gul",
+   "text": "Eight wiggly arms!",
+   "t": 470.705,
+   "wav": "../audio_kokoro/gul_179ba69dc4.wav",
+   "dur": 1.234
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "octopus",
+   "t": 472.539,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "whale",
+   "t": 473.039,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Look! Who is this?",
+   "t": 473.839,
+   "wav": "../audio_kokoro/mishu_d07f6c4389.wav",
+   "dur": 1.118
+  },
+  {
+   "who": "gul",
+   "text": "It's a whale! A very big whale!",
+   "label": "Whale",
+   "t": 475.557,
+   "wav": "../audio_kokoro/gul_0b42251ad5.wav",
+   "dur": 1.793
+  },
+  {
+   "who": "mishu",
+   "text": "Whale! Can you say whale?",
+   "spell": "Whale",
+   "t": 477.95,
+   "wav": "../audio_kokoro/mishu_6980274f1f.wav",
+   "dur": 1.359
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 479.909,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 482.509,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "who": "mishu",
+   "text": "Splash!",
+   "t": 483.791,
+   "wav": "../audio_kokoro/mishu_a3dfc73304.wav",
+   "dur": 0.753
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "whale",
+   "t": 485.144,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "crab",
+   "t": 485.644,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Who lives in the ocean?",
+   "t": 486.444,
+   "wav": "../audio_kokoro/gul_defd9b4771.wav",
+   "dur": 1.291
+  },
+  {
+   "who": "mishu",
+   "text": "It's a crab! Snap, snap!",
+   "label": "Crab",
+   "t": 488.335,
+   "wav": "../audio_kokoro/mishu_baaaecba1e.wav",
+   "dur": 1.65
+  },
+  {
+   "who": "gul",
+   "text": "Crab! Can you say crab?",
+   "spell": "Crab",
+   "t": 490.585,
+   "wav": "../audio_kokoro/gul_194b9b7981.wav",
+   "dur": 1.357
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 492.542,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 495.142,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "Snap, snap!",
+   "t": 496.413,
+   "wav": "../audio_kokoro/gul_5dfb1fc83f.wav",
+   "dur": 0.933
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "crab",
+   "t": 497.947,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "turtle",
+   "t": 498.447,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, who is swimming?",
+   "t": 499.247,
+   "wav": "../audio_kokoro/mishu_d1621e3d5f.wav",
+   "dur": 1.161
+  },
+  {
+   "who": "gul",
+   "text": "It's a turtle! Slow and steady!",
+   "label": "Turtle",
+   "t": 501.008,
+   "wav": "../audio_kokoro/gul_64742d6043.wav",
+   "dur": 1.677
+  },
+  {
+   "who": "mishu",
+   "text": "Turtle! Can you say turtle?",
+   "spell": "Turtle",
+   "t": 503.285,
+   "wav": "../audio_kokoro/mishu_c2687df4f5.wav",
+   "dur": 1.516
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 505.401,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 508.001,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "who": "mishu",
+   "text": "Hello, turtle!",
+   "t": 509.861,
+   "wav": "../audio_kokoro/mishu_e35e33f872.wav",
+   "dur": 0.923
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "turtle",
+   "t": 511.384,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "starfish",
+   "t": 511.884,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Look! Who is this?",
+   "t": 512.684,
+   "wav": "../audio_kokoro/gul_fccab29b28.wav",
+   "dur": 1.022
+  },
+  {
+   "who": "mishu",
+   "text": "It's a starfish! A star in the sea!",
+   "label": "Starfish",
+   "t": 514.306,
+   "wav": "../audio_kokoro/mishu_5ba179f25b.wav",
+   "dur": 2.091
+  },
+  {
+   "who": "gul",
+   "text": "Starfish! Can you say starfish?",
+   "spell": "Starfish",
+   "t": 516.997,
+   "wav": "../audio_kokoro/gul_1b5cc98993.wav",
+   "dur": 1.713
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 519.309,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 521.909,
+   "wav": "../audio_kokoro/mishu_b64622518b.wav",
+   "dur": 0.84
+  },
+  {
+   "who": "gul",
+   "text": "Twinkle, starfish!",
+   "t": 523.349,
+   "wav": "../audio_kokoro/gul_8e66136683.wav",
+   "dur": 1.175
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "starfish",
+   "t": 525.124,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "dolphin",
+   "t": 525.624,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Who lives in the ocean?",
+   "t": 526.424,
+   "wav": "../audio_kokoro/mishu_048329dc24.wav",
+   "dur": 1.246
+  },
+  {
+   "who": "gul",
+   "text": "It's a dolphin! It loves to jump!",
+   "label": "Dolphin",
+   "t": 528.27,
+   "wav": "../audio_kokoro/gul_04b2ccb095.wav",
+   "dur": 1.826
+  },
+  {
+   "who": "mishu",
+   "text": "Dolphin! Can you say dolphin?",
+   "spell": "Dolphin",
+   "t": 530.696,
+   "wav": "../audio_kokoro/mishu_021cfcd19c.wav",
+   "dur": 1.689
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 532.985,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 535.585,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.908
+  },
+  {
+   "who": "mishu",
+   "text": "Jump, jump!",
+   "t": 537.093,
+   "wav": "../audio_kokoro/mishu_8763ca607b.wav",
+   "dur": 0.866
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "dolphin",
+   "t": 538.56,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "jellyfish",
+   "t": 539.06,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Ooh, who is swimming?",
+   "t": 539.86,
+   "wav": "../audio_kokoro/gul_ad4449536b.wav",
+   "dur": 1.197
+  },
+  {
+   "who": "mishu",
+   "text": "It's a jellyfish! Wiggly and wobbly!",
+   "label": "Jellyfish",
+   "t": 541.656,
+   "wav": "../audio_kokoro/mishu_8556d12ea8.wav",
+   "dur": 2.274
+  },
+  {
+   "who": "gul",
+   "text": "Jellyfish! Can you say jellyfish?",
+   "spell": "Jellyfish",
+   "t": 544.531,
+   "wav": "../audio_kokoro/gul_37ba4f1df1.wav",
+   "dur": 1.852
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 546.982,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 549.582,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.123
+  },
+  {
+   "who": "gul",
+   "text": "Wiggle, wobble!",
+   "t": 551.305,
+   "wav": "../audio_kokoro/gul_1501cadf50.wav",
+   "dur": 0.964
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "jellyfish",
+   "t": 552.869,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.4,
+   "section": "LET'S COUNT!",
+   "bg": "bg_rainbow.png",
+   "t": 553.369,
+   "dur": 0.4
+  },
+  {
+   "who": "gul",
+   "text": "Now let's count with yummy fruits!",
+   "section_hold": "LET'S COUNT!",
+   "t": 553.769,
+   "wav": "../audio_kokoro/gul_d422225eed.wav",
+   "dur": 1.74
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n1",
+   "t": 556.109,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "How many?",
+   "t": 556.909,
+   "wav": "../audio_kokoro/mishu_a6f860e8b5.wav",
+   "dur": 0.712
+  },
+  {
+   "who": "gul",
+   "text": "One! One apple!",
+   "label": "One",
+   "t": 558.221,
+   "wav": "../audio_kokoro/gul_e18fbee1f1.wav",
+   "dur": 1.089
+  },
+  {
+   "who": "mishu",
+   "text": "One! Can you say one?",
+   "spell": "One",
+   "t": 559.909,
+   "wav": "../audio_kokoro/mishu_74f9d0ace2.wav",
+   "dur": 1.316
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 561.826,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 564.426,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n1",
+   "t": 565.708,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n2",
+   "t": 566.208,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Let's count! How many?",
+   "t": 567.008,
+   "wav": "../audio_kokoro/gul_dd31d9e7f7.wav",
+   "dur": 1.264
+  },
+  {
+   "who": "mishu",
+   "text": "One, two! Two bananas!",
+   "label": "Two",
+   "t": 568.872,
+   "wav": "../audio_kokoro/mishu_0d41454d11.wav",
+   "dur": 1.674
+  },
+  {
+   "who": "gul",
+   "text": "Two! Can you say two?",
+   "spell": "Two",
+   "t": 571.146,
+   "wav": "../audio_kokoro/gul_8d72dd1af2.wav",
+   "dur": 1.239
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 572.985,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 575.585,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n2",
+   "t": 576.856,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n3",
+   "t": 577.356,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "How many can you see?",
+   "t": 578.156,
+   "wav": "../audio_kokoro/mishu_c7b59d13e3.wav",
+   "dur": 1.192
+  },
+  {
+   "who": "gul",
+   "text": "One, two, three! Three oranges!",
+   "label": "Three",
+   "t": 579.948,
+   "wav": "../audio_kokoro/gul_4ef5dd1d86.wav",
+   "dur": 1.81
+  },
+  {
+   "who": "mishu",
+   "text": "Three! Can you say three?",
+   "spell": "Three",
+   "t": 582.358,
+   "wav": "../audio_kokoro/mishu_82adf7920b.wav",
+   "dur": 1.415
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 584.374,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 586.974,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n3",
+   "t": 588.833,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n4",
+   "t": 589.333,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "How many?",
+   "t": 590.133,
+   "wav": "../audio_kokoro/gul_2269a1e3f6.wav",
+   "dur": 0.784
+  },
+  {
+   "who": "mishu",
+   "text": "One, two, three, four! Four strawberries!",
+   "label": "Four",
+   "t": 591.518,
+   "wav": "../audio_kokoro/mishu_492ee4c328.wav",
+   "dur": 2.486
+  },
+  {
+   "who": "gul",
+   "text": "Four! Can you say four?",
+   "spell": "Four",
+   "t": 594.604,
+   "wav": "../audio_kokoro/gul_8754bed1f2.wav",
+   "dur": 1.296
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 596.499,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 599.099,
+   "wav": "../audio_kokoro/mishu_b64622518b.wav",
+   "dur": 0.84
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n4",
+   "t": 600.539,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n5",
+   "t": 601.039,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count! How many?",
+   "t": 601.839,
+   "wav": "../audio_kokoro/mishu_aa23daa40b.wav",
+   "dur": 1.253
+  },
+  {
+   "who": "gul",
+   "text": "One, two, three, four, five! Five lemons!",
+   "label": "Five",
+   "t": 603.693,
+   "wav": "../audio_kokoro/gul_de354ac437.wav",
+   "dur": 2.424
+  },
+  {
+   "who": "mishu",
+   "text": "Five! Can you say five?",
+   "spell": "Five",
+   "t": 606.717,
+   "wav": "../audio_kokoro/mishu_8c72ce74af.wav",
+   "dur": 1.387
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 608.704,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 611.304,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.908
+  },
+  {
+   "who": "mishu",
+   "text": "High five!",
+   "t": 612.812,
+   "wav": "../audio_kokoro/mishu_e876bc7461.wav",
+   "dur": 0.799
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n5",
+   "t": 614.211,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n6",
+   "t": 614.711,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "How many can you see?",
+   "t": 615.511,
+   "wav": "../audio_kokoro/gul_95f1b1fd47.wav",
+   "dur": 1.228
+  },
+  {
+   "who": "mishu",
+   "text": "One, two, three, four, five, six! Six cherries!",
+   "label": "Six",
+   "t": 617.339,
+   "wav": "../audio_kokoro/mishu_5d81f13179.wav",
+   "dur": 3.016
+  },
+  {
+   "who": "gul",
+   "text": "Six! Can you say six?",
+   "spell": "Six",
+   "t": 620.954,
+   "wav": "../audio_kokoro/gul_085e6aa273.wav",
+   "dur": 1.278
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 622.832,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 625.432,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.123
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n6",
+   "t": 627.155,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n7",
+   "t": 627.655,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "How many?",
+   "t": 628.455,
+   "wav": "../audio_kokoro/mishu_a6f860e8b5.wav",
+   "dur": 0.712
+  },
+  {
+   "who": "gul",
+   "text": "One, two, three, four, five, six, seven! Seven pears!",
+   "label": "Seven",
+   "t": 629.767,
+   "wav": "../audio_kokoro/gul_c765df02d0.wav",
+   "dur": 3.109
+  },
+  {
+   "who": "mishu",
+   "text": "Seven! Can you say seven?",
+   "spell": "Seven",
+   "t": 633.477,
+   "wav": "../audio_kokoro/mishu_3ec4790e08.wav",
+   "dur": 1.599
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 635.676,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 638.276,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n7",
+   "t": 639.558,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n8",
+   "t": 640.058,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Let's count! How many?",
+   "t": 640.858,
+   "wav": "../audio_kokoro/gul_dd31d9e7f7.wav",
+   "dur": 1.264
+  },
+  {
+   "who": "mishu",
+   "text": "One, two, three, four, five, six, seven, eight! Eight kiwis!",
+   "label": "Eight",
+   "t": 642.722,
+   "wav": "../audio_kokoro/mishu_b9dd10aaeb.wav",
+   "dur": 3.524
+  },
+  {
+   "who": "gul",
+   "text": "Eight! Can you say eight?",
+   "spell": "Eight",
+   "t": 646.845,
+   "wav": "../audio_kokoro/gul_745b6fd9ea.wav",
+   "dur": 1.17
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 648.616,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 651.216,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n8",
+   "t": 652.487,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n9",
+   "t": 652.987,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "How many can you see?",
+   "t": 653.787,
+   "wav": "../audio_kokoro/mishu_c7b59d13e3.wav",
+   "dur": 1.192
+  },
+  {
+   "who": "gul",
+   "text": "One, two, three, four, five, six, seven, eight, nine! Nine pineapples!",
+   "label": "Nine",
+   "t": 655.579,
+   "wav": "../audio_kokoro/gul_26b7384b83.wav",
+   "dur": 3.983
+  },
+  {
+   "who": "mishu",
+   "text": "Nine! Can you say nine?",
+   "spell": "Nine",
+   "t": 660.162,
+   "wav": "../audio_kokoro/mishu_f6deca01eb.wav",
+   "dur": 1.405
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 662.167,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 664.767,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n9",
+   "t": 666.627,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "n10",
+   "t": 667.127,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "How many?",
+   "t": 667.927,
+   "wav": "../audio_kokoro/gul_2269a1e3f6.wav",
+   "dur": 0.784
+  },
+  {
+   "who": "mishu",
+   "text": "One, two, three, four, five, six, seven, eight, nine, ten! Ten mangoes!",
+   "label": "Ten",
+   "t": 669.311,
+   "wav": "../audio_kokoro/mishu_fe4ac55b81.wav",
+   "dur": 4.351
+  },
+  {
+   "who": "gul",
+   "text": "Ten! Can you say ten?",
+   "spell": "Ten",
+   "t": 674.263,
+   "wav": "../audio_kokoro/gul_fccb55d7c7.wav",
+   "dur": 1.357
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 676.219,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 678.819,
+   "wav": "../audio_kokoro/mishu_b64622518b.wav",
+   "dur": 0.84
+  },
+  {
+   "who": "gul",
+   "text": "We counted to ten!",
+   "t": 680.259,
+   "wav": "../audio_kokoro/gul_d03915d54d.wav",
+   "dur": 1.257
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "n10",
+   "t": 682.116,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.4,
+   "section": "WEATHER!",
+   "bg": "bg.png",
+   "t": 682.616,
+   "dur": 0.4
+  },
+  {
+   "who": "mishu",
+   "text": "Let's look at the weather!",
+   "section_hold": "WEATHER!",
+   "t": 683.016,
+   "wav": "../audio_kokoro/mishu_2641aa0ef9.wav",
+   "dur": 1.185
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "sunny",
+   "t": 684.802,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "What's the weather?",
+   "t": 685.602,
+   "wav": "../audio_kokoro/mishu_1b37fd05d1.wav",
+   "dur": 0.953
+  },
+  {
+   "who": "gul",
+   "text": "It's sunny! The sun is shining!",
+   "label": "Sunny",
+   "t": 687.155,
+   "wav": "../audio_kokoro/gul_6e32ad71b3.wav",
+   "dur": 1.655
+  },
+  {
+   "who": "mishu",
+   "text": "Sunny! Can you say sunny?",
+   "spell": "Sunny",
+   "t": 689.41,
+   "wav": "../audio_kokoro/mishu_794691dbcb.wav",
+   "dur": 1.462
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 691.472,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 694.072,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.908
+  },
+  {
+   "who": "gul",
+   "text": "Let's play outside!",
+   "t": 695.579,
+   "wav": "../audio_kokoro/gul_4080dd0442.wav",
+   "dur": 1.244
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "sunny",
+   "t": 697.423,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "rainy",
+   "t": 697.923,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Ooh, what's the weather now?",
+   "t": 698.723,
+   "wav": "../audio_kokoro/gul_d675f50f83.wav",
+   "dur": 1.358
+  },
+  {
+   "who": "mishu",
+   "text": "It's rainy! Pitter, patter!",
+   "label": "Rainy",
+   "t": 700.681,
+   "wav": "../audio_kokoro/mishu_f2dd3eb615.wav",
+   "dur": 1.602
+  },
+  {
+   "pause": 1.7,
+   "sfx": "rainy",
+   "t": 702.883,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Rainy! Can you say rainy?",
+   "spell": "Rainy",
+   "t": 704.583,
+   "wav": "../audio_kokoro/gul_154a706ab7.wav",
+   "dur": 1.347
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 706.529,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 709.129,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.123
+  },
+  {
+   "who": "mishu",
+   "text": "Put on your boots!",
+   "t": 710.852,
+   "wav": "../audio_kokoro/mishu_2af9698a19.wav",
+   "dur": 1.044
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "rainy",
+   "t": 712.496,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "cloudy",
+   "t": 712.996,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Look at the sky! What's the weather?",
+   "t": 713.796,
+   "wav": "../audio_kokoro/mishu_30fccc16c4.wav",
+   "dur": 1.815
+  },
+  {
+   "who": "gul",
+   "text": "It's cloudy! Big grey clouds!",
+   "label": "Cloudy",
+   "t": 716.211,
+   "wav": "../audio_kokoro/gul_cd15d2d130.wav",
+   "dur": 1.651
+  },
+  {
+   "who": "mishu",
+   "text": "Cloudy! Can you say cloudy?",
+   "spell": "Cloudy",
+   "t": 718.462,
+   "wav": "../audio_kokoro/mishu_8450771e54.wav",
+   "dur": 1.477
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 720.539,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 723.139,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "who": "gul",
+   "text": "Where is the sun?",
+   "t": 724.421,
+   "wav": "../audio_kokoro/gul_bd78f6c035.wav",
+   "dur": 0.976
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "cloudy",
+   "t": 725.997,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "windy",
+   "t": 726.497,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "What's the weather?",
+   "t": 727.297,
+   "wav": "../audio_kokoro/gul_d8e60130a8.wav",
+   "dur": 0.944
+  },
+  {
+   "who": "mishu",
+   "text": "It's windy! Whoosh!",
+   "label": "Windy",
+   "t": 728.841,
+   "wav": "../audio_kokoro/mishu_c84aa2cca2.wav",
+   "dur": 1.305
+  },
+  {
+   "pause": 1.7,
+   "sfx": "windy",
+   "t": 730.746,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Windy! Can you say windy?",
+   "spell": "Windy",
+   "t": 732.446,
+   "wav": "../audio_kokoro/gul_bcf8f1468e.wav",
+   "dur": 1.433
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 734.479,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 737.079,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "who": "mishu",
+   "text": "Hold your hat!",
+   "t": 738.35,
+   "wav": "../audio_kokoro/mishu_e1c9a93269.wav",
+   "dur": 0.909
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "windy",
+   "t": 739.859,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "snowy",
+   "t": 740.359,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh, what's the weather now?",
+   "t": 741.159,
+   "wav": "../audio_kokoro/mishu_e0d5d1a2cc.wav",
+   "dur": 1.422
+  },
+  {
+   "who": "gul",
+   "text": "It's snowy! Cold, white snow!",
+   "label": "Snowy",
+   "t": 743.18,
+   "wav": "../audio_kokoro/gul_1b30e3fedd.wav",
+   "dur": 1.623
+  },
+  {
+   "who": "mishu",
+   "text": "Snowy! Can you say snowy?",
+   "spell": "Snowy",
+   "t": 745.403,
+   "wav": "../audio_kokoro/mishu_183fd621b6.wav",
+   "dur": 1.572
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 747.576,
+   "dur": 2.6
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 750.176,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "who": "gul",
+   "text": "Let's make a snowman!",
+   "t": 752.036,
+   "wav": "../audio_kokoro/gul_7c0974c84c.wav",
+   "dur": 1.326
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "snowy",
+   "t": 753.962,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.8,
+   "fruit_in": "rainbow",
+   "t": 754.462,
+   "dur": 0.8
+  },
+  {
+   "who": "gul",
+   "text": "Look at the sky! What's the weather?",
+   "t": 755.262,
+   "wav": "../audio_kokoro/gul_d07f1370e3.wav",
+   "dur": 1.676
+  },
+  {
+   "who": "mishu",
+   "text": "It's a rainbow! So many colours!",
+   "label": "Rainbow",
+   "t": 757.538,
+   "wav": "../audio_kokoro/mishu_0191048b62.wav",
+   "dur": 1.92
+  },
+  {
+   "who": "gul",
+   "text": "Rainbow! Can you say rainbow?",
+   "spell": "Rainbow",
+   "t": 760.057,
+   "wav": "../audio_kokoro/gul_94354f2765.wav",
+   "dur": 1.546
+  },
+  {
+   "pause": 2.6,
+   "prompt": true,
+   "t": 762.203,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "You did it!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 764.803,
+   "wav": "../audio_kokoro/mishu_b64622518b.wav",
+   "dur": 0.84
+  },
+  {
+   "who": "mishu",
+   "text": "So pretty!",
+   "t": 766.243,
+   "wav": "../audio_kokoro/mishu_df58f8b804.wav",
+   "dur": 0.788
+  },
+  {
+   "pause": 0.5,
+   "fruit_out": "rainbow",
+   "t": 767.632,
+   "dur": 0.5
+  },
+  {
+   "pause": 0.5,
+   "bg": "bg_rainbow.png",
+   "t": 768.132,
+   "dur": 0.5
+  },
+  {
+   "who": "mishu",
+   "text": "Wow! We learned so many things today!",
+   "t": 768.632,
+   "wav": "../audio_kokoro/mishu_722c012838.wav",
+   "dur": 2.07
+  },
+  {
+   "who": "gul",
+   "text": "Which one was your favourite? Mine was the fire truck!",
+   "eyes_closed": "gul",
+   "t": 771.302,
+   "wav": "../audio_kokoro/gul_6899e97fd7.wav",
+   "dur": 2.646
+  },
+  {
+   "who": "mishu",
+   "text": "Bye bye, friends!",
+   "wave": "mishu",
+   "scene": "outro",
+   "t": 774.547,
+   "wav": "../audio_kokoro/mishu_de922abe3e.wav",
+   "dur": 1.146
+  },
+  {
+   "who": "gul",
+   "text": "See you next time!",
+   "wave": "gul",
+   "t": 776.293,
+   "wav": "../audio_kokoro/gul_a5bc07c40a.wav",
+   "dur": 1.158
+  },
+  {
+   "pause": 2.5,
+   "end": true,
+   "t": 778.052,
+   "dur": 2.5
+  }
+ ],
+ "total": 780.552
+}
