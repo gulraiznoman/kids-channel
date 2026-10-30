@@ -1,0 +1,3022 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Bath time!",
+   "t": 1.6,
+   "dur": 0.785
+  },
+  {
+   "who": "mishu",
+   "text": "Bubbles, splashes, and a big science test!",
+   "t": 2.735,
+   "dur": 2.503
+  },
+  {
+   "who": "gul",
+   "text": "Will it sink, or float? Let's find out!",
+   "t": 5.588,
+   "dur": 2.03
+  },
+  {
+   "who": "mishu",
+   "text": "Oh no, Gul! You're all muddy!",
+   "t": 8.168,
+   "dur": 1.532
+  },
+  {
+   "who": "gul",
+   "text": "I jumped in the mud puddles! Splash, splash!",
+   "t": 10.05,
+   "dur": 2.494
+  },
+  {
+   "who": "mishu",
+   "text": "Baths wash away dirt and germs, and keep us healthy.",
+   "t": 12.894,
+   "dur": 3.02
+  },
+  {
+   "who": "gul",
+   "text": "Then it's bath time! Yay!",
+   "t": 16.264,
+   "dur": 1.386
+  },
+  {
+   "who": "gul",
+   "text": "Let's get ready for bath time! What do we need?",
+   "t": 18.701,
+   "dur": 2.33
+  },
+  {
+   "who": "mishu",
+   "text": "A soft towel, to dry off!",
+   "t": 21.68,
+   "dur": 1.445
+  },
+  {
+   "who": "gul",
+   "text": "Soap, to wash our body!",
+   "t": 23.875,
+   "dur": 1.327
+  },
+  {
+   "who": "mishu",
+   "text": "Shampoo, to wash our hair!",
+   "t": 25.952,
+   "dur": 1.567
+  },
+  {
+   "who": "gul",
+   "text": "A squishy sponge!",
+   "t": 28.269,
+   "dur": 1.074
+  },
+  {
+   "who": "mishu",
+   "text": "And a rubber duck! Squeak squeak!",
+   "t": 30.093,
+   "dur": 1.794
+  },
+  {
+   "who": "gul",
+   "text": "Cozy pyjamas, for after the bath!",
+   "t": 32.637,
+   "dur": 1.833
+  },
+  {
+   "who": "gul",
+   "text": "Turn on the water. Splish, splash!",
+   "t": 35.02,
+   "dur": 1.85
+  },
+  {
+   "who": "mishu",
+   "text": "Always have a grown-up check the water.",
+   "t": 37.221,
+   "dur": 1.854
+  },
+  {
+   "who": "gul",
+   "text": "Not too hot, not too cold. Just warm!",
+   "t": 39.425,
+   "dur": 2.095
+  },
+  {
+   "who": "both",
+   "text": "And never play in water alone!",
+   "t": 41.87,
+   "dur": 1.772
+  },
+  {
+   "who": "mishu",
+   "text": "Now, hop in! Splash!",
+   "t": 44.192,
+   "dur": 1.318
+  },
+  {
+   "who": "both",
+   "text": "This is the way we wash our hands,",
+   "t": 46.16,
+   "dur": 1.82
+  },
+  {
+   "who": "both",
+   "text": "wash our hands, wash our hands!",
+   "t": 48.28,
+   "dur": 1.98
+  },
+  {
+   "who": "both",
+   "text": "This is the way we wash our hands,",
+   "t": 50.561,
+   "dur": 1.82
+  },
+  {
+   "who": "both",
+   "text": "so early in the morning!",
+   "t": 52.681,
+   "dur": 1.296
+  },
+  {
+   "who": "mishu",
+   "text": "Let's wash from top to toes! Copy us!",
+   "t": 55.078,
+   "dur": 2.431
+  },
+  {
+   "who": "both",
+   "text": "Wash, wash, wash your hands!",
+   "t": 57.958,
+   "dur": 1.691
+  },
+  {
+   "who": "gul",
+   "text": "Scrub, scrub, scrub!",
+   "t": 59.899,
+   "dur": 1.247
+  },
+  {
+   "who": "both",
+   "text": "Wash, wash, wash your arms!",
+   "t": 61.696,
+   "dur": 1.633
+  },
+  {
+   "who": "mishu",
+   "text": "Rub, rub, rub!",
+   "t": 63.579,
+   "dur": 1.139
+  },
+  {
+   "who": "both",
+   "text": "Wash, wash, wash your legs!",
+   "t": 65.268,
+   "dur": 1.63
+  },
+  {
+   "who": "gul",
+   "text": "Scrub, scrub, scrub!",
+   "t": 67.147,
+   "dur": 1.247
+  },
+  {
+   "who": "both",
+   "text": "Wash, wash, wash your feet!",
+   "t": 68.945,
+   "dur": 1.542
+  },
+  {
+   "who": "mishu",
+   "text": "Rub, rub, rub!",
+   "t": 70.737,
+   "dur": 1.139
+  },
+  {
+   "who": "both",
+   "text": "Wash, wash, wash your ears!",
+   "t": 72.425,
+   "dur": 1.631
+  },
+  {
+   "who": "gul",
+   "text": "Scrub, scrub, scrub!",
+   "t": 74.307,
+   "dur": 1.247
+  },
+  {
+   "who": "both",
+   "text": "Wash, wash, wash your face!",
+   "t": 76.104,
+   "dur": 1.625
+  },
+  {
+   "who": "mishu",
+   "text": "Rub, rub, rub!",
+   "t": 77.978,
+   "dur": 1.139
+  },
+  {
+   "who": "both",
+   "text": "Wash, wash, wash your hair! Close your eyes!",
+   "t": 79.667,
+   "dur": 2.366
+  },
+  {
+   "who": "gul",
+   "text": "Scrub, scrub, scrub!",
+   "t": 82.283,
+   "dur": 1.247
+  },
+  {
+   "who": "gul",
+   "text": "Now rinse off all the bubbles. Whoosh!",
+   "t": 84.08,
+   "dur": 2.007
+  },
+  {
+   "who": "mishu",
+   "text": "Squeaky clean!",
+   "t": 86.437,
+   "dur": 0.891
+  },
+  {
+   "who": "gul",
+   "text": "So many bubbles! Let's pop them and count!",
+   "t": 88.478,
+   "dur": 2.046
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 90.974,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 91.711,
+   "dur": 0.465
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 92.426,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 93.214,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 93.994,
+   "dur": 0.574
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 94.819,
+   "dur": 0.581
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 95.65,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 96.508,
+   "dur": 0.507
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 97.265,
+   "dur": 0.545
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 98.06,
+   "dur": 0.507
+  },
+  {
+   "who": "mishu",
+   "text": "Ten bubbles! Pop, pop, pop!",
+   "t": 98.818,
+   "dur": 1.874
+  },
+  {
+   "who": "gul",
+   "text": "Pop the red bubble!",
+   "t": 101.342,
+   "dur": 1.085
+  },
+  {
+   "who": "mishu",
+   "text": "Pop! Red!",
+   "t": 104.277,
+   "dur": 0.857
+  },
+  {
+   "who": "mishu",
+   "text": "Pop the blue bubble!",
+   "t": 105.684,
+   "dur": 1.073
+  },
+  {
+   "who": "gul",
+   "text": "Pop! Blue!",
+   "t": 108.607,
+   "dur": 0.742
+  },
+  {
+   "who": "gul",
+   "text": "Pop the yellow bubble!",
+   "t": 109.899,
+   "dur": 1.159
+  },
+  {
+   "who": "mishu",
+   "text": "Pop! Yellow!",
+   "t": 112.908,
+   "dur": 0.942
+  },
+  {
+   "who": "mishu",
+   "text": "Pop the green bubble!",
+   "t": 114.401,
+   "dur": 1.103
+  },
+  {
+   "who": "gul",
+   "text": "Pop! Green!",
+   "t": 117.354,
+   "dur": 0.811
+  },
+  {
+   "who": "gul",
+   "text": "Pop the purple bubble!",
+   "t": 118.715,
+   "dur": 1.159
+  },
+  {
+   "who": "mishu",
+   "text": "Pop! Purple!",
+   "t": 121.724,
+   "dur": 0.91
+  },
+  {
+   "who": "mishu",
+   "text": "Pop the orange bubble!",
+   "t": 123.185,
+   "dur": 1.214
+  },
+  {
+   "who": "gul",
+   "text": "Pop! Orange!",
+   "t": 126.249,
+   "dur": 0.83
+  },
+  {
+   "who": "gul",
+   "text": "Pop the pink bubble!",
+   "t": 127.628,
+   "dur": 1.109
+  },
+  {
+   "who": "mishu",
+   "text": "Pop! Pink!",
+   "t": 130.588,
+   "dur": 0.816
+  },
+  {
+   "who": "mishu",
+   "text": "Which bubble is bigger?",
+   "t": 131.954,
+   "dur": 1.248
+  },
+  {
+   "who": "gul",
+   "text": "This one!",
+   "t": 135.052,
+   "dur": 0.676
+  },
+  {
+   "who": "gul",
+   "text": "Which bubble is smaller?",
+   "t": 136.277,
+   "dur": 1.269
+  },
+  {
+   "who": "mishu",
+   "text": "This one!",
+   "t": 139.396,
+   "dur": 0.671
+  },
+  {
+   "who": "mishu",
+   "text": "Which bubble is the biggest?",
+   "t": 140.617,
+   "dur": 1.396
+  },
+  {
+   "who": "gul",
+   "text": "The giant one! Wow!",
+   "t": 143.863,
+   "dur": 1.076
+  },
+  {
+   "who": "gul",
+   "text": "Let's count the rubber ducks!",
+   "t": 145.488,
+   "dur": 1.426
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 147.165,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 148.001,
+   "dur": 0.465
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 148.817,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 149.705,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 150.585,
+   "dur": 0.574
+  },
+  {
+   "who": "mishu",
+   "text": "Five little ducks, squeak, squeak!",
+   "t": 151.509,
+   "dur": 1.617
+  },
+  {
+   "who": "both",
+   "text": "Rub-a-dub-dub, three ducks in a tub!",
+   "t": 153.776,
+   "dur": 1.994
+  },
+  {
+   "who": "both",
+   "text": "Rub-a-dub-dub, splash, splash, splash!",
+   "t": 156.22,
+   "dur": 2.26
+  },
+  {
+   "who": "both",
+   "text": "Rub-a-dub-dub, three ducks in a tub!",
+   "t": 158.931,
+   "dur": 1.994
+  },
+  {
+   "who": "gul",
+   "text": "Something is hiding in the bubbles! Pop them!",
+   "t": 162.075,
+   "dur": 2.234
+  },
+  {
+   "who": "mishu",
+   "text": "Pop! What's inside?",
+   "t": 164.758,
+   "dur": 1.122
+  },
+  {
+   "who": "gul",
+   "text": "A fish!",
+   "t": 167.83,
+   "dur": 0.647
+  },
+  {
+   "who": "gul",
+   "text": "Pop! What's inside?",
+   "t": 169.027,
+   "dur": 1.024
+  },
+  {
+   "who": "mishu",
+   "text": "A boat!",
+   "t": 172.001,
+   "dur": 0.606
+  },
+  {
+   "who": "mishu",
+   "text": "Pop! What's inside?",
+   "t": 173.158,
+   "dur": 1.122
+  },
+  {
+   "who": "gul",
+   "text": "An apple!",
+   "t": 176.229,
+   "dur": 0.698
+  },
+  {
+   "who": "gul",
+   "text": "Pop! What's inside?",
+   "t": 177.477,
+   "dur": 1.024
+  },
+  {
+   "who": "mishu",
+   "text": "A whale!",
+   "t": 180.451,
+   "dur": 0.608
+  },
+  {
+   "who": "mishu",
+   "text": "Pop! What's inside?",
+   "t": 181.609,
+   "dur": 1.122
+  },
+  {
+   "who": "gul",
+   "text": "A ball!",
+   "t": 184.681,
+   "dur": 0.576
+  },
+  {
+   "who": "gul",
+   "text": "Pop! What's inside?",
+   "t": 185.807,
+   "dur": 1.024
+  },
+  {
+   "who": "mishu",
+   "text": "A duckling!",
+   "t": 188.781,
+   "dur": 0.719
+  },
+  {
+   "who": "mishu",
+   "text": "Pop! What's inside?",
+   "t": 190.05,
+   "dur": 1.122
+  },
+  {
+   "who": "gul",
+   "text": "A starfish!",
+   "t": 193.122,
+   "dur": 0.841
+  },
+  {
+   "who": "gul",
+   "text": "Pop! What's inside?",
+   "t": 194.513,
+   "dur": 1.024
+  },
+  {
+   "who": "mishu",
+   "text": "A frog! Ribbit!",
+   "t": 197.487,
+   "dur": 1.15
+  },
+  {
+   "who": "mishu",
+   "text": "Science time! Will it sink to the bottom, or float on top?",
+   "t": 199.687,
+   "dur": 3.268
+  },
+  {
+   "who": "gul",
+   "text": "Things that float stay on top of the water.",
+   "t": 203.405,
+   "dur": 2.058
+  },
+  {
+   "who": "mishu",
+   "text": "Things that sink go down, down, down!",
+   "t": 205.813,
+   "dur": 1.747
+  },
+  {
+   "who": "gul",
+   "text": "Will the duck sink or float?",
+   "t": 208.11,
+   "dur": 1.397
+  },
+  {
+   "who": "mishu",
+   "text": "The rubber duck floats! It's light, and full of air.",
+   "t": 212.857,
+   "dur": 2.706
+  },
+  {
+   "who": "mishu",
+   "text": "Will the rock sink or float?",
+   "t": 216.112,
+   "dur": 1.408
+  },
+  {
+   "who": "gul",
+   "text": "The rock sinks! It's heavy.",
+   "t": 220.87,
+   "dur": 1.264
+  },
+  {
+   "who": "gul",
+   "text": "Will the apple sink or float?",
+   "t": 222.684,
+   "dur": 1.568
+  },
+  {
+   "who": "mishu",
+   "text": "Surprise! The apple floats! It has air inside.",
+   "t": 227.602,
+   "dur": 2.726
+  },
+  {
+   "who": "mishu",
+   "text": "Will the key sink or float?",
+   "t": 230.878,
+   "dur": 1.392
+  },
+  {
+   "who": "gul",
+   "text": "The key sinks! Metal is heavy.",
+   "t": 235.619,
+   "dur": 1.68
+  },
+  {
+   "who": "gul",
+   "text": "Will the sponge sink or float?",
+   "t": 237.849,
+   "dur": 1.521
+  },
+  {
+   "who": "mishu",
+   "text": "The sponge floats! It has lots of tiny air holes.",
+   "t": 242.72,
+   "dur": 2.889
+  },
+  {
+   "who": "mishu",
+   "text": "Will the coin sink or float?",
+   "t": 246.159,
+   "dur": 1.462
+  },
+  {
+   "who": "gul",
+   "text": "The coin sinks, all the way down!",
+   "t": 250.971,
+   "dur": 1.644
+  },
+  {
+   "who": "gul",
+   "text": "Will the ball sink or float?",
+   "t": 253.164,
+   "dur": 1.469
+  },
+  {
+   "who": "mishu",
+   "text": "The ball floats! It's full of air.",
+   "t": 257.983,
+   "dur": 1.704
+  },
+  {
+   "who": "mishu",
+   "text": "Will the spoon sink or float?",
+   "t": 260.237,
+   "dur": 1.506
+  },
+  {
+   "who": "gul",
+   "text": "The spoon sinks!",
+   "t": 265.093,
+   "dur": 1.015
+  },
+  {
+   "who": "gul",
+   "text": "Will the leaf sink or float?",
+   "t": 266.658,
+   "dur": 1.395
+  },
+  {
+   "who": "mishu",
+   "text": "The leaf floats, like a little boat!",
+   "t": 271.403,
+   "dur": 1.595
+  },
+  {
+   "who": "mishu",
+   "text": "Will the egg sink or float?",
+   "t": 273.548,
+   "dur": 1.387
+  },
+  {
+   "who": "gul",
+   "text": "The egg sinks!",
+   "t": 278.285,
+   "dur": 0.866
+  },
+  {
+   "who": "gul",
+   "text": "Will the orange sink or float?",
+   "t": 279.7,
+   "dur": 1.562
+  },
+  {
+   "who": "mishu",
+   "text": "Wow! The orange floats! Its peel is full of air.",
+   "t": 284.612,
+   "dur": 2.6
+  },
+  {
+   "who": "mishu",
+   "text": "Will the grapes sink or float?",
+   "t": 287.762,
+   "dur": 1.473
+  },
+  {
+   "who": "gul",
+   "text": "The grapes sink!",
+   "t": 292.585,
+   "dur": 0.876
+  },
+  {
+   "who": "gul",
+   "text": "Will the banana sink or float?",
+   "t": 294.011,
+   "dur": 1.567
+  },
+  {
+   "who": "mishu",
+   "text": "The banana floats!",
+   "t": 298.927,
+   "dur": 1.057
+  },
+  {
+   "who": "mishu",
+   "text": "Will the carrot sink or float?",
+   "t": 300.535,
+   "dur": 1.513
+  },
+  {
+   "who": "gul",
+   "text": "The carrot sinks!",
+   "t": 305.398,
+   "dur": 0.967
+  },
+  {
+   "who": "gul",
+   "text": "Light things with air inside float.",
+   "t": 306.915,
+   "dur": 1.803
+  },
+  {
+   "who": "mishu",
+   "text": "Heavy things sink! You're a scientist!",
+   "t": 309.068,
+   "dur": 1.933
+  },
+  {
+   "who": "mishu",
+   "text": "Look! Friends who love water are visiting our bath!",
+   "t": 312.151,
+   "dur": 2.616
+  },
+  {
+   "who": "gul",
+   "text": "A duckling can swim! Quack quack!",
+   "t": 315.517,
+   "dur": 1.776
+  },
+  {
+   "who": "mishu",
+   "text": "A fish swims all day! Blub blub!",
+   "t": 318.143,
+   "dur": 2.112
+  },
+  {
+   "who": "gul",
+   "text": "A frog can swim, and jump! Ribbit!",
+   "t": 321.105,
+   "dur": 2.032
+  },
+  {
+   "who": "mishu",
+   "text": "A sea turtle swims in the sea!",
+   "t": 323.987,
+   "dur": 1.57
+  },
+  {
+   "who": "gul",
+   "text": "A penguin swims super fast!",
+   "t": 326.407,
+   "dur": 1.791
+  },
+  {
+   "who": "mishu",
+   "text": "A dolphin jumps and splashes!",
+   "t": 329.048,
+   "dur": 1.743
+  },
+  {
+   "who": "gul",
+   "text": "An octopus swims with eight arms!",
+   "t": 331.64,
+   "dur": 1.889
+  },
+  {
+   "who": "mishu",
+   "text": "A crab walks sideways in the water!",
+   "t": 334.379,
+   "dur": 1.867
+  },
+  {
+   "who": "gul",
+   "text": "And a big whale! Splash!",
+   "t": 337.096,
+   "dur": 1.405
+  },
+  {
+   "who": "gul",
+   "text": "Listen! Which bath toy makes this sound?",
+   "t": 339.551,
+   "dur": 2.065
+  },
+  {
+   "who": "mishu",
+   "text": "Which toy is it?",
+   "t": 343.766,
+   "dur": 0.956
+  },
+  {
+   "who": "gul",
+   "text": "Squeak squeak! The rubber duck!",
+   "t": 346.772,
+   "dur": 1.54
+  },
+  {
+   "who": "gul",
+   "text": "Which toy is it?",
+   "t": 350.562,
+   "dur": 1.007
+  },
+  {
+   "who": "mishu",
+   "text": "Toot toot! The boat!",
+   "t": 353.619,
+   "dur": 1.176
+  },
+  {
+   "who": "mishu",
+   "text": "Which toy is it?",
+   "t": 357.045,
+   "dur": 0.956
+  },
+  {
+   "who": "gul",
+   "text": "Psssh! The whale sprays water!",
+   "t": 360.05,
+   "dur": 2.289
+  },
+  {
+   "who": "gul",
+   "text": "Which toy is it?",
+   "t": 364.59,
+   "dur": 1.007
+  },
+  {
+   "who": "mishu",
+   "text": "Blub blub! The fish!",
+   "t": 367.647,
+   "dur": 1.265
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids! Let's find opposites in the bath!",
+   "t": 369.962,
+   "dur": 2.33
+  },
+  {
+   "who": "gul",
+   "text": "Hot!",
+   "t": 372.741,
+   "dur": 0.481
+  },
+  {
+   "who": "mishu",
+   "text": "Cold!",
+   "t": 373.672,
+   "dur": 0.552
+  },
+  {
+   "who": "both",
+   "text": "Hot and cold! Bath water should be warm, in the middle!",
+   "t": 374.574,
+   "dur": 3.047
+  },
+  {
+   "who": "mishu",
+   "text": "Wet!",
+   "t": 378.171,
+   "dur": 0.492
+  },
+  {
+   "who": "gul",
+   "text": "Dry!",
+   "t": 379.113,
+   "dur": 0.54
+  },
+  {
+   "who": "both",
+   "text": "Wet and dry!",
+   "t": 380.003,
+   "dur": 0.93
+  },
+  {
+   "who": "gul",
+   "text": "Dirty!",
+   "t": 381.483,
+   "dur": 0.554
+  },
+  {
+   "who": "mishu",
+   "text": "Clean!",
+   "t": 382.487,
+   "dur": 0.577
+  },
+  {
+   "who": "both",
+   "text": "Dirty and clean!",
+   "t": 383.414,
+   "dur": 1.047
+  },
+  {
+   "who": "mishu",
+   "text": "Big!",
+   "t": 385.01,
+   "dur": 0.484
+  },
+  {
+   "who": "gul",
+   "text": "Small!",
+   "t": 385.945,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Big and small bubbles!",
+   "t": 386.83,
+   "dur": 1.335
+  },
+  {
+   "who": "mishu",
+   "text": "Bath time is over. Pull the plug!",
+   "t": 388.715,
+   "dur": 1.923
+  },
+  {
+   "who": "both",
+   "text": "Glug, glug, glug! Bye bye, bubbles!",
+   "t": 390.987,
+   "dur": 2.221
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids! What do we do after the bath?",
+   "t": 394.458,
+   "dur": 1.991
+  },
+  {
+   "who": "gul",
+   "text": "Towel, pyjamas, or brushing teeth? What comes first?",
+   "t": 396.9,
+   "dur": 2.767
+  },
+  {
+   "who": "mishu",
+   "text": "First, dry off with a towel!",
+   "t": 402.316,
+   "dur": 1.64
+  },
+  {
+   "who": "gul",
+   "text": "Next, put on cozy pyjamas!",
+   "t": 404.306,
+   "dur": 1.714
+  },
+  {
+   "who": "mishu",
+   "text": "Last, brush your teeth!",
+   "t": 406.37,
+   "dur": 1.164
+  },
+  {
+   "who": "both",
+   "text": "First, next, last! Great job!",
+   "t": 407.985,
+   "dur": 2.095
+  },
+  {
+   "who": "gul",
+   "text": "Stand up! Let's do the bath dance! Copy us!",
+   "t": 411.229,
+   "dur": 2.157
+  },
+  {
+   "who": "both",
+   "text": "Scrub your arms! Scrub, scrub, scrub!",
+   "t": 413.836,
+   "dur": 2.267
+  },
+  {
+   "who": "both",
+   "text": "Splash, splash, splash!",
+   "t": 417.853,
+   "dur": 1.456
+  },
+  {
+   "who": "both",
+   "text": "Shake like a wet puppy!",
+   "t": 421.059,
+   "dur": 1.245
+  },
+  {
+   "who": "both",
+   "text": "Pop the bubbles! Pop, pop, pop!",
+   "t": 424.054,
+   "dur": 2.001
+  },
+  {
+   "who": "both",
+   "text": "Wiggle your toes!",
+   "t": 427.806,
+   "dur": 1.104
+  },
+  {
+   "who": "both",
+   "text": "Dry off with your towel!",
+   "t": 430.66,
+   "dur": 1.271
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 433.681,
+   "dur": 1.028
+  },
+  {
+   "who": "both",
+   "text": "Scrub your arms! Scrub, scrub, scrub!",
+   "t": 435.059,
+   "dur": 2.267
+  },
+  {
+   "who": "both",
+   "text": "Splash, splash, splash!",
+   "t": 438.376,
+   "dur": 1.456
+  },
+  {
+   "who": "both",
+   "text": "Shake like a wet puppy!",
+   "t": 440.882,
+   "dur": 1.245
+  },
+  {
+   "who": "both",
+   "text": "Pop the bubbles! Pop, pop, pop!",
+   "t": 443.178,
+   "dur": 2.001
+  },
+  {
+   "who": "both",
+   "text": "Wiggle your toes!",
+   "t": 446.229,
+   "dur": 1.104
+  },
+  {
+   "who": "both",
+   "text": "Dry off with your towel!",
+   "t": 448.383,
+   "dur": 1.271
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids quiz! Are you ready?",
+   "t": 451.205,
+   "dur": 1.764
+  },
+  {
+   "who": "gul",
+   "text": "Does a rock sink or float?",
+   "t": 453.418,
+   "dur": 1.415
+  },
+  {
+   "who": "mishu",
+   "text": "It sinks!",
+   "t": 457.483,
+   "dur": 0.725
+  },
+  {
+   "who": "mishu",
+   "text": "Who should be with you at bath time?",
+   "t": 458.858,
+   "dur": 1.557
+  },
+  {
+   "who": "gul",
+   "text": "A grown-up!",
+   "t": 463.065,
+   "dur": 0.725
+  },
+  {
+   "who": "gul",
+   "text": "What do we use to wash our hair?",
+   "t": 464.44,
+   "dur": 1.521
+  },
+  {
+   "who": "mishu",
+   "text": "Shampoo!",
+   "t": 468.611,
+   "dur": 0.673
+  },
+  {
+   "who": "mishu",
+   "text": "Does a rubber duck sink or float?",
+   "t": 469.934,
+   "dur": 1.756
+  },
+  {
+   "who": "gul",
+   "text": "It floats!",
+   "t": 474.34,
+   "dur": 0.73
+  },
+  {
+   "who": "gul",
+   "text": "What do we use to dry off?",
+   "t": 475.72,
+   "dur": 1.305
+  },
+  {
+   "who": "mishu",
+   "text": "A towel!",
+   "t": 479.675,
+   "dur": 0.643
+  },
+  {
+   "who": "mishu",
+   "text": "Why does an apple float?",
+   "t": 480.968,
+   "dur": 1.317
+  },
+  {
+   "who": "gul",
+   "text": "It has air inside!",
+   "t": 484.935,
+   "dur": 1.141
+  },
+  {
+   "who": "gul",
+   "text": "Does a banana sink or float?",
+   "t": 486.726,
+   "dur": 1.539
+  },
+  {
+   "who": "mishu",
+   "text": "It floats!",
+   "t": 490.915,
+   "dur": 0.752
+  },
+  {
+   "who": "mishu",
+   "text": "Why do we take a bath?",
+   "t": 492.316,
+   "dur": 1.164
+  },
+  {
+   "who": "gul",
+   "text": "To wash away dirt and germs!",
+   "t": 496.131,
+   "dur": 1.685
+  },
+  {
+   "who": "gul",
+   "text": "Should bath water be hot or warm?",
+   "t": 498.466,
+   "dur": 1.81
+  },
+  {
+   "who": "mishu",
+   "text": "Just warm!",
+   "t": 502.926,
+   "dur": 0.753
+  },
+  {
+   "who": "mishu",
+   "text": "Does an orange sink or float?",
+   "t": 504.329,
+   "dur": 1.576
+  },
+  {
+   "who": "gul",
+   "text": "It floats!",
+   "t": 508.555,
+   "dur": 0.73
+  },
+  {
+   "who": "gul",
+   "text": "Who can swim, a fish or a rock?",
+   "t": 509.935,
+   "dur": 1.698
+  },
+  {
+   "who": "mishu",
+   "text": "A fish!",
+   "t": 514.282,
+   "dur": 0.635
+  },
+  {
+   "who": "mishu",
+   "text": "What makes lots of bubbles?",
+   "t": 515.567,
+   "dur": 1.371
+  },
+  {
+   "who": "gul",
+   "text": "Soap!",
+   "t": 519.588,
+   "dur": 0.499
+  },
+  {
+   "who": "mishu",
+   "text": "Bath time is so much fun! Now we're squeaky clean!",
+   "t": 520.737,
+   "dur": 2.834
+  },
+  {
+   "who": "gul",
+   "text": "Next bath time, try sink or float with a grown-up!",
+   "t": 523.921,
+   "dur": 2.6
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends! Squeak squeak!",
+   "t": 526.87,
+   "dur": 1.842
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "bath",
+   "t0": 0.0,
+   "burst_t": 0.0,
+   "duck_t": 1.0,
+   "title_t": 1.6,
+   "kids_t": 2.735,
+   "t1": 8.168
+  },
+  {
+   "kind": "muddy",
+   "bg": "bath",
+   "t0": 8.168,
+   "mud_t": 8.168,
+   "germ_t": 12.894,
+   "t1": 18.201
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 18.201,
+   "title": "WHAT DO WE NEED?",
+   "t1": 21.48
+  },
+  {
+   "kind": "need",
+   "bg": "bath",
+   "t0": 21.48,
+   "key": "towel",
+   "done": [],
+   "num": 1,
+   "say_t": 21.68,
+   "t1": 23.675
+  },
+  {
+   "kind": "need",
+   "bg": "bath",
+   "t0": 23.675,
+   "key": "soap",
+   "done": [
+    "towel"
+   ],
+   "num": 2,
+   "say_t": 23.875,
+   "t1": 25.752
+  },
+  {
+   "kind": "need",
+   "bg": "bath",
+   "t0": 25.752,
+   "key": "shampoo",
+   "done": [
+    "towel",
+    "soap"
+   ],
+   "num": 3,
+   "say_t": 25.952,
+   "t1": 28.069
+  },
+  {
+   "kind": "need",
+   "bg": "bath",
+   "t0": 28.069,
+   "key": "sponge",
+   "done": [
+    "towel",
+    "soap",
+    "shampoo"
+   ],
+   "num": 4,
+   "say_t": 28.269,
+   "t1": 29.893
+  },
+  {
+   "kind": "need",
+   "bg": "bath",
+   "t0": 29.893,
+   "key": "duck",
+   "done": [
+    "towel",
+    "soap",
+    "shampoo",
+    "sponge"
+   ],
+   "num": 5,
+   "say_t": 30.093,
+   "t1": 32.437
+  },
+  {
+   "kind": "need",
+   "bg": "bath",
+   "t0": 32.437,
+   "key": "pyjamas",
+   "done": [
+    "towel",
+    "soap",
+    "shampoo",
+    "sponge",
+    "duck"
+   ],
+   "num": 6,
+   "say_t": 32.637,
+   "t1": 35.02
+  },
+  {
+   "kind": "fill",
+   "bg": "bath",
+   "t0": 35.02,
+   "tap_t": 35.02,
+   "check_t": 37.221,
+   "rule_t": 41.87,
+   "jump_t": 44.192,
+   "t1": 46.16
+  },
+  {
+   "kind": "thisway",
+   "bg": "bath",
+   "t0": 46.16,
+   "l": [
+    46.16,
+    48.28,
+    50.561,
+    52.681
+   ],
+   "t1": 54.578
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 54.578,
+   "title": "WASH, WASH, WASH!",
+   "t1": 57.958
+  },
+  {
+   "kind": "wash",
+   "bg": "bath",
+   "t0": 57.958,
+   "key": "hand",
+   "part": "hands",
+   "say_t": 57.958,
+   "t1": 61.696
+  },
+  {
+   "kind": "wash",
+   "bg": "bath",
+   "t0": 61.696,
+   "key": "arm",
+   "part": "arms",
+   "say_t": 61.696,
+   "t1": 65.268
+  },
+  {
+   "kind": "wash",
+   "bg": "bath",
+   "t0": 65.268,
+   "key": "leg",
+   "part": "legs",
+   "say_t": 65.268,
+   "t1": 68.945
+  },
+  {
+   "kind": "wash",
+   "bg": "bath",
+   "t0": 68.945,
+   "key": "foot",
+   "part": "feet",
+   "say_t": 68.945,
+   "t1": 72.425
+  },
+  {
+   "kind": "wash",
+   "bg": "bath",
+   "t0": 72.425,
+   "key": "ear",
+   "part": "ears",
+   "say_t": 72.425,
+   "t1": 76.104
+  },
+  {
+   "kind": "wash",
+   "bg": "bath",
+   "t0": 76.104,
+   "key": "face",
+   "part": "face",
+   "say_t": 76.104,
+   "t1": 79.667
+  },
+  {
+   "kind": "wash",
+   "bg": "bath",
+   "t0": 79.667,
+   "key": "hair",
+   "part": "hair",
+   "say_t": 79.667,
+   "t1": 84.08
+  },
+  {
+   "kind": "rinse",
+   "bg": "bath",
+   "t0": 84.08,
+   "pour_t": 84.08,
+   "t1": 87.978
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 87.978,
+   "title": "POP THE BUBBLES!",
+   "t1": 90.974
+  },
+  {
+   "kind": "bubbles",
+   "bg": "bath",
+   "t0": 90.974,
+   "pops": [
+    90.974,
+    91.711,
+    92.426,
+    93.214,
+    93.994,
+    94.819,
+    95.65,
+    96.508,
+    97.265,
+    98.06
+   ],
+   "t1": 101.342
+  },
+  {
+   "kind": "popcol",
+   "bg": "bath",
+   "t0": 101.342,
+   "col": "red",
+   "pop_t": 104.277,
+   "t1": 105.684
+  },
+  {
+   "kind": "popcol",
+   "bg": "bath",
+   "t0": 105.684,
+   "col": "blue",
+   "pop_t": 108.607,
+   "t1": 109.899
+  },
+  {
+   "kind": "popcol",
+   "bg": "bath",
+   "t0": 109.899,
+   "col": "yellow",
+   "pop_t": 112.908,
+   "t1": 114.401
+  },
+  {
+   "kind": "popcol",
+   "bg": "bath",
+   "t0": 114.401,
+   "col": "green",
+   "pop_t": 117.354,
+   "t1": 118.715
+  },
+  {
+   "kind": "popcol",
+   "bg": "bath",
+   "t0": 118.715,
+   "col": "purple",
+   "pop_t": 121.724,
+   "t1": 123.185
+  },
+  {
+   "kind": "popcol",
+   "bg": "bath",
+   "t0": 123.185,
+   "col": "orange",
+   "pop_t": 126.249,
+   "t1": 127.628
+  },
+  {
+   "kind": "popcol",
+   "bg": "bath",
+   "t0": 127.628,
+   "col": "pink",
+   "pop_t": 130.588,
+   "t1": 131.954
+  },
+  {
+   "kind": "bubsize",
+   "bg": "bath",
+   "t0": 131.954,
+   "ans": "big",
+   "n": 2,
+   "answer_t": 135.052,
+   "t1": 136.277
+  },
+  {
+   "kind": "bubsize",
+   "bg": "bath",
+   "t0": 136.277,
+   "ans": "small",
+   "n": 2,
+   "answer_t": 139.396,
+   "t1": 140.617
+  },
+  {
+   "kind": "bubsize",
+   "bg": "bath",
+   "t0": 140.617,
+   "ans": "big",
+   "n": 3,
+   "answer_t": 143.863,
+   "t1": 145.488
+  },
+  {
+   "kind": "ducks",
+   "bg": "bath",
+   "t0": 145.488,
+   "dts": [
+    147.165,
+    148.001,
+    148.817,
+    149.705,
+    150.585
+   ],
+   "t1": 153.776
+  },
+  {
+   "kind": "rubadub",
+   "bg": "bath",
+   "t0": 153.776,
+   "l1": 153.776,
+   "l2": 156.22,
+   "l3": 158.931,
+   "t1": 161.575
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 161.575,
+   "title": "BUBBLE SURPRISE!",
+   "t1": 164.758
+  },
+  {
+   "kind": "surprise",
+   "bg": "bath",
+   "t0": 164.758,
+   "key": "fish",
+   "pop_t": 167.53,
+   "t1": 169.027
+  },
+  {
+   "kind": "surprise",
+   "bg": "bath",
+   "t0": 169.027,
+   "key": "boat",
+   "pop_t": 171.701,
+   "t1": 173.158
+  },
+  {
+   "kind": "surprise",
+   "bg": "bath",
+   "t0": 173.158,
+   "key": "apple",
+   "pop_t": 175.929,
+   "t1": 177.477
+  },
+  {
+   "kind": "surprise",
+   "bg": "bath",
+   "t0": 177.477,
+   "key": "whale",
+   "pop_t": 180.151,
+   "t1": 181.609
+  },
+  {
+   "kind": "surprise",
+   "bg": "bath",
+   "t0": 181.609,
+   "key": "ball",
+   "pop_t": 184.381,
+   "t1": 185.807
+  },
+  {
+   "kind": "surprise",
+   "bg": "bath",
+   "t0": 185.807,
+   "key": "duckling",
+   "pop_t": 188.481,
+   "t1": 190.05
+  },
+  {
+   "kind": "surprise",
+   "bg": "bath",
+   "t0": 190.05,
+   "key": "starfish",
+   "pop_t": 192.822,
+   "t1": 194.513
+  },
+  {
+   "kind": "surprise",
+   "bg": "bath",
+   "t0": 194.513,
+   "key": "frog",
+   "pop_t": 197.187,
+   "t1": 199.187
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 199.187,
+   "title": "SINK OR FLOAT?",
+   "t1": 203.405
+  },
+  {
+   "kind": "sinkintro",
+   "bg": "bath",
+   "t0": 203.405,
+   "t1": 208.11
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 208.11,
+   "key": "duck",
+   "res": "float",
+   "done": [],
+   "drop_t": 211.757,
+   "answer_t": 212.857,
+   "t1": 216.112
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 216.112,
+   "key": "rock",
+   "res": "sink",
+   "done": [
+    [
+     "duck",
+     "float"
+    ]
+   ],
+   "drop_t": 219.77,
+   "answer_t": 220.87,
+   "t1": 222.684
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 222.684,
+   "key": "apple",
+   "res": "float",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ]
+   ],
+   "drop_t": 226.502,
+   "answer_t": 227.602,
+   "t1": 230.878
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 230.878,
+   "key": "key",
+   "res": "sink",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ]
+   ],
+   "drop_t": 234.519,
+   "answer_t": 235.619,
+   "t1": 237.849
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 237.849,
+   "key": "sponge",
+   "res": "float",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ]
+   ],
+   "drop_t": 241.62,
+   "answer_t": 242.72,
+   "t1": 246.159
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 246.159,
+   "key": "coin",
+   "res": "sink",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ]
+   ],
+   "drop_t": 249.871,
+   "answer_t": 250.971,
+   "t1": 253.164
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 253.164,
+   "key": "ball",
+   "res": "float",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ],
+    [
+     "coin",
+     "sink"
+    ]
+   ],
+   "drop_t": 256.883,
+   "answer_t": 257.983,
+   "t1": 260.237
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 260.237,
+   "key": "spoon",
+   "res": "sink",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ],
+    [
+     "coin",
+     "sink"
+    ],
+    [
+     "ball",
+     "float"
+    ]
+   ],
+   "drop_t": 263.993,
+   "answer_t": 265.093,
+   "t1": 266.658
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 266.658,
+   "key": "leaf",
+   "res": "float",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ],
+    [
+     "coin",
+     "sink"
+    ],
+    [
+     "ball",
+     "float"
+    ],
+    [
+     "spoon",
+     "sink"
+    ]
+   ],
+   "drop_t": 270.303,
+   "answer_t": 271.403,
+   "t1": 273.548
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 273.548,
+   "key": "egg",
+   "res": "sink",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ],
+    [
+     "coin",
+     "sink"
+    ],
+    [
+     "ball",
+     "float"
+    ],
+    [
+     "spoon",
+     "sink"
+    ],
+    [
+     "leaf",
+     "float"
+    ]
+   ],
+   "drop_t": 277.185,
+   "answer_t": 278.285,
+   "t1": 279.7
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 279.7,
+   "key": "orange",
+   "res": "float",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ],
+    [
+     "coin",
+     "sink"
+    ],
+    [
+     "ball",
+     "float"
+    ],
+    [
+     "spoon",
+     "sink"
+    ],
+    [
+     "leaf",
+     "float"
+    ],
+    [
+     "egg",
+     "sink"
+    ]
+   ],
+   "drop_t": 283.512,
+   "answer_t": 284.612,
+   "t1": 287.762
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 287.762,
+   "key": "grapes",
+   "res": "sink",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ],
+    [
+     "coin",
+     "sink"
+    ],
+    [
+     "ball",
+     "float"
+    ],
+    [
+     "spoon",
+     "sink"
+    ],
+    [
+     "leaf",
+     "float"
+    ],
+    [
+     "egg",
+     "sink"
+    ],
+    [
+     "orange",
+     "float"
+    ]
+   ],
+   "drop_t": 291.485,
+   "answer_t": 292.585,
+   "t1": 294.011
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 294.011,
+   "key": "banana",
+   "res": "float",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ],
+    [
+     "coin",
+     "sink"
+    ],
+    [
+     "ball",
+     "float"
+    ],
+    [
+     "spoon",
+     "sink"
+    ],
+    [
+     "leaf",
+     "float"
+    ],
+    [
+     "egg",
+     "sink"
+    ],
+    [
+     "orange",
+     "float"
+    ],
+    [
+     "grapes",
+     "sink"
+    ]
+   ],
+   "drop_t": 297.827,
+   "answer_t": 298.927,
+   "t1": 300.535
+  },
+  {
+   "kind": "sink",
+   "bg": "bath",
+   "t0": 300.535,
+   "key": "carrot",
+   "res": "sink",
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ],
+    [
+     "coin",
+     "sink"
+    ],
+    [
+     "ball",
+     "float"
+    ],
+    [
+     "spoon",
+     "sink"
+    ],
+    [
+     "leaf",
+     "float"
+    ],
+    [
+     "egg",
+     "sink"
+    ],
+    [
+     "orange",
+     "float"
+    ],
+    [
+     "grapes",
+     "sink"
+    ],
+    [
+     "banana",
+     "float"
+    ]
+   ],
+   "drop_t": 304.298,
+   "answer_t": 305.398,
+   "t1": 306.915
+  },
+  {
+   "kind": "sinksum",
+   "bg": "bath",
+   "t0": 306.915,
+   "done": [
+    [
+     "duck",
+     "float"
+    ],
+    [
+     "rock",
+     "sink"
+    ],
+    [
+     "apple",
+     "float"
+    ],
+    [
+     "key",
+     "sink"
+    ],
+    [
+     "sponge",
+     "float"
+    ],
+    [
+     "coin",
+     "sink"
+    ],
+    [
+     "ball",
+     "float"
+    ],
+    [
+     "spoon",
+     "sink"
+    ],
+    [
+     "leaf",
+     "float"
+    ],
+    [
+     "egg",
+     "sink"
+    ],
+    [
+     "orange",
+     "float"
+    ],
+    [
+     "grapes",
+     "sink"
+    ],
+    [
+     "banana",
+     "float"
+    ],
+    [
+     "carrot",
+     "sink"
+    ]
+   ],
+   "t1": 311.651
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 311.651,
+   "title": "WHO CAN SWIM?",
+   "t1": 315.217
+  },
+  {
+   "kind": "swim",
+   "bg": "bath",
+   "t0": 315.217,
+   "animal": "duckling",
+   "say_t": 315.517,
+   "t1": 317.843
+  },
+  {
+   "kind": "swim",
+   "bg": "bath",
+   "t0": 317.843,
+   "animal": "fish",
+   "say_t": 318.143,
+   "t1": 320.805
+  },
+  {
+   "kind": "swim",
+   "bg": "bath",
+   "t0": 320.805,
+   "animal": "frog",
+   "say_t": 321.105,
+   "t1": 323.687
+  },
+  {
+   "kind": "swim",
+   "bg": "bath",
+   "t0": 323.687,
+   "animal": "turtle",
+   "say_t": 323.987,
+   "t1": 326.107
+  },
+  {
+   "kind": "swim",
+   "bg": "bath",
+   "t0": 326.107,
+   "animal": "penguin",
+   "say_t": 326.407,
+   "t1": 328.748
+  },
+  {
+   "kind": "swim",
+   "bg": "bath",
+   "t0": 328.748,
+   "animal": "dolphin",
+   "say_t": 329.048,
+   "t1": 331.34
+  },
+  {
+   "kind": "swim",
+   "bg": "bath",
+   "t0": 331.34,
+   "animal": "octopus",
+   "say_t": 331.64,
+   "t1": 334.079
+  },
+  {
+   "kind": "swim",
+   "bg": "bath",
+   "t0": 334.079,
+   "animal": "crab",
+   "say_t": 334.379,
+   "t1": 336.796
+  },
+  {
+   "kind": "swim",
+   "bg": "bath",
+   "t0": 336.796,
+   "animal": "whale",
+   "say_t": 337.096,
+   "t1": 339.051
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 339.051,
+   "title": "WHICH BATH TOY?",
+   "t1": 342.066
+  },
+  {
+   "kind": "toy",
+   "bg": "bath",
+   "t0": 342.066,
+   "toy": "duck",
+   "snd_t": 342.366,
+   "answer_t": 346.772,
+   "t1": 348.862
+  },
+  {
+   "kind": "toy",
+   "bg": "bath",
+   "t0": 348.862,
+   "toy": "boat",
+   "snd_t": 349.162,
+   "answer_t": 353.619,
+   "t1": 355.345
+  },
+  {
+   "kind": "toy",
+   "bg": "bath",
+   "t0": 355.345,
+   "toy": "whale",
+   "snd_t": 355.645,
+   "answer_t": 360.05,
+   "t1": 362.89
+  },
+  {
+   "kind": "toy",
+   "bg": "bath",
+   "t0": 362.89,
+   "toy": "fish",
+   "snd_t": 363.19,
+   "answer_t": 367.647,
+   "t1": 369.462
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 369.462,
+   "title": "BATH OPPOSITES!",
+   "t1": 372.741
+  },
+  {
+   "kind": "opp",
+   "bg": "bath",
+   "t0": 372.741,
+   "w1": "hot",
+   "w2": "cold",
+   "i1": "sunny",
+   "i2": "snowy",
+   "a_t": 372.741,
+   "b_t": 373.672,
+   "t1": 378.171
+  },
+  {
+   "kind": "opp",
+   "bg": "bath",
+   "t0": 378.171,
+   "w1": "wet",
+   "w2": "dry",
+   "i1": "drop",
+   "i2": "towel",
+   "a_t": 378.171,
+   "b_t": 379.113,
+   "t1": 381.483
+  },
+  {
+   "kind": "opp",
+   "bg": "bath",
+   "t0": 381.483,
+   "w1": "dirty",
+   "w2": "clean",
+   "i1": "dirt",
+   "i2": "soap",
+   "a_t": 381.483,
+   "b_t": 382.487,
+   "t1": 385.01
+  },
+  {
+   "kind": "opp",
+   "bg": "bath",
+   "t0": 385.01,
+   "w1": "big",
+   "w2": "small",
+   "i1": "bigbubble",
+   "i2": "smallbubble",
+   "a_t": 385.01,
+   "b_t": 385.945,
+   "t1": 388.715
+  },
+  {
+   "kind": "drain",
+   "bg": "bath",
+   "t0": 388.715,
+   "drain_t": 388.715,
+   "t1": 393.958
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 393.958,
+   "title": "WHAT COMES FIRST?",
+   "t1": 396.9
+  },
+  {
+   "kind": "order",
+   "bg": "bath",
+   "t0": 396.9,
+   "o1": 402.316,
+   "o2": 404.306,
+   "o3": 406.37,
+   "t1": 410.729
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 410.729,
+   "title": "BATH DANCE!",
+   "t1": 413.836
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 413.836,
+   "move": "scrub",
+   "fast": false,
+   "word": "SCRUB YOUR ARMS!",
+   "say_t": 413.836,
+   "t1": 417.853
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 417.853,
+   "move": "splash",
+   "fast": false,
+   "word": "SPLASH, SPLASH, SPLASH!",
+   "say_t": 417.853,
+   "t1": 421.059
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 421.059,
+   "move": "shake",
+   "fast": false,
+   "word": "SHAKE LIKE A WET PUPPY!",
+   "say_t": 421.059,
+   "t1": 424.054
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 424.054,
+   "move": "pop",
+   "fast": false,
+   "word": "POP THE BUBBLES!",
+   "say_t": 424.054,
+   "t1": 427.806
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 427.806,
+   "move": "wiggle",
+   "fast": false,
+   "word": "WIGGLE YOUR TOES!",
+   "say_t": 427.806,
+   "t1": 430.66
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 430.66,
+   "move": "dry",
+   "fast": false,
+   "word": "DRY OFF WITH YOUR TOWEL!",
+   "say_t": 430.66,
+   "t1": 433.681
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 433.681,
+   "title": "FASTER!",
+   "t1": 435.059
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 435.059,
+   "move": "scrub",
+   "fast": true,
+   "word": "SCRUB YOUR ARMS!",
+   "say_t": 435.059,
+   "t1": 438.376
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 438.376,
+   "move": "splash",
+   "fast": true,
+   "word": "SPLASH, SPLASH, SPLASH!",
+   "say_t": 438.376,
+   "t1": 440.882
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 440.882,
+   "move": "shake",
+   "fast": true,
+   "word": "SHAKE LIKE A WET PUPPY!",
+   "say_t": 440.882,
+   "t1": 443.178
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 443.178,
+   "move": "pop",
+   "fast": true,
+   "word": "POP THE BUBBLES!",
+   "say_t": 443.178,
+   "t1": 446.229
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 446.229,
+   "move": "wiggle",
+   "fast": true,
+   "word": "WIGGLE YOUR TOES!",
+   "say_t": 446.229,
+   "t1": 448.383
+  },
+  {
+   "kind": "dance",
+   "bg": "bath",
+   "t0": 448.383,
+   "move": "dry",
+   "fast": true,
+   "word": "DRY OFF WITH YOUR TOWEL!",
+   "say_t": 448.383,
+   "t1": 450.705
+  },
+  {
+   "kind": "title",
+   "bg": "bath",
+   "t0": 450.705,
+   "title": "BATH QUIZ!",
+   "t1": 453.418
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 453.418,
+   "q": "DOES A ROCK SINK OR FLOAT?",
+   "vis": "rock",
+   "answer_t": 457.483,
+   "t1": 458.858
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 458.858,
+   "q": "WHO SHOULD BE WITH YOU AT BATH TIME?",
+   "vis": "grownup",
+   "answer_t": 463.065,
+   "t1": 464.44
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 464.44,
+   "q": "WHAT DO WE USE TO WASH OUR HAIR?",
+   "vis": "shampoo",
+   "answer_t": 468.611,
+   "t1": 469.934
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 469.934,
+   "q": "DOES A RUBBER DUCK SINK OR FLOAT?",
+   "vis": "duck",
+   "answer_t": 474.34,
+   "t1": 475.72
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 475.72,
+   "q": "WHAT DO WE USE TO DRY OFF?",
+   "vis": "towel",
+   "answer_t": 479.675,
+   "t1": 480.968
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 480.968,
+   "q": "WHY DOES AN APPLE FLOAT?",
+   "vis": "apple",
+   "answer_t": 484.935,
+   "t1": 486.726
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 486.726,
+   "q": "DOES A BANANA SINK OR FLOAT?",
+   "vis": "banana",
+   "answer_t": 490.915,
+   "t1": 492.316
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 492.316,
+   "q": "WHY DO WE TAKE A BATH?",
+   "vis": "soap",
+   "answer_t": 496.131,
+   "t1": 498.466
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 498.466,
+   "q": "SHOULD BATH WATER BE HOT OR WARM?",
+   "vis": "sunny",
+   "answer_t": 502.926,
+   "t1": 504.329
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 504.329,
+   "q": "DOES AN ORANGE SINK OR FLOAT?",
+   "vis": "orange",
+   "answer_t": 508.555,
+   "t1": 509.935
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 509.935,
+   "q": "WHO CAN SWIM, A FISH OR A ROCK?",
+   "vis": "fish",
+   "answer_t": 514.282,
+   "t1": 515.567
+  },
+  {
+   "kind": "quiz",
+   "bg": "bath",
+   "t0": 515.567,
+   "q": "WHAT MAKES LOTS OF BUBBLES?",
+   "vis": "soap",
+   "answer_t": 519.588,
+   "t1": 520.737
+  },
+  {
+   "kind": "outro",
+   "bg": "bath",
+   "t0": 520.737,
+   "bye_t": 526.87,
+   "t1": 530.663
+  }
+ ],
+ "prompts": [
+  [
+   102.677,
+   104.277
+  ],
+  [
+   107.007,
+   108.607
+  ],
+  [
+   111.308,
+   112.908
+  ],
+  [
+   115.754,
+   117.354
+  ],
+  [
+   120.124,
+   121.724
+  ],
+  [
+   124.649,
+   126.249
+  ],
+  [
+   128.988,
+   130.588
+  ],
+  [
+   133.452,
+   135.052
+  ],
+  [
+   137.796,
+   139.396
+  ],
+  [
+   142.263,
+   143.863
+  ],
+  [
+   166.13,
+   167.53
+  ],
+  [
+   170.301,
+   171.701
+  ],
+  [
+   174.529,
+   175.929
+  ],
+  [
+   178.751,
+   180.151
+  ],
+  [
+   182.981,
+   184.381
+  ],
+  [
+   187.081,
+   188.481
+  ],
+  [
+   191.422,
+   192.822
+  ],
+  [
+   195.787,
+   197.187
+  ],
+  [
+   209.757,
+   211.757
+  ],
+  [
+   217.77,
+   219.77
+  ],
+  [
+   224.502,
+   226.502
+  ],
+  [
+   232.519,
+   234.519
+  ],
+  [
+   239.62,
+   241.62
+  ],
+  [
+   247.871,
+   249.871
+  ],
+  [
+   254.883,
+   256.883
+  ],
+  [
+   261.993,
+   263.993
+  ],
+  [
+   268.303,
+   270.303
+  ],
+  [
+   275.185,
+   277.185
+  ],
+  [
+   281.512,
+   283.512
+  ],
+  [
+   289.485,
+   291.485
+  ],
+  [
+   295.827,
+   297.827
+  ],
+  [
+   302.298,
+   304.298
+  ],
+  [
+   344.972,
+   346.772
+  ],
+  [
+   351.819,
+   353.619
+  ],
+  [
+   358.25,
+   360.05
+  ],
+  [
+   365.847,
+   367.647
+  ],
+  [
+   399.916,
+   402.316
+  ],
+  [
+   416.253,
+   417.853
+  ],
+  [
+   419.459,
+   421.059
+  ],
+  [
+   422.454,
+   424.054
+  ],
+  [
+   426.206,
+   427.806
+  ],
+  [
+   429.06,
+   430.66
+  ],
+  [
+   432.081,
+   433.681
+  ],
+  [
+   437.476,
+   438.376
+  ],
+  [
+   439.982,
+   440.882
+  ],
+  [
+   442.278,
+   443.178
+  ],
+  [
+   445.329,
+   446.229
+  ],
+  [
+   447.483,
+   448.383
+  ],
+  [
+   449.805,
+   450.705
+  ],
+  [
+   455.083,
+   457.483
+  ],
+  [
+   460.665,
+   463.065
+  ],
+  [
+   466.211,
+   468.611
+  ],
+  [
+   471.94,
+   474.34
+  ],
+  [
+   477.275,
+   479.675
+  ],
+  [
+   482.535,
+   484.935
+  ],
+  [
+   488.515,
+   490.915
+  ],
+  [
+   493.731,
+   496.131
+  ],
+  [
+   500.526,
+   502.926
+  ],
+  [
+   506.155,
+   508.555
+  ],
+  [
+   511.882,
+   514.282
+  ],
+  [
+   517.188,
+   519.588
+  ]
+ ],
+ "stars": [
+  87.378,
+  310.851,
+  458.858,
+  464.44,
+  469.934,
+  475.72,
+  480.968,
+  486.726,
+  492.316,
+  498.466,
+  504.329,
+  509.935,
+  515.567,
+  520.737
+ ],
+ "total": 530.66
+}

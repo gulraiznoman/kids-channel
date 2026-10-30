@@ -1,0 +1,10 @@
+MISS mishu Oh no, Gul! You're all muddy! -> Or no, girl, you're all muddies.
+MISS both Wash, wash, wash your face! -> Watch, watch, watch your face.
+MISS both Six! -> Jax
+MISS both Eight! -> Wait
+MISS mishu A whale! -> Oh well.
+MISS gul A ball! -> Abel
+MISS gul Hot! -> Putt
+MISS both Glug, glug, glug! Bye bye, bubbles! -> Plug, plug, plug. Bye-bye, Bubbles.
+MISS both Pop the bubbles! Pop, pop, pop! -> Tap the bubbles. Tap, tap, tap.
+178/187 distinct lines clear
