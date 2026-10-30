@@ -1,0 +1,773 @@
+{
+ "beats": [
+  {
+   "who": "gul",
+   "text": "Hi friends! I'm Gul!",
+   "wave": "gul",
+   "scene": "intro",
+   "t": 0.6,
+   "wav": "../audio_kokoro/gul_01f26f2502.wav",
+   "dur": 1.337
+  },
+  {
+   "who": "mishu",
+   "text": "And I'm Mishu! Today, we're going to learn fruits!",
+   "wave": "mishu",
+   "t": 2.537,
+   "wav": "../audio_kokoro/mishu_6953b0f137.wav",
+   "dur": 2.719
+  },
+  {
+   "who": "gul",
+   "text": "Yummy! Let's go!",
+   "eyes_closed": "gul",
+   "t": 5.857,
+   "wav": "../audio_kokoro/gul_07073d4b92.wav",
+   "dur": 1.097
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "apple",
+   "t": 7.553,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Gul, look! What's this?",
+   "t": 8.453,
+   "wav": "../audio_kokoro/mishu_db7d91b1f2.wav",
+   "dur": 1.262
+  },
+  {
+   "who": "gul",
+   "text": "It's a red, shiny apple",
+   "label": "Apple",
+   "t": 10.315,
+   "wav": "../audio_kokoro/gul_ce098e1d0e.wav",
+   "dur": 1.347
+  },
+  {
+   "who": "mishu",
+   "text": "Apple! Can you say apple?",
+   "spell": "Apple",
+   "t": 12.262,
+   "wav": "../audio_kokoro/mishu_0b388f8337.wav",
+   "dur": 1.423
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 14.285,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 17.285,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.91
+  },
+  {
+   "who": "mishu",
+   "text": "Crunch, crunch!",
+   "t": 18.796,
+   "wav": "../audio_kokoro/mishu_bc580882be.wav",
+   "dur": 0.992
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "apple",
+   "t": 20.388,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "banana",
+   "t": 20.988,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Mishu, what's this one?",
+   "t": 21.888,
+   "wav": "../audio_kokoro/gul_a3ba30601e.wav",
+   "dur": 1.343
+  },
+  {
+   "who": "mishu",
+   "text": "It's a long, yellow banana",
+   "label": "Banana",
+   "t": 23.831,
+   "wav": "../audio_kokoro/mishu_da4ca88cc1.wav",
+   "dur": 1.594
+  },
+  {
+   "who": "gul",
+   "text": "Banana! Can you say banana?",
+   "spell": "Banana",
+   "t": 26.025,
+   "wav": "../audio_kokoro/gul_2ad2710e96.wav",
+   "dur": 1.585
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 28.209,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 31.209,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.124
+  },
+  {
+   "who": "gul",
+   "text": "Monkeys love bananas!",
+   "t": 32.934,
+   "wav": "../audio_kokoro/gul_f51bc68a82.wav",
+   "dur": 1.483
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "banana",
+   "t": 35.017,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "orange",
+   "t": 35.617,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh! What fruit is this?",
+   "t": 36.517,
+   "wav": "../audio_kokoro/mishu_406383d403.wav",
+   "dur": 1.367
+  },
+  {
+   "who": "gul",
+   "text": "It's a round orange. It's orange too!",
+   "label": "Orange",
+   "t": 38.484,
+   "wav": "../audio_kokoro/gul_66b88d86f8.wav",
+   "dur": 1.921
+  },
+  {
+   "who": "mishu",
+   "text": "Orange! Can you say orange?",
+   "spell": "Orange",
+   "t": 41.005,
+   "wav": "../audio_kokoro/mishu_01f8d6ae4d.wav",
+   "dur": 1.608
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 43.213,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 46.213,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "who": "mishu",
+   "text": "So juicy!",
+   "t": 47.495,
+   "wav": "../audio_kokoro/mishu_e0da24f2e1.wav",
+   "dur": 0.851
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "orange",
+   "t": 48.947,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "lemon",
+   "t": 49.547,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Look, Mishu! What is it?",
+   "t": 50.447,
+   "wav": "../audio_kokoro/gul_fc95a98deb.wav",
+   "dur": 1.332
+  },
+  {
+   "who": "mishu",
+   "text": "It's a yellow lemon. It's sour!",
+   "label": "Lemon",
+   "t": 52.379,
+   "wav": "../audio_kokoro/mishu_89bc420b9b.wav",
+   "dur": 1.957
+  },
+  {
+   "who": "gul",
+   "text": "Lemon! Can you say lemon?",
+   "spell": "Lemon",
+   "t": 54.936,
+   "wav": "../audio_kokoro/gul_225aa7553e.wav",
+   "dur": 1.449
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 56.985,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 59.985,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "Ooh! Sour face!",
+   "t": 61.257,
+   "wav": "../audio_kokoro/gul_cc760a160f.wav",
+   "dur": 1.049
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "lemon",
+   "t": 62.906,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "grapes",
+   "t": 63.506,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Gul, look! What's this?",
+   "t": 64.406,
+   "wav": "../audio_kokoro/mishu_db7d91b1f2.wav",
+   "dur": 1.262
+  },
+  {
+   "who": "gul",
+   "text": "It's purple grapes. So many!",
+   "label": "Grapes",
+   "t": 66.267,
+   "wav": "../audio_kokoro/gul_c9dfac82d8.wav",
+   "dur": 1.592
+  },
+  {
+   "who": "mishu",
+   "text": "Grapes! Can you say grapes?",
+   "spell": "Grapes",
+   "t": 68.459,
+   "wav": "../audio_kokoro/mishu_13a199b351.wav",
+   "dur": 1.472
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 70.532,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 73.532,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.26
+  },
+  {
+   "who": "gul",
+   "text": "Let's count them! One, two, three!",
+   "t": 75.392,
+   "wav": "../audio_kokoro/gul_99357ce7d4.wav",
+   "dur": 1.708
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "grapes",
+   "t": 77.7,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "strawberry",
+   "t": 78.3,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Mishu, what's this one?",
+   "t": 79.2,
+   "wav": "../audio_kokoro/gul_a3ba30601e.wav",
+   "dur": 1.343
+  },
+  {
+   "who": "mishu",
+   "text": "It's a red strawberry with tiny seeds",
+   "label": "Strawberry",
+   "t": 81.142,
+   "wav": "../audio_kokoro/mishu_a19898f386.wav",
+   "dur": 2.09
+  },
+  {
+   "who": "gul",
+   "text": "Strawberry! Can you say strawberry?",
+   "spell": "Strawberry",
+   "t": 83.832,
+   "wav": "../audio_kokoro/gul_d08dd4b55c.wav",
+   "dur": 1.797
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 86.229,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 89.229,
+   "wav": "../audio_kokoro/mishu_3a5043f6a9.wav",
+   "dur": 0.854
+  },
+  {
+   "who": "mishu",
+   "text": "Sweet and yummy!",
+   "t": 90.683,
+   "wav": "../audio_kokoro/mishu_5d26e273fe.wav",
+   "dur": 0.98
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "strawberry",
+   "t": 92.263,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "watermelon",
+   "t": 92.863,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh! What fruit is this?",
+   "t": 93.763,
+   "wav": "../audio_kokoro/mishu_406383d403.wav",
+   "dur": 1.367
+  },
+  {
+   "who": "gul",
+   "text": "It's a big watermelon. Green outside, red inside!",
+   "label": "Watermelon",
+   "t": 95.73,
+   "wav": "../audio_kokoro/gul_22e53d21de.wav",
+   "dur": 2.896
+  },
+  {
+   "who": "mishu",
+   "text": "Watermelon! Can you say watermelon?",
+   "spell": "Watermelon",
+   "t": 99.226,
+   "wav": "../audio_kokoro/mishu_02b6ee42b7.wav",
+   "dur": 2.271
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 102.096,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Yay! Well done!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 105.096,
+   "wav": "../audio_kokoro/gul_4b6f79d170.wav",
+   "dur": 0.99
+  },
+  {
+   "who": "gul",
+   "text": "It's so big!",
+   "t": 106.687,
+   "wav": "../audio_kokoro/gul_3beb817344.wav",
+   "dur": 0.956
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "watermelon",
+   "t": 108.243,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "mango",
+   "t": 108.843,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Look, Mishu! What is it?",
+   "t": 109.743,
+   "wav": "../audio_kokoro/gul_fc95a98deb.wav",
+   "dur": 1.332
+  },
+  {
+   "who": "mishu",
+   "text": "It's a mango! The king of fruits!",
+   "label": "Mango",
+   "t": 111.675,
+   "wav": "../audio_kokoro/mishu_0fffbe7d9a.wav",
+   "dur": 1.898
+  },
+  {
+   "who": "gul",
+   "text": "Mango! Can you say mango?",
+   "spell": "Mango",
+   "t": 114.173,
+   "wav": "../audio_kokoro/gul_17b02ab372.wav",
+   "dur": 1.427
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 116.2,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 119.2,
+   "wav": "../audio_kokoro/mishu_1801bdeece.wav",
+   "dur": 0.641
+  },
+  {
+   "who": "mishu",
+   "text": "My favourite!",
+   "t": 120.441,
+   "wav": "../audio_kokoro/mishu_260dceedb3.wav",
+   "dur": 0.916
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "mango",
+   "t": 121.957,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "pineapple",
+   "t": 122.557,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Gul, look! What's this?",
+   "t": 123.457,
+   "wav": "../audio_kokoro/mishu_db7d91b1f2.wav",
+   "dur": 1.262
+  },
+  {
+   "who": "gul",
+   "text": "It's a pineapple. It has a spiky crown!",
+   "label": "Pineapple",
+   "t": 125.319,
+   "wav": "../audio_kokoro/gul_8e601ab4b7.wav",
+   "dur": 2.069
+  },
+  {
+   "who": "mishu",
+   "text": "Pineapple! Can you say pineapple?",
+   "spell": "Pineapple",
+   "t": 127.988,
+   "wav": "../audio_kokoro/mishu_5d444625d5.wav",
+   "dur": 1.837
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 130.425,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Super!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 133.425,
+   "wav": "../audio_kokoro/gul_3e21ce06a3.wav",
+   "dur": 0.68
+  },
+  {
+   "who": "gul",
+   "text": "Like a king!",
+   "t": 134.705,
+   "wav": "../audio_kokoro/gul_c31040a8f1.wav",
+   "dur": 0.881
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "pineapple",
+   "t": 136.186,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "cherry",
+   "t": 136.786,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Mishu, what's this one?",
+   "t": 137.686,
+   "wav": "../audio_kokoro/gul_a3ba30601e.wav",
+   "dur": 1.343
+  },
+  {
+   "who": "mishu",
+   "text": "It's two little red cherries",
+   "label": "Cherries",
+   "t": 139.629,
+   "wav": "../audio_kokoro/mishu_73b1b7002b.wav",
+   "dur": 1.479
+  },
+  {
+   "who": "gul",
+   "text": "Cherries! Can you say cherries?",
+   "spell": "Cherries",
+   "t": 141.708,
+   "wav": "../audio_kokoro/gul_5b32e0571b.wav",
+   "dur": 1.466
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 143.773,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Good job, friends!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 146.773,
+   "wav": "../audio_kokoro/mishu_89b7ff85c8.wav",
+   "dur": 1.218
+  },
+  {
+   "who": "mishu",
+   "text": "They're twins!",
+   "t": 148.592,
+   "wav": "../audio_kokoro/mishu_f868abb18a.wav",
+   "dur": 0.87
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "cherry",
+   "t": 150.061,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "kiwi",
+   "t": 150.661,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh! What fruit is this?",
+   "t": 151.561,
+   "wav": "../audio_kokoro/mishu_406383d403.wav",
+   "dur": 1.367
+  },
+  {
+   "who": "gul",
+   "text": "It's a kiwi. Brown outside, green inside!",
+   "label": "Kiwi",
+   "t": 153.528,
+   "wav": "../audio_kokoro/gul_3c9f53d192.wav",
+   "dur": 2.447
+  },
+  {
+   "who": "mishu",
+   "text": "Kiwi! Can you say kiwi?",
+   "spell": "Kiwi",
+   "t": 156.575,
+   "wav": "../audio_kokoro/mishu_8bd99f1f6d.wav",
+   "dur": 1.515
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 158.69,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 161.69,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.91
+  },
+  {
+   "who": "mishu",
+   "text": "It's fuzzy!",
+   "t": 163.2,
+   "wav": "../audio_kokoro/mishu_569e4c82a9.wav",
+   "dur": 0.837
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "kiwi",
+   "t": 164.637,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "pear",
+   "t": 165.237,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Look, Mishu! What is it?",
+   "t": 166.137,
+   "wav": "../audio_kokoro/gul_fc95a98deb.wav",
+   "dur": 1.332
+  },
+  {
+   "who": "mishu",
+   "text": "It's a green pear",
+   "label": "Pear",
+   "t": 168.069,
+   "wav": "../audio_kokoro/mishu_a21f49126c.wav",
+   "dur": 0.983
+  },
+  {
+   "who": "gul",
+   "text": "Pear! Can you say pear?",
+   "spell": "Pear",
+   "t": 169.652,
+   "wav": "../audio_kokoro/gul_9fbf289fbb.wav",
+   "dur": 1.196
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 171.449,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 174.449,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.124
+  },
+  {
+   "who": "gul",
+   "text": "Yum, yum, yum!",
+   "t": 176.173,
+   "wav": "../audio_kokoro/gul_6fc6e4f1aa.wav",
+   "dur": 1.056
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "pear",
+   "t": 177.829,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.6,
+   "recap": true,
+   "t": 178.429,
+   "dur": 0.6
+  },
+  {
+   "who": "mishu",
+   "text": "We learned twelve fruits today!",
+   "t": 179.029,
+   "wav": "../audio_kokoro/mishu_c0a8dcf3c2.wav",
+   "dur": 1.58
+  },
+  {
+   "who": "gul",
+   "text": "apple, banana, orange, lemon, grapes, strawberry, watermelon, mango, pineapple, cherries, kiwi, and pear!",
+   "recap_walk": true,
+   "t": 181.209,
+   "wav": "../audio_kokoro/gul_8da83c8db4.wav",
+   "dur": 6.03
+  },
+  {
+   "who": "mishu",
+   "text": "Which fruit is your favourite? Mine is mango!",
+   "t": 187.839,
+   "wav": "../audio_kokoro/mishu_a64a0ffbdd.wav",
+   "dur": 2.587
+  },
+  {
+   "who": "gul",
+   "text": "Eat your fruits and grow big and strong!",
+   "eyes_closed": "gul",
+   "t": 191.027,
+   "wav": "../audio_kokoro/gul_954c87006f.wav",
+   "dur": 2.013
+  },
+  {
+   "who": "mishu",
+   "text": "Bye bye, friends!",
+   "wave": "mishu",
+   "scene": "outro",
+   "t": 193.64,
+   "wav": "../audio_kokoro/mishu_de922abe3e.wav",
+   "dur": 1.146
+  },
+  {
+   "who": "gul",
+   "text": "See you next time!",
+   "wave": "gul",
+   "t": 195.386,
+   "wav": "../audio_kokoro/gul_a5bc07c40a.wav",
+   "dur": 1.159
+  },
+  {
+   "pause": 2.5,
+   "end": true,
+   "t": 197.145,
+   "dur": 2.5
+  }
+ ],
+ "total": 199.645
+}
