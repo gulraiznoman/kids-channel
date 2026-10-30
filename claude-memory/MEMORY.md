@@ -1,0 +1,33 @@
+# Memory index
+
+- [user-gulraiz](user-gulraiz.md) — first-time solo dev, $0 budget, building SkyTrack, Pakistan-based, wants blunt honesty
+- [project-skytrack](project-skytrack.md) — free FR24-style flight tracker: URLs, stack, free data sources, the patchy-ADS-B ceiling
+- [feedback-skytrack-work](feedback-skytrack-work.md) — no em dashes; test trail fixes across regions; be honest about data limits
+- [reference-skytrack-deploy](reference-skytrack-deploy.md) — deploy (git email, no Co-Authored-By, auto-push), local dev, headless screenshots
+- [feedback-versioned-deliverables](feedback-versioned-deliverables.md) — never overwrite a delivered file; save each revision as a new numbered version
+- [project-oestrogel-brand-plan](project-oestrogel-brand-plan.md) — Oestrogel PK 2027 plan: who counts as a competitor, dose wording, positioning, the numbers
+- [project-youtube-ambient](project-youtube-ambient.md) — YouTube relaxing channel: Shorts are 93% of views, long-form is dead, check duplicates by content not filename
+- [project-inflectiv-socials](project-inflectiv-socials.md) — Inflectiv plans: file locations, sheet columns, narwhal, Sept 2026 narrative, Jaka reviews
+- [feedback-inflectiv-copy](feedback-inflectiv-copy.md) — plain short copy; no-narwhal graphic briefs must be concrete to the product
+- [feedback-youtube-uploads](feedback-youtube-uploads.md) — Shorts ~36s, no branding text on video, fast quote lines, verify rendered frames before delivering
+- [feedback-linkedin-posts](feedback-linkedin-posts.md) — personal LinkedIn: short caption, no name on graphic, never frame as their mistake; comments share an opinion
+- [project-vanar-content](project-vanar-content.md) — Vanar marketing: workspace in Downloads/vanar-content, its CLAUDE.md holds the rules
+- [project-youtube-kids](project-youtube-kids.md) — kids channel chosen 2026-10-08; scan evidence, characters from Gulraiz + wife Misheal
+- [project-sim-shorts](project-sim-shorts.md) — faceless flag marble race Shorts channel, ~/sim-shorts pipeline
+- [project-job-applications](project-job-applications.md) — job hunt: tailored cover letters/recruiter messages, natural non-AI tone, resume facts
+- [feedback-kids-animal-art](feedback-kids-animal-art.md) — kids animals: full-body cartoon, not head-only avatars, not stock video; spotlight behind items
+- [project-fb-satisfying-3d](project-fb-satisfying-3d.md) — new FB page: original Blender satisfying 3D reels, 5 formats, flag-safe rules
+- [project-shorts-niche-scan](project-shorts-niche-scan.md) — Oct 2026 Shorts niche scan: scale comparison + maps win; AI pet stories, quotes, marble races dead
+- [project-myneutron-socials](project-myneutron-socials.md) — myNeutron plans: Seeds/Bundles, live integrations, sheet columns, file locations
+- [feedback-myneutron-graphics](feedback-myneutron-graphics.md) — short captions, atomic not gardening, why briefs get called dead
+- [project-fb-chalo-chado](project-fb-chalo-chado.md) — existing FB comedy page, 3.9K followers, nearly dead; revive plan, ask for screenshots not Chrome
+- [feedback-no-browser](feedback-no-browser.md) — never use Claude in Chrome or record in the browser; work only in Claude Code, ask for screenshots
+- [feedback-kids-channel-safety](feedback-kids-channel-safety.md) — Gul & Mishu rules: Made for Kids on, vary formats, max 1 upload/day, own or YT Audio Library sounds only, accurate tags, ages 2-7, no repeats (check CONTENT LOG.md)
+- [feedback-fb-audience-south-asia](feedback-fb-audience-south-asia.md) — FB comedy content must work for PK+IN+BD: visual-first, bilingual subs, no politics/religion/rivalry
+- [feedback-fb-reel-style](feedback-fb-reel-style.md) — FB reels: user rejected flat cartoon look + synth music as boring/irritating; wants real desi-looking people
+- [feedback-kids-thumbnails](feedback-kids-thumbnails.md) — Gul & Mishu thumbnails: exciting sunburst, kids DOING the activity, mascot, rainbow title; plain one-object style is boring
+- [feedback-kids-video-quality](feedback-kids-video-quality.md) — kids long videos: research top YT videos first, informative depth, energetic dance music, big opening, topic-matching backgrounds
+- [feedback-kids-no-meta](feedback-kids-no-meta.md) — don't suggest titles/descriptions/tags for kids videos unless he asks
+- [feedback-kids-seo-titles](feedback-kids-seo-titles.md) — titles lead with high-demand searched phrases (autocomplete + views check), not story wording
+- [project-youtube-clipping](project-youtube-clipping.md) — new YT clipping channel: paid Whop campaigns not ads; Pakistan payout unverified; auto-clip tool planned
+- [project-zayna-yasir](project-zayna-yasir.md) — client clothing brand: IG + zaynayasir.com (custom Next.js), custom orders now, collection later
