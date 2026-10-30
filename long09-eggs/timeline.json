@@ -1,0 +1,2501 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Who's in the egg?",
+   "t": 2.3,
+   "dur": 0.918
+  },
+  {
+   "who": "mishu",
+   "text": "Knock, knock! Baby animals are hatching!",
+   "t": 3.568,
+   "dur": 2.221
+  },
+  {
+   "who": "gul",
+   "text": "Let's find out who's inside! Let's go!",
+   "t": 6.139,
+   "dur": 2.032
+  },
+  {
+   "who": "gul",
+   "text": "Knock on the egg, and guess who's inside!",
+   "t": 9.221,
+   "dur": 1.94
+  },
+  {
+   "who": "gul",
+   "text": "Knock, knock!",
+   "t": 11.912,
+   "dur": 0.812
+  },
+  {
+   "who": "mishu",
+   "text": "This egg is in the hay, on the farm!",
+   "t": 13.074,
+   "dur": 1.853
+  },
+  {
+   "who": "gul",
+   "text": "Who's in the egg?",
+   "t": 15.177,
+   "dur": 0.918
+  },
+  {
+   "who": "mishu",
+   "text": "A baby chick! Cheep cheep!",
+   "t": 19.745,
+   "dur": 1.557
+  },
+  {
+   "who": "gul",
+   "text": "Mama hen sits on her eggs to keep them warm.",
+   "t": 21.652,
+   "dur": 2.44
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby chick!",
+   "t": 24.442,
+   "dur": 1.08
+  },
+  {
+   "who": "mishu",
+   "text": "Knock, knock!",
+   "t": 26.471,
+   "dur": 0.843
+  },
+  {
+   "who": "gul",
+   "text": "This egg is next to the pond!",
+   "t": 27.664,
+   "dur": 1.607
+  },
+  {
+   "who": "mishu",
+   "text": "Who's in the egg?",
+   "t": 29.522,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "A baby duckling! Quack quack!",
+   "t": 34.064,
+   "dur": 1.547
+  },
+  {
+   "who": "mishu",
+   "text": "Ducklings can swim on their very first day!",
+   "t": 35.961,
+   "dur": 2.193
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby duckling!",
+   "t": 38.504,
+   "dur": 1.303
+  },
+  {
+   "who": "gul",
+   "text": "Knock, knock!",
+   "t": 40.757,
+   "dur": 0.812
+  },
+  {
+   "who": "mishu",
+   "text": "This egg is buried in the sand, on the beach!",
+   "t": 41.919,
+   "dur": 2.342
+  },
+  {
+   "who": "gul",
+   "text": "Who's in the egg?",
+   "t": 44.51,
+   "dur": 0.918
+  },
+  {
+   "who": "mishu",
+   "text": "A baby sea turtle!",
+   "t": 49.078,
+   "dur": 1.116
+  },
+  {
+   "who": "gul",
+   "text": "Baby sea turtles run to the sea all by themselves!",
+   "t": 50.544,
+   "dur": 2.689
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby turtle!",
+   "t": 53.583,
+   "dur": 1.237
+  },
+  {
+   "who": "mishu",
+   "text": "Knock, knock!",
+   "t": 55.769,
+   "dur": 0.843
+  },
+  {
+   "who": "gul",
+   "text": "A little blue egg, in a nest!",
+   "t": 56.962,
+   "dur": 1.432
+  },
+  {
+   "who": "mishu",
+   "text": "Who's in the egg?",
+   "t": 58.644,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "A baby robin! Tweet tweet!",
+   "t": 63.187,
+   "dur": 1.47
+  },
+  {
+   "who": "mishu",
+   "text": "Robin eggs are a pretty sky blue color!",
+   "t": 65.007,
+   "dur": 2.101
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby robin!",
+   "t": 67.458,
+   "dur": 1.227
+  },
+  {
+   "who": "gul",
+   "text": "Knock, knock!",
+   "t": 69.635,
+   "dur": 0.812
+  },
+  {
+   "who": "mishu",
+   "text": "This egg is by the river. Snap, snap!",
+   "t": 70.797,
+   "dur": 2.427
+  },
+  {
+   "who": "gul",
+   "text": "Who's in the egg?",
+   "t": 73.474,
+   "dur": 0.918
+  },
+  {
+   "who": "mishu",
+   "text": "A baby crocodile!",
+   "t": 78.042,
+   "dur": 1.038
+  },
+  {
+   "who": "gul",
+   "text": "Mama crocodile carries her babies in her mouth, very gently!",
+   "t": 79.43,
+   "dur": 3.278
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby crocodile!",
+   "t": 83.059,
+   "dur": 1.401
+  },
+  {
+   "who": "mishu",
+   "text": "Knock, knock!",
+   "t": 85.41,
+   "dur": 0.843
+  },
+  {
+   "who": "gul",
+   "text": "This egg is on the ice. Brrr!",
+   "t": 86.603,
+   "dur": 2.258
+  },
+  {
+   "who": "mishu",
+   "text": "Who's in the egg?",
+   "t": 89.112,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "A baby penguin!",
+   "t": 93.654,
+   "dur": 1.005
+  },
+  {
+   "who": "mishu",
+   "text": "Penguin daddies keep the egg warm on their feet!",
+   "t": 95.01,
+   "dur": 2.558
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby penguin!",
+   "t": 97.918,
+   "dur": 1.272
+  },
+  {
+   "who": "gul",
+   "text": "Knock, knock!",
+   "t": 100.14,
+   "dur": 0.812
+  },
+  {
+   "who": "mishu",
+   "text": "This egg is hiding in the jungle leaves. Sss!",
+   "t": 101.302,
+   "dur": 3.038
+  },
+  {
+   "who": "gul",
+   "text": "Who's in the egg?",
+   "t": 104.59,
+   "dur": 0.918
+  },
+  {
+   "who": "mishu",
+   "text": "A baby snake! Hiss!",
+   "t": 109.158,
+   "dur": 1.332
+  },
+  {
+   "who": "gul",
+   "text": "Baby snakes have a tiny egg tooth to cut open the egg!",
+   "t": 110.84,
+   "dur": 2.621
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby snake!",
+   "t": 113.811,
+   "dur": 1.142
+  },
+  {
+   "who": "mishu",
+   "text": "Knock, knock!",
+   "t": 115.903,
+   "dur": 0.843
+  },
+  {
+   "who": "gul",
+   "text": "Wow! This is a giant egg!",
+   "t": 117.096,
+   "dur": 1.386
+  },
+  {
+   "who": "mishu",
+   "text": "Who's in the egg?",
+   "t": 118.733,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "A baby ostrich!",
+   "t": 123.275,
+   "dur": 1.048
+  },
+  {
+   "who": "mishu",
+   "text": "Ostrich eggs are the biggest bird eggs in the world!",
+   "t": 124.673,
+   "dur": 2.768
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby ostrich!",
+   "t": 127.791,
+   "dur": 1.344
+  },
+  {
+   "who": "gul",
+   "text": "Knock, knock!",
+   "t": 130.085,
+   "dur": 0.812
+  },
+  {
+   "who": "mishu",
+   "text": "This egg is in a hole, up in a tree!",
+   "t": 131.247,
+   "dur": 2.02
+  },
+  {
+   "who": "gul",
+   "text": "Who's in the egg?",
+   "t": 133.516,
+   "dur": 0.918
+  },
+  {
+   "who": "mishu",
+   "text": "A baby owl! Hoo hoo!",
+   "t": 138.084,
+   "dur": 1.293
+  },
+  {
+   "who": "gul",
+   "text": "Owls sleep in the day, and wake up at night!",
+   "t": 139.727,
+   "dur": 1.982
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby owl!",
+   "t": 142.06,
+   "dur": 1.101
+  },
+  {
+   "who": "mishu",
+   "text": "Knock, knock!",
+   "t": 144.111,
+   "dur": 0.843
+  },
+  {
+   "who": "gul",
+   "text": "A big spotty egg, from long, long ago!",
+   "t": 145.304,
+   "dur": 2.172
+  },
+  {
+   "who": "mishu",
+   "text": "Who's in the egg?",
+   "t": 147.726,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "A baby dinosaur! Rawr!",
+   "t": 152.269,
+   "dur": 1.407
+  },
+  {
+   "who": "mishu",
+   "text": "Dinosaurs hatched from eggs too, a long time ago!",
+   "t": 154.026,
+   "dur": 2.876
+  },
+  {
+   "who": "both",
+   "text": "Hello, baby dino!",
+   "t": 157.252,
+   "dur": 1.18
+  },
+  {
+   "who": "mishu",
+   "text": "Five eggs in the hay! Let's count the chicks!",
+   "t": 159.581,
+   "dur": 2.408
+  },
+  {
+   "who": "both",
+   "text": "One chick!",
+   "t": 162.839,
+   "dur": 0.721
+  },
+  {
+   "who": "both",
+   "text": "Two chicks!",
+   "t": 164.36,
+   "dur": 0.753
+  },
+  {
+   "who": "both",
+   "text": "Three chicks!",
+   "t": 165.912,
+   "dur": 0.778
+  },
+  {
+   "who": "both",
+   "text": "Four chicks!",
+   "t": 167.491,
+   "dur": 0.779
+  },
+  {
+   "who": "both",
+   "text": "Five chicks!",
+   "t": 169.07,
+   "dur": 0.824
+  },
+  {
+   "who": "gul",
+   "text": "Five baby chicks! Cheep, cheep, cheep!",
+   "t": 170.293,
+   "dur": 1.824
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids! Two chicks went to sleep. How many are awake?",
+   "t": 172.467,
+   "dur": 3.032
+  },
+  {
+   "who": "gul",
+   "text": "Three! Five take away two is three!",
+   "t": 178.349,
+   "dur": 1.735
+  },
+  {
+   "who": "gul",
+   "text": "Oh no! Five eggs are hiding in the barn!",
+   "t": 181.233,
+   "dur": 2.114
+  },
+  {
+   "who": "mishu",
+   "text": "Can you find all five eggs?",
+   "t": 183.798,
+   "dur": 1.543
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 188.591,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 189.528,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 190.442,
+   "dur": 0.536
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 191.427,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 192.412,
+   "dur": 0.573
+  },
+  {
+   "who": "gul",
+   "text": "We found them all! Great job!",
+   "t": 193.435,
+   "dur": 1.551
+  },
+  {
+   "who": "gul",
+   "text": "Eggs can be tiny, or giant! Look!",
+   "t": 196.136,
+   "dur": 1.792
+  },
+  {
+   "who": "mishu",
+   "text": "A hummingbird egg is tiny, like a jelly bean!",
+   "t": 198.378,
+   "dur": 2.688
+  },
+  {
+   "who": "gul",
+   "text": "A chicken egg, like the eggs we eat!",
+   "t": 201.516,
+   "dur": 1.752
+  },
+  {
+   "who": "mishu",
+   "text": "An ostrich egg is as big as a melon!",
+   "t": 203.718,
+   "dur": 2.137
+  },
+  {
+   "who": "gul",
+   "text": "Which egg is the biggest?",
+   "t": 206.305,
+   "dur": 1.408
+  },
+  {
+   "who": "mishu",
+   "text": "The ostrich egg! It weighs as much as twenty chicken eggs!",
+   "t": 209.963,
+   "dur": 3.243
+  },
+  {
+   "who": "mishu",
+   "text": "And which egg is the smallest?",
+   "t": 213.556,
+   "dur": 1.509
+  },
+  {
+   "who": "gul",
+   "text": "The tiny hummingbird egg!",
+   "t": 217.315,
+   "dur": 1.41
+  },
+  {
+   "who": "mishu",
+   "text": "Help the babies find their homes!",
+   "t": 219.875,
+   "dur": 1.644
+  },
+  {
+   "who": "gul",
+   "text": "Where does the baby penguin live?",
+   "t": 221.968,
+   "dur": 1.747
+  },
+  {
+   "who": "mishu",
+   "text": "On the cold ice!",
+   "t": 225.965,
+   "dur": 1.0
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the baby crocodile live?",
+   "t": 227.615,
+   "dur": 1.738
+  },
+  {
+   "who": "gul",
+   "text": "By the river!",
+   "t": 231.603,
+   "dur": 0.794
+  },
+  {
+   "who": "gul",
+   "text": "Where does the baby owl live?",
+   "t": 233.047,
+   "dur": 1.454
+  },
+  {
+   "who": "mishu",
+   "text": "Up in a tree!",
+   "t": 236.751,
+   "dur": 0.823
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the baby turtle live?",
+   "t": 238.225,
+   "dur": 1.573
+  },
+  {
+   "who": "gul",
+   "text": "On the sandy beach!",
+   "t": 242.048,
+   "dur": 1.12
+  },
+  {
+   "who": "gul",
+   "text": "Where does the baby duckling live?",
+   "t": 243.818,
+   "dur": 1.722
+  },
+  {
+   "who": "mishu",
+   "text": "In the pond!",
+   "t": 247.79,
+   "dur": 0.749
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the baby ostrich live?",
+   "t": 249.189,
+   "dur": 1.589
+  },
+  {
+   "who": "gul",
+   "text": "On the grassy savanna!",
+   "t": 253.028,
+   "dur": 1.304
+  },
+  {
+   "who": "mishu",
+   "text": "Some animals hatch from eggs. Some are born as babies. Let's sort!",
+   "t": 255.482,
+   "dur": 3.968
+  },
+  {
+   "who": "gul",
+   "text": "Egg, or baby?",
+   "t": 259.9,
+   "dur": 0.928
+  },
+  {
+   "who": "mishu",
+   "text": "A hen lays eggs!",
+   "t": 262.878,
+   "dur": 1.088
+  },
+  {
+   "who": "mishu",
+   "text": "Egg, or baby?",
+   "t": 264.515,
+   "dur": 0.945
+  },
+  {
+   "who": "gul",
+   "text": "A puppy is born as a baby!",
+   "t": 267.51,
+   "dur": 1.522
+  },
+  {
+   "who": "gul",
+   "text": "Egg, or baby?",
+   "t": 269.583,
+   "dur": 0.928
+  },
+  {
+   "who": "mishu",
+   "text": "A turtle lays eggs!",
+   "t": 272.56,
+   "dur": 1.24
+  },
+  {
+   "who": "mishu",
+   "text": "Egg, or baby?",
+   "t": 274.35,
+   "dur": 0.945
+  },
+  {
+   "who": "gul",
+   "text": "A kitten is born as a baby!",
+   "t": 277.345,
+   "dur": 1.569
+  },
+  {
+   "who": "gul",
+   "text": "Egg, or baby?",
+   "t": 279.464,
+   "dur": 0.928
+  },
+  {
+   "who": "mishu",
+   "text": "Fish lay eggs!",
+   "t": 282.442,
+   "dur": 0.888
+  },
+  {
+   "who": "mishu",
+   "text": "Egg, or baby?",
+   "t": 283.88,
+   "dur": 0.945
+  },
+  {
+   "who": "gul",
+   "text": "A baby cow is born as a baby!",
+   "t": 286.875,
+   "dur": 1.798
+  },
+  {
+   "who": "gul",
+   "text": "Egg, or baby?",
+   "t": 289.223,
+   "dur": 0.928
+  },
+  {
+   "who": "mishu",
+   "text": "A snake lays eggs!",
+   "t": 292.2,
+   "dur": 1.186
+  },
+  {
+   "who": "mishu",
+   "text": "Egg, or baby?",
+   "t": 293.937,
+   "dur": 0.945
+  },
+  {
+   "who": "gul",
+   "text": "An elephant is born as a baby!",
+   "t": 296.932,
+   "dur": 1.723
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Let's see how babies grow up!",
+   "t": 299.705,
+   "dur": 1.905
+  },
+  {
+   "who": "mishu",
+   "text": "First, an egg.",
+   "t": 302.06,
+   "dur": 1.051
+  },
+  {
+   "who": "gul",
+   "text": "Crack! A little chick!",
+   "t": 303.562,
+   "dur": 0.974
+  },
+  {
+   "who": "mishu",
+   "text": "The chick grows into a big hen!",
+   "t": 304.985,
+   "dur": 1.579
+  },
+  {
+   "who": "both",
+   "text": "Round and round! That's a life cycle!",
+   "t": 307.014,
+   "dur": 2.146
+  },
+  {
+   "who": "mishu",
+   "text": "Tiny eggs on a leaf.",
+   "t": 309.91,
+   "dur": 1.257
+  },
+  {
+   "who": "gul",
+   "text": "Out comes a hungry caterpillar!",
+   "t": 311.618,
+   "dur": 1.693
+  },
+  {
+   "who": "mishu",
+   "text": "It makes a cozy cocoon, and sleeps.",
+   "t": 313.76,
+   "dur": 2.054
+  },
+  {
+   "who": "gul",
+   "text": "Then, a beautiful butterfly!",
+   "t": 316.264,
+   "dur": 1.573
+  },
+  {
+   "who": "both",
+   "text": "Round and round! That's a life cycle!",
+   "t": 318.287,
+   "dur": 2.146
+  },
+  {
+   "who": "mishu",
+   "text": "Frogs lay squishy eggs in the water.",
+   "t": 321.184,
+   "dur": 1.931
+  },
+  {
+   "who": "gul",
+   "text": "Out swims a wiggly tadpole!",
+   "t": 323.564,
+   "dur": 1.689
+  },
+  {
+   "who": "mishu",
+   "text": "It grows legs, and turns into a frog! Ribbit!",
+   "t": 325.703,
+   "dur": 2.883
+  },
+  {
+   "who": "both",
+   "text": "Round and round! That's a life cycle!",
+   "t": 329.036,
+   "dur": 2.146
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! Let's hatch like baby chicks! Copy us!",
+   "t": 332.433,
+   "dur": 2.631
+  },
+  {
+   "who": "both",
+   "text": "Curl up small, like an egg!",
+   "t": 335.513,
+   "dur": 1.423
+  },
+  {
+   "who": "both",
+   "text": "Wiggle, wiggle, wiggle!",
+   "t": 338.686,
+   "dur": 1.302
+  },
+  {
+   "who": "both",
+   "text": "Knock, knock, knock!",
+   "t": 341.737,
+   "dur": 1.157
+  },
+  {
+   "who": "both",
+   "text": "Crack! Pop out!",
+   "t": 344.644,
+   "dur": 1.007
+  },
+  {
+   "who": "both",
+   "text": "Flap your little wings!",
+   "t": 347.401,
+   "dur": 1.171
+  },
+  {
+   "who": "both",
+   "text": "Cheep cheep! Hello world!",
+   "t": 350.322,
+   "dur": 1.442
+  },
+  {
+   "who": "gul",
+   "text": "Again, faster!",
+   "t": 353.514,
+   "dur": 0.994
+  },
+  {
+   "who": "both",
+   "text": "Curl up small, like an egg!",
+   "t": 354.858,
+   "dur": 1.423
+  },
+  {
+   "who": "both",
+   "text": "Wiggle, wiggle, wiggle!",
+   "t": 357.331,
+   "dur": 1.302
+  },
+  {
+   "who": "both",
+   "text": "Knock, knock, knock!",
+   "t": 359.682,
+   "dur": 1.157
+  },
+  {
+   "who": "both",
+   "text": "Crack! Pop out!",
+   "t": 361.889,
+   "dur": 1.007
+  },
+  {
+   "who": "both",
+   "text": "Flap your little wings!",
+   "t": 363.946,
+   "dur": 1.171
+  },
+  {
+   "who": "both",
+   "text": "Cheep cheep! Hello world!",
+   "t": 366.167,
+   "dur": 1.442
+  },
+  {
+   "who": "gul",
+   "text": "Shh! Listen to the egg. Who's inside?",
+   "t": 369.159,
+   "dur": 2.304
+  },
+  {
+   "who": "mishu",
+   "text": "Who's in the egg?",
+   "t": 374.713,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "Quack quack! A duckling!",
+   "t": 378.056,
+   "dur": 1.252
+  },
+  {
+   "who": "gul",
+   "text": "Who's in the egg?",
+   "t": 382.757,
+   "dur": 0.918
+  },
+  {
+   "who": "mishu",
+   "text": "Hoo hoo! A baby owl!",
+   "t": 386.125,
+   "dur": 1.33
+  },
+  {
+   "who": "mishu",
+   "text": "Who's in the egg?",
+   "t": 390.905,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "Sss! A baby snake!",
+   "t": 394.248,
+   "dur": 1.471
+  },
+  {
+   "who": "gul",
+   "text": "Who's in the egg?",
+   "t": 399.169,
+   "dur": 0.918
+  },
+  {
+   "who": "mishu",
+   "text": "Cheep cheep! A baby chick!",
+   "t": 402.537,
+   "dur": 1.522
+  },
+  {
+   "who": "mishu",
+   "text": "Who's in the egg?",
+   "t": 407.51,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "Tweet tweet! A baby robin!",
+   "t": 410.852,
+   "dur": 1.484
+  },
+  {
+   "who": "gul",
+   "text": "Who's in the egg?",
+   "t": 415.786,
+   "dur": 0.918
+  },
+  {
+   "who": "mishu",
+   "text": "A baby penguin!",
+   "t": 419.154,
+   "dur": 0.957
+  },
+  {
+   "who": "mishu",
+   "text": "Who's in the egg?",
+   "t": 423.561,
+   "dur": 0.893
+  },
+  {
+   "who": "gul",
+   "text": "Rawr! A baby dinosaur!",
+   "t": 426.904,
+   "dur": 1.448
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Here are some amazing egg facts!",
+   "t": 429.502,
+   "dur": 2.185
+  },
+  {
+   "who": "mishu",
+   "text": "A hen can lay almost one egg every day!",
+   "t": 432.437,
+   "dur": 2.275
+  },
+  {
+   "who": "gul",
+   "text": "Wow!",
+   "t": 435.162,
+   "dur": 0.477
+  },
+  {
+   "who": "gul",
+   "text": "Baby birds have a tiny egg tooth, to break out of the shell!",
+   "t": 436.589,
+   "dur": 2.988
+  },
+  {
+   "who": "mishu",
+   "text": "Wow!",
+   "t": 440.027,
+   "dur": 0.457
+  },
+  {
+   "who": "mishu",
+   "text": "The platypus is a very special animal. It has fur, but it lays eggs!",
+   "t": 441.435,
+   "dur": 4.274
+  },
+  {
+   "who": "gul",
+   "text": "Wow!",
+   "t": 446.159,
+   "dur": 0.477
+  },
+  {
+   "who": "gul",
+   "text": "The kiwi bird lays a giant egg, almost as big as the kiwi!",
+   "t": 447.586,
+   "dur": 3.4
+  },
+  {
+   "who": "mishu",
+   "text": "Wow!",
+   "t": 451.436,
+   "dur": 0.457
+  },
+  {
+   "who": "mishu",
+   "text": "Frog eggs have no shell. They are soft, like jelly!",
+   "t": 452.843,
+   "dur": 2.905
+  },
+  {
+   "who": "gul",
+   "text": "Wow!",
+   "t": 456.198,
+   "dur": 0.477
+  },
+  {
+   "who": "gul",
+   "text": "An ostrich egg shell is so strong, a grown-up can stand on it!",
+   "t": 457.625,
+   "dur": 3.348
+  },
+  {
+   "who": "mishu",
+   "text": "Wow!",
+   "t": 461.423,
+   "dur": 0.457
+  },
+  {
+   "who": "mishu",
+   "text": "Emperor penguin daddies hold the egg on their feet for two whole months!",
+   "t": 462.831,
+   "dur": 3.777
+  },
+  {
+   "who": "gul",
+   "text": "Wow!",
+   "t": 467.057,
+   "dur": 0.477
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids quiz! Are you ready?",
+   "t": 468.684,
+   "dur": 1.767
+  },
+  {
+   "who": "gul",
+   "text": "Which bird has the biggest egg?",
+   "t": 470.9,
+   "dur": 1.631
+  },
+  {
+   "who": "mishu",
+   "text": "The ostrich!",
+   "t": 475.182,
+   "dur": 0.821
+  },
+  {
+   "who": "mishu",
+   "text": "Who keeps the penguin egg warm?",
+   "t": 476.652,
+   "dur": 1.52
+  },
+  {
+   "who": "gul",
+   "text": "Penguin daddy, on his feet!",
+   "t": 480.822,
+   "dur": 1.462
+  },
+  {
+   "who": "gul",
+   "text": "What does a caterpillar turn into?",
+   "t": 482.934,
+   "dur": 1.655
+  },
+  {
+   "who": "mishu",
+   "text": "A butterfly!",
+   "t": 487.238,
+   "dur": 0.788
+  },
+  {
+   "who": "mishu",
+   "text": "Does a puppy hatch from an egg?",
+   "t": 488.676,
+   "dur": 1.385
+  },
+  {
+   "who": "gul",
+   "text": "No! A puppy is born as a baby!",
+   "t": 492.711,
+   "dur": 1.755
+  },
+  {
+   "who": "gul",
+   "text": "Where do baby sea turtles run?",
+   "t": 495.116,
+   "dur": 1.715
+  },
+  {
+   "who": "mishu",
+   "text": "To the sea!",
+   "t": 499.481,
+   "dur": 0.704
+  },
+  {
+   "who": "mishu",
+   "text": "What sound does a baby chick make?",
+   "t": 500.835,
+   "dur": 1.686
+  },
+  {
+   "who": "gul",
+   "text": "Cheep cheep!",
+   "t": 505.171,
+   "dur": 0.746
+  },
+  {
+   "who": "gul",
+   "text": "What does a tadpole grow into?",
+   "t": 506.567,
+   "dur": 1.624
+  },
+  {
+   "who": "mishu",
+   "text": "A frog!",
+   "t": 510.841,
+   "dur": 0.647
+  },
+  {
+   "who": "mishu",
+   "text": "Where does a baby owl live?",
+   "t": 512.138,
+   "dur": 1.404
+  },
+  {
+   "who": "gul",
+   "text": "Up in a tree!",
+   "t": 516.192,
+   "dur": 0.853
+  },
+  {
+   "who": "gul",
+   "text": "One more egg! The golden egg!",
+   "t": 517.695,
+   "dur": 1.493
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count down together!",
+   "t": 519.538,
+   "dur": 1.329
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 521.218,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 522.24,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 523.225,
+   "dur": 0.536
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 524.211,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 525.124,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Hatch!",
+   "t": 526.061,
+   "dur": 0.546
+  },
+  {
+   "who": "gul",
+   "text": "All our baby friends are here!",
+   "t": 527.157,
+   "dur": 1.485
+  },
+  {
+   "who": "mishu",
+   "text": "So many babies hatch from eggs!",
+   "t": 529.392,
+   "dur": 1.692
+  },
+  {
+   "who": "gul",
+   "text": "Which baby animal did you like best?",
+   "t": 531.434,
+   "dur": 1.896
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends! Cheep cheep!",
+   "t": 533.68,
+   "dur": 1.728
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "barn",
+   "t0": 0.0,
+   "knock_t": [
+    0.0,
+    0.3,
+    0.6
+   ],
+   "crack_t": 0.9,
+   "hatch_t": 1.4,
+   "title_t": 2.3,
+   "kids_t": 3.568,
+   "t1": 8.721
+  },
+  {
+   "kind": "title",
+   "bg": "barn",
+   "t0": 8.721,
+   "title": "KNOCK KNOCK!",
+   "t1": 11.612
+  },
+  {
+   "kind": "egg",
+   "bg": "barn",
+   "t0": 11.612,
+   "baby": "chick",
+   "num": 1,
+   "kk_t": 11.912,
+   "knock_t": [
+    11.912,
+    12.262
+   ],
+   "hint_t": 13.074,
+   "crack_t": 18.345,
+   "hatch_t": 19.245,
+   "name_t": 19.745,
+   "t1": 26.171
+  },
+  {
+   "kind": "egg",
+   "bg": "pond",
+   "t0": 26.171,
+   "baby": "duckling",
+   "num": 2,
+   "kk_t": 26.471,
+   "knock_t": [
+    26.471,
+    26.821
+   ],
+   "hint_t": 27.664,
+   "crack_t": 32.664,
+   "hatch_t": 33.564,
+   "name_t": 34.064,
+   "t1": 40.457
+  },
+  {
+   "kind": "egg",
+   "bg": "beach",
+   "t0": 40.457,
+   "baby": "turtle",
+   "num": 3,
+   "kk_t": 40.757,
+   "knock_t": [
+    40.757,
+    41.107
+   ],
+   "hint_t": 41.919,
+   "crack_t": 47.678,
+   "hatch_t": 48.578,
+   "name_t": 49.078,
+   "t1": 55.469
+  },
+  {
+   "kind": "egg",
+   "bg": "tree",
+   "t0": 55.469,
+   "baby": "robin",
+   "num": 4,
+   "kk_t": 55.769,
+   "knock_t": [
+    55.769,
+    56.119
+   ],
+   "hint_t": 56.962,
+   "crack_t": 61.787,
+   "hatch_t": 62.687,
+   "name_t": 63.187,
+   "t1": 69.335
+  },
+  {
+   "kind": "egg",
+   "bg": "river",
+   "t0": 69.335,
+   "baby": "crocodile",
+   "num": 5,
+   "kk_t": 69.635,
+   "knock_t": [
+    69.635,
+    69.985
+   ],
+   "hint_t": 70.797,
+   "crack_t": 76.642,
+   "hatch_t": 77.542,
+   "name_t": 78.042,
+   "t1": 85.11
+  },
+  {
+   "kind": "egg",
+   "bg": "ice",
+   "t0": 85.11,
+   "baby": "penguin",
+   "num": 6,
+   "kk_t": 85.41,
+   "knock_t": [
+    85.41,
+    85.76
+   ],
+   "hint_t": 86.603,
+   "crack_t": 92.254,
+   "hatch_t": 93.154,
+   "name_t": 93.654,
+   "t1": 99.84
+  },
+  {
+   "kind": "egg",
+   "bg": "jungle",
+   "t0": 99.84,
+   "baby": "snake",
+   "num": 7,
+   "kk_t": 100.14,
+   "knock_t": [
+    100.14,
+    100.49
+   ],
+   "hint_t": 101.302,
+   "crack_t": 107.758,
+   "hatch_t": 108.658,
+   "name_t": 109.158,
+   "t1": 115.603
+  },
+  {
+   "kind": "egg",
+   "bg": "savanna",
+   "t0": 115.603,
+   "baby": "ostrich",
+   "num": 8,
+   "kk_t": 115.903,
+   "knock_t": [
+    115.903,
+    116.253
+   ],
+   "hint_t": 117.096,
+   "crack_t": 121.875,
+   "hatch_t": 122.775,
+   "name_t": 123.275,
+   "t1": 129.785
+  },
+  {
+   "kind": "egg",
+   "bg": "tree",
+   "t0": 129.785,
+   "baby": "owl",
+   "num": 9,
+   "kk_t": 130.085,
+   "knock_t": [
+    130.085,
+    130.435
+   ],
+   "hint_t": 131.247,
+   "crack_t": 136.684,
+   "hatch_t": 137.584,
+   "name_t": 138.084,
+   "t1": 143.811
+  },
+  {
+   "kind": "egg",
+   "bg": "valley",
+   "t0": 143.811,
+   "baby": "dino",
+   "num": 10,
+   "kk_t": 144.111,
+   "knock_t": [
+    144.111,
+    144.461
+   ],
+   "hint_t": 145.304,
+   "crack_t": 150.869,
+   "hatch_t": 151.769,
+   "name_t": 152.269,
+   "t1": 159.081
+  },
+  {
+   "kind": "title",
+   "bg": "barn",
+   "t0": 159.081,
+   "title": "COUNT THE CHICKS!",
+   "t1": 162.439
+  },
+  {
+   "kind": "count",
+   "bg": "barn",
+   "t0": 162.439,
+   "hatches": [
+    162.439,
+    163.96,
+    165.512,
+    167.091,
+    168.67
+   ],
+   "sleep_t": 178.349,
+   "t1": 180.733
+  },
+  {
+   "kind": "title",
+   "bg": "barn",
+   "t0": 180.733,
+   "title": "FIND THE EGGS!",
+   "t1": 183.798
+  },
+  {
+   "kind": "hidden",
+   "bg": "barn",
+   "t0": 183.798,
+   "found": [
+    188.591,
+    189.528,
+    190.442,
+    191.427,
+    192.412
+   ],
+   "t1": 195.636
+  },
+  {
+   "kind": "title",
+   "bg": "savanna",
+   "t0": 195.636,
+   "title": "BIG AND SMALL EGGS!",
+   "t1": 198.378
+  },
+  {
+   "kind": "sizes",
+   "bg": "savanna",
+   "t0": 198.378,
+   "shown": [
+    198.378,
+    201.516,
+    203.718
+   ],
+   "big_t": 209.963,
+   "small_t": 217.315,
+   "t1": 219.375
+  },
+  {
+   "kind": "title",
+   "bg": "barn",
+   "t0": 219.375,
+   "title": "WHERE DO THEY LIVE?",
+   "t1": 221.968
+  },
+  {
+   "kind": "home",
+   "bg": "barn",
+   "t0": 221.968,
+   "baby": "penguin",
+   "home": "ice",
+   "opts": [
+    "ice",
+    "jungle",
+    "beach"
+   ],
+   "answer_t": 225.965,
+   "t1": 227.615
+  },
+  {
+   "kind": "home",
+   "bg": "barn",
+   "t0": 227.615,
+   "baby": "crocodile",
+   "home": "river",
+   "opts": [
+    "savanna",
+    "river",
+    "ice"
+   ],
+   "answer_t": 231.603,
+   "t1": 233.047
+  },
+  {
+   "kind": "home",
+   "bg": "barn",
+   "t0": 233.047,
+   "baby": "owl",
+   "home": "tree",
+   "opts": [
+    "beach",
+    "pond",
+    "tree"
+   ],
+   "answer_t": 236.751,
+   "t1": 238.225
+  },
+  {
+   "kind": "home",
+   "bg": "barn",
+   "t0": 238.225,
+   "baby": "turtle",
+   "home": "beach",
+   "opts": [
+    "beach",
+    "ice",
+    "tree"
+   ],
+   "answer_t": 242.048,
+   "t1": 243.818
+  },
+  {
+   "kind": "home",
+   "bg": "barn",
+   "t0": 243.818,
+   "baby": "duckling",
+   "home": "pond",
+   "opts": [
+    "jungle",
+    "pond",
+    "savanna"
+   ],
+   "answer_t": 247.79,
+   "t1": 249.189
+  },
+  {
+   "kind": "home",
+   "bg": "barn",
+   "t0": 249.189,
+   "baby": "ostrich",
+   "home": "savanna",
+   "opts": [
+    "river",
+    "tree",
+    "savanna"
+   ],
+   "answer_t": 253.028,
+   "t1": 254.982
+  },
+  {
+   "kind": "title",
+   "bg": "barn",
+   "t0": 254.982,
+   "title": "EGG OR BABY?",
+   "t1": 259.9
+  },
+  {
+   "kind": "sort",
+   "bg": "barn",
+   "t0": 259.9,
+   "animal": "hen",
+   "side": "egg",
+   "done": [],
+   "answer_t": 262.878,
+   "t1": 264.515
+  },
+  {
+   "kind": "sort",
+   "bg": "barn",
+   "t0": 264.515,
+   "animal": "puppy",
+   "side": "baby",
+   "done": [
+    [
+     "hen",
+     "egg"
+    ]
+   ],
+   "answer_t": 267.51,
+   "t1": 269.583
+  },
+  {
+   "kind": "sort",
+   "bg": "barn",
+   "t0": 269.583,
+   "animal": "turtle",
+   "side": "egg",
+   "done": [
+    [
+     "hen",
+     "egg"
+    ],
+    [
+     "puppy",
+     "baby"
+    ]
+   ],
+   "answer_t": 272.56,
+   "t1": 274.35
+  },
+  {
+   "kind": "sort",
+   "bg": "barn",
+   "t0": 274.35,
+   "animal": "kitten",
+   "side": "baby",
+   "done": [
+    [
+     "hen",
+     "egg"
+    ],
+    [
+     "puppy",
+     "baby"
+    ],
+    [
+     "turtle",
+     "egg"
+    ]
+   ],
+   "answer_t": 277.345,
+   "t1": 279.464
+  },
+  {
+   "kind": "sort",
+   "bg": "barn",
+   "t0": 279.464,
+   "animal": "fish",
+   "side": "egg",
+   "done": [
+    [
+     "hen",
+     "egg"
+    ],
+    [
+     "puppy",
+     "baby"
+    ],
+    [
+     "turtle",
+     "egg"
+    ],
+    [
+     "kitten",
+     "baby"
+    ]
+   ],
+   "answer_t": 282.442,
+   "t1": 283.88
+  },
+  {
+   "kind": "sort",
+   "bg": "barn",
+   "t0": 283.88,
+   "animal": "calf",
+   "side": "baby",
+   "done": [
+    [
+     "hen",
+     "egg"
+    ],
+    [
+     "puppy",
+     "baby"
+    ],
+    [
+     "turtle",
+     "egg"
+    ],
+    [
+     "kitten",
+     "baby"
+    ],
+    [
+     "fish",
+     "egg"
+    ]
+   ],
+   "answer_t": 286.875,
+   "t1": 289.223
+  },
+  {
+   "kind": "sort",
+   "bg": "barn",
+   "t0": 289.223,
+   "animal": "snake",
+   "side": "egg",
+   "done": [
+    [
+     "hen",
+     "egg"
+    ],
+    [
+     "puppy",
+     "baby"
+    ],
+    [
+     "turtle",
+     "egg"
+    ],
+    [
+     "kitten",
+     "baby"
+    ],
+    [
+     "fish",
+     "egg"
+    ],
+    [
+     "calf",
+     "baby"
+    ]
+   ],
+   "answer_t": 292.2,
+   "t1": 293.937
+  },
+  {
+   "kind": "sort",
+   "bg": "barn",
+   "t0": 293.937,
+   "animal": "elephant",
+   "side": "baby",
+   "done": [
+    [
+     "hen",
+     "egg"
+    ],
+    [
+     "puppy",
+     "baby"
+    ],
+    [
+     "turtle",
+     "egg"
+    ],
+    [
+     "kitten",
+     "baby"
+    ],
+    [
+     "fish",
+     "egg"
+    ],
+    [
+     "calf",
+     "baby"
+    ],
+    [
+     "snake",
+     "egg"
+    ]
+   ],
+   "answer_t": 296.932,
+   "t1": 299.205
+  },
+  {
+   "kind": "title",
+   "bg": "pond",
+   "t0": 299.205,
+   "title": "HOW THEY GROW!",
+   "t1": 302.06
+  },
+  {
+   "kind": "life",
+   "bg": "pond",
+   "t0": 302.06,
+   "name": "chicken",
+   "steps": [
+    "egg",
+    "chick",
+    "hen"
+   ],
+   "step_t": [
+    302.06,
+    303.562,
+    304.985
+   ],
+   "cycle_t": 307.014,
+   "t1": 309.91
+  },
+  {
+   "kind": "life",
+   "bg": "pond",
+   "t0": 309.91,
+   "name": "butterfly",
+   "steps": [
+    "leafeggs",
+    "caterpillar",
+    "cocoon",
+    "butterfly"
+   ],
+   "step_t": [
+    309.91,
+    311.618,
+    313.76,
+    316.264
+   ],
+   "cycle_t": 318.287,
+   "t1": 321.184
+  },
+  {
+   "kind": "life",
+   "bg": "pond",
+   "t0": 321.184,
+   "name": "frog",
+   "steps": [
+    "frogspawn",
+    "tadpole",
+    "frog"
+   ],
+   "step_t": [
+    321.184,
+    323.564,
+    325.703
+   ],
+   "cycle_t": 329.036,
+   "t1": 331.933
+  },
+  {
+   "kind": "title",
+   "bg": "barn",
+   "t0": 331.933,
+   "title": "HATCHING DANCE!",
+   "t1": 335.513
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 335.513,
+   "move": "curl",
+   "fast": false,
+   "word": "CURL UP SMALL!",
+   "say_t": 335.513,
+   "t1": 338.686
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 338.686,
+   "move": "wiggle",
+   "fast": false,
+   "word": "WIGGLE!",
+   "say_t": 338.686,
+   "t1": 341.737
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 341.737,
+   "move": "knock",
+   "fast": false,
+   "word": "KNOCK!",
+   "say_t": 341.737,
+   "t1": 344.644
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 344.644,
+   "move": "pop",
+   "fast": false,
+   "word": "CRACK!",
+   "say_t": 344.644,
+   "t1": 347.401
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 347.401,
+   "move": "flap",
+   "fast": false,
+   "word": "FLAP YOUR LITTLE WINGS!",
+   "say_t": 347.401,
+   "t1": 350.322
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 350.322,
+   "move": "jump",
+   "fast": false,
+   "word": "CHEEP CHEEP!",
+   "say_t": 350.322,
+   "t1": 353.514
+  },
+  {
+   "kind": "title",
+   "bg": "barn",
+   "t0": 353.514,
+   "title": "FASTER!",
+   "t1": 354.858
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 354.858,
+   "move": "curl",
+   "fast": true,
+   "word": "CURL UP SMALL!",
+   "say_t": 354.858,
+   "t1": 357.331
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 357.331,
+   "move": "wiggle",
+   "fast": true,
+   "word": "WIGGLE!",
+   "say_t": 357.331,
+   "t1": 359.682
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 359.682,
+   "move": "knock",
+   "fast": true,
+   "word": "KNOCK!",
+   "say_t": 359.682,
+   "t1": 361.889
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 361.889,
+   "move": "pop",
+   "fast": true,
+   "word": "CRACK!",
+   "say_t": 361.889,
+   "t1": 363.946
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 363.946,
+   "move": "flap",
+   "fast": true,
+   "word": "FLAP YOUR LITTLE WINGS!",
+   "say_t": 363.946,
+   "t1": 366.167
+  },
+  {
+   "kind": "dance",
+   "bg": "barn",
+   "t0": 366.167,
+   "move": "jump",
+   "fast": true,
+   "word": "CHEEP CHEEP!",
+   "say_t": 366.167,
+   "t1": 368.659
+  },
+  {
+   "kind": "title",
+   "bg": "pond",
+   "t0": 368.659,
+   "title": "LISTEN! WHO'S INSIDE?",
+   "t1": 371.913
+  },
+  {
+   "kind": "listen",
+   "bg": "pond",
+   "t0": 371.913,
+   "baby": "duckling",
+   "sound_t": [
+    372.213,
+    373.513
+   ],
+   "hatch_t": 377.656,
+   "t1": 379.957
+  },
+  {
+   "kind": "listen",
+   "bg": "pond",
+   "t0": 379.957,
+   "baby": "owl",
+   "sound_t": [
+    380.257,
+    381.557
+   ],
+   "hatch_t": 385.725,
+   "t1": 388.105
+  },
+  {
+   "kind": "listen",
+   "bg": "pond",
+   "t0": 388.105,
+   "baby": "snake",
+   "sound_t": [
+    388.405,
+    389.705
+   ],
+   "hatch_t": 393.848,
+   "t1": 396.369
+  },
+  {
+   "kind": "listen",
+   "bg": "pond",
+   "t0": 396.369,
+   "baby": "chick",
+   "sound_t": [
+    396.669,
+    397.969
+   ],
+   "hatch_t": 402.137,
+   "t1": 404.71
+  },
+  {
+   "kind": "listen",
+   "bg": "pond",
+   "t0": 404.71,
+   "baby": "robin",
+   "sound_t": [
+    405.01,
+    406.31
+   ],
+   "hatch_t": 410.452,
+   "t1": 412.986
+  },
+  {
+   "kind": "listen",
+   "bg": "pond",
+   "t0": 412.986,
+   "baby": "penguin",
+   "sound_t": [
+    413.286,
+    414.586
+   ],
+   "hatch_t": 418.754,
+   "t1": 420.761
+  },
+  {
+   "kind": "listen",
+   "bg": "pond",
+   "t0": 420.761,
+   "baby": "dino",
+   "sound_t": [
+    421.061,
+    422.361
+   ],
+   "hatch_t": 426.504,
+   "t1": 429.002
+  },
+  {
+   "kind": "title",
+   "bg": "pond",
+   "t0": 429.002,
+   "title": "AMAZING EGG FACTS!",
+   "t1": 432.137
+  },
+  {
+   "kind": "fact",
+   "bg": "pond",
+   "t0": 432.137,
+   "vis": "hen",
+   "num": 1,
+   "say_t": 432.437,
+   "t1": 436.289
+  },
+  {
+   "kind": "fact",
+   "bg": "pond",
+   "t0": 436.289,
+   "vis": "chick",
+   "num": 2,
+   "say_t": 436.589,
+   "t1": 441.135
+  },
+  {
+   "kind": "fact",
+   "bg": "pond",
+   "t0": 441.135,
+   "vis": "platypus",
+   "num": 3,
+   "say_t": 441.435,
+   "t1": 447.286
+  },
+  {
+   "kind": "fact",
+   "bg": "pond",
+   "t0": 447.286,
+   "vis": "kiwi",
+   "num": 4,
+   "say_t": 447.586,
+   "t1": 452.543
+  },
+  {
+   "kind": "fact",
+   "bg": "pond",
+   "t0": 452.543,
+   "vis": "frogspawn",
+   "num": 5,
+   "say_t": 452.843,
+   "t1": 457.325
+  },
+  {
+   "kind": "fact",
+   "bg": "pond",
+   "t0": 457.325,
+   "vis": "ostrich",
+   "num": 6,
+   "say_t": 457.625,
+   "t1": 462.531
+  },
+  {
+   "kind": "fact",
+   "bg": "pond",
+   "t0": 462.531,
+   "vis": "penguin",
+   "num": 7,
+   "say_t": 462.831,
+   "t1": 468.184
+  },
+  {
+   "kind": "title",
+   "bg": "barn",
+   "t0": 468.184,
+   "title": "EGG QUIZ!",
+   "t1": 470.9
+  },
+  {
+   "kind": "quiz",
+   "bg": "barn",
+   "t0": 470.9,
+   "q": "WHICH BIRD HAS THE BIGGEST EGG?",
+   "vis": "ostrich",
+   "answer_t": 475.182,
+   "t1": 476.652
+  },
+  {
+   "kind": "quiz",
+   "bg": "barn",
+   "t0": 476.652,
+   "q": "WHO KEEPS THE PENGUIN EGG WARM?",
+   "vis": "penguin",
+   "answer_t": 480.822,
+   "t1": 482.934
+  },
+  {
+   "kind": "quiz",
+   "bg": "barn",
+   "t0": 482.934,
+   "q": "WHAT DOES A CATERPILLAR TURN INTO?",
+   "vis": "butterfly",
+   "answer_t": 487.238,
+   "t1": 488.676
+  },
+  {
+   "kind": "quiz",
+   "bg": "barn",
+   "t0": 488.676,
+   "q": "DOES A PUPPY HATCH FROM AN EGG?",
+   "vis": "puppy",
+   "answer_t": 492.711,
+   "t1": 495.116
+  },
+  {
+   "kind": "quiz",
+   "bg": "barn",
+   "t0": 495.116,
+   "q": "WHERE DO BABY SEA TURTLES RUN?",
+   "vis": "turtle",
+   "answer_t": 499.481,
+   "t1": 500.835
+  },
+  {
+   "kind": "quiz",
+   "bg": "barn",
+   "t0": 500.835,
+   "q": "WHAT SOUND DOES A BABY CHICK MAKE?",
+   "vis": "chick",
+   "answer_t": 505.171,
+   "t1": 506.567
+  },
+  {
+   "kind": "quiz",
+   "bg": "barn",
+   "t0": 506.567,
+   "q": "WHAT DOES A TADPOLE GROW INTO?",
+   "vis": "frog",
+   "answer_t": 510.841,
+   "t1": 512.138
+  },
+  {
+   "kind": "quiz",
+   "bg": "barn",
+   "t0": 512.138,
+   "q": "WHERE DOES A BABY OWL LIVE?",
+   "vis": "owl",
+   "answer_t": 516.192,
+   "t1": 517.695
+  },
+  {
+   "kind": "finale",
+   "bg": "barn",
+   "t0": 517.695,
+   "nums": [
+    521.218,
+    522.24,
+    523.225,
+    524.211,
+    525.124
+   ],
+   "hatch_t": 526.757,
+   "t1": 529.392
+  },
+  {
+   "kind": "outro",
+   "bg": "barn",
+   "t0": 529.392,
+   "bye_t": 533.68,
+   "t1": 537.358
+  }
+ ],
+ "prompts": [
+  [
+   16.345,
+   18.345
+  ],
+  [
+   30.664,
+   32.664
+  ],
+  [
+   45.678,
+   47.678
+  ],
+  [
+   59.787,
+   61.787
+  ],
+  [
+   74.642,
+   76.642
+  ],
+  [
+   90.254,
+   92.254
+  ],
+  [
+   105.758,
+   107.758
+  ],
+  [
+   119.875,
+   121.875
+  ],
+  [
+   134.684,
+   136.684
+  ],
+  [
+   148.869,
+   150.869
+  ],
+  [
+   175.749,
+   178.349
+  ],
+  [
+   185.591,
+   188.591
+  ],
+  [
+   207.963,
+   209.963
+  ],
+  [
+   215.315,
+   217.315
+  ],
+  [
+   223.965,
+   225.965
+  ],
+  [
+   229.603,
+   231.603
+  ],
+  [
+   234.751,
+   236.751
+  ],
+  [
+   240.048,
+   242.048
+  ],
+  [
+   245.79,
+   247.79
+  ],
+  [
+   251.028,
+   253.028
+  ],
+  [
+   261.078,
+   262.878
+  ],
+  [
+   265.71,
+   267.51
+  ],
+  [
+   270.76,
+   272.56
+  ],
+  [
+   275.545,
+   277.345
+  ],
+  [
+   280.642,
+   282.442
+  ],
+  [
+   285.075,
+   286.875
+  ],
+  [
+   290.4,
+   292.2
+  ],
+  [
+   295.132,
+   296.932
+  ],
+  [
+   337.086,
+   338.686
+  ],
+  [
+   340.137,
+   341.737
+  ],
+  [
+   343.044,
+   344.644
+  ],
+  [
+   345.801,
+   347.401
+  ],
+  [
+   348.722,
+   350.322
+  ],
+  [
+   351.914,
+   353.514
+  ],
+  [
+   356.431,
+   357.331
+  ],
+  [
+   358.782,
+   359.682
+  ],
+  [
+   360.989,
+   361.889
+  ],
+  [
+   363.046,
+   363.946
+  ],
+  [
+   365.267,
+   366.167
+  ],
+  [
+   367.759,
+   368.659
+  ],
+  [
+   375.856,
+   377.656
+  ],
+  [
+   383.925,
+   385.725
+  ],
+  [
+   392.048,
+   393.848
+  ],
+  [
+   400.337,
+   402.137
+  ],
+  [
+   408.652,
+   410.452
+  ],
+  [
+   416.954,
+   418.754
+  ],
+  [
+   424.704,
+   426.504
+  ],
+  [
+   472.782,
+   475.182
+  ],
+  [
+   478.422,
+   480.822
+  ],
+  [
+   484.838,
+   487.238
+  ],
+  [
+   490.311,
+   492.711
+  ],
+  [
+   497.081,
+   499.481
+  ],
+  [
+   502.771,
+   505.171
+  ],
+  [
+   508.441,
+   510.841
+  ],
+  [
+   513.792,
+   516.192
+  ]
+ ],
+ "stars": [
+  19.245,
+  33.564,
+  48.578,
+  62.687,
+  77.542,
+  93.154,
+  108.658,
+  122.775,
+  137.584,
+  151.769,
+  194.636,
+  377.656,
+  385.725,
+  393.848,
+  402.137,
+  410.452,
+  418.754,
+  426.504,
+  476.652,
+  482.934,
+  488.676,
+  495.116,
+  500.835,
+  506.567,
+  512.138,
+  517.695
+ ],
+ "total": 537.36
+}

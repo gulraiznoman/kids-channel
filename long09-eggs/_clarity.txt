@@ -1,0 +1,13 @@
+MISS mishu A baby chick! Cheep cheep! -> A baby check cheap cheap
+MISS gul Five baby chicks! Cheep, cheep, cheep! -> Five baby chicks cheap cheap cheap
+MISS both Wiggle, wiggle, wiggle! -> Wickel Wickel Wickels
+MISS both Flap your little wings! -> Black or little wings?
+MISS both Cheep cheep! Hello world! -> Cheap Cheap Hello World
+MISS mishu Hoo hoo! A baby owl! -> Hushu a baby owl
+MISS mishu Cheep cheep! A baby chick! -> Cheap, cheap, a baby check.
+MISS gul Wow! -> Well
+MISS gul Where do baby sea turtles run? -> Where do babies see turtles run?
+MISS gul Cheep cheep! -> Cheap cheap
+MISS both Hatch! -> I
+MISS both Bye bye, friends! Cheep cheep! -> Bye-bye friends cheap cheap
+147/159 distinct lines clear
