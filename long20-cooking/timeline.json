@@ -1,0 +1,2775 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Let's cook!",
+   "t": 0.3,
+   "dur": 0.743
+  },
+  {
+   "who": "mishu",
+   "text": "Today, we're making yummy pizza, a smoothie, and rainbow fruit sticks!",
+   "t": 1.393,
+   "dur": 3.91
+  },
+  {
+   "who": "gul",
+   "text": "Come and cook with us! Let's go!",
+   "t": 5.652,
+   "dur": 1.599
+  },
+  {
+   "who": "gul",
+   "text": "First, let's get ready to be chefs!",
+   "t": 8.302,
+   "dur": 1.704
+  },
+  {
+   "who": "mishu",
+   "text": "First, wash your hands with soap! Scrub, scrub!",
+   "t": 10.455,
+   "dur": 2.832
+  },
+  {
+   "who": "gul",
+   "text": "Put on your apron!",
+   "t": 13.938,
+   "dur": 1.053
+  },
+  {
+   "who": "mishu",
+   "text": "And a chef hat! Now we're real chefs!",
+   "t": 15.641,
+   "dur": 2.174
+  },
+  {
+   "who": "mishu",
+   "text": "Kitchens can be hot! Let's learn the safety rules!",
+   "t": 18.964,
+   "dur": 2.71
+  },
+  {
+   "who": "gul",
+   "text": "Always cook with a grown-up!",
+   "t": 22.124,
+   "dur": 1.323
+  },
+  {
+   "who": "mishu",
+   "text": "The oven is hot! Don't touch!",
+   "t": 24.098,
+   "dur": 1.679
+  },
+  {
+   "who": "gul",
+   "text": "Grown-ups use oven mitts for hot things!",
+   "t": 26.427,
+   "dur": 2.073
+  },
+  {
+   "who": "mishu",
+   "text": "Only grown-ups use sharp knives!",
+   "t": 29.15,
+   "dur": 1.811
+  },
+  {
+   "who": "gul",
+   "text": "Let's learn the kitchen tools! Say them with us!",
+   "t": 32.111,
+   "dur": 2.352
+  },
+  {
+   "who": "mishu",
+   "text": "Rolling pin!",
+   "t": 34.913,
+   "dur": 0.811
+  },
+  {
+   "who": "gul",
+   "text": "It rolls dough flat!",
+   "t": 36.974,
+   "dur": 1.228
+  },
+  {
+   "who": "gul",
+   "text": "Whisk!",
+   "t": 38.752,
+   "dur": 0.517
+  },
+  {
+   "who": "mishu",
+   "text": "It mixes things fast! Whisk, whisk!",
+   "t": 40.519,
+   "dur": 2.218
+  },
+  {
+   "who": "mishu",
+   "text": "Bowl!",
+   "t": 43.287,
+   "dur": 0.51
+  },
+  {
+   "who": "gul",
+   "text": "We mix things in it!",
+   "t": 45.047,
+   "dur": 1.099
+  },
+  {
+   "who": "gul",
+   "text": "Spoon!",
+   "t": 46.696,
+   "dur": 0.61
+  },
+  {
+   "who": "mishu",
+   "text": "Stir, stir, stir!",
+   "t": 48.557,
+   "dur": 1.069
+  },
+  {
+   "who": "mishu",
+   "text": "Oven mitt!",
+   "t": 50.175,
+   "dur": 0.73
+  },
+  {
+   "who": "gul",
+   "text": "It keeps hands safe from hot things!",
+   "t": 52.155,
+   "dur": 1.788
+  },
+  {
+   "who": "gul",
+   "text": "Blender!",
+   "t": 54.493,
+   "dur": 0.565
+  },
+  {
+   "who": "mishu",
+   "text": "It blends fruit into a smoothie! Vrrrr!",
+   "t": 56.308,
+   "dur": 2.895
+  },
+  {
+   "who": "mishu",
+   "text": "Oven!",
+   "t": 59.754,
+   "dur": 0.503
+  },
+  {
+   "who": "gul",
+   "text": "It bakes food nice and hot!",
+   "t": 61.506,
+   "dur": 1.504
+  },
+  {
+   "who": "mishu",
+   "text": "What do we need to make pizza? Let's see!",
+   "t": 64.061,
+   "dur": 2.069
+  },
+  {
+   "who": "gul",
+   "text": "Flour, to make the dough!",
+   "t": 66.58,
+   "dur": 1.255
+  },
+  {
+   "who": "mishu",
+   "text": "Tomato sauce! Red and yummy!",
+   "t": 68.235,
+   "dur": 1.823
+  },
+  {
+   "who": "gul",
+   "text": "Cheese! Lots of cheese!",
+   "t": 70.459,
+   "dur": 1.255
+  },
+  {
+   "who": "mishu",
+   "text": "Olives!",
+   "t": 72.114,
+   "dur": 0.565
+  },
+  {
+   "who": "gul",
+   "text": "Green peppers!",
+   "t": 73.078,
+   "dur": 0.912
+  },
+  {
+   "who": "mishu",
+   "text": "Mushrooms!",
+   "t": 74.39,
+   "dur": 0.782
+  },
+  {
+   "who": "both",
+   "text": "Six things! Let's make pizza!",
+   "t": 75.572,
+   "dur": 1.695
+  },
+  {
+   "who": "gul",
+   "text": "Step by step! Let's make pizza!",
+   "t": 78.417,
+   "dur": 1.707
+  },
+  {
+   "who": "mishu",
+   "text": "Mix the flour and water in a bowl. Stir, stir, stir!",
+   "t": 80.574,
+   "dur": 3.267
+  },
+  {
+   "who": "gul",
+   "text": "Squish the dough with your hands! Push and squish!",
+   "t": 84.591,
+   "dur": 2.295
+  },
+  {
+   "who": "mishu",
+   "text": "Roll it flat with the rolling pin. Roll, roll, roll!",
+   "t": 87.636,
+   "dur": 2.907
+  },
+  {
+   "who": "gul",
+   "text": "Spread the red tomato sauce! Round and round!",
+   "t": 91.294,
+   "dur": 2.596
+  },
+  {
+   "who": "mishu",
+   "text": "Sprinkle the cheese! Sprinkle, sprinkle!",
+   "t": 94.64,
+   "dur": 2.404
+  },
+  {
+   "who": "gul",
+   "text": "A grown-up puts it in the hot oven. Bake, bake, bake!",
+   "t": 97.793,
+   "dur": 2.949
+  },
+  {
+   "who": "mishu",
+   "text": "Let's put toppings on our pizza! Count with us!",
+   "t": 101.992,
+   "dur": 2.675
+  },
+  {
+   "who": "gul",
+   "text": "Now, olives!",
+   "t": 105.117,
+   "dur": 0.829
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 106.196,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 106.953,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 107.687,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 108.495,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 109.296,
+   "dur": 0.576
+  },
+  {
+   "who": "mishu",
+   "text": "Five olives!",
+   "t": 110.142,
+   "dur": 0.847
+  },
+  {
+   "who": "mishu",
+   "text": "Now, green peppers!",
+   "t": 111.639,
+   "dur": 1.175
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 113.064,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 113.82,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 114.554,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 115.362,
+   "dur": 0.531
+  },
+  {
+   "who": "gul",
+   "text": "Four green peppers!",
+   "t": 116.163,
+   "dur": 1.107
+  },
+  {
+   "who": "gul",
+   "text": "Now, mushrooms!",
+   "t": 117.921,
+   "dur": 0.942
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 119.112,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 119.868,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 120.603,
+   "dur": 0.538
+  },
+  {
+   "who": "mishu",
+   "text": "Three mushrooms!",
+   "t": 121.411,
+   "dur": 0.906
+  },
+  {
+   "who": "gul",
+   "text": "Ding! The pizza is ready!",
+   "t": 123.966,
+   "dur": 1.356
+  },
+  {
+   "who": "mishu",
+   "text": "A grown-up takes it out, with oven mitts! Ta-da! Hot pizza!",
+   "t": 125.672,
+   "dur": 3.523
+  },
+  {
+   "who": "gul",
+   "text": "Let's cut the pizza into slices!",
+   "t": 130.345,
+   "dur": 1.796
+  },
+  {
+   "who": "mishu",
+   "text": "Cut it in half! Two pieces! One for Gul, one for Mishu!",
+   "t": 132.591,
+   "dur": 3.459
+  },
+  {
+   "who": "gul",
+   "text": "Cut it again! Four pieces! For the whole family!",
+   "t": 136.8,
+   "dur": 2.432
+  },
+  {
+   "who": "mishu",
+   "text": "And again! Eight slices! Let's count them!",
+   "t": 139.982,
+   "dur": 2.224
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 142.556,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 143.293,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 144.007,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 144.795,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 145.576,
+   "dur": 0.576
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 146.402,
+   "dur": 0.581
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 147.233,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 148.091,
+   "dur": 0.505
+  },
+  {
+   "who": "mishu",
+   "text": "Let's make a silly pizza face!",
+   "t": 149.246,
+   "dur": 1.755
+  },
+  {
+   "who": "gul",
+   "text": "Two olive eyes!",
+   "t": 151.251,
+   "dur": 1.052
+  },
+  {
+   "who": "gul",
+   "text": "A mushroom nose!",
+   "t": 152.703,
+   "dur": 1.112
+  },
+  {
+   "who": "gul",
+   "text": "And a pepper smile!",
+   "t": 154.215,
+   "dur": 1.122
+  },
+  {
+   "who": "both",
+   "text": "Hello, Mister Pizza! Ha ha!",
+   "t": 155.737,
+   "dur": 1.825
+  },
+  {
+   "who": "gul",
+   "text": "Next recipe! Fluffy pancakes!",
+   "t": 158.711,
+   "dur": 1.947
+  },
+  {
+   "who": "mishu",
+   "text": "Crack an egg into the bowl. Crack!",
+   "t": 161.108,
+   "dur": 2.033
+  },
+  {
+   "who": "gul",
+   "text": "Add flour!",
+   "t": 163.791,
+   "dur": 0.797
+  },
+  {
+   "who": "mishu",
+   "text": "Pour in milk!",
+   "t": 165.238,
+   "dur": 0.796
+  },
+  {
+   "who": "gul",
+   "text": "Whisk, whisk, whisk! Nice and smooth!",
+   "t": 166.684,
+   "dur": 1.887
+  },
+  {
+   "who": "mishu",
+   "text": "A grown-up cooks it in a hot pan. Sizzle!",
+   "t": 169.221,
+   "dur": 2.513
+  },
+  {
+   "who": "gul",
+   "text": "Flip the pancake! Up, and over!",
+   "t": 172.383,
+   "dur": 1.737
+  },
+  {
+   "who": "mishu",
+   "text": "Add strawberries and banana on top! Yummy pancakes!",
+   "t": 174.771,
+   "dur": 3.348
+  },
+  {
+   "who": "mishu",
+   "text": "We baked cookies too! Let's count them!",
+   "t": 178.769,
+   "dur": 2.086
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 181.105,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 181.862,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 182.596,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 183.404,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 184.205,
+   "dur": 0.576
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 185.051,
+   "dur": 0.581
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 185.902,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 186.78,
+   "dur": 0.505
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 187.555,
+   "dur": 0.542
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 188.367,
+   "dur": 0.503
+  },
+  {
+   "who": "gul",
+   "text": "Ten cookies! Let's share them!",
+   "t": 189.14,
+   "dur": 1.404
+  },
+  {
+   "who": "mishu",
+   "text": "Now let's make a cold, yummy smoothie!",
+   "t": 191.694,
+   "dur": 1.996
+  },
+  {
+   "who": "gul",
+   "text": "Add red strawberries!",
+   "t": 194.14,
+   "dur": 1.267
+  },
+  {
+   "who": "mishu",
+   "text": "Add a yellow banana!",
+   "t": 195.857,
+   "dur": 1.111
+  },
+  {
+   "who": "gul",
+   "text": "Pour in some milk!",
+   "t": 197.418,
+   "dur": 1.003
+  },
+  {
+   "who": "mishu",
+   "text": "A grown-up turns on the blender! Vrrrr!",
+   "t": 198.871,
+   "dur": 2.92
+  },
+  {
+   "who": "gul",
+   "text": "Pour it in a cup! A pink smoothie!",
+   "t": 202.441,
+   "dur": 1.579
+  },
+  {
+   "who": "both",
+   "text": "Slurp! Yummy!",
+   "t": 204.469,
+   "dur": 0.947
+  },
+  {
+   "who": "mishu",
+   "text": "Let's build a sandwich! Count the layers!",
+   "t": 206.566,
+   "dur": 2.257
+  },
+  {
+   "who": "gul",
+   "text": "One! A slice of bread!",
+   "t": 209.273,
+   "dur": 1.336
+  },
+  {
+   "who": "mishu",
+   "text": "Two! A slice of cheese!",
+   "t": 211.06,
+   "dur": 1.441
+  },
+  {
+   "who": "gul",
+   "text": "Three! Red tomato!",
+   "t": 212.951,
+   "dur": 1.099
+  },
+  {
+   "who": "mishu",
+   "text": "Four! Green lettuce!",
+   "t": 214.5,
+   "dur": 1.222
+  },
+  {
+   "who": "gul",
+   "text": "Five! And bread on top!",
+   "t": 216.173,
+   "dur": 1.327
+  },
+  {
+   "who": "both",
+   "text": "Five layers! A yummy sandwich!",
+   "t": 217.95,
+   "dur": 1.891
+  },
+  {
+   "who": "gul",
+   "text": "Let's make a rainbow with fruit! What colour is it?",
+   "t": 220.99,
+   "dur": 2.623
+  },
+  {
+   "who": "mishu",
+   "text": "What colour?",
+   "t": 224.063,
+   "dur": 0.73
+  },
+  {
+   "who": "gul",
+   "text": "Red strawberry!",
+   "t": 226.343,
+   "dur": 0.948
+  },
+  {
+   "who": "gul",
+   "text": "What colour?",
+   "t": 227.741,
+   "dur": 0.749
+  },
+  {
+   "who": "mishu",
+   "text": "Orange orange!",
+   "t": 230.04,
+   "dur": 0.956
+  },
+  {
+   "who": "mishu",
+   "text": "What colour?",
+   "t": 231.445,
+   "dur": 0.73
+  },
+  {
+   "who": "gul",
+   "text": "Yellow pineapple!",
+   "t": 233.725,
+   "dur": 0.995
+  },
+  {
+   "who": "gul",
+   "text": "What colour?",
+   "t": 235.17,
+   "dur": 0.749
+  },
+  {
+   "who": "mishu",
+   "text": "Green kiwi!",
+   "t": 237.469,
+   "dur": 0.764
+  },
+  {
+   "who": "mishu",
+   "text": "What colour?",
+   "t": 238.682,
+   "dur": 0.73
+  },
+  {
+   "who": "gul",
+   "text": "Purple grapes!",
+   "t": 240.962,
+   "dur": 0.917
+  },
+  {
+   "who": "both",
+   "text": "A rainbow fruit stick! So healthy!",
+   "t": 242.329,
+   "dur": 2.205
+  },
+  {
+   "who": "gul",
+   "text": "It's hot outside! Let's make frozen fruit pops!",
+   "t": 245.684,
+   "dur": 2.666
+  },
+  {
+   "who": "mishu",
+   "text": "Pour fruit juice into the moulds.",
+   "t": 248.8,
+   "dur": 1.632
+  },
+  {
+   "who": "gul",
+   "text": "Put in the sticks.",
+   "t": 251.082,
+   "dur": 0.895
+  },
+  {
+   "who": "mishu",
+   "text": "Put them in the freezer. Brrr! Wait, wait, wait!",
+   "t": 252.627,
+   "dur": 3.044
+  },
+  {
+   "who": "gul",
+   "text": "Ta-da! Frozen fruit pops! Cold and yummy!",
+   "t": 256.321,
+   "dur": 2.238
+  },
+  {
+   "who": "mishu",
+   "text": "Chefs measure things! Is the cup full, or empty?",
+   "t": 259.709,
+   "dur": 2.832
+  },
+  {
+   "who": "gul",
+   "text": "Full, or empty?",
+   "t": 262.991,
+   "dur": 1.086
+  },
+  {
+   "who": "mishu",
+   "text": "This cup is full!",
+   "t": 265.927,
+   "dur": 0.961
+  },
+  {
+   "who": "mishu",
+   "text": "Full, or empty?",
+   "t": 267.438,
+   "dur": 1.014
+  },
+  {
+   "who": "gul",
+   "text": "This cup is empty!",
+   "t": 270.302,
+   "dur": 1.151
+  },
+  {
+   "who": "gul",
+   "text": "Full, or empty?",
+   "t": 272.003,
+   "dur": 1.086
+  },
+  {
+   "who": "mishu",
+   "text": "And this cup is half full!",
+   "t": 274.939,
+   "dur": 1.297
+  },
+  {
+   "who": "mishu",
+   "text": "How does it taste? Let's learn taste words!",
+   "t": 277.286,
+   "dur": 2.411
+  },
+  {
+   "who": "gul",
+   "text": "Bananas taste sweet!",
+   "t": 280.147,
+   "dur": 1.229
+  },
+  {
+   "who": "mishu",
+   "text": "Carrots are crunchy! Crunch, crunch!",
+   "t": 282.626,
+   "dur": 2.044
+  },
+  {
+   "who": "gul",
+   "text": "Watermelon is juicy!",
+   "t": 285.92,
+   "dur": 1.355
+  },
+  {
+   "who": "mishu",
+   "text": "Chips are salty!",
+   "t": 288.525,
+   "dur": 1.034
+  },
+  {
+   "who": "gul",
+   "text": "Cheese is soft and yummy!",
+   "t": 290.81,
+   "dur": 1.391
+  },
+  {
+   "who": "mishu",
+   "text": "Ice cream is cold and creamy!",
+   "t": 293.451,
+   "dur": 1.592
+  },
+  {
+   "who": "gul",
+   "text": "Pizza is warm and cheesy!",
+   "t": 296.292,
+   "dur": 1.4
+  },
+  {
+   "who": "gul",
+   "text": "Listen! What's that kitchen sound?",
+   "t": 299.443,
+   "dur": 1.647
+  },
+  {
+   "who": "mishu",
+   "text": "What is it?",
+   "t": 303.44,
+   "dur": 0.676
+  },
+  {
+   "who": "gul",
+   "text": "Sizzle, sizzle! Something cooking in the pan!",
+   "t": 305.866,
+   "dur": 2.363
+  },
+  {
+   "who": "gul",
+   "text": "What is it?",
+   "t": 310.679,
+   "dur": 0.721
+  },
+  {
+   "who": "mishu",
+   "text": "Chop, chop! A grown-up is chopping!",
+   "t": 313.15,
+   "dur": 1.914
+  },
+  {
+   "who": "mishu",
+   "text": "What is it?",
+   "t": 317.514,
+   "dur": 0.676
+  },
+  {
+   "who": "gul",
+   "text": "Vrrrr! The blender!",
+   "t": 319.94,
+   "dur": 1.671
+  },
+  {
+   "who": "gul",
+   "text": "What is it?",
+   "t": 324.062,
+   "dur": 0.721
+  },
+  {
+   "who": "mishu",
+   "text": "Ding! The oven! Food is ready!",
+   "t": 326.533,
+   "dur": 1.686
+  },
+  {
+   "who": "mishu",
+   "text": "Is it a healthy food, or a treat?",
+   "t": 329.269,
+   "dur": 1.879
+  },
+  {
+   "who": "gul",
+   "text": "Broccoli? Healthy, or a treat?",
+   "t": 331.598,
+   "dur": 1.603
+  },
+  {
+   "who": "mishu",
+   "text": "Healthy! Makes you strong!",
+   "t": 335.051,
+   "dur": 1.33
+  },
+  {
+   "who": "mishu",
+   "text": "A donut? Healthy, or a treat?",
+   "t": 336.931,
+   "dur": 1.895
+  },
+  {
+   "who": "gul",
+   "text": "A treat! Just a little bit!",
+   "t": 340.676,
+   "dur": 1.375
+  },
+  {
+   "who": "gul",
+   "text": "An apple? Healthy, or a treat?",
+   "t": 342.601,
+   "dur": 1.573
+  },
+  {
+   "who": "mishu",
+   "text": "Healthy! Crunch!",
+   "t": 346.024,
+   "dur": 1.086
+  },
+  {
+   "who": "mishu",
+   "text": "A cupcake? Healthy, or a treat?",
+   "t": 347.66,
+   "dur": 1.877
+  },
+  {
+   "who": "gul",
+   "text": "A treat! Yummy, but just sometimes!",
+   "t": 351.388,
+   "dur": 1.91
+  },
+  {
+   "who": "gul",
+   "text": "A carrot? Healthy, or a treat?",
+   "t": 353.848,
+   "dur": 1.631
+  },
+  {
+   "who": "mishu",
+   "text": "Healthy! Good for your eyes!",
+   "t": 357.329,
+   "dur": 1.466
+  },
+  {
+   "who": "mishu",
+   "text": "Chips? Healthy, or a treat?",
+   "t": 359.345,
+   "dur": 1.648
+  },
+  {
+   "who": "gul",
+   "text": "A treat! Just a few!",
+   "t": 362.843,
+   "dur": 1.274
+  },
+  {
+   "who": "gul",
+   "text": "Is it hot, or cold? You tell us!",
+   "t": 365.167,
+   "dur": 1.852
+  },
+  {
+   "who": "mishu",
+   "text": "Pizza from the oven! Hot, or cold?",
+   "t": 367.469,
+   "dur": 2.222
+  },
+  {
+   "who": "gul",
+   "text": "Hot! Don't touch!",
+   "t": 371.541,
+   "dur": 0.897
+  },
+  {
+   "who": "gul",
+   "text": "Ice cream! Hot, or cold?",
+   "t": 372.988,
+   "dur": 1.512
+  },
+  {
+   "who": "mishu",
+   "text": "Cold! Brrr!",
+   "t": 376.35,
+   "dur": 1.332
+  },
+  {
+   "who": "mishu",
+   "text": "Soup in a pot! Hot, or cold?",
+   "t": 378.232,
+   "dur": 1.895
+  },
+  {
+   "who": "gul",
+   "text": "Hot! Don't touch!",
+   "t": 381.977,
+   "dur": 0.897
+  },
+  {
+   "who": "gul",
+   "text": "A smoothie! Hot, or cold?",
+   "t": 383.424,
+   "dur": 1.46
+  },
+  {
+   "who": "mishu",
+   "text": "Cold! Brrr!",
+   "t": 386.733,
+   "dur": 1.332
+  },
+  {
+   "who": "mishu",
+   "text": "The oven! Hot, or cold?",
+   "t": 388.616,
+   "dur": 1.488
+  },
+  {
+   "who": "gul",
+   "text": "Hot! Don't touch!",
+   "t": 391.954,
+   "dur": 0.897
+  },
+  {
+   "who": "gul",
+   "text": "Milk from the fridge! Hot, or cold?",
+   "t": 393.4,
+   "dur": 2.018
+  },
+  {
+   "who": "mishu",
+   "text": "Cold! Brrr!",
+   "t": 397.269,
+   "dur": 1.332
+  },
+  {
+   "who": "mishu",
+   "text": "Toast from the toaster! Hot, or cold?",
+   "t": 399.151,
+   "dur": 2.302
+  },
+  {
+   "who": "gul",
+   "text": "Hot! Don't touch!",
+   "t": 403.303,
+   "dur": 0.897
+  },
+  {
+   "who": "gul",
+   "text": "Frozen fruit pops! Hot, or cold?",
+   "t": 404.75,
+   "dur": 1.964
+  },
+  {
+   "who": "mishu",
+   "text": "Cold! Brrr!",
+   "t": 408.564,
+   "dur": 1.332
+  },
+  {
+   "who": "mishu",
+   "text": "Silly chef game! Which one do we need?",
+   "t": 410.946,
+   "dur": 2.148
+  },
+  {
+   "who": "gul",
+   "text": "To make pizza, we need...",
+   "t": 413.544,
+   "dur": 1.296
+  },
+  {
+   "who": "mishu",
+   "text": "Cheese!",
+   "t": 417.09,
+   "dur": 0.601
+  },
+  {
+   "who": "mishu",
+   "text": "To make a smoothie, we need...",
+   "t": 418.242,
+   "dur": 1.422
+  },
+  {
+   "who": "gul",
+   "text": "A blender!",
+   "t": 421.913,
+   "dur": 0.71
+  },
+  {
+   "who": "gul",
+   "text": "To roll the dough, we need...",
+   "t": 423.173,
+   "dur": 1.407
+  },
+  {
+   "who": "mishu",
+   "text": "A rolling pin!",
+   "t": 426.83,
+   "dur": 0.856
+  },
+  {
+   "who": "mishu",
+   "text": "To flip the pancake, we need...",
+   "t": 428.236,
+   "dur": 1.632
+  },
+  {
+   "who": "gul",
+   "text": "A pan!",
+   "t": 432.119,
+   "dur": 0.635
+  },
+  {
+   "who": "gul",
+   "text": "Food is ready! Let's set the table!",
+   "t": 433.804,
+   "dur": 1.739
+  },
+  {
+   "who": "mishu",
+   "text": "A plate!",
+   "t": 435.993,
+   "dur": 0.695
+  },
+  {
+   "who": "gul",
+   "text": "A spoon!",
+   "t": 437.138,
+   "dur": 0.704
+  },
+  {
+   "who": "mishu",
+   "text": "A cup!",
+   "t": 438.292,
+   "dur": 0.601
+  },
+  {
+   "who": "gul",
+   "text": "And a napkin! The table is ready! Let's eat!",
+   "t": 439.343,
+   "dur": 2.303
+  },
+  {
+   "who": "gul",
+   "text": "Good chefs always clean up!",
+   "t": 442.896,
+   "dur": 1.482
+  },
+  {
+   "who": "mishu",
+   "text": "Put the food away.",
+   "t": 444.828,
+   "dur": 0.974
+  },
+  {
+   "who": "gul",
+   "text": "Wash the dishes. Splash, splash!",
+   "t": 446.452,
+   "dur": 1.899
+  },
+  {
+   "who": "mishu",
+   "text": "Wipe the table.",
+   "t": 449.001,
+   "dur": 0.868
+  },
+  {
+   "who": "gul",
+   "text": "Wash your hands again!",
+   "t": 450.519,
+   "dur": 1.208
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! Let's do the cooking dance!",
+   "t": 452.876,
+   "dur": 1.908
+  },
+  {
+   "who": "both",
+   "text": "Stir the pot!",
+   "t": 455.234,
+   "dur": 0.859
+  },
+  {
+   "who": "both",
+   "text": "Squish the dough!",
+   "t": 457.844,
+   "dur": 0.969
+  },
+  {
+   "who": "both",
+   "text": "Roll it flat!",
+   "t": 460.562,
+   "dur": 0.892
+  },
+  {
+   "who": "both",
+   "text": "Sprinkle the cheese!",
+   "t": 463.205,
+   "dur": 1.089
+  },
+  {
+   "who": "both",
+   "text": "Chop, chop, chop!",
+   "t": 466.044,
+   "dur": 1.106
+  },
+  {
+   "who": "both",
+   "text": "Yummy in my tummy!",
+   "t": 468.9,
+   "dur": 1.088
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 471.738,
+   "dur": 1.019
+  },
+  {
+   "who": "both",
+   "text": "Stir the pot!",
+   "t": 473.107,
+   "dur": 0.859
+  },
+  {
+   "who": "both",
+   "text": "Squish the dough!",
+   "t": 475.016,
+   "dur": 0.969
+  },
+  {
+   "who": "both",
+   "text": "Roll it flat!",
+   "t": 477.035,
+   "dur": 0.892
+  },
+  {
+   "who": "both",
+   "text": "Sprinkle the cheese!",
+   "t": 478.977,
+   "dur": 1.089
+  },
+  {
+   "who": "both",
+   "text": "Chop, chop, chop!",
+   "t": 481.117,
+   "dur": 1.106
+  },
+  {
+   "who": "both",
+   "text": "Yummy in my tummy!",
+   "t": 483.273,
+   "dur": 1.088
+  },
+  {
+   "who": "gul",
+   "text": "Quick quiz time! Are you ready?",
+   "t": 485.911,
+   "dur": 1.512
+  },
+  {
+   "who": "gul",
+   "text": "What do we wash before cooking?",
+   "t": 487.873,
+   "dur": 1.551
+  },
+  {
+   "who": "mishu",
+   "text": "Our hands!",
+   "t": 492.074,
+   "dur": 0.714
+  },
+  {
+   "who": "mishu",
+   "text": "What rolls the dough flat?",
+   "t": 493.438,
+   "dur": 1.307
+  },
+  {
+   "who": "gul",
+   "text": "A rolling pin!",
+   "t": 497.395,
+   "dur": 0.947
+  },
+  {
+   "who": "gul",
+   "text": "Is the oven hot or cold?",
+   "t": 498.992,
+   "dur": 1.606
+  },
+  {
+   "who": "mishu",
+   "text": "Hot! Don't touch!",
+   "t": 503.248,
+   "dur": 1.023
+  },
+  {
+   "who": "mishu",
+   "text": "What red sauce goes on pizza?",
+   "t": 504.921,
+   "dur": 1.603
+  },
+  {
+   "who": "gul",
+   "text": "Tomato sauce!",
+   "t": 509.174,
+   "dur": 0.975
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you for cooking with us, little chefs!",
+   "t": 510.799,
+   "dur": 2.038
+  },
+  {
+   "who": "both",
+   "text": "Yummy! Bye bye!",
+   "t": 513.188,
+   "dur": 1.145
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "kitchen",
+   "t0": 0.0,
+   "title_t": 0.3,
+   "kids_t": 1.393,
+   "t1": 7.802
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 7.802,
+   "title": "LITTLE CHEFS!",
+   "t1": 10.455
+  },
+  {
+   "kind": "chef",
+   "bg": "kitchen",
+   "t0": 10.455,
+   "key": "hands",
+   "num": 1,
+   "say_t": 10.455,
+   "t1": 13.938
+  },
+  {
+   "kind": "chef",
+   "bg": "kitchen",
+   "t0": 13.938,
+   "key": "apron",
+   "num": 2,
+   "say_t": 13.938,
+   "t1": 15.641
+  },
+  {
+   "kind": "chef",
+   "bg": "kitchen",
+   "t0": 15.641,
+   "key": "chefhat",
+   "num": 3,
+   "say_t": 15.641,
+   "t1": 18.464
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 18.464,
+   "title": "KITCHEN SAFETY!",
+   "t1": 22.124
+  },
+  {
+   "kind": "safety",
+   "bg": "kitchen",
+   "t0": 22.124,
+   "key": "hands",
+   "ok": true,
+   "say_t": 22.124,
+   "t1": 24.098
+  },
+  {
+   "kind": "safety",
+   "bg": "kitchen",
+   "t0": 24.098,
+   "key": "oven",
+   "ok": false,
+   "say_t": 24.098,
+   "t1": 26.427
+  },
+  {
+   "kind": "safety",
+   "bg": "kitchen",
+   "t0": 26.427,
+   "key": "mitt",
+   "ok": true,
+   "say_t": 26.427,
+   "t1": 29.15
+  },
+  {
+   "kind": "safety",
+   "bg": "kitchen",
+   "t0": 29.15,
+   "key": "knife",
+   "ok": false,
+   "say_t": 29.15,
+   "t1": 31.611
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 31.611,
+   "title": "KITCHEN TOOLS!",
+   "t1": 34.913
+  },
+  {
+   "kind": "tool",
+   "bg": "kitchen",
+   "t0": 34.913,
+   "key": "rollingpin",
+   "w": "ROLLING PIN",
+   "num": 1,
+   "say_t": 34.913,
+   "t1": 38.752
+  },
+  {
+   "kind": "tool",
+   "bg": "kitchen",
+   "t0": 38.752,
+   "key": "whisk",
+   "w": "WHISK",
+   "num": 2,
+   "say_t": 38.752,
+   "t1": 43.287
+  },
+  {
+   "kind": "tool",
+   "bg": "kitchen",
+   "t0": 43.287,
+   "key": "bowl",
+   "w": "BOWL",
+   "num": 3,
+   "say_t": 43.287,
+   "t1": 46.696
+  },
+  {
+   "kind": "tool",
+   "bg": "kitchen",
+   "t0": 46.696,
+   "key": "spoon",
+   "w": "SPOON",
+   "num": 4,
+   "say_t": 46.696,
+   "t1": 50.175
+  },
+  {
+   "kind": "tool",
+   "bg": "kitchen",
+   "t0": 50.175,
+   "key": "mitt",
+   "w": "OVEN MITT",
+   "num": 5,
+   "say_t": 50.175,
+   "t1": 54.493
+  },
+  {
+   "kind": "tool",
+   "bg": "kitchen",
+   "t0": 54.493,
+   "key": "blender",
+   "w": "BLENDER",
+   "num": 6,
+   "say_t": 54.493,
+   "t1": 59.754
+  },
+  {
+   "kind": "tool",
+   "bg": "kitchen",
+   "t0": 59.754,
+   "key": "oven",
+   "w": "OVEN",
+   "num": 7,
+   "say_t": 59.754,
+   "t1": 63.561
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 63.561,
+   "title": "PIZZA INGREDIENTS!",
+   "t1": 66.58
+  },
+  {
+   "kind": "ingred",
+   "bg": "kitchen",
+   "t0": 66.58,
+   "ts": [
+    66.58,
+    68.235,
+    70.459,
+    72.114,
+    73.078,
+    74.39
+   ],
+   "sum_t": 75.572,
+   "t1": 77.917
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 77.917,
+   "title": "LET'S MAKE PIZZA!",
+   "t1": 80.574
+  },
+  {
+   "kind": "step",
+   "bg": "kitchen",
+   "t0": 80.574,
+   "key": "mix",
+   "num": 1,
+   "say_t": 80.574,
+   "t1": 84.591
+  },
+  {
+   "kind": "step",
+   "bg": "kitchen",
+   "t0": 84.591,
+   "key": "knead",
+   "num": 2,
+   "say_t": 84.591,
+   "t1": 87.636
+  },
+  {
+   "kind": "step",
+   "bg": "kitchen",
+   "t0": 87.636,
+   "key": "roll",
+   "num": 3,
+   "say_t": 87.636,
+   "t1": 91.294
+  },
+  {
+   "kind": "step",
+   "bg": "kitchen",
+   "t0": 91.294,
+   "key": "sauce",
+   "num": 4,
+   "say_t": 91.294,
+   "t1": 94.64
+  },
+  {
+   "kind": "step",
+   "bg": "kitchen",
+   "t0": 94.64,
+   "key": "cheese",
+   "num": 5,
+   "say_t": 94.64,
+   "t1": 97.793
+  },
+  {
+   "kind": "step",
+   "bg": "kitchen",
+   "t0": 97.793,
+   "key": "bake",
+   "num": 6,
+   "say_t": 97.793,
+   "t1": 101.492
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 101.492,
+   "title": "COUNT THE TOPPINGS!",
+   "t1": 105.117
+  },
+  {
+   "kind": "tops",
+   "bg": "kitchen",
+   "t0": 105.117,
+   "stage": 0,
+   "n": 5,
+   "cts": [
+    106.196,
+    106.953,
+    107.687,
+    108.495,
+    109.296
+   ],
+   "sum_t": 110.142,
+   "t1": 111.639
+  },
+  {
+   "kind": "tops",
+   "bg": "kitchen",
+   "t0": 111.639,
+   "stage": 1,
+   "n": 4,
+   "cts": [
+    113.064,
+    113.82,
+    114.554,
+    115.362
+   ],
+   "sum_t": 116.163,
+   "t1": 117.921
+  },
+  {
+   "kind": "tops",
+   "bg": "kitchen",
+   "t0": 117.921,
+   "stage": 2,
+   "n": 3,
+   "cts": [
+    119.112,
+    119.868,
+    120.603
+   ],
+   "sum_t": 121.411,
+   "t1": 122.966
+  },
+  {
+   "kind": "baked",
+   "bg": "kitchen",
+   "t0": 122.966,
+   "ding_t": 122.966,
+   "out_t": 125.672,
+   "t1": 129.845
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 129.845,
+   "title": "SLICE THE PIZZA!",
+   "t1": 132.591
+  },
+  {
+   "kind": "slice",
+   "bg": "kitchen",
+   "t0": 132.591,
+   "n": 2,
+   "say_t": 132.591,
+   "t1": 136.8
+  },
+  {
+   "kind": "slice",
+   "bg": "kitchen",
+   "t0": 136.8,
+   "n": 4,
+   "say_t": 136.8,
+   "t1": 139.982
+  },
+  {
+   "kind": "slice",
+   "bg": "kitchen",
+   "t0": 139.982,
+   "n": 8,
+   "say_t": 139.982,
+   "cts": [
+    142.556,
+    143.293,
+    144.007,
+    144.795,
+    145.576,
+    146.402,
+    147.233,
+    148.091
+   ],
+   "t1": 149.246
+  },
+  {
+   "kind": "pizzaface",
+   "bg": "kitchen",
+   "t0": 149.246,
+   "ts": [
+    151.251,
+    152.703,
+    154.215
+   ],
+   "done_t": 155.737,
+   "t1": 158.211
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 158.211,
+   "title": "LET'S MAKE PANCAKES!",
+   "t1": 161.108
+  },
+  {
+   "kind": "pancake",
+   "bg": "kitchen",
+   "t0": 161.108,
+   "key": "egg",
+   "num": 1,
+   "say_t": 161.108,
+   "t1": 163.791
+  },
+  {
+   "kind": "pancake",
+   "bg": "kitchen",
+   "t0": 163.791,
+   "key": "flour",
+   "num": 2,
+   "say_t": 163.791,
+   "t1": 165.238
+  },
+  {
+   "kind": "pancake",
+   "bg": "kitchen",
+   "t0": 165.238,
+   "key": "milk",
+   "num": 3,
+   "say_t": 165.238,
+   "t1": 166.684
+  },
+  {
+   "kind": "pancake",
+   "bg": "kitchen",
+   "t0": 166.684,
+   "key": "whisk",
+   "num": 4,
+   "say_t": 166.684,
+   "t1": 169.221
+  },
+  {
+   "kind": "pancake",
+   "bg": "kitchen",
+   "t0": 169.221,
+   "key": "pan",
+   "num": 5,
+   "say_t": 169.221,
+   "t1": 172.383
+  },
+  {
+   "kind": "pancake",
+   "bg": "kitchen",
+   "t0": 172.383,
+   "key": "flip",
+   "num": 6,
+   "say_t": 172.383,
+   "t1": 174.771
+  },
+  {
+   "kind": "pancake",
+   "bg": "kitchen",
+   "t0": 174.771,
+   "key": "stack",
+   "num": 7,
+   "say_t": 174.771,
+   "t1": 178.769
+  },
+  {
+   "kind": "tray",
+   "bg": "kitchen",
+   "t0": 178.769,
+   "cts": [
+    181.105,
+    181.862,
+    182.596,
+    183.404,
+    184.205,
+    185.051,
+    185.902,
+    186.78,
+    187.555,
+    188.367
+   ],
+   "sum_t": 189.14,
+   "t1": 191.194
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 191.194,
+   "title": "MAKE A SMOOTHIE!",
+   "t1": 194.14
+  },
+  {
+   "kind": "smoothie",
+   "bg": "kitchen",
+   "t0": 194.14,
+   "ts": [
+    194.14,
+    195.857,
+    197.418,
+    198.871,
+    202.441
+   ],
+   "done_t": 204.469,
+   "t1": 206.066
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 206.066,
+   "title": "BUILD A SANDWICH!",
+   "t1": 209.273
+  },
+  {
+   "kind": "sandwich",
+   "bg": "kitchen",
+   "t0": 209.273,
+   "ts": [
+    209.273,
+    211.06,
+    212.951,
+    214.5,
+    216.173
+   ],
+   "done_t": 217.95,
+   "t1": 220.49
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 220.49,
+   "title": "RAINBOW FRUIT STICKS!",
+   "t1": 224.063
+  },
+  {
+   "kind": "kebab",
+   "bg": "kitchen",
+   "t0": 224.063,
+   "ts": [
+    226.343,
+    230.04,
+    233.725,
+    237.469,
+    240.962
+   ],
+   "done_t": 242.329,
+   "t1": 245.184
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 245.184,
+   "title": "FROZEN FRUIT POPS!",
+   "t1": 248.8
+  },
+  {
+   "kind": "pops",
+   "bg": "kitchen",
+   "t0": 248.8,
+   "key": "pour",
+   "num": 1,
+   "say_t": 248.8,
+   "t1": 251.082
+  },
+  {
+   "kind": "pops",
+   "bg": "kitchen",
+   "t0": 251.082,
+   "key": "stick",
+   "num": 2,
+   "say_t": 251.082,
+   "t1": 252.627
+  },
+  {
+   "kind": "pops",
+   "bg": "kitchen",
+   "t0": 252.627,
+   "key": "freeze",
+   "num": 3,
+   "say_t": 252.627,
+   "t1": 256.321
+  },
+  {
+   "kind": "pops",
+   "bg": "kitchen",
+   "t0": 256.321,
+   "key": "done",
+   "num": 4,
+   "say_t": 256.321,
+   "t1": 259.209
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 259.209,
+   "title": "FULL OR EMPTY?",
+   "t1": 262.991
+  },
+  {
+   "kind": "fullempty",
+   "bg": "kitchen",
+   "t0": 262.991,
+   "lvl": "full",
+   "answer_t": 265.927,
+   "t1": 267.438
+  },
+  {
+   "kind": "fullempty",
+   "bg": "kitchen",
+   "t0": 267.438,
+   "lvl": "empty",
+   "answer_t": 270.302,
+   "t1": 272.003
+  },
+  {
+   "kind": "fullempty",
+   "bg": "kitchen",
+   "t0": 272.003,
+   "lvl": "half",
+   "answer_t": 274.939,
+   "t1": 276.786
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 276.786,
+   "title": "TASTE WORDS!",
+   "t1": 280.147
+  },
+  {
+   "kind": "taste",
+   "bg": "kitchen",
+   "t0": 280.147,
+   "key": "banana",
+   "w": "SWEET",
+   "say_t": 280.147,
+   "t1": 282.626
+  },
+  {
+   "kind": "taste",
+   "bg": "kitchen",
+   "t0": 282.626,
+   "key": "carrot",
+   "w": "CRUNCHY",
+   "say_t": 282.626,
+   "t1": 285.92
+  },
+  {
+   "kind": "taste",
+   "bg": "kitchen",
+   "t0": 285.92,
+   "key": "watermelon",
+   "w": "JUICY",
+   "say_t": 285.92,
+   "t1": 288.525
+  },
+  {
+   "kind": "taste",
+   "bg": "kitchen",
+   "t0": 288.525,
+   "key": "chips",
+   "w": "SALTY",
+   "say_t": 288.525,
+   "t1": 290.81
+  },
+  {
+   "kind": "taste",
+   "bg": "kitchen",
+   "t0": 290.81,
+   "key": "cheese",
+   "w": "YUMMY",
+   "say_t": 290.81,
+   "t1": 293.451
+  },
+  {
+   "kind": "taste",
+   "bg": "kitchen",
+   "t0": 293.451,
+   "key": "icecream",
+   "w": "CREAMY",
+   "say_t": 293.451,
+   "t1": 296.292
+  },
+  {
+   "kind": "taste",
+   "bg": "kitchen",
+   "t0": 296.292,
+   "key": "pizza",
+   "w": "CHEESY",
+   "say_t": 296.292,
+   "t1": 298.943
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 298.943,
+   "title": "KITCHEN SOUNDS!",
+   "t1": 301.54
+  },
+  {
+   "kind": "ksound",
+   "bg": "kitchen",
+   "t0": 301.54,
+   "key": "pan",
+   "snd_t": 301.84,
+   "answer_t": 305.866,
+   "t1": 308.779
+  },
+  {
+   "kind": "ksound",
+   "bg": "kitchen",
+   "t0": 308.779,
+   "key": "knife",
+   "snd_t": 309.079,
+   "answer_t": 313.15,
+   "t1": 315.614
+  },
+  {
+   "kind": "ksound",
+   "bg": "kitchen",
+   "t0": 315.614,
+   "key": "blender",
+   "snd_t": 315.914,
+   "answer_t": 319.94,
+   "t1": 322.162
+  },
+  {
+   "kind": "ksound",
+   "bg": "kitchen",
+   "t0": 322.162,
+   "key": "oven",
+   "snd_t": 322.462,
+   "answer_t": 326.533,
+   "t1": 328.769
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 328.769,
+   "title": "HEALTHY OR TREAT?",
+   "t1": 331.598
+  },
+  {
+   "kind": "healthy",
+   "bg": "kitchen",
+   "t0": 331.598,
+   "key": "broccoli",
+   "good": true,
+   "answer_t": 335.051,
+   "t1": 336.931
+  },
+  {
+   "kind": "healthy",
+   "bg": "kitchen",
+   "t0": 336.931,
+   "key": "donut",
+   "good": false,
+   "answer_t": 340.676,
+   "t1": 342.601
+  },
+  {
+   "kind": "healthy",
+   "bg": "kitchen",
+   "t0": 342.601,
+   "key": "apple",
+   "good": true,
+   "answer_t": 346.024,
+   "t1": 347.66
+  },
+  {
+   "kind": "healthy",
+   "bg": "kitchen",
+   "t0": 347.66,
+   "key": "cupcake",
+   "good": false,
+   "answer_t": 351.388,
+   "t1": 353.848
+  },
+  {
+   "kind": "healthy",
+   "bg": "kitchen",
+   "t0": 353.848,
+   "key": "carrot",
+   "good": true,
+   "answer_t": 357.329,
+   "t1": 359.345
+  },
+  {
+   "kind": "healthy",
+   "bg": "kitchen",
+   "t0": 359.345,
+   "key": "chips",
+   "good": false,
+   "answer_t": 362.843,
+   "t1": 364.667
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 364.667,
+   "title": "HOT OR COLD?",
+   "t1": 367.469
+  },
+  {
+   "kind": "hotcold",
+   "bg": "kitchen",
+   "t0": 367.469,
+   "key": "pizza",
+   "hot": true,
+   "answer_t": 371.541,
+   "t1": 372.988
+  },
+  {
+   "kind": "hotcold",
+   "bg": "kitchen",
+   "t0": 372.988,
+   "key": "icecream",
+   "hot": false,
+   "answer_t": 376.35,
+   "t1": 378.232
+  },
+  {
+   "kind": "hotcold",
+   "bg": "kitchen",
+   "t0": 378.232,
+   "key": "pot",
+   "hot": true,
+   "answer_t": 381.977,
+   "t1": 383.424
+  },
+  {
+   "kind": "hotcold",
+   "bg": "kitchen",
+   "t0": 383.424,
+   "key": "smoothie",
+   "hot": false,
+   "answer_t": 386.733,
+   "t1": 388.616
+  },
+  {
+   "kind": "hotcold",
+   "bg": "kitchen",
+   "t0": 388.616,
+   "key": "oven",
+   "hot": true,
+   "answer_t": 391.954,
+   "t1": 393.4
+  },
+  {
+   "kind": "hotcold",
+   "bg": "kitchen",
+   "t0": 393.4,
+   "key": "milk",
+   "hot": false,
+   "answer_t": 397.269,
+   "t1": 399.151
+  },
+  {
+   "kind": "hotcold",
+   "bg": "kitchen",
+   "t0": 399.151,
+   "key": "toast",
+   "hot": true,
+   "answer_t": 403.303,
+   "t1": 404.75
+  },
+  {
+   "kind": "hotcold",
+   "bg": "kitchen",
+   "t0": 404.75,
+   "key": "icepop",
+   "hot": false,
+   "answer_t": 408.564,
+   "t1": 410.446
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 410.446,
+   "title": "WHAT DO WE NEED?",
+   "t1": 413.544
+  },
+  {
+   "kind": "need",
+   "bg": "kitchen",
+   "t0": 413.544,
+   "keys": [
+    "cheese",
+    "teddy",
+    "ball"
+   ],
+   "good": "cheese",
+   "answer_t": 417.09,
+   "t1": 418.242
+  },
+  {
+   "kind": "need",
+   "bg": "kitchen",
+   "t0": 418.242,
+   "keys": [
+    "shoes",
+    "blender",
+    "book"
+   ],
+   "good": "blender",
+   "answer_t": 421.913,
+   "t1": 423.173
+  },
+  {
+   "kind": "need",
+   "bg": "kitchen",
+   "t0": 423.173,
+   "keys": [
+    "rollingpin",
+    "toothbrush",
+    "car"
+   ],
+   "good": "rollingpin",
+   "answer_t": 426.83,
+   "t1": 428.236
+  },
+  {
+   "kind": "need",
+   "bg": "kitchen",
+   "t0": 428.236,
+   "keys": [
+    "ball",
+    "teddy",
+    "pan"
+   ],
+   "good": "pan",
+   "answer_t": 432.119,
+   "t1": 433.304
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 433.304,
+   "title": "SET THE TABLE!",
+   "t1": 435.993
+  },
+  {
+   "kind": "table",
+   "bg": "kitchen",
+   "t0": 435.993,
+   "ts": [
+    435.993,
+    437.138,
+    438.292,
+    439.343
+   ],
+   "t1": 442.396
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 442.396,
+   "title": "CLEAN UP TIME!",
+   "t1": 444.828
+  },
+  {
+   "kind": "clean",
+   "bg": "kitchen",
+   "t0": 444.828,
+   "key": "fridge",
+   "num": 1,
+   "say_t": 444.828,
+   "t1": 446.452
+  },
+  {
+   "kind": "clean",
+   "bg": "kitchen",
+   "t0": 446.452,
+   "key": "plates",
+   "num": 2,
+   "say_t": 446.452,
+   "t1": 449.001
+  },
+  {
+   "kind": "clean",
+   "bg": "kitchen",
+   "t0": 449.001,
+   "key": "sponge",
+   "num": 3,
+   "say_t": 449.001,
+   "t1": 450.519
+  },
+  {
+   "kind": "clean",
+   "bg": "kitchen",
+   "t0": 450.519,
+   "key": "hands",
+   "num": 4,
+   "say_t": 450.519,
+   "t1": 452.376
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 452.376,
+   "title": "COOKING DANCE!",
+   "t1": 455.234
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 455.234,
+   "move": "spin",
+   "fast": false,
+   "word": "STIR THE POT!",
+   "say_t": 455.234,
+   "t1": 457.844
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 457.844,
+   "move": "jump",
+   "fast": false,
+   "word": "SQUISH THE DOUGH!",
+   "say_t": 457.844,
+   "t1": 460.562
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 460.562,
+   "move": "sway",
+   "fast": false,
+   "word": "ROLL IT FLAT!",
+   "say_t": 460.562,
+   "t1": 463.205
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 463.205,
+   "move": "shake",
+   "fast": false,
+   "word": "SPRINKLE THE CHEESE!",
+   "say_t": 463.205,
+   "t1": 466.044
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 466.044,
+   "move": "stomp",
+   "fast": false,
+   "word": "CHOP, CHOP, CHOP!",
+   "say_t": 466.044,
+   "t1": 468.9
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 468.9,
+   "move": "wiggle",
+   "fast": false,
+   "word": "YUMMY IN MY TUMMY!",
+   "say_t": 468.9,
+   "t1": 471.738
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 471.738,
+   "title": "FASTER!",
+   "t1": 473.107
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 473.107,
+   "move": "spin",
+   "fast": true,
+   "word": "STIR THE POT!",
+   "say_t": 473.107,
+   "t1": 475.016
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 475.016,
+   "move": "jump",
+   "fast": true,
+   "word": "SQUISH THE DOUGH!",
+   "say_t": 475.016,
+   "t1": 477.035
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 477.035,
+   "move": "sway",
+   "fast": true,
+   "word": "ROLL IT FLAT!",
+   "say_t": 477.035,
+   "t1": 478.977
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 478.977,
+   "move": "shake",
+   "fast": true,
+   "word": "SPRINKLE THE CHEESE!",
+   "say_t": 478.977,
+   "t1": 481.117
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 481.117,
+   "move": "stomp",
+   "fast": true,
+   "word": "CHOP, CHOP, CHOP!",
+   "say_t": 481.117,
+   "t1": 483.273
+  },
+  {
+   "kind": "dance",
+   "bg": "kitchen",
+   "t0": 483.273,
+   "move": "wiggle",
+   "fast": true,
+   "word": "YUMMY IN MY TUMMY!",
+   "say_t": 483.273,
+   "t1": 485.411
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 485.411,
+   "title": "CHEF QUIZ!",
+   "t1": 487.873
+  },
+  {
+   "kind": "quiz",
+   "bg": "kitchen",
+   "t0": 487.873,
+   "q": "WHAT DO WE WASH BEFORE COOKING?",
+   "vis": "hands",
+   "answer_t": 492.074,
+   "t1": 493.438
+  },
+  {
+   "kind": "quiz",
+   "bg": "kitchen",
+   "t0": 493.438,
+   "q": "WHAT ROLLS THE DOUGH FLAT?",
+   "vis": "rollingpin",
+   "answer_t": 497.395,
+   "t1": 498.992
+  },
+  {
+   "kind": "quiz",
+   "bg": "kitchen",
+   "t0": 498.992,
+   "q": "IS THE OVEN HOT OR COLD?",
+   "vis": "oven",
+   "answer_t": 503.248,
+   "t1": 504.921
+  },
+  {
+   "kind": "quiz",
+   "bg": "kitchen",
+   "t0": 504.921,
+   "q": "WHAT RED SAUCE GOES ON PIZZA?",
+   "vis": "sauce",
+   "answer_t": 509.174,
+   "t1": 510.799
+  },
+  {
+   "kind": "outro",
+   "bg": "kitchen",
+   "t0": 510.799,
+   "bye_t": 513.188,
+   "t1": 516.283
+  }
+ ],
+ "prompts": [
+  [
+   35.974,
+   36.974
+  ],
+  [
+   39.519,
+   40.519
+  ],
+  [
+   44.047,
+   45.047
+  ],
+  [
+   47.557,
+   48.557
+  ],
+  [
+   51.155,
+   52.155
+  ],
+  [
+   55.308,
+   56.308
+  ],
+  [
+   60.506,
+   61.506
+  ],
+  [
+   225.043,
+   226.343
+  ],
+  [
+   228.74,
+   230.04
+  ],
+  [
+   232.425,
+   233.725
+  ],
+  [
+   236.169,
+   237.469
+  ],
+  [
+   239.662,
+   240.962
+  ],
+  [
+   264.327,
+   265.927
+  ],
+  [
+   268.702,
+   270.302
+  ],
+  [
+   273.339,
+   274.939
+  ],
+  [
+   281.626,
+   282.626
+  ],
+  [
+   284.92,
+   285.92
+  ],
+  [
+   287.525,
+   288.525
+  ],
+  [
+   289.81,
+   290.81
+  ],
+  [
+   292.451,
+   293.451
+  ],
+  [
+   295.292,
+   296.292
+  ],
+  [
+   297.943,
+   298.943
+  ],
+  [
+   304.366,
+   305.866
+  ],
+  [
+   311.65,
+   313.15
+  ],
+  [
+   318.44,
+   319.94
+  ],
+  [
+   325.033,
+   326.533
+  ],
+  [
+   333.451,
+   335.051
+  ],
+  [
+   339.076,
+   340.676
+  ],
+  [
+   344.424,
+   346.024
+  ],
+  [
+   349.788,
+   351.388
+  ],
+  [
+   355.729,
+   357.329
+  ],
+  [
+   361.243,
+   362.843
+  ],
+  [
+   369.941,
+   371.541
+  ],
+  [
+   374.75,
+   376.35
+  ],
+  [
+   380.377,
+   381.977
+  ],
+  [
+   385.133,
+   386.733
+  ],
+  [
+   390.354,
+   391.954
+  ],
+  [
+   395.669,
+   397.269
+  ],
+  [
+   401.703,
+   403.303
+  ],
+  [
+   406.964,
+   408.564
+  ],
+  [
+   415.09,
+   417.09
+  ],
+  [
+   419.913,
+   421.913
+  ],
+  [
+   424.83,
+   426.83
+  ],
+  [
+   430.119,
+   432.119
+  ],
+  [
+   456.244,
+   457.844
+  ],
+  [
+   458.962,
+   460.562
+  ],
+  [
+   461.605,
+   463.205
+  ],
+  [
+   464.444,
+   466.044
+  ],
+  [
+   467.3,
+   468.9
+  ],
+  [
+   470.138,
+   471.738
+  ],
+  [
+   474.116,
+   475.016
+  ],
+  [
+   476.135,
+   477.035
+  ],
+  [
+   478.077,
+   478.977
+  ],
+  [
+   480.217,
+   481.117
+  ],
+  [
+   482.373,
+   483.273
+  ],
+  [
+   484.511,
+   485.411
+  ],
+  [
+   489.674,
+   492.074
+  ],
+  [
+   494.995,
+   497.395
+  ],
+  [
+   500.848,
+   503.248
+  ],
+  [
+   506.774,
+   509.174
+  ]
+ ],
+ "stars": [
+  110.142,
+  116.163,
+  121.411,
+  189.14,
+  493.438,
+  498.992,
+  504.921,
+  510.799
+ ],
+ "total": 516.28
+}

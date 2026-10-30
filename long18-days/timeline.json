@@ -1,0 +1,2648 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Days of the week!",
+   "t": 0.3,
+   "dur": 0.983
+  },
+  {
+   "who": "mishu",
+   "text": "There are seven days in a week! Let's learn them all!",
+   "t": 1.633,
+   "dur": 2.59
+  },
+  {
+   "who": "gul",
+   "text": "Sing, play, and count with us! Let's go!",
+   "t": 4.573,
+   "dur": 2.092
+  },
+  {
+   "who": "gul",
+   "text": "Here are the seven days of the week!",
+   "t": 7.715,
+   "dur": 1.693
+  },
+  {
+   "who": "gul",
+   "text": "Monday!",
+   "t": 9.857,
+   "dur": 0.647
+  },
+  {
+   "who": "mishu",
+   "text": "Tuesday!",
+   "t": 10.805,
+   "dur": 0.64
+  },
+  {
+   "who": "gul",
+   "text": "Wednesday!",
+   "t": 11.745,
+   "dur": 0.747
+  },
+  {
+   "who": "mishu",
+   "text": "Thursday!",
+   "t": 12.791,
+   "dur": 0.702
+  },
+  {
+   "who": "gul",
+   "text": "Friday!",
+   "t": 13.793,
+   "dur": 0.645
+  },
+  {
+   "who": "mishu",
+   "text": "Saturday!",
+   "t": 14.738,
+   "dur": 0.68
+  },
+  {
+   "who": "gul",
+   "text": "Sunday!",
+   "t": 15.718,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Seven days! That's one week!",
+   "t": 16.705,
+   "dur": 1.768
+  },
+  {
+   "who": "mishu",
+   "text": "Now say them with us! Slow, then fast, then super fast!",
+   "t": 19.622,
+   "dur": 3.445
+  },
+  {
+   "who": "both",
+   "text": "Monday",
+   "t": 23.517,
+   "dur": 0.633
+  },
+  {
+   "who": "both",
+   "text": "Tuesday",
+   "t": 24.65,
+   "dur": 0.672
+  },
+  {
+   "who": "both",
+   "text": "Wednesday",
+   "t": 25.823,
+   "dur": 0.715
+  },
+  {
+   "who": "both",
+   "text": "Thursday",
+   "t": 27.038,
+   "dur": 0.692
+  },
+  {
+   "who": "both",
+   "text": "Friday",
+   "t": 28.229,
+   "dur": 0.659
+  },
+  {
+   "who": "both",
+   "text": "Saturday",
+   "t": 29.388,
+   "dur": 0.733
+  },
+  {
+   "who": "both",
+   "text": "Sunday",
+   "t": 30.621,
+   "dur": 0.644
+  },
+  {
+   "who": "mishu",
+   "text": "Faster!",
+   "t": 32.266,
+   "dur": 0.652
+  },
+  {
+   "who": "both",
+   "text": "Monday",
+   "t": 33.167,
+   "dur": 0.633
+  },
+  {
+   "who": "both",
+   "text": "Tuesday",
+   "t": 34.07,
+   "dur": 0.672
+  },
+  {
+   "who": "both",
+   "text": "Wednesday",
+   "t": 35.013,
+   "dur": 0.715
+  },
+  {
+   "who": "both",
+   "text": "Thursday",
+   "t": 35.998,
+   "dur": 0.692
+  },
+  {
+   "who": "both",
+   "text": "Friday",
+   "t": 36.959,
+   "dur": 0.659
+  },
+  {
+   "who": "both",
+   "text": "Saturday",
+   "t": 37.888,
+   "dur": 0.733
+  },
+  {
+   "who": "both",
+   "text": "Sunday",
+   "t": 38.891,
+   "dur": 0.644
+  },
+  {
+   "who": "gul",
+   "text": "Super fast!",
+   "t": 40.306,
+   "dur": 0.905
+  },
+  {
+   "who": "both",
+   "text": "Monday",
+   "t": 41.461,
+   "dur": 0.633
+  },
+  {
+   "who": "both",
+   "text": "Tuesday",
+   "t": 42.244,
+   "dur": 0.672
+  },
+  {
+   "who": "both",
+   "text": "Wednesday",
+   "t": 43.066,
+   "dur": 0.715
+  },
+  {
+   "who": "both",
+   "text": "Thursday",
+   "t": 43.931,
+   "dur": 0.692
+  },
+  {
+   "who": "both",
+   "text": "Friday",
+   "t": 44.773,
+   "dur": 0.659
+  },
+  {
+   "who": "both",
+   "text": "Saturday",
+   "t": 45.582,
+   "dur": 0.733
+  },
+  {
+   "who": "both",
+   "text": "Sunday",
+   "t": 46.465,
+   "dur": 0.644
+  },
+  {
+   "who": "gul",
+   "text": "What do Gul and Mishu do every day? Let's see!",
+   "t": 48.259,
+   "dur": 2.472
+  },
+  {
+   "who": "both",
+   "text": "It's Monday!",
+   "t": 51.181,
+   "dur": 0.844
+  },
+  {
+   "who": "mishu",
+   "text": "On Monday, we go to school! Hello, teacher!",
+   "t": 52.325,
+   "dur": 2.525
+  },
+  {
+   "who": "gul",
+   "text": "We learn letters and numbers!",
+   "t": 55.151,
+   "dur": 1.56
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! Monday!",
+   "t": 56.96,
+   "dur": 1.054
+  },
+  {
+   "who": "both",
+   "text": "It's Tuesday!",
+   "t": 59.565,
+   "dur": 0.926
+  },
+  {
+   "who": "gul",
+   "text": "On Tuesday, we go swimming! Splash, splash!",
+   "t": 60.79,
+   "dur": 2.487
+  },
+  {
+   "who": "mishu",
+   "text": "Kick your legs! Swim like a fish!",
+   "t": 63.578,
+   "dur": 1.788
+  },
+  {
+   "who": "gul",
+   "text": "Say it! Tuesday!",
+   "t": 65.616,
+   "dur": 1.068
+  },
+  {
+   "who": "both",
+   "text": "It's Wednesday!",
+   "t": 68.234,
+   "dur": 0.917
+  },
+  {
+   "who": "mishu",
+   "text": "On Wednesday, we read books at the library! Shh!",
+   "t": 69.451,
+   "dur": 3.325
+  },
+  {
+   "who": "gul",
+   "text": "So many stories to read!",
+   "t": 73.076,
+   "dur": 1.366
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! Wednesday!",
+   "t": 74.692,
+   "dur": 1.083
+  },
+  {
+   "who": "both",
+   "text": "It's Thursday!",
+   "t": 77.325,
+   "dur": 0.911
+  },
+  {
+   "who": "gul",
+   "text": "On Thursday, we help in the garden!",
+   "t": 78.536,
+   "dur": 1.859
+  },
+  {
+   "who": "mishu",
+   "text": "Water the plants, so they grow big and tall!",
+   "t": 80.695,
+   "dur": 2.278
+  },
+  {
+   "who": "gul",
+   "text": "Say it! Thursday!",
+   "t": 83.223,
+   "dur": 1.073
+  },
+  {
+   "who": "both",
+   "text": "It's Friday!",
+   "t": 85.846,
+   "dur": 0.859
+  },
+  {
+   "who": "mishu",
+   "text": "On Friday, we have a pizza party! Yummy!",
+   "t": 87.006,
+   "dur": 2.53
+  },
+  {
+   "who": "gul",
+   "text": "Pizza with cheese and tomatoes!",
+   "t": 89.836,
+   "dur": 1.733
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! Friday!",
+   "t": 91.819,
+   "dur": 1.01
+  },
+  {
+   "who": "both",
+   "text": "It's Saturday!",
+   "t": 94.379,
+   "dur": 0.859
+  },
+  {
+   "who": "gul",
+   "text": "On Saturday, we play at the park! Wheee!",
+   "t": 95.538,
+   "dur": 2.001
+  },
+  {
+   "who": "mishu",
+   "text": "Swings, slides, and a big red ball!",
+   "t": 97.839,
+   "dur": 2.151
+  },
+  {
+   "who": "gul",
+   "text": "Say it! Saturday!",
+   "t": 100.24,
+   "dur": 1.019
+  },
+  {
+   "who": "both",
+   "text": "It's Sunday!",
+   "t": 102.809,
+   "dur": 0.794
+  },
+  {
+   "who": "mishu",
+   "text": "On Sunday, we visit Grandma! Hello, Grandma!",
+   "t": 103.903,
+   "dur": 2.939
+  },
+  {
+   "who": "gul",
+   "text": "Grandma gives the best hugs!",
+   "t": 107.142,
+   "dur": 1.585
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! Sunday!",
+   "t": 108.977,
+   "dur": 1.041
+  },
+  {
+   "who": "mishu",
+   "text": "Every day starts with a big letter! Look!",
+   "t": 112.069,
+   "dur": 2.354
+  },
+  {
+   "who": "gul",
+   "text": "Monday starts with M!",
+   "t": 114.873,
+   "dur": 1.317
+  },
+  {
+   "who": "mishu",
+   "text": "Tuesday starts with T!",
+   "t": 116.74,
+   "dur": 1.396
+  },
+  {
+   "who": "gul",
+   "text": "Wednesday starts with W!",
+   "t": 118.686,
+   "dur": 1.668
+  },
+  {
+   "who": "mishu",
+   "text": "Thursday starts with T!",
+   "t": 120.905,
+   "dur": 1.36
+  },
+  {
+   "who": "gul",
+   "text": "Friday starts with F!",
+   "t": 122.814,
+   "dur": 1.229
+  },
+  {
+   "who": "mishu",
+   "text": "Saturday starts with S!",
+   "t": 124.593,
+   "dur": 1.332
+  },
+  {
+   "who": "gul",
+   "text": "Sunday starts with S!",
+   "t": 126.475,
+   "dur": 1.296
+  },
+  {
+   "who": "gul",
+   "text": "Look! Tuesday and Thursday both start with T!",
+   "t": 128.321,
+   "dur": 2.334
+  },
+  {
+   "who": "mishu",
+   "text": "And Saturday and Sunday both start with S!",
+   "t": 131.006,
+   "dur": 2.393
+  },
+  {
+   "who": "gul",
+   "text": "Let's count the days on our fingers!",
+   "t": 134.549,
+   "dur": 1.884
+  },
+  {
+   "who": "both",
+   "text": "One, Monday!",
+   "t": 136.883,
+   "dur": 0.867
+  },
+  {
+   "who": "both",
+   "text": "Two, Tuesday!",
+   "t": 138.05,
+   "dur": 0.893
+  },
+  {
+   "who": "both",
+   "text": "Three, Wednesday!",
+   "t": 139.242,
+   "dur": 0.948
+  },
+  {
+   "who": "both",
+   "text": "Four, Thursday!",
+   "t": 140.491,
+   "dur": 0.979
+  },
+  {
+   "who": "both",
+   "text": "Five, Friday!",
+   "t": 141.769,
+   "dur": 0.955
+  },
+  {
+   "who": "both",
+   "text": "Six, Saturday!",
+   "t": 143.024,
+   "dur": 0.967
+  },
+  {
+   "who": "both",
+   "text": "Seven, Sunday!",
+   "t": 144.291,
+   "dur": 0.953
+  },
+  {
+   "who": "mishu",
+   "text": "Seven fingers! Seven days!",
+   "t": 145.544,
+   "dur": 1.943
+  },
+  {
+   "who": "mishu",
+   "text": "What day comes next? Think hard!",
+   "t": 148.637,
+   "dur": 1.852
+  },
+  {
+   "who": "gul",
+   "text": "Monday, Tuesday...",
+   "t": 150.939,
+   "dur": 1.138
+  },
+  {
+   "who": "gul",
+   "text": "What comes next?",
+   "t": 152.327,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "Wednesday!",
+   "t": 155.567,
+   "dur": 0.697
+  },
+  {
+   "who": "mishu",
+   "text": "Thursday, Friday...",
+   "t": 156.914,
+   "dur": 1.08
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 158.244,
+   "dur": 1.017
+  },
+  {
+   "who": "gul",
+   "text": "Saturday!",
+   "t": 161.51,
+   "dur": 0.74
+  },
+  {
+   "who": "gul",
+   "text": "Saturday...",
+   "t": 162.9,
+   "dur": 0.808
+  },
+  {
+   "who": "gul",
+   "text": "What comes next?",
+   "t": 163.958,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "Sunday!",
+   "t": 167.197,
+   "dur": 0.651
+  },
+  {
+   "who": "mishu",
+   "text": "Tuesday, Wednesday...",
+   "t": 168.498,
+   "dur": 1.171
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 169.92,
+   "dur": 1.017
+  },
+  {
+   "who": "gul",
+   "text": "Thursday!",
+   "t": 173.186,
+   "dur": 0.695
+  },
+  {
+   "who": "gul",
+   "text": "Sunday...",
+   "t": 174.531,
+   "dur": 0.709
+  },
+  {
+   "who": "gul",
+   "text": "What comes next?",
+   "t": 175.489,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "Monday!",
+   "t": 178.729,
+   "dur": 0.648
+  },
+  {
+   "who": "mishu",
+   "text": "Wednesday, Thursday...",
+   "t": 180.027,
+   "dur": 1.216
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 181.493,
+   "dur": 1.017
+  },
+  {
+   "who": "gul",
+   "text": "Friday!",
+   "t": 184.759,
+   "dur": 0.645
+  },
+  {
+   "who": "gul",
+   "text": "Friday...",
+   "t": 186.054,
+   "dur": 0.74
+  },
+  {
+   "who": "gul",
+   "text": "What comes next?",
+   "t": 187.044,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "Saturday!",
+   "t": 190.283,
+   "dur": 0.68
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! What day comes before?",
+   "t": 192.113,
+   "dur": 1.805
+  },
+  {
+   "who": "mishu",
+   "text": "What day comes before Tuesday?",
+   "t": 194.368,
+   "dur": 1.651
+  },
+  {
+   "who": "gul",
+   "text": "Monday! Monday, then Tuesday!",
+   "t": 198.269,
+   "dur": 1.654
+  },
+  {
+   "who": "gul",
+   "text": "What day comes before Saturday?",
+   "t": 200.573,
+   "dur": 1.702
+  },
+  {
+   "who": "mishu",
+   "text": "Friday! Friday, then Saturday!",
+   "t": 204.525,
+   "dur": 1.933
+  },
+  {
+   "who": "mishu",
+   "text": "What day comes before Thursday?",
+   "t": 207.108,
+   "dur": 1.676
+  },
+  {
+   "who": "gul",
+   "text": "Wednesday! Wednesday, then Thursday!",
+   "t": 211.034,
+   "dur": 1.925
+  },
+  {
+   "who": "gul",
+   "text": "What day comes before Monday?",
+   "t": 213.61,
+   "dur": 1.592
+  },
+  {
+   "who": "mishu",
+   "text": "Sunday! Sunday, then Monday!",
+   "t": 217.452,
+   "dur": 1.769
+  },
+  {
+   "who": "mishu",
+   "text": "Oh no! A day is missing from the train! Which one?",
+   "t": 220.371,
+   "dur": 2.808
+  },
+  {
+   "who": "gul",
+   "text": "Which day is missing?",
+   "t": 223.629,
+   "dur": 1.181
+  },
+  {
+   "who": "mishu",
+   "text": "Wednesday! Welcome back, Wednesday!",
+   "t": 227.46,
+   "dur": 1.999
+  },
+  {
+   "who": "mishu",
+   "text": "Which day is missing?",
+   "t": 230.109,
+   "dur": 1.131
+  },
+  {
+   "who": "gul",
+   "text": "Saturday! Welcome back, Saturday!",
+   "t": 233.89,
+   "dur": 1.788
+  },
+  {
+   "who": "gul",
+   "text": "Which day is missing?",
+   "t": 236.328,
+   "dur": 1.181
+  },
+  {
+   "who": "mishu",
+   "text": "Monday! Welcome back, Monday!",
+   "t": 240.159,
+   "dur": 1.762
+  },
+  {
+   "who": "mishu",
+   "text": "Which day is missing?",
+   "t": 242.571,
+   "dur": 1.131
+  },
+  {
+   "who": "gul",
+   "text": "Friday! Welcome back, Friday!",
+   "t": 246.351,
+   "dur": 1.68
+  },
+  {
+   "who": "gul",
+   "text": "Oops! The days are all mixed up! Let's put them in order!",
+   "t": 249.181,
+   "dur": 2.817
+  },
+  {
+   "who": "mishu",
+   "text": "Monday, you go first!",
+   "t": 252.448,
+   "dur": 1.309
+  },
+  {
+   "who": "gul",
+   "text": "Tuesday, you go second!",
+   "t": 254.057,
+   "dur": 1.266
+  },
+  {
+   "who": "mishu",
+   "text": "Wednesday, you go third!",
+   "t": 255.623,
+   "dur": 1.335
+  },
+  {
+   "who": "gul",
+   "text": "Thursday, you go fourth!",
+   "t": 257.258,
+   "dur": 1.209
+  },
+  {
+   "who": "mishu",
+   "text": "Friday, you go fifth!",
+   "t": 258.767,
+   "dur": 1.217
+  },
+  {
+   "who": "gul",
+   "text": "Saturday, you go sixth!",
+   "t": 260.284,
+   "dur": 1.151
+  },
+  {
+   "who": "mishu",
+   "text": "Sunday, you go seventh!",
+   "t": 261.735,
+   "dur": 1.312
+  },
+  {
+   "who": "both",
+   "text": "All in order! Hooray!",
+   "t": 263.347,
+   "dur": 1.21
+  },
+  {
+   "who": "gul",
+   "text": "Some days are weekdays, and some days are the weekend!",
+   "t": 265.707,
+   "dur": 2.805
+  },
+  {
+   "who": "mishu",
+   "text": "Monday, Tuesday, Wednesday, Thursday, Friday. Five weekdays! School days!",
+   "t": 268.962,
+   "dur": 4.621
+  },
+  {
+   "who": "gul",
+   "text": "Saturday and Sunday. Two days for the weekend! Family days!",
+   "t": 274.034,
+   "dur": 3.374
+  },
+  {
+   "who": "both",
+   "text": "Five weekdays, plus two weekend days, makes seven!",
+   "t": 277.858,
+   "dur": 2.857
+  },
+  {
+   "who": "mishu",
+   "text": "Saturday! Weekday, or weekend?",
+   "t": 281.365,
+   "dur": 1.875
+  },
+  {
+   "who": "gul",
+   "text": "Weekend!",
+   "t": 285.29,
+   "dur": 0.708
+  },
+  {
+   "who": "gul",
+   "text": "Tuesday! Weekday, or weekend?",
+   "t": 286.648,
+   "dur": 1.578
+  },
+  {
+   "who": "mishu",
+   "text": "Weekday!",
+   "t": 290.276,
+   "dur": 0.687
+  },
+  {
+   "who": "mishu",
+   "text": "Sunday! Weekday, or weekend?",
+   "t": 291.612,
+   "dur": 1.761
+  },
+  {
+   "who": "gul",
+   "text": "Weekend!",
+   "t": 295.424,
+   "dur": 0.708
+  },
+  {
+   "who": "gul",
+   "text": "Friday! Weekday, or weekend?",
+   "t": 296.781,
+   "dur": 1.543
+  },
+  {
+   "who": "mishu",
+   "text": "Weekday!",
+   "t": 300.375,
+   "dur": 0.687
+  },
+  {
+   "who": "mishu",
+   "text": "Every day the weather can change! What's the weather?",
+   "t": 302.211,
+   "dur": 2.629
+  },
+  {
+   "who": "gul",
+   "text": "Monday! What's the weather?",
+   "t": 305.29,
+   "dur": 1.278
+  },
+  {
+   "who": "mishu",
+   "text": "On Monday, it was sunny! Hello, sun!",
+   "t": 308.318,
+   "dur": 2.039
+  },
+  {
+   "who": "mishu",
+   "text": "Tuesday! What's the weather?",
+   "t": 310.908,
+   "dur": 1.418
+  },
+  {
+   "who": "gul",
+   "text": "On Tuesday, it was rainy! Splish, splash!",
+   "t": 314.076,
+   "dur": 2.236
+  },
+  {
+   "who": "gul",
+   "text": "Wednesday! What's the weather?",
+   "t": 316.863,
+   "dur": 1.352
+  },
+  {
+   "who": "mishu",
+   "text": "On Wednesday, it was cloudy! Big grey clouds!",
+   "t": 319.965,
+   "dur": 2.591
+  },
+  {
+   "who": "mishu",
+   "text": "Thursday! What's the weather?",
+   "t": 323.106,
+   "dur": 1.353
+  },
+  {
+   "who": "gul",
+   "text": "On Thursday, it was windy! Whoosh!",
+   "t": 326.209,
+   "dur": 1.835
+  },
+  {
+   "who": "gul",
+   "text": "Friday! What's the weather?",
+   "t": 328.594,
+   "dur": 1.262
+  },
+  {
+   "who": "mishu",
+   "text": "On Friday, it was snowy! Brrr!",
+   "t": 331.606,
+   "dur": 2.37
+  },
+  {
+   "who": "mishu",
+   "text": "Saturday! What's the weather?",
+   "t": 334.526,
+   "dur": 1.399
+  },
+  {
+   "who": "gul",
+   "text": "On Saturday, it was sunny again!",
+   "t": 337.675,
+   "dur": 1.703
+  },
+  {
+   "who": "gul",
+   "text": "Sunday! What's the weather?",
+   "t": 339.928,
+   "dur": 1.263
+  },
+  {
+   "who": "mishu",
+   "text": "And on Sunday, a rainbow! Wow!",
+   "t": 342.941,
+   "dur": 1.932
+  },
+  {
+   "who": "mishu",
+   "text": "Yesterday was before. Today is now. Tomorrow comes next!",
+   "t": 345.923,
+   "dur": 3.691
+  },
+  {
+   "who": "gul",
+   "text": "Yesterday was Tuesday!",
+   "t": 350.064,
+   "dur": 1.36
+  },
+  {
+   "who": "mishu",
+   "text": "Today is Wednesday!",
+   "t": 351.824,
+   "dur": 1.073
+  },
+  {
+   "who": "gul",
+   "text": "Tomorrow is Thursday!",
+   "t": 353.297,
+   "dur": 1.343
+  },
+  {
+   "who": "mishu",
+   "text": "Yesterday was Thursday!",
+   "t": 355.34,
+   "dur": 1.393
+  },
+  {
+   "who": "gul",
+   "text": "Today is Friday!",
+   "t": 357.134,
+   "dur": 1.129
+  },
+  {
+   "who": "mishu",
+   "text": "Tomorrow is Saturday!",
+   "t": 358.663,
+   "dur": 1.197
+  },
+  {
+   "who": "gul",
+   "text": "Yesterday was Saturday!",
+   "t": 360.56,
+   "dur": 1.375
+  },
+  {
+   "who": "mishu",
+   "text": "Today is Sunday!",
+   "t": 362.335,
+   "dur": 0.977
+  },
+  {
+   "who": "gul",
+   "text": "Tomorrow is Monday!",
+   "t": 363.712,
+   "dur": 1.319
+  },
+  {
+   "who": "gul",
+   "text": "How many sleeps until the fun day? Let's count!",
+   "t": 366.231,
+   "dur": 2.476
+  },
+  {
+   "who": "mishu",
+   "text": "Today is Wednesday. How many sleeps until Saturday?",
+   "t": 369.158,
+   "dur": 2.928
+  },
+  {
+   "who": "both",
+   "text": "One, Thursday!",
+   "t": 372.436,
+   "dur": 0.953
+  },
+  {
+   "who": "both",
+   "text": "Two, Friday!",
+   "t": 373.69,
+   "dur": 0.909
+  },
+  {
+   "who": "both",
+   "text": "Three, Saturday!",
+   "t": 374.899,
+   "dur": 0.931
+  },
+  {
+   "who": "gul",
+   "text": "Three sleeps until Saturday!",
+   "t": 376.13,
+   "dur": 1.618
+  },
+  {
+   "who": "gul",
+   "text": "Today is Friday. How many sleeps until Monday?",
+   "t": 378.398,
+   "dur": 2.694
+  },
+  {
+   "who": "both",
+   "text": "One, Saturday!",
+   "t": 381.443,
+   "dur": 0.965
+  },
+  {
+   "who": "both",
+   "text": "Two, Sunday!",
+   "t": 382.708,
+   "dur": 0.913
+  },
+  {
+   "who": "both",
+   "text": "Three, Monday!",
+   "t": 383.921,
+   "dur": 0.909
+  },
+  {
+   "who": "mishu",
+   "text": "Three sleeps until Monday!",
+   "t": 385.13,
+   "dur": 1.369
+  },
+  {
+   "who": "mishu",
+   "text": "Every day has three parts! Let's see!",
+   "t": 387.649,
+   "dur": 1.965
+  },
+  {
+   "who": "gul",
+   "text": "In the morning, we wake up and eat breakfast!",
+   "t": 390.065,
+   "dur": 2.032
+  },
+  {
+   "who": "mishu",
+   "text": "In the afternoon, we play and have lunch!",
+   "t": 392.747,
+   "dur": 2.238
+  },
+  {
+   "who": "gul",
+   "text": "At night, we sleep! Good night! Every day has a morning, an afternoon, and a night!",
+   "t": 395.635,
+   "dur": 4.259
+  },
+  {
+   "who": "gul",
+   "text": "Let's put a sticker on the calendar for every day!",
+   "t": 401.044,
+   "dur": 2.423
+  },
+  {
+   "who": "mishu",
+   "text": "Monday, school!",
+   "t": 403.917,
+   "dur": 0.991
+  },
+  {
+   "who": "gul",
+   "text": "Tuesday, swimming!",
+   "t": 405.208,
+   "dur": 1.073
+  },
+  {
+   "who": "mishu",
+   "text": "Wednesday, books!",
+   "t": 406.581,
+   "dur": 1.012
+  },
+  {
+   "who": "gul",
+   "text": "Thursday, garden!",
+   "t": 407.892,
+   "dur": 1.096
+  },
+  {
+   "who": "mishu",
+   "text": "Friday, pizza!",
+   "t": 409.288,
+   "dur": 1.012
+  },
+  {
+   "who": "gul",
+   "text": "Saturday, park!",
+   "t": 410.6,
+   "dur": 0.948
+  },
+  {
+   "who": "mishu",
+   "text": "Sunday, Grandma!",
+   "t": 411.848,
+   "dur": 1.162
+  },
+  {
+   "who": "both",
+   "text": "A whole week of fun!",
+   "t": 413.31,
+   "dur": 1.107
+  },
+  {
+   "who": "gul",
+   "text": "My favourite day is Saturday! Park day!",
+   "t": 415.067,
+   "dur": 2.156
+  },
+  {
+   "who": "mishu",
+   "text": "My favourite day is Friday! Pizza day!",
+   "t": 417.673,
+   "dur": 2.323
+  },
+  {
+   "who": "both",
+   "text": "What's your favourite day?",
+   "t": 420.446,
+   "dur": 1.208
+  },
+  {
+   "who": "mishu",
+   "text": "Clap along with our days rhyme!",
+   "t": 424.604,
+   "dur": 1.53
+  },
+  {
+   "who": "both",
+   "text": "Monday, Tuesday, hello, hello!",
+   "t": 426.584,
+   "dur": 1.742
+  },
+  {
+   "who": "both",
+   "text": "Wednesday, Thursday, here we go!",
+   "t": 428.725,
+   "dur": 1.824
+  },
+  {
+   "who": "both",
+   "text": "Friday, Saturday, fun and play!",
+   "t": 430.95,
+   "dur": 1.84
+  },
+  {
+   "who": "both",
+   "text": "Sunday is a family day!",
+   "t": 433.189,
+   "dur": 1.521
+  },
+  {
+   "who": "both",
+   "text": "Monday, Tuesday, hello, hello!",
+   "t": 435.111,
+   "dur": 1.742
+  },
+  {
+   "who": "both",
+   "text": "Wednesday, Thursday, here we go!",
+   "t": 437.252,
+   "dur": 1.824
+  },
+  {
+   "who": "both",
+   "text": "Friday, Saturday, fun and play!",
+   "t": 439.476,
+   "dur": 1.84
+  },
+  {
+   "who": "both",
+   "text": "Sunday is a family day!",
+   "t": 441.716,
+   "dur": 1.521
+  },
+  {
+   "who": "gul",
+   "text": "All aboard the days of the week train! Choo choo!",
+   "t": 444.438,
+   "dur": 2.406
+  },
+  {
+   "who": "both",
+   "text": "Monday!",
+   "t": 447.293,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Tuesday!",
+   "t": 448.242,
+   "dur": 0.689
+  },
+  {
+   "who": "both",
+   "text": "Wednesday!",
+   "t": 449.23,
+   "dur": 0.747
+  },
+  {
+   "who": "both",
+   "text": "Thursday!",
+   "t": 450.277,
+   "dur": 0.702
+  },
+  {
+   "who": "both",
+   "text": "Friday!",
+   "t": 451.279,
+   "dur": 0.645
+  },
+  {
+   "who": "both",
+   "text": "Saturday!",
+   "t": 452.224,
+   "dur": 0.74
+  },
+  {
+   "who": "both",
+   "text": "Sunday!",
+   "t": 453.264,
+   "dur": 0.686
+  },
+  {
+   "who": "mishu",
+   "text": "Then back to Monday again! Choo choo!",
+   "t": 454.251,
+   "dur": 1.99
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! Let's do the days of the week dance!",
+   "t": 457.391,
+   "dur": 2.347
+  },
+  {
+   "who": "both",
+   "text": "Monday, march!",
+   "t": 460.188,
+   "dur": 0.978
+  },
+  {
+   "who": "both",
+   "text": "Tuesday, twirl!",
+   "t": 462.916,
+   "dur": 1.014
+  },
+  {
+   "who": "both",
+   "text": "Wednesday, wiggle!",
+   "t": 465.679,
+   "dur": 1.046
+  },
+  {
+   "who": "both",
+   "text": "Thursday, stomp!",
+   "t": 468.476,
+   "dur": 0.992
+  },
+  {
+   "who": "both",
+   "text": "Friday, jump!",
+   "t": 471.218,
+   "dur": 0.879
+  },
+  {
+   "who": "both",
+   "text": "Weekend, shake!",
+   "t": 473.847,
+   "dur": 0.948
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 476.545,
+   "dur": 1.03
+  },
+  {
+   "who": "both",
+   "text": "Monday, march!",
+   "t": 477.925,
+   "dur": 0.978
+  },
+  {
+   "who": "both",
+   "text": "Tuesday, twirl!",
+   "t": 479.953,
+   "dur": 1.014
+  },
+  {
+   "who": "both",
+   "text": "Wednesday, wiggle!",
+   "t": 482.016,
+   "dur": 1.046
+  },
+  {
+   "who": "both",
+   "text": "Thursday, stomp!",
+   "t": 484.113,
+   "dur": 0.992
+  },
+  {
+   "who": "both",
+   "text": "Friday, jump!",
+   "t": 486.155,
+   "dur": 0.879
+  },
+  {
+   "who": "both",
+   "text": "Weekend, shake!",
+   "t": 488.084,
+   "dur": 0.948
+  },
+  {
+   "who": "gul",
+   "text": "Quick quiz time! Are you ready?",
+   "t": 490.582,
+   "dur": 1.512
+  },
+  {
+   "who": "gul",
+   "text": "How many days are in a week?",
+   "t": 492.544,
+   "dur": 1.486
+  },
+  {
+   "who": "mishu",
+   "text": "Seven!",
+   "t": 496.68,
+   "dur": 0.561
+  },
+  {
+   "who": "mishu",
+   "text": "What day comes after Monday?",
+   "t": 497.891,
+   "dur": 1.476
+  },
+  {
+   "who": "gul",
+   "text": "Tuesday!",
+   "t": 502.017,
+   "dur": 0.689
+  },
+  {
+   "who": "gul",
+   "text": "What day comes after Saturday?",
+   "t": 503.355,
+   "dur": 1.683
+  },
+  {
+   "who": "mishu",
+   "text": "Sunday!",
+   "t": 507.688,
+   "dur": 0.651
+  },
+  {
+   "who": "mishu",
+   "text": "Which two days are the weekend?",
+   "t": 508.989,
+   "dur": 1.547
+  },
+  {
+   "who": "gul",
+   "text": "Saturday and Sunday!",
+   "t": 513.186,
+   "dur": 1.219
+  },
+  {
+   "who": "mishu",
+   "text": "Now you know the seven days of the week!",
+   "t": 515.055,
+   "dur": 1.889
+  },
+  {
+   "who": "both",
+   "text": "See you next week! Bye bye!",
+   "t": 517.294,
+   "dur": 1.595
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "playroom",
+   "t0": 0.0,
+   "title_t": 0.3,
+   "kids_t": 1.633,
+   "t1": 7.215
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 7.215,
+   "title": "7 DAYS!",
+   "t1": 9.857
+  },
+  {
+   "kind": "seven",
+   "bg": "playroom",
+   "t0": 9.857,
+   "ts": [
+    9.857,
+    10.805,
+    11.745,
+    12.791,
+    13.793,
+    14.738,
+    15.718
+   ],
+   "sum_t": 16.705,
+   "t1": 19.122
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 19.122,
+   "title": "SAY THEM WITH US!",
+   "t1": 23.517
+  },
+  {
+   "kind": "chant",
+   "bg": "playroom",
+   "t0": 23.517,
+   "label": "SLOW",
+   "ts": [
+    23.517,
+    24.65,
+    25.823,
+    27.038,
+    28.229,
+    29.388,
+    30.621
+   ],
+   "end_t": 31.766,
+   "t1": 32.266
+  },
+  {
+   "kind": "chant",
+   "bg": "playroom",
+   "t0": 32.266,
+   "label": "FAST",
+   "ts": [
+    33.167,
+    34.07,
+    35.013,
+    35.998,
+    36.959,
+    37.888,
+    38.891
+   ],
+   "end_t": 39.806,
+   "t1": 40.306
+  },
+  {
+   "kind": "chant",
+   "bg": "playroom",
+   "t0": 40.306,
+   "label": "SUPER FAST!",
+   "ts": [
+    41.461,
+    42.244,
+    43.066,
+    43.931,
+    44.773,
+    45.582,
+    46.465
+   ],
+   "end_t": 47.259,
+   "t1": 47.759
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 47.759,
+   "title": "OUR BUSY WEEK!",
+   "t1": 51.181
+  },
+  {
+   "kind": "week",
+   "bg": "board",
+   "t0": 51.181,
+   "day": 0,
+   "key": "book",
+   "chapter": null,
+   "day_t": 51.181,
+   "act_t": 52.325,
+   "t1": 59.565
+  },
+  {
+   "kind": "week",
+   "bg": "beach",
+   "t0": 59.565,
+   "day": 1,
+   "key": "swimring",
+   "chapter": null,
+   "day_t": 59.565,
+   "act_t": 60.79,
+   "t1": 68.234
+  },
+  {
+   "kind": "week",
+   "bg": "bedroom",
+   "t0": 68.234,
+   "day": 2,
+   "key": "book",
+   "chapter": null,
+   "day_t": 68.234,
+   "act_t": 69.451,
+   "t1": 77.325
+  },
+  {
+   "kind": "week",
+   "bg": "patch",
+   "t0": 77.325,
+   "day": 3,
+   "key": "watering",
+   "chapter": null,
+   "day_t": 77.325,
+   "act_t": 78.536,
+   "t1": 85.846
+  },
+  {
+   "kind": "week",
+   "bg": "kitchen",
+   "t0": 85.846,
+   "day": 4,
+   "key": "pizza",
+   "chapter": null,
+   "day_t": 85.846,
+   "act_t": 87.006,
+   "t1": 94.379
+  },
+  {
+   "kind": "week",
+   "bg": "park",
+   "t0": 94.379,
+   "day": 5,
+   "key": "ball",
+   "chapter": null,
+   "day_t": 94.379,
+   "act_t": 95.538,
+   "t1": 102.809
+  },
+  {
+   "kind": "week",
+   "bg": "street",
+   "t0": 102.809,
+   "day": 6,
+   "key": "house",
+   "chapter": null,
+   "day_t": 102.809,
+   "act_t": 103.903,
+   "t1": 111.569
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 111.569,
+   "title": "FIRST LETTERS!",
+   "t1": 114.873
+  },
+  {
+   "kind": "letter",
+   "bg": "playroom",
+   "t0": 114.873,
+   "day": 0,
+   "L": "M",
+   "say_t": 114.873,
+   "t1": 116.74
+  },
+  {
+   "kind": "letter",
+   "bg": "playroom",
+   "t0": 116.74,
+   "day": 1,
+   "L": "T",
+   "say_t": 116.74,
+   "t1": 118.686
+  },
+  {
+   "kind": "letter",
+   "bg": "playroom",
+   "t0": 118.686,
+   "day": 2,
+   "L": "W",
+   "say_t": 118.686,
+   "t1": 120.905
+  },
+  {
+   "kind": "letter",
+   "bg": "playroom",
+   "t0": 120.905,
+   "day": 3,
+   "L": "T",
+   "say_t": 120.905,
+   "t1": 122.814
+  },
+  {
+   "kind": "letter",
+   "bg": "playroom",
+   "t0": 122.814,
+   "day": 4,
+   "L": "F",
+   "say_t": 122.814,
+   "t1": 124.593
+  },
+  {
+   "kind": "letter",
+   "bg": "playroom",
+   "t0": 124.593,
+   "day": 5,
+   "L": "S",
+   "say_t": 124.593,
+   "t1": 126.475
+  },
+  {
+   "kind": "letter",
+   "bg": "playroom",
+   "t0": 126.475,
+   "day": 6,
+   "L": "S",
+   "say_t": 126.475,
+   "t1": 128.321
+  },
+  {
+   "kind": "twins",
+   "bg": "playroom",
+   "t0": 128.321,
+   "say_t": 128.321,
+   "say2_t": 131.006,
+   "t1": 134.049
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 134.049,
+   "title": "COUNT THE DAYS!",
+   "t1": 136.883
+  },
+  {
+   "kind": "fingers",
+   "bg": "playroom",
+   "t0": 136.883,
+   "ts": [
+    136.883,
+    138.05,
+    139.242,
+    140.491,
+    141.769,
+    143.024,
+    144.291
+   ],
+   "sum_t": 145.544,
+   "t1": 148.137
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 148.137,
+   "title": "WHAT COMES NEXT?",
+   "t1": 150.939
+  },
+  {
+   "kind": "next",
+   "bg": "playroom",
+   "t0": 150.939,
+   "seq": [
+    "Monday",
+    "Tuesday"
+   ],
+   "ans": "Wednesday",
+   "answer_t": 155.567,
+   "t1": 156.914
+  },
+  {
+   "kind": "next",
+   "bg": "playroom",
+   "t0": 156.914,
+   "seq": [
+    "Thursday",
+    "Friday"
+   ],
+   "ans": "Saturday",
+   "answer_t": 161.51,
+   "t1": 162.9
+  },
+  {
+   "kind": "next",
+   "bg": "playroom",
+   "t0": 162.9,
+   "seq": [
+    "Saturday"
+   ],
+   "ans": "Sunday",
+   "answer_t": 167.197,
+   "t1": 168.498
+  },
+  {
+   "kind": "next",
+   "bg": "playroom",
+   "t0": 168.498,
+   "seq": [
+    "Tuesday",
+    "Wednesday"
+   ],
+   "ans": "Thursday",
+   "answer_t": 173.186,
+   "t1": 174.531
+  },
+  {
+   "kind": "next",
+   "bg": "playroom",
+   "t0": 174.531,
+   "seq": [
+    "Sunday"
+   ],
+   "ans": "Monday",
+   "answer_t": 178.729,
+   "t1": 180.027
+  },
+  {
+   "kind": "next",
+   "bg": "playroom",
+   "t0": 180.027,
+   "seq": [
+    "Wednesday",
+    "Thursday"
+   ],
+   "ans": "Friday",
+   "answer_t": 184.759,
+   "t1": 186.054
+  },
+  {
+   "kind": "next",
+   "bg": "playroom",
+   "t0": 186.054,
+   "seq": [
+    "Friday"
+   ],
+   "ans": "Saturday",
+   "answer_t": 190.283,
+   "t1": 191.613
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 191.613,
+   "title": "WHAT COMES BEFORE?",
+   "t1": 194.368
+  },
+  {
+   "kind": "before",
+   "bg": "playroom",
+   "t0": 194.368,
+   "day": "Tuesday",
+   "ans": "Monday",
+   "answer_t": 198.269,
+   "t1": 200.573
+  },
+  {
+   "kind": "before",
+   "bg": "playroom",
+   "t0": 200.573,
+   "day": "Saturday",
+   "ans": "Friday",
+   "answer_t": 204.525,
+   "t1": 207.108
+  },
+  {
+   "kind": "before",
+   "bg": "playroom",
+   "t0": 207.108,
+   "day": "Thursday",
+   "ans": "Wednesday",
+   "answer_t": 211.034,
+   "t1": 213.61
+  },
+  {
+   "kind": "before",
+   "bg": "playroom",
+   "t0": 213.61,
+   "day": "Monday",
+   "ans": "Sunday",
+   "answer_t": 217.452,
+   "t1": 219.871
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 219.871,
+   "title": "WHICH DAY IS MISSING?",
+   "t1": 223.629
+  },
+  {
+   "kind": "missing",
+   "bg": "playroom",
+   "t0": 223.629,
+   "miss": 2,
+   "go_t": 223.629,
+   "answer_t": 227.46,
+   "t1": 230.109
+  },
+  {
+   "kind": "missing",
+   "bg": "playroom",
+   "t0": 230.109,
+   "miss": 5,
+   "go_t": 230.109,
+   "answer_t": 233.89,
+   "t1": 236.328
+  },
+  {
+   "kind": "missing",
+   "bg": "playroom",
+   "t0": 236.328,
+   "miss": 0,
+   "go_t": 236.328,
+   "answer_t": 240.159,
+   "t1": 242.571
+  },
+  {
+   "kind": "missing",
+   "bg": "playroom",
+   "t0": 242.571,
+   "miss": 4,
+   "go_t": 242.571,
+   "answer_t": 246.351,
+   "t1": 248.681
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 248.681,
+   "title": "MIXED UP DAYS!",
+   "t1": 252.448
+  },
+  {
+   "kind": "mixed",
+   "bg": "playroom",
+   "t0": 252.448,
+   "ts": [
+    252.448,
+    254.057,
+    255.623,
+    257.258,
+    258.767,
+    260.284,
+    261.735
+   ],
+   "done_t": 263.347,
+   "t1": 265.207
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 265.207,
+   "title": "WEEKDAYS & WEEKEND!",
+   "t1": 268.962
+  },
+  {
+   "kind": "weekend",
+   "bg": "park",
+   "t0": 268.962,
+   "wd_t": 268.962,
+   "ts": [],
+   "we_t": 274.034,
+   "sum_t": 277.858,
+   "t1": 281.365
+  },
+  {
+   "kind": "sort",
+   "bg": "park",
+   "t0": 281.365,
+   "day": 5,
+   "we": true,
+   "answer_t": 285.29,
+   "t1": 286.648
+  },
+  {
+   "kind": "sort",
+   "bg": "park",
+   "t0": 286.648,
+   "day": 1,
+   "we": false,
+   "answer_t": 290.276,
+   "t1": 291.612
+  },
+  {
+   "kind": "sort",
+   "bg": "park",
+   "t0": 291.612,
+   "day": 6,
+   "we": true,
+   "answer_t": 295.424,
+   "t1": 296.781
+  },
+  {
+   "kind": "sort",
+   "bg": "park",
+   "t0": 296.781,
+   "day": 4,
+   "we": false,
+   "answer_t": 300.375,
+   "t1": 301.711
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 301.711,
+   "title": "WEATHER WEEK!",
+   "t1": 305.29
+  },
+  {
+   "kind": "weather",
+   "bg": "park",
+   "t0": 305.29,
+   "day": 0,
+   "w": "sunny",
+   "answer_t": 308.318,
+   "t1": 310.908
+  },
+  {
+   "kind": "weather",
+   "bg": "park",
+   "t0": 310.908,
+   "day": 1,
+   "w": "rainy",
+   "answer_t": 314.076,
+   "t1": 316.863
+  },
+  {
+   "kind": "weather",
+   "bg": "park",
+   "t0": 316.863,
+   "day": 2,
+   "w": "cloudy",
+   "answer_t": 319.965,
+   "t1": 323.106
+  },
+  {
+   "kind": "weather",
+   "bg": "park",
+   "t0": 323.106,
+   "day": 3,
+   "w": "windy",
+   "answer_t": 326.209,
+   "t1": 328.594
+  },
+  {
+   "kind": "weather",
+   "bg": "park",
+   "t0": 328.594,
+   "day": 4,
+   "w": "snowy",
+   "answer_t": 331.606,
+   "t1": 334.526
+  },
+  {
+   "kind": "weather",
+   "bg": "park",
+   "t0": 334.526,
+   "day": 5,
+   "w": "sunny",
+   "answer_t": 337.675,
+   "t1": 339.928
+  },
+  {
+   "kind": "weather",
+   "bg": "park",
+   "t0": 339.928,
+   "day": 6,
+   "w": "rainbow",
+   "answer_t": 342.941,
+   "t1": 345.423
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 345.423,
+   "title": "YESTERDAY, TODAY, TOMORROW!",
+   "t1": 350.064
+  },
+  {
+   "kind": "ytt",
+   "bg": "playroom",
+   "t0": 350.064,
+   "day": 2,
+   "ts": [
+    350.064,
+    351.824,
+    353.297
+   ],
+   "t1": 355.34
+  },
+  {
+   "kind": "ytt",
+   "bg": "playroom",
+   "t0": 355.34,
+   "day": 4,
+   "ts": [
+    355.34,
+    357.134,
+    358.663
+   ],
+   "t1": 360.56
+  },
+  {
+   "kind": "ytt",
+   "bg": "playroom",
+   "t0": 360.56,
+   "day": 6,
+   "ts": [
+    360.56,
+    362.335,
+    363.712
+   ],
+   "t1": 365.731
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 365.731,
+   "title": "HOW MANY SLEEPS?",
+   "t1": 369.158
+  },
+  {
+   "kind": "sleeps",
+   "bg": "playroom",
+   "t0": 369.158,
+   "today": 2,
+   "path": [
+    3,
+    4,
+    5
+   ],
+   "ts": [
+    372.436,
+    373.69,
+    374.899
+   ],
+   "sum_t": 376.13,
+   "t1": 378.398
+  },
+  {
+   "kind": "sleeps",
+   "bg": "playroom",
+   "t0": 378.398,
+   "today": 4,
+   "path": [
+    5,
+    6,
+    0
+   ],
+   "ts": [
+    381.443,
+    382.708,
+    383.921
+   ],
+   "sum_t": 385.13,
+   "t1": 387.149
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 387.149,
+   "title": "MORNING, AFTERNOON, NIGHT!",
+   "t1": 390.065
+  },
+  {
+   "kind": "times",
+   "bg": "bedroom",
+   "t0": 390.065,
+   "part": "morning",
+   "say_t": 390.065,
+   "t1": 392.747
+  },
+  {
+   "kind": "times",
+   "bg": "bedroom",
+   "t0": 392.747,
+   "part": "afternoon",
+   "say_t": 392.747,
+   "t1": 395.635
+  },
+  {
+   "kind": "times",
+   "bg": "bedroom",
+   "t0": 395.635,
+   "part": "night",
+   "say_t": 395.635,
+   "t1": 400.544
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 400.544,
+   "title": "MY CALENDAR!",
+   "t1": 403.917
+  },
+  {
+   "kind": "calendar",
+   "bg": "playroom",
+   "t0": 403.917,
+   "ts": [
+    403.917,
+    405.208,
+    406.581,
+    407.892,
+    409.288,
+    410.6,
+    411.848
+   ],
+   "done_t": 413.31,
+   "t1": 415.067
+  },
+  {
+   "kind": "fav",
+   "bg": "playroom",
+   "t0": 415.067,
+   "who": "gul",
+   "day": 5,
+   "say_t": 415.067,
+   "t1": 417.673
+  },
+  {
+   "kind": "fav",
+   "bg": "playroom",
+   "t0": 417.673,
+   "who": "mishu",
+   "day": 4,
+   "say_t": 417.673,
+   "t1": 420.446
+  },
+  {
+   "kind": "fav",
+   "bg": "playroom",
+   "t0": 420.446,
+   "who": "both",
+   "day": -1,
+   "t1": 424.104
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 424.104,
+   "title": "DAYS RHYME!",
+   "t1": 426.584
+  },
+  {
+   "kind": "rhyme",
+   "bg": "playroom",
+   "t0": 426.584,
+   "l": [
+    426.584,
+    428.725,
+    430.95,
+    433.189,
+    435.111,
+    437.252,
+    439.476,
+    441.716
+   ],
+   "t1": 443.938
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 443.938,
+   "title": "DAYS TRAIN!",
+   "t1": 447.293
+  },
+  {
+   "kind": "train",
+   "bg": "playroom",
+   "t0": 447.293,
+   "ts": [
+    447.293,
+    448.242,
+    449.23,
+    450.277,
+    451.279,
+    452.224,
+    453.264
+   ],
+   "t1": 456.891
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 456.891,
+   "title": "DAYS DANCE!",
+   "t1": 460.188
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 460.188,
+   "move": "march",
+   "fast": false,
+   "word": "MONDAY, MARCH!",
+   "say_t": 460.188,
+   "t1": 462.916
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 462.916,
+   "move": "spin",
+   "fast": false,
+   "word": "TUESDAY, TWIRL!",
+   "say_t": 462.916,
+   "t1": 465.679
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 465.679,
+   "move": "wiggle",
+   "fast": false,
+   "word": "WEDNESDAY, WIGGLE!",
+   "say_t": 465.679,
+   "t1": 468.476
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 468.476,
+   "move": "stomp",
+   "fast": false,
+   "word": "THURSDAY, STOMP!",
+   "say_t": 468.476,
+   "t1": 471.218
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 471.218,
+   "move": "jump",
+   "fast": false,
+   "word": "FRIDAY, JUMP!",
+   "say_t": 471.218,
+   "t1": 473.847
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 473.847,
+   "move": "shake",
+   "fast": false,
+   "word": "WEEKEND, SHAKE!",
+   "say_t": 473.847,
+   "t1": 476.545
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 476.545,
+   "title": "FASTER!",
+   "t1": 477.925
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 477.925,
+   "move": "march",
+   "fast": true,
+   "word": "MONDAY, MARCH!",
+   "say_t": 477.925,
+   "t1": 479.953
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 479.953,
+   "move": "spin",
+   "fast": true,
+   "word": "TUESDAY, TWIRL!",
+   "say_t": 479.953,
+   "t1": 482.016
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 482.016,
+   "move": "wiggle",
+   "fast": true,
+   "word": "WEDNESDAY, WIGGLE!",
+   "say_t": 482.016,
+   "t1": 484.113
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 484.113,
+   "move": "stomp",
+   "fast": true,
+   "word": "THURSDAY, STOMP!",
+   "say_t": 484.113,
+   "t1": 486.155
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 486.155,
+   "move": "jump",
+   "fast": true,
+   "word": "FRIDAY, JUMP!",
+   "say_t": 486.155,
+   "t1": 488.084
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 488.084,
+   "move": "shake",
+   "fast": true,
+   "word": "WEEKEND, SHAKE!",
+   "say_t": 488.084,
+   "t1": 490.082
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 490.082,
+   "title": "DAYS QUIZ!",
+   "t1": 492.544
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom",
+   "t0": 492.544,
+   "q": "HOW MANY DAYS ARE IN A WEEK?",
+   "vis": "7",
+   "answer_t": 496.68,
+   "t1": 497.891
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom",
+   "t0": 497.891,
+   "q": "WHAT DAY COMES AFTER MONDAY?",
+   "vis": "TUESDAY",
+   "answer_t": 502.017,
+   "t1": 503.355
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom",
+   "t0": 503.355,
+   "q": "WHAT DAY COMES AFTER SATURDAY?",
+   "vis": "SUNDAY",
+   "answer_t": 507.688,
+   "t1": 508.989
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom",
+   "t0": 508.989,
+   "q": "WHICH TWO DAYS ARE THE WEEKEND?",
+   "vis": "WEEKEND",
+   "answer_t": 513.186,
+   "t1": 515.055
+  },
+  {
+   "kind": "outro",
+   "bg": "playroom",
+   "t0": 515.055,
+   "bye_t": 517.294,
+   "t1": 520.839
+  }
+ ],
+ "prompts": [
+  [
+   58.265,
+   59.565
+  ],
+  [
+   66.934,
+   68.234
+  ],
+  [
+   76.025,
+   77.325
+  ],
+  [
+   84.546,
+   85.846
+  ],
+  [
+   93.079,
+   94.379
+  ],
+  [
+   101.509,
+   102.809
+  ],
+  [
+   110.269,
+   111.569
+  ],
+  [
+   153.567,
+   155.567
+  ],
+  [
+   159.51,
+   161.51
+  ],
+  [
+   165.197,
+   167.197
+  ],
+  [
+   171.186,
+   173.186
+  ],
+  [
+   176.729,
+   178.729
+  ],
+  [
+   182.759,
+   184.759
+  ],
+  [
+   188.283,
+   190.283
+  ],
+  [
+   196.269,
+   198.269
+  ],
+  [
+   202.525,
+   204.525
+  ],
+  [
+   209.034,
+   211.034
+  ],
+  [
+   215.452,
+   217.452
+  ],
+  [
+   225.06,
+   227.46
+  ],
+  [
+   231.49,
+   233.89
+  ],
+  [
+   237.759,
+   240.159
+  ],
+  [
+   243.951,
+   246.351
+  ],
+  [
+   283.49,
+   285.29
+  ],
+  [
+   288.476,
+   290.276
+  ],
+  [
+   293.624,
+   295.424
+  ],
+  [
+   298.575,
+   300.375
+  ],
+  [
+   306.818,
+   308.318
+  ],
+  [
+   312.576,
+   314.076
+  ],
+  [
+   318.465,
+   319.965
+  ],
+  [
+   324.709,
+   326.209
+  ],
+  [
+   330.106,
+   331.606
+  ],
+  [
+   336.175,
+   337.675
+  ],
+  [
+   341.441,
+   342.941
+  ],
+  [
+   421.904,
+   424.104
+  ],
+  [
+   461.316,
+   462.916
+  ],
+  [
+   464.079,
+   465.679
+  ],
+  [
+   466.876,
+   468.476
+  ],
+  [
+   469.618,
+   471.218
+  ],
+  [
+   472.247,
+   473.847
+  ],
+  [
+   474.945,
+   476.545
+  ],
+  [
+   479.053,
+   479.953
+  ],
+  [
+   481.116,
+   482.016
+  ],
+  [
+   483.213,
+   484.113
+  ],
+  [
+   485.255,
+   486.155
+  ],
+  [
+   487.184,
+   488.084
+  ],
+  [
+   489.182,
+   490.082
+  ],
+  [
+   494.28,
+   496.68
+  ],
+  [
+   499.617,
+   502.017
+  ],
+  [
+   505.288,
+   507.688
+  ],
+  [
+   510.786,
+   513.186
+  ]
+ ],
+ "stars": [
+  145.544,
+  277.858,
+  376.13,
+  385.13,
+  497.891,
+  503.355,
+  508.989,
+  515.055
+ ],
+ "total": 520.84
+}

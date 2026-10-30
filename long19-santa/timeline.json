@@ -1,0 +1,2513 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "It's Christmas Eve!",
+   "t": 1.9,
+   "dur": 1.043
+  },
+  {
+   "who": "mishu",
+   "text": "Tonight, Santa Claus is coming!",
+   "t": 3.293,
+   "dur": 1.742
+  },
+  {
+   "who": "gul",
+   "text": "Let's find out all about Santa! Let's go!",
+   "t": 5.385,
+   "dur": 2.208
+  },
+  {
+   "who": "gul",
+   "text": "This is Santa Claus! He lives at the North Pole!",
+   "t": 8.642,
+   "dur": 2.503
+  },
+  {
+   "who": "mishu",
+   "text": "Santa is kind, and jolly, and he loves to laugh! Ho, ho, ho!",
+   "t": 12.896,
+   "dur": 3.747
+  },
+  {
+   "who": "gul",
+   "text": "A red hat with a white fluffy pom-pom!",
+   "t": 17.292,
+   "dur": 2.043
+  },
+  {
+   "who": "mishu",
+   "text": "A long, white, fluffy beard!",
+   "t": 19.886,
+   "dur": 1.564
+  },
+  {
+   "who": "gul",
+   "text": "A big red coat!",
+   "t": 22.0,
+   "dur": 1.051
+  },
+  {
+   "who": "mishu",
+   "text": "A black belt with a shiny gold buckle!",
+   "t": 23.601,
+   "dur": 1.967
+  },
+  {
+   "who": "gul",
+   "text": "And big black boots! Stomp, stomp!",
+   "t": 26.118,
+   "dur": 1.959
+  },
+  {
+   "who": "mishu",
+   "text": "Santa is so colourful! What colour is it?",
+   "t": 29.127,
+   "dur": 2.429
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 32.006,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Santa's coat is red!",
+   "t": 34.847,
+   "dur": 1.282
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 36.678,
+   "dur": 1.04
+  },
+  {
+   "who": "gul",
+   "text": "Santa's beard is white!",
+   "t": 39.568,
+   "dur": 1.318
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 41.436,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Santa's boots are black!",
+   "t": 44.277,
+   "dur": 1.303
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 46.129,
+   "dur": 1.04
+  },
+  {
+   "who": "gul",
+   "text": "Santa's buckle is gold!",
+   "t": 49.019,
+   "dur": 1.428
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 50.997,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "The reindeer are brown!",
+   "t": 53.838,
+   "dur": 1.197
+  },
+  {
+   "who": "mishu",
+   "text": "Let's write a letter to Santa!",
+   "t": 56.085,
+   "dur": 1.558
+  },
+  {
+   "who": "mishu",
+   "text": "Dear Santa,",
+   "t": 58.093,
+   "dur": 0.811
+  },
+  {
+   "who": "mishu",
+   "text": "This year, I shared my toys, and I helped my mama.",
+   "t": 59.454,
+   "dur": 2.935
+  },
+  {
+   "who": "mishu",
+   "text": "For Christmas, may I please have a teddy bear?",
+   "t": 62.939,
+   "dur": 2.328
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you, Santa! Love, Mishu.",
+   "t": 65.817,
+   "dur": 1.909
+  },
+  {
+   "who": "gul",
+   "text": "Now, post it to the North Pole! Whoosh!",
+   "t": 68.276,
+   "dur": 2.033
+  },
+  {
+   "who": "gul",
+   "text": "The North Pole is very cold! What do we wear?",
+   "t": 71.359,
+   "dur": 2.498
+  },
+  {
+   "who": "mishu",
+   "text": "A warm hat!",
+   "t": 74.307,
+   "dur": 0.844
+  },
+  {
+   "who": "gul",
+   "text": "A cosy scarf!",
+   "t": 75.601,
+   "dur": 1.022
+  },
+  {
+   "who": "mishu",
+   "text": "Warm mittens!",
+   "t": 77.073,
+   "dur": 0.821
+  },
+  {
+   "who": "gul",
+   "text": "And snow boots! Now we're ready for the North Pole!",
+   "t": 78.344,
+   "dur": 2.533
+  },
+  {
+   "who": "gul",
+   "text": "At the North Pole, Santa's helpers make toys all year!",
+   "t": 82.127,
+   "dur": 2.9
+  },
+  {
+   "who": "mishu",
+   "text": "A teddy bear!",
+   "t": 85.477,
+   "dur": 0.802
+  },
+  {
+   "who": "gul",
+   "text": "A toy car!",
+   "t": 86.628,
+   "dur": 0.842
+  },
+  {
+   "who": "mishu",
+   "text": "A bouncy ball!",
+   "t": 87.82,
+   "dur": 0.918
+  },
+  {
+   "who": "gul",
+   "text": "A toy train!",
+   "t": 89.088,
+   "dur": 0.94
+  },
+  {
+   "who": "mishu",
+   "text": "Crayons!",
+   "t": 90.378,
+   "dur": 0.708
+  },
+  {
+   "who": "gul",
+   "text": "Building blocks!",
+   "t": 91.436,
+   "dur": 0.947
+  },
+  {
+   "who": "both",
+   "text": "Six toys! Tap, tap, all done!",
+   "t": 92.733,
+   "dur": 2.042
+  },
+  {
+   "who": "mishu",
+   "text": "Let's load the presents onto the sleigh! Count with us!",
+   "t": 95.924,
+   "dur": 2.87
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 99.244,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 100.0,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 100.734,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 101.547,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 102.352,
+   "dur": 0.574
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 103.197,
+   "dur": 0.581
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 104.048,
+   "dur": 0.613
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 104.931,
+   "dur": 0.508
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 105.709,
+   "dur": 0.54
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 106.519,
+   "dur": 0.503
+  },
+  {
+   "who": "gul",
+   "text": "Ten presents! The sleigh is full!",
+   "t": 107.292,
+   "dur": 1.738
+  },
+  {
+   "who": "gul",
+   "text": "Santa's sleigh is pulled by eight reindeer! Let's meet them!",
+   "t": 110.18,
+   "dur": 3.156
+  },
+  {
+   "who": "mishu",
+   "text": "One, Dasher!",
+   "t": 113.786,
+   "dur": 0.844
+  },
+  {
+   "who": "gul",
+   "text": "Two, Dancer!",
+   "t": 114.929,
+   "dur": 0.85
+  },
+  {
+   "who": "mishu",
+   "text": "Three, Prancer!",
+   "t": 116.08,
+   "dur": 0.962
+  },
+  {
+   "who": "gul",
+   "text": "Four, Vixen!",
+   "t": 117.342,
+   "dur": 0.867
+  },
+  {
+   "who": "mishu",
+   "text": "Five, Comet!",
+   "t": 118.509,
+   "dur": 0.888
+  },
+  {
+   "who": "gul",
+   "text": "Six, Cupid!",
+   "t": 119.698,
+   "dur": 0.903
+  },
+  {
+   "who": "mishu",
+   "text": "Seven, Donder!",
+   "t": 120.9,
+   "dur": 0.955
+  },
+  {
+   "who": "gul",
+   "text": "Eight, Blitzen!",
+   "t": 122.155,
+   "dur": 0.875
+  },
+  {
+   "who": "both",
+   "text": "Eight reindeer! Ready to fly!",
+   "t": 123.33,
+   "dur": 1.651
+  },
+  {
+   "who": "gul",
+   "text": "Reindeer have big antlers, like tree branches!",
+   "t": 125.631,
+   "dur": 2.413
+  },
+  {
+   "who": "mishu",
+   "text": "Reindeer live where it's very cold and snowy!",
+   "t": 128.694,
+   "dur": 2.226
+  },
+  {
+   "who": "gul",
+   "text": "Reindeer love to eat carrots! Crunch, crunch!",
+   "t": 131.57,
+   "dur": 2.443
+  },
+  {
+   "who": "mishu",
+   "text": "Santa's sleigh flies all around the world!",
+   "t": 135.164,
+   "dur": 2.195
+  },
+  {
+   "who": "both",
+   "text": "Up, up, and away!",
+   "t": 137.809,
+   "dur": 1.064
+  },
+  {
+   "who": "gul",
+   "text": "House one!",
+   "t": 139.223,
+   "dur": 0.721
+  },
+  {
+   "who": "mishu",
+   "text": "House two!",
+   "t": 140.294,
+   "dur": 0.743
+  },
+  {
+   "who": "gul",
+   "text": "House three!",
+   "t": 141.387,
+   "dur": 0.799
+  },
+  {
+   "who": "mishu",
+   "text": "House four!",
+   "t": 142.536,
+   "dur": 0.762
+  },
+  {
+   "who": "gul",
+   "text": "House five!",
+   "t": 143.648,
+   "dur": 0.811
+  },
+  {
+   "who": "both",
+   "text": "Santa visits every house, all in one night!",
+   "t": 144.809,
+   "dur": 2.58
+  },
+  {
+   "who": "gul",
+   "text": "How does Santa get inside? Let's see!",
+   "t": 148.539,
+   "dur": 2.051
+  },
+  {
+   "who": "mishu",
+   "text": "Santa lands on the roof. Tap, tap, tap!",
+   "t": 151.04,
+   "dur": 2.672
+  },
+  {
+   "who": "gul",
+   "text": "He climbs down the chimney. Whoosh!",
+   "t": 154.262,
+   "dur": 2.027
+  },
+  {
+   "who": "mishu",
+   "text": "He puts presents under the tree, very quietly. Shh!",
+   "t": 156.839,
+   "dur": 3.513
+  },
+  {
+   "who": "gul",
+   "text": "Then back up the chimney, and away he goes!",
+   "t": 160.903,
+   "dur": 2.191
+  },
+  {
+   "who": "mishu",
+   "text": "Santa gets hungry! Let's leave him a snack!",
+   "t": 164.143,
+   "dur": 2.44
+  },
+  {
+   "who": "gul",
+   "text": "Let's leave cookies for Santa!",
+   "t": 167.034,
+   "dur": 1.588
+  },
+  {
+   "who": "mishu",
+   "text": "And a glass of milk!",
+   "t": 169.072,
+   "dur": 1.114
+  },
+  {
+   "who": "gul",
+   "text": "And carrots for the reindeer!",
+   "t": 170.635,
+   "dur": 1.391
+  },
+  {
+   "who": "both",
+   "text": "Three cookies, one milk, two carrots! Thank you, Santa!",
+   "t": 172.477,
+   "dur": 3.017
+  },
+  {
+   "who": "gul",
+   "text": "It's getting late! Time to get ready for bed!",
+   "t": 176.644,
+   "dur": 2.258
+  },
+  {
+   "who": "mishu",
+   "text": "Put on your pyjamas!",
+   "t": 179.353,
+   "dur": 1.106
+  },
+  {
+   "who": "gul",
+   "text": "Hang up your stocking!",
+   "t": 181.109,
+   "dur": 1.099
+  },
+  {
+   "who": "mishu",
+   "text": "Brush your teeth!",
+   "t": 182.858,
+   "dur": 0.948
+  },
+  {
+   "who": "gul",
+   "text": "Then off to bed! Santa only comes when you're fast asleep. Shh!",
+   "t": 184.456,
+   "dur": 3.709
+  },
+  {
+   "who": "gul",
+   "text": "Shh! Santa is here! Ho, ho, ho!",
+   "t": 190.615,
+   "dur": 2.167
+  },
+  {
+   "who": "mishu",
+   "text": "Merry Christmas to all, and to all a good night!",
+   "t": 193.232,
+   "dur": 2.547
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count down to Christmas morning!",
+   "t": 196.529,
+   "dur": 1.867
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 198.646,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 199.419,
+   "dur": 0.54
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 200.229,
+   "dur": 0.508
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 201.007,
+   "dur": 0.613
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 201.89,
+   "dur": 0.581
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 202.741,
+   "dur": 0.574
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 203.586,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 204.391,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 205.203,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 205.938,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas!",
+   "t": 206.693,
+   "dur": 0.934
+  },
+  {
+   "who": "mishu",
+   "text": "Wake up! It's Christmas morning! Santa came!",
+   "t": 208.877,
+   "dur": 2.526
+  },
+  {
+   "who": "gul",
+   "text": "It's soft and cuddly!",
+   "t": 211.854,
+   "dur": 1.303
+  },
+  {
+   "who": "gul",
+   "text": "What's inside?",
+   "t": 213.407,
+   "dur": 0.945
+  },
+  {
+   "who": "mishu",
+   "text": "A teddy bear! Thank you, Santa!",
+   "t": 216.402,
+   "dur": 1.778
+  },
+  {
+   "who": "mishu",
+   "text": "It goes choo choo!",
+   "t": 218.83,
+   "dur": 1.028
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside?",
+   "t": 220.108,
+   "dur": 0.902
+  },
+  {
+   "who": "gul",
+   "text": "A toy train!",
+   "t": 223.06,
+   "dur": 0.94
+  },
+  {
+   "who": "gul",
+   "text": "You can colour with them!",
+   "t": 224.65,
+   "dur": 1.185
+  },
+  {
+   "who": "gul",
+   "text": "What's inside?",
+   "t": 226.085,
+   "dur": 0.945
+  },
+  {
+   "who": "mishu",
+   "text": "Crayons!",
+   "t": 229.08,
+   "dur": 0.708
+  },
+  {
+   "who": "gul",
+   "text": "Look! The cookies are gone!",
+   "t": 230.439,
+   "dur": 1.393
+  },
+  {
+   "who": "mishu",
+   "text": "And Santa left a note! Thank you for the cookies! Love, Santa!",
+   "t": 232.081,
+   "dur": 3.666
+  },
+  {
+   "who": "gul",
+   "text": "Santa loves cookies! Let's count, and take away!",
+   "t": 236.897,
+   "dur": 2.622
+  },
+  {
+   "who": "mishu",
+   "text": "Santa had five cookies. He ate two.",
+   "t": 239.969,
+   "dur": 2.349
+  },
+  {
+   "who": "mishu",
+   "text": "Yum, yum! How many are left?",
+   "t": 243.168,
+   "dur": 1.659
+  },
+  {
+   "who": "gul",
+   "text": "Three cookies!",
+   "t": 247.077,
+   "dur": 0.855
+  },
+  {
+   "who": "gul",
+   "text": "Four cookies on the plate. Santa ate one.",
+   "t": 248.581,
+   "dur": 2.397
+  },
+  {
+   "who": "gul",
+   "text": "How many are left?",
+   "t": 251.829,
+   "dur": 1.004
+  },
+  {
+   "who": "mishu",
+   "text": "Three cookies!",
+   "t": 255.083,
+   "dur": 0.854
+  },
+  {
+   "who": "mishu",
+   "text": "Three cookies.",
+   "t": 256.587,
+   "dur": 0.85
+  },
+  {
+   "who": "mishu",
+   "text": "Santa ate all three! How many are left?",
+   "t": 258.287,
+   "dur": 2.212
+  },
+  {
+   "who": "gul",
+   "text": "Zero! None left! Ha ha!",
+   "t": 262.749,
+   "dur": 1.428
+  },
+  {
+   "who": "mishu",
+   "text": "Something is hiding under a present! Can you find it?",
+   "t": 265.327,
+   "dur": 2.763
+  },
+  {
+   "who": "gul",
+   "text": "Which present is it under?",
+   "t": 268.54,
+   "dur": 1.448
+  },
+  {
+   "who": "mishu",
+   "text": "Santa's hat is under the blue present!",
+   "t": 272.237,
+   "dur": 2.086
+  },
+  {
+   "who": "mishu",
+   "text": "Which present is it under?",
+   "t": 274.874,
+   "dur": 1.366
+  },
+  {
+   "who": "gul",
+   "text": "The sleigh bell is under the green present!",
+   "t": 278.49,
+   "dur": 2.006
+  },
+  {
+   "who": "gul",
+   "text": "Which present is it under?",
+   "t": 281.046,
+   "dur": 1.448
+  },
+  {
+   "who": "mishu",
+   "text": "The letter is under the pink present!",
+   "t": 284.743,
+   "dur": 1.855
+  },
+  {
+   "who": "mishu",
+   "text": "Which present is it under?",
+   "t": 287.148,
+   "dur": 1.366
+  },
+  {
+   "who": "gul",
+   "text": "The reindeer's carrot! Found it!",
+   "t": 290.764,
+   "dur": 1.537
+  },
+  {
+   "who": "gul",
+   "text": "Santa yes or no game! Shout yes, or no!",
+   "t": 293.351,
+   "dur": 2.442
+  },
+  {
+   "who": "mishu",
+   "text": "Does Santa have reindeer?",
+   "t": 296.243,
+   "dur": 1.337
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Eight reindeer!",
+   "t": 299.431,
+   "dur": 1.088
+  },
+  {
+   "who": "gul",
+   "text": "Does Santa drive a car?",
+   "t": 301.069,
+   "dur": 1.488
+  },
+  {
+   "who": "mishu",
+   "text": "No! He rides a sleigh!",
+   "t": 304.407,
+   "dur": 1.273
+  },
+  {
+   "who": "mishu",
+   "text": "Does Santa live where it snows?",
+   "t": 306.23,
+   "dur": 1.605
+  },
+  {
+   "who": "gul",
+   "text": "Yes! At the North Pole!",
+   "t": 309.686,
+   "dur": 1.233
+  },
+  {
+   "who": "gul",
+   "text": "Does Santa come in summer?",
+   "t": 311.468,
+   "dur": 1.465
+  },
+  {
+   "who": "mishu",
+   "text": "No! He comes on Christmas Eve!",
+   "t": 314.783,
+   "dur": 1.775
+  },
+  {
+   "who": "mishu",
+   "text": "Does Santa like cookies?",
+   "t": 317.108,
+   "dur": 1.405
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Yummy!",
+   "t": 320.363,
+   "dur": 0.79
+  },
+  {
+   "who": "gul",
+   "text": "Does Santa wear a green suit?",
+   "t": 321.703,
+   "dur": 1.545
+  },
+  {
+   "who": "mishu",
+   "text": "No! He wears red!",
+   "t": 325.098,
+   "dur": 1.176
+  },
+  {
+   "who": "mishu",
+   "text": "Can we write a letter to Santa?",
+   "t": 326.825,
+   "dur": 1.533
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Dear Santa!",
+   "t": 330.208,
+   "dur": 1.096
+  },
+  {
+   "who": "gul",
+   "text": "Do we leave milk for Santa?",
+   "t": 331.854,
+   "dur": 1.475
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! And cookies!",
+   "t": 335.179,
+   "dur": 1.095
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Look at the pattern. What comes next?",
+   "t": 337.323,
+   "dur": 2.267
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 340.041,
+   "dur": 1.013
+  },
+  {
+   "who": "gul",
+   "text": "A present!",
+   "t": 343.303,
+   "dur": 0.71
+  },
+  {
+   "who": "gul",
+   "text": "What comes next?",
+   "t": 344.564,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "A bell!",
+   "t": 347.803,
+   "dur": 0.55
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 348.903,
+   "dur": 1.013
+  },
+  {
+   "who": "gul",
+   "text": "Milk!",
+   "t": 352.166,
+   "dur": 0.549
+  },
+  {
+   "who": "mishu",
+   "text": "Listen carefully! What is that sound?",
+   "t": 353.765,
+   "dur": 2.052
+  },
+  {
+   "who": "gul",
+   "text": "What is it?",
+   "t": 358.166,
+   "dur": 0.729
+  },
+  {
+   "who": "mishu",
+   "text": "Ho, ho, ho! It's Santa!",
+   "t": 360.745,
+   "dur": 1.49
+  },
+  {
+   "who": "mishu",
+   "text": "What is it?",
+   "t": 364.685,
+   "dur": 0.676
+  },
+  {
+   "who": "gul",
+   "text": "Sleigh bells! Jingle, jingle!",
+   "t": 367.212,
+   "dur": 1.588
+  },
+  {
+   "who": "gul",
+   "text": "What is it?",
+   "t": 371.25,
+   "dur": 0.729
+  },
+  {
+   "who": "mishu",
+   "text": "Reindeer on the roof! Clip, clop!",
+   "t": 373.829,
+   "dur": 1.93
+  },
+  {
+   "who": "mishu",
+   "text": "What is it?",
+   "t": 378.208,
+   "dur": 0.676
+  },
+  {
+   "who": "gul",
+   "text": "Down the chimney! Whoosh!",
+   "t": 380.735,
+   "dur": 1.242
+  },
+  {
+   "who": "mishu",
+   "text": "How does Christmas Eve make you feel?",
+   "t": 383.027,
+   "dur": 1.786
+  },
+  {
+   "who": "gul",
+   "text": "Santa is coming tonight! I feel so excited!",
+   "t": 385.263,
+   "dur": 2.535
+  },
+  {
+   "who": "mishu",
+   "text": "It's late. I feel sleepy. Yawn!",
+   "t": 389.448,
+   "dur": 2.141
+  },
+  {
+   "who": "gul",
+   "text": "Look! Presents! I feel surprised!",
+   "t": 393.239,
+   "dur": 1.737
+  },
+  {
+   "who": "mishu",
+   "text": "A teddy bear from Santa! I feel so happy!",
+   "t": 396.626,
+   "dur": 2.576
+  },
+  {
+   "who": "gul",
+   "text": "Let's dress Gul up like Santa!",
+   "t": 401.352,
+   "dur": 1.677
+  },
+  {
+   "who": "mishu",
+   "text": "First, the red Santa hat!",
+   "t": 403.48,
+   "dur": 1.523
+  },
+  {
+   "who": "mishu",
+   "text": "Then, a fluffy white beard!",
+   "t": 405.453,
+   "dur": 1.594
+  },
+  {
+   "who": "mishu",
+   "text": "A big red coat!",
+   "t": 407.497,
+   "dur": 1.03
+  },
+  {
+   "who": "mishu",
+   "text": "A black belt!",
+   "t": 408.977,
+   "dur": 0.925
+  },
+  {
+   "who": "mishu",
+   "text": "And black boots!",
+   "t": 410.352,
+   "dur": 1.004
+  },
+  {
+   "who": "gul",
+   "text": "Ho, ho, ho! I'm Santa Gul!",
+   "t": 411.806,
+   "dur": 1.551
+  },
+  {
+   "who": "mishu",
+   "text": "We can all be Santa's helpers!",
+   "t": 414.508,
+   "dur": 1.63
+  },
+  {
+   "who": "gul",
+   "text": "Santa's best helpers are kind!",
+   "t": 416.588,
+   "dur": 1.843
+  },
+  {
+   "who": "mishu",
+   "text": "Share your toys, like Santa shares presents!",
+   "t": 419.08,
+   "dur": 2.46
+  },
+  {
+   "who": "gul",
+   "text": "Say please, and thank you!",
+   "t": 422.191,
+   "dur": 1.329
+  },
+  {
+   "who": "mishu",
+   "text": "Give your family a big Christmas hug!",
+   "t": 424.17,
+   "dur": 1.915
+  },
+  {
+   "who": "gul",
+   "text": "Let's say Jingle Bells together!",
+   "t": 427.234,
+   "dur": 1.743
+  },
+  {
+   "who": "both",
+   "text": "Jingle bells, jingle bells,",
+   "t": 429.427,
+   "dur": 1.646
+  },
+  {
+   "who": "both",
+   "text": "jingle all the way!",
+   "t": 431.423,
+   "dur": 1.073
+  },
+  {
+   "who": "both",
+   "text": "Oh what fun it is to ride",
+   "t": 432.846,
+   "dur": 1.381
+  },
+  {
+   "who": "both",
+   "text": "in a one horse open sleigh! Hey!",
+   "t": 434.577,
+   "dur": 1.978
+  },
+  {
+   "who": "both",
+   "text": "Jingle bells, jingle bells,",
+   "t": 436.906,
+   "dur": 1.646
+  },
+  {
+   "who": "both",
+   "text": "jingle all the way!",
+   "t": 438.902,
+   "dur": 1.073
+  },
+  {
+   "who": "both",
+   "text": "Oh what fun it is to ride",
+   "t": 440.325,
+   "dur": 1.381
+  },
+  {
+   "who": "both",
+   "text": "in a one horse open sleigh! Hey!",
+   "t": 442.056,
+   "dur": 1.978
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! Let's do the Santa dance!",
+   "t": 445.184,
+   "dur": 1.891
+  },
+  {
+   "who": "both",
+   "text": "Ho, ho, ho! Hold your belly!",
+   "t": 447.525,
+   "dur": 1.726
+  },
+  {
+   "who": "both",
+   "text": "Fly like a reindeer!",
+   "t": 451.001,
+   "dur": 1.164
+  },
+  {
+   "who": "both",
+   "text": "Ride the sleigh!",
+   "t": 453.915,
+   "dur": 0.889
+  },
+  {
+   "who": "both",
+   "text": "Stomp like Santa's boots!",
+   "t": 456.554,
+   "dur": 1.441
+  },
+  {
+   "who": "both",
+   "text": "Wiggle like an elf!",
+   "t": 459.745,
+   "dur": 1.11
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas! Hooray!",
+   "t": 462.605,
+   "dur": 1.323
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 465.678,
+   "dur": 1.028
+  },
+  {
+   "who": "both",
+   "text": "Ho, ho, ho! Hold your belly!",
+   "t": 467.056,
+   "dur": 1.726
+  },
+  {
+   "who": "both",
+   "text": "Fly like a reindeer!",
+   "t": 469.832,
+   "dur": 1.164
+  },
+  {
+   "who": "both",
+   "text": "Ride the sleigh!",
+   "t": 472.046,
+   "dur": 0.889
+  },
+  {
+   "who": "both",
+   "text": "Stomp like Santa's boots!",
+   "t": 473.985,
+   "dur": 1.441
+  },
+  {
+   "who": "both",
+   "text": "Wiggle like an elf!",
+   "t": 476.476,
+   "dur": 1.11
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas! Hooray!",
+   "t": 478.636,
+   "dur": 1.323
+  },
+  {
+   "who": "gul",
+   "text": "Quick quiz time! Are you ready?",
+   "t": 481.509,
+   "dur": 1.509
+  },
+  {
+   "who": "gul",
+   "text": "What colour is Santa's coat?",
+   "t": 483.468,
+   "dur": 1.398
+  },
+  {
+   "who": "mishu",
+   "text": "Red!",
+   "t": 487.516,
+   "dur": 0.486
+  },
+  {
+   "who": "mishu",
+   "text": "Who pulls Santa's sleigh?",
+   "t": 488.652,
+   "dur": 1.268
+  },
+  {
+   "who": "gul",
+   "text": "The reindeer!",
+   "t": 492.57,
+   "dur": 0.739
+  },
+  {
+   "who": "gul",
+   "text": "How does Santa get inside?",
+   "t": 493.959,
+   "dur": 1.522
+  },
+  {
+   "who": "mishu",
+   "text": "Down the chimney!",
+   "t": 498.131,
+   "dur": 0.886
+  },
+  {
+   "who": "mishu",
+   "text": "What do we leave for Santa?",
+   "t": 499.667,
+   "dur": 1.258
+  },
+  {
+   "who": "gul",
+   "text": "Cookies and milk!",
+   "t": 503.574,
+   "dur": 0.995
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you for waiting for Santa with us!",
+   "t": 505.22,
+   "dur": 1.873
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas, friends! Bye bye!",
+   "t": 507.443,
+   "dur": 1.996
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "roof",
+   "t0": 0.0,
+   "fly_t": 0.3,
+   "title_t": 1.9,
+   "kids_t": 3.293,
+   "t1": 8.142
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 8.142,
+   "title": "MEET SANTA!",
+   "t1": 11.596
+  },
+  {
+   "kind": "meet",
+   "bg": "northpole",
+   "t0": 11.596,
+   "ho_t": 11.596,
+   "t1": 17.292
+  },
+  {
+   "kind": "part",
+   "bg": "northpole",
+   "t0": 17.292,
+   "part": "hat",
+   "say_t": 17.292,
+   "t1": 19.886
+  },
+  {
+   "kind": "part",
+   "bg": "northpole",
+   "t0": 19.886,
+   "part": "beard",
+   "say_t": 19.886,
+   "t1": 22.0
+  },
+  {
+   "kind": "part",
+   "bg": "northpole",
+   "t0": 22.0,
+   "part": "coat",
+   "say_t": 22.0,
+   "t1": 23.601
+  },
+  {
+   "kind": "part",
+   "bg": "northpole",
+   "t0": 23.601,
+   "part": "belt",
+   "say_t": 23.601,
+   "t1": 26.118
+  },
+  {
+   "kind": "part",
+   "bg": "northpole",
+   "t0": 26.118,
+   "part": "boots",
+   "say_t": 26.118,
+   "t1": 28.627
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 28.627,
+   "title": "SANTA COLOURS!",
+   "t1": 32.006
+  },
+  {
+   "kind": "colour",
+   "bg": "northpole",
+   "t0": 32.006,
+   "col": "red",
+   "key": "santa",
+   "answer_t": 34.847,
+   "t1": 36.678
+  },
+  {
+   "kind": "colour",
+   "bg": "northpole",
+   "t0": 36.678,
+   "col": "white",
+   "key": "santa",
+   "answer_t": 39.568,
+   "t1": 41.436
+  },
+  {
+   "kind": "colour",
+   "bg": "northpole",
+   "t0": 41.436,
+   "col": "black",
+   "key": "santa",
+   "answer_t": 44.277,
+   "t1": 46.129
+  },
+  {
+   "kind": "colour",
+   "bg": "northpole",
+   "t0": 46.129,
+   "col": "gold",
+   "key": "santa",
+   "answer_t": 49.019,
+   "t1": 50.997
+  },
+  {
+   "kind": "colour",
+   "bg": "northpole",
+   "t0": 50.997,
+   "col": "brown",
+   "key": "reindeer",
+   "answer_t": 53.838,
+   "t1": 55.585
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 55.585,
+   "title": "LETTER TO SANTA!",
+   "t1": 58.093
+  },
+  {
+   "kind": "letter",
+   "bg": "xmasroom",
+   "t0": 58.093,
+   "ts": [
+    58.093,
+    59.454,
+    62.939,
+    65.817,
+    68.276
+   ],
+   "t1": 70.859
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 70.859,
+   "title": "BRRR! IT'S COLD!",
+   "t1": 74.307
+  },
+  {
+   "kind": "warm",
+   "bg": "northpole",
+   "t0": 74.307,
+   "ts": [
+    74.307,
+    75.601,
+    77.073,
+    78.344
+   ],
+   "t1": 81.627
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 81.627,
+   "title": "SANTA'S WORKSHOP!",
+   "t1": 85.477
+  },
+  {
+   "kind": "workshop",
+   "bg": "northpole",
+   "t0": 85.477,
+   "ts": [
+    85.477,
+    86.628,
+    87.82,
+    89.088,
+    90.378,
+    91.436
+   ],
+   "sum_t": 92.733,
+   "t1": 95.424
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 95.424,
+   "title": "LOAD THE SLEIGH!",
+   "t1": 99.244
+  },
+  {
+   "kind": "load",
+   "bg": "northpole",
+   "t0": 99.244,
+   "ts": [
+    99.244,
+    100.0,
+    100.734,
+    101.547,
+    102.352,
+    103.197,
+    104.048,
+    104.931,
+    105.709,
+    106.519
+   ],
+   "t1": 109.68
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 109.68,
+   "title": "SANTA'S REINDEER!",
+   "t1": 113.786
+  },
+  {
+   "kind": "deer",
+   "bg": "northpole",
+   "t0": 113.786,
+   "ts": [
+    113.786,
+    114.929,
+    116.08,
+    117.342,
+    118.509,
+    119.698,
+    120.9,
+    122.155
+   ],
+   "sum_t": 123.33,
+   "t1": 125.631
+  },
+  {
+   "kind": "deerfact",
+   "bg": "northpole",
+   "t0": 125.631,
+   "k": 0,
+   "say_t": 125.631,
+   "t1": 128.694
+  },
+  {
+   "kind": "deerfact",
+   "bg": "northpole",
+   "t0": 128.694,
+   "k": 1,
+   "say_t": 128.694,
+   "t1": 131.57
+  },
+  {
+   "kind": "deerfact",
+   "bg": "northpole",
+   "t0": 131.57,
+   "k": 2,
+   "say_t": 131.57,
+   "t1": 134.664
+  },
+  {
+   "kind": "title",
+   "bg": "roof",
+   "t0": 134.664,
+   "title": "UP, UP, AND AWAY!",
+   "t1": 137.809
+  },
+  {
+   "kind": "fly",
+   "bg": "roof",
+   "t0": 137.809,
+   "go_t": 137.809,
+   "ts": [
+    139.223,
+    140.294,
+    141.387,
+    142.536,
+    143.648
+   ],
+   "t1": 148.039
+  },
+  {
+   "kind": "title",
+   "bg": "roof",
+   "t0": 148.039,
+   "title": "DOWN THE CHIMNEY!",
+   "t1": 151.04
+  },
+  {
+   "kind": "chimney",
+   "bg": "roof",
+   "t0": 151.04,
+   "ts": [
+    151.04,
+    154.262,
+    156.839,
+    160.903
+   ],
+   "t1": 163.643
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 163.643,
+   "title": "COOKIES FOR SANTA!",
+   "t1": 167.034
+  },
+  {
+   "kind": "snack",
+   "bg": "xmasroom",
+   "t0": 167.034,
+   "ts": [
+    167.034,
+    169.072,
+    170.635
+   ],
+   "count_t": 172.477,
+   "t1": 176.144
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 176.144,
+   "title": "CHRISTMAS EVE BEDTIME!",
+   "t1": 179.353
+  },
+  {
+   "kind": "bed",
+   "bg": "xmasroom",
+   "t0": 179.353,
+   "key": "pyjamas",
+   "num": 1,
+   "say_t": 179.353,
+   "t1": 181.109
+  },
+  {
+   "kind": "bed",
+   "bg": "xmasroom",
+   "t0": 181.109,
+   "key": "stocking",
+   "num": 2,
+   "say_t": 181.109,
+   "t1": 182.858
+  },
+  {
+   "kind": "bed",
+   "bg": "xmasroom",
+   "t0": 182.858,
+   "key": "toothbrush",
+   "num": 3,
+   "say_t": 182.858,
+   "t1": 184.456
+  },
+  {
+   "kind": "bed",
+   "bg": "xmasroom",
+   "t0": 184.456,
+   "key": "moon",
+   "num": 4,
+   "say_t": 184.456,
+   "t1": 188.815
+  },
+  {
+   "kind": "night",
+   "bg": "roof",
+   "t0": 188.815,
+   "land_t": 189.215,
+   "away_t": 193.232,
+   "t1": 196.529
+  },
+  {
+   "kind": "countdown",
+   "bg": "roof",
+   "t0": 196.529,
+   "ts": [
+    198.646,
+    199.419,
+    200.229,
+    201.007,
+    201.89,
+    202.741,
+    203.586,
+    204.391,
+    205.203,
+    205.938
+   ],
+   "go_t": 206.693,
+   "t1": 208.377
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 208.377,
+   "title": "CHRISTMAS MORNING!",
+   "t1": 211.854
+  },
+  {
+   "kind": "open",
+   "bg": "xmasroom",
+   "t0": 211.854,
+   "box": "present1",
+   "inside": "teddy",
+   "shake_t": 211.854,
+   "open_t": 216.402,
+   "t1": 218.83
+  },
+  {
+   "kind": "open",
+   "bg": "xmasroom",
+   "t0": 218.83,
+   "box": "present2",
+   "inside": "toytrain",
+   "shake_t": 218.83,
+   "open_t": 223.06,
+   "t1": 224.65
+  },
+  {
+   "kind": "open",
+   "bg": "xmasroom",
+   "t0": 224.65,
+   "box": "present3",
+   "inside": "crayons",
+   "shake_t": 224.65,
+   "open_t": 229.08,
+   "t1": 230.439
+  },
+  {
+   "kind": "eaten",
+   "bg": "xmasroom",
+   "t0": 230.439,
+   "note_t": 232.081,
+   "t1": 236.397
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 236.397,
+   "title": "COOKIE MATHS!",
+   "t1": 239.969
+  },
+  {
+   "kind": "cookies",
+   "bg": "xmasroom",
+   "t0": 239.969,
+   "n": 5,
+   "eat": 2,
+   "eat_t": 242.568,
+   "answer_t": 247.077,
+   "t1": 248.581
+  },
+  {
+   "kind": "cookies",
+   "bg": "xmasroom",
+   "t0": 248.581,
+   "n": 4,
+   "eat": 1,
+   "eat_t": 251.229,
+   "answer_t": 255.083,
+   "t1": 256.587
+  },
+  {
+   "kind": "cookies",
+   "bg": "xmasroom",
+   "t0": 256.587,
+   "n": 3,
+   "eat": 3,
+   "eat_t": 257.687,
+   "answer_t": 262.749,
+   "t1": 264.827
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 264.827,
+   "title": "WHERE IS IT?",
+   "t1": 268.54
+  },
+  {
+   "kind": "hide",
+   "bg": "xmasroom",
+   "t0": 268.54,
+   "key": "santahat",
+   "pos": 1,
+   "reveal_t": 272.237,
+   "t1": 274.874
+  },
+  {
+   "kind": "hide",
+   "bg": "xmasroom",
+   "t0": 274.874,
+   "key": "bell",
+   "pos": 2,
+   "reveal_t": 278.49,
+   "t1": 281.046
+  },
+  {
+   "kind": "hide",
+   "bg": "xmasroom",
+   "t0": 281.046,
+   "key": "letter",
+   "pos": 0,
+   "reveal_t": 284.743,
+   "t1": 287.148
+  },
+  {
+   "kind": "hide",
+   "bg": "xmasroom",
+   "t0": 287.148,
+   "key": "carrot",
+   "pos": 1,
+   "reveal_t": 290.764,
+   "t1": 292.851
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 292.851,
+   "title": "YES OR NO?",
+   "t1": 296.243
+  },
+  {
+   "kind": "yesno",
+   "bg": "northpole",
+   "t0": 296.243,
+   "key": "reindeer",
+   "good": true,
+   "q": "DOES SANTA HAVE REINDEER?",
+   "answer_t": 299.431,
+   "t1": 301.069
+  },
+  {
+   "kind": "yesno",
+   "bg": "northpole",
+   "t0": 301.069,
+   "key": "toycar",
+   "good": false,
+   "q": "DOES SANTA DRIVE A CAR?",
+   "answer_t": 304.407,
+   "t1": 306.23
+  },
+  {
+   "kind": "yesno",
+   "bg": "northpole",
+   "t0": 306.23,
+   "key": "snowflake",
+   "good": true,
+   "q": "DOES SANTA LIVE WHERE IT SNOWS?",
+   "answer_t": 309.686,
+   "t1": 311.468
+  },
+  {
+   "kind": "yesno",
+   "bg": "northpole",
+   "t0": 311.468,
+   "key": "sunny",
+   "good": false,
+   "q": "DOES SANTA COME IN SUMMER?",
+   "answer_t": 314.783,
+   "t1": 317.108
+  },
+  {
+   "kind": "yesno",
+   "bg": "northpole",
+   "t0": 317.108,
+   "key": "cookie",
+   "good": true,
+   "q": "DOES SANTA LIKE COOKIES?",
+   "answer_t": 320.363,
+   "t1": 321.703
+  },
+  {
+   "kind": "yesno",
+   "bg": "northpole",
+   "t0": 321.703,
+   "key": "sunglasses",
+   "good": false,
+   "q": "DOES SANTA WEAR A GREEN SUIT?",
+   "answer_t": 325.098,
+   "t1": 326.825
+  },
+  {
+   "kind": "yesno",
+   "bg": "northpole",
+   "t0": 326.825,
+   "key": "letter",
+   "good": true,
+   "q": "CAN WE WRITE A LETTER TO SANTA?",
+   "answer_t": 330.208,
+   "t1": 331.854
+  },
+  {
+   "kind": "yesno",
+   "bg": "northpole",
+   "t0": 331.854,
+   "key": "milk",
+   "good": true,
+   "q": "DO WE LEAVE MILK FOR SANTA?",
+   "answer_t": 335.179,
+   "t1": 336.823
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 336.823,
+   "title": "WHAT COMES NEXT?",
+   "t1": 340.041
+  },
+  {
+   "kind": "pattern",
+   "bg": "northpole",
+   "t0": 340.041,
+   "seq": [
+    "reindeer",
+    "present1",
+    "reindeer",
+    "present1",
+    "reindeer"
+   ],
+   "ans": "present1",
+   "answer_t": 343.303,
+   "t1": 344.564
+  },
+  {
+   "kind": "pattern",
+   "bg": "northpole",
+   "t0": 344.564,
+   "seq": [
+    "santahat",
+    "santahat",
+    "bell",
+    "santahat",
+    "santahat"
+   ],
+   "ans": "bell",
+   "answer_t": 347.803,
+   "t1": 348.903
+  },
+  {
+   "kind": "pattern",
+   "bg": "northpole",
+   "t0": 348.903,
+   "seq": [
+    "cookie",
+    "milk",
+    "cookie",
+    "milk",
+    "cookie"
+   ],
+   "ans": "milk",
+   "answer_t": 352.166,
+   "t1": 353.265
+  },
+  {
+   "kind": "title",
+   "bg": "roof",
+   "t0": 353.265,
+   "title": "SANTA SOUNDS!",
+   "t1": 356.266
+  },
+  {
+   "kind": "sound",
+   "bg": "roof",
+   "t0": 356.266,
+   "key": "santa",
+   "snd_t": 356.566,
+   "answer_t": 360.745,
+   "t1": 362.785
+  },
+  {
+   "kind": "sound",
+   "bg": "roof",
+   "t0": 362.785,
+   "key": "sleigh",
+   "snd_t": 363.085,
+   "answer_t": 367.212,
+   "t1": 369.35
+  },
+  {
+   "kind": "sound",
+   "bg": "roof",
+   "t0": 369.35,
+   "key": "reindeer",
+   "snd_t": 369.65,
+   "answer_t": 373.829,
+   "t1": 376.308
+  },
+  {
+   "kind": "sound",
+   "bg": "roof",
+   "t0": 376.308,
+   "key": "chimney",
+   "snd_t": 376.608,
+   "answer_t": 380.735,
+   "t1": 382.527
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 382.527,
+   "title": "CHRISTMAS FEELINGS!",
+   "t1": 385.263
+  },
+  {
+   "kind": "feel",
+   "bg": "xmasroom",
+   "t0": 385.263,
+   "emo": "excited",
+   "who": "gul",
+   "say_t": 385.263,
+   "t1": 389.448
+  },
+  {
+   "kind": "feel",
+   "bg": "xmasroom",
+   "t0": 389.448,
+   "emo": "tired",
+   "who": "misheal",
+   "say_t": 389.448,
+   "t1": 393.239
+  },
+  {
+   "kind": "feel",
+   "bg": "xmasroom",
+   "t0": 393.239,
+   "emo": "surprised",
+   "who": "gul",
+   "say_t": 393.239,
+   "t1": 396.626
+  },
+  {
+   "kind": "feel",
+   "bg": "xmasroom",
+   "t0": 396.626,
+   "emo": "happy",
+   "who": "misheal",
+   "say_t": 396.626,
+   "t1": 400.852
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 400.852,
+   "title": "DRESS UP LIKE SANTA!",
+   "t1": 403.48
+  },
+  {
+   "kind": "dress",
+   "bg": "xmasroom",
+   "t0": 403.48,
+   "ts": [
+    403.48,
+    405.453,
+    407.497,
+    408.977,
+    410.352
+   ],
+   "done_t": 411.806,
+   "t1": 414.008
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 414.008,
+   "title": "SANTA'S HELPERS!",
+   "t1": 416.588
+  },
+  {
+   "kind": "kind",
+   "bg": "xmasroom",
+   "t0": 416.588,
+   "k": 0,
+   "say_t": 416.588,
+   "t1": 419.08
+  },
+  {
+   "kind": "kind",
+   "bg": "xmasroom",
+   "t0": 419.08,
+   "k": 1,
+   "say_t": 419.08,
+   "t1": 422.191
+  },
+  {
+   "kind": "kind",
+   "bg": "xmasroom",
+   "t0": 422.191,
+   "k": 2,
+   "say_t": 422.191,
+   "t1": 424.17
+  },
+  {
+   "kind": "kind",
+   "bg": "xmasroom",
+   "t0": 424.17,
+   "k": 3,
+   "say_t": 424.17,
+   "t1": 426.734
+  },
+  {
+   "kind": "title",
+   "bg": "roof",
+   "t0": 426.734,
+   "title": "JINGLE BELLS!",
+   "t1": 429.427
+  },
+  {
+   "kind": "chant",
+   "bg": "roof",
+   "t0": 429.427,
+   "l": [
+    429.427,
+    431.423,
+    432.846,
+    434.577,
+    436.906,
+    438.902,
+    440.325,
+    442.056
+   ],
+   "t1": 444.684
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 444.684,
+   "title": "SANTA DANCE!",
+   "t1": 447.525
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 447.525,
+   "move": "shake",
+   "fast": false,
+   "word": "HO, HO, HO!",
+   "say_t": 447.525,
+   "t1": 451.001
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 451.001,
+   "move": "jump",
+   "fast": false,
+   "word": "FLY LIKE A REINDEER!",
+   "say_t": 451.001,
+   "t1": 453.915
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 453.915,
+   "move": "sway",
+   "fast": false,
+   "word": "RIDE THE SLEIGH!",
+   "say_t": 453.915,
+   "t1": 456.554
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 456.554,
+   "move": "stomp",
+   "fast": false,
+   "word": "STOMP LIKE SANTA'S BOOTS!",
+   "say_t": 456.554,
+   "t1": 459.745
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 459.745,
+   "move": "wiggle",
+   "fast": false,
+   "word": "WIGGLE LIKE AN ELF!",
+   "say_t": 459.745,
+   "t1": 462.605
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 462.605,
+   "move": "jump",
+   "fast": false,
+   "word": "MERRY CHRISTMAS!",
+   "say_t": 462.605,
+   "t1": 465.678
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 465.678,
+   "title": "FASTER!",
+   "t1": 467.056
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 467.056,
+   "move": "shake",
+   "fast": true,
+   "word": "HO, HO, HO!",
+   "say_t": 467.056,
+   "t1": 469.832
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 469.832,
+   "move": "jump",
+   "fast": true,
+   "word": "FLY LIKE A REINDEER!",
+   "say_t": 469.832,
+   "t1": 472.046
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 472.046,
+   "move": "sway",
+   "fast": true,
+   "word": "RIDE THE SLEIGH!",
+   "say_t": 472.046,
+   "t1": 473.985
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 473.985,
+   "move": "stomp",
+   "fast": true,
+   "word": "STOMP LIKE SANTA'S BOOTS!",
+   "say_t": 473.985,
+   "t1": 476.476
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 476.476,
+   "move": "wiggle",
+   "fast": true,
+   "word": "WIGGLE LIKE AN ELF!",
+   "say_t": 476.476,
+   "t1": 478.636
+  },
+  {
+   "kind": "dance",
+   "bg": "northpole",
+   "t0": 478.636,
+   "move": "jump",
+   "fast": true,
+   "word": "MERRY CHRISTMAS!",
+   "say_t": 478.636,
+   "t1": 481.009
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 481.009,
+   "title": "SANTA QUIZ!",
+   "t1": 483.468
+  },
+  {
+   "kind": "quiz",
+   "bg": "northpole",
+   "t0": 483.468,
+   "q": "WHAT COLOUR IS SANTA'S COAT?",
+   "vis": "santa",
+   "answer_t": 487.516,
+   "t1": 488.652
+  },
+  {
+   "kind": "quiz",
+   "bg": "northpole",
+   "t0": 488.652,
+   "q": "WHO PULLS SANTA'S SLEIGH?",
+   "vis": "reindeer",
+   "answer_t": 492.57,
+   "t1": 493.959
+  },
+  {
+   "kind": "quiz",
+   "bg": "northpole",
+   "t0": 493.959,
+   "q": "HOW DOES SANTA GET INSIDE?",
+   "vis": "chimney",
+   "answer_t": 498.131,
+   "t1": 499.667
+  },
+  {
+   "kind": "quiz",
+   "bg": "northpole",
+   "t0": 499.667,
+   "q": "WHAT DO WE LEAVE FOR SANTA?",
+   "vis": "cookie",
+   "answer_t": 503.574,
+   "t1": 505.22
+  },
+  {
+   "kind": "outro",
+   "bg": "roof",
+   "t0": 505.22,
+   "bye_t": 507.443,
+   "t1": 511.389
+  }
+ ],
+ "prompts": [
+  [
+   33.247,
+   34.847
+  ],
+  [
+   37.968,
+   39.568
+  ],
+  [
+   42.677,
+   44.277
+  ],
+  [
+   47.419,
+   49.019
+  ],
+  [
+   52.238,
+   53.838
+  ],
+  [
+   214.602,
+   216.402
+  ],
+  [
+   221.26,
+   223.06
+  ],
+  [
+   227.28,
+   229.08
+  ],
+  [
+   245.077,
+   247.077
+  ],
+  [
+   253.083,
+   255.083
+  ],
+  [
+   260.749,
+   262.749
+  ],
+  [
+   270.237,
+   272.237
+  ],
+  [
+   276.49,
+   278.49
+  ],
+  [
+   282.743,
+   284.743
+  ],
+  [
+   288.764,
+   290.764
+  ],
+  [
+   297.831,
+   299.431
+  ],
+  [
+   302.807,
+   304.407
+  ],
+  [
+   308.086,
+   309.686
+  ],
+  [
+   313.183,
+   314.783
+  ],
+  [
+   318.763,
+   320.363
+  ],
+  [
+   323.498,
+   325.098
+  ],
+  [
+   328.608,
+   330.208
+  ],
+  [
+   333.579,
+   335.179
+  ],
+  [
+   341.303,
+   343.303
+  ],
+  [
+   345.803,
+   347.803
+  ],
+  [
+   350.166,
+   352.166
+  ],
+  [
+   359.145,
+   360.745
+  ],
+  [
+   365.612,
+   367.212
+  ],
+  [
+   372.229,
+   373.829
+  ],
+  [
+   379.135,
+   380.735
+  ],
+  [
+   388.148,
+   389.448
+  ],
+  [
+   391.939,
+   393.239
+  ],
+  [
+   395.326,
+   396.626
+  ],
+  [
+   399.552,
+   400.852
+  ],
+  [
+   449.401,
+   451.001
+  ],
+  [
+   452.315,
+   453.915
+  ],
+  [
+   454.954,
+   456.554
+  ],
+  [
+   458.145,
+   459.745
+  ],
+  [
+   461.005,
+   462.605
+  ],
+  [
+   464.078,
+   465.678
+  ],
+  [
+   468.932,
+   469.832
+  ],
+  [
+   471.146,
+   472.046
+  ],
+  [
+   473.085,
+   473.985
+  ],
+  [
+   475.576,
+   476.476
+  ],
+  [
+   477.736,
+   478.636
+  ],
+  [
+   480.109,
+   481.009
+  ],
+  [
+   485.116,
+   487.516
+  ],
+  [
+   490.17,
+   492.57
+  ],
+  [
+   495.731,
+   498.131
+  ],
+  [
+   501.174,
+   503.574
+  ]
+ ],
+ "stars": [
+  92.733,
+  123.33,
+  488.652,
+  493.959,
+  499.667,
+  505.22
+ ],
+ "total": 511.39
+}
