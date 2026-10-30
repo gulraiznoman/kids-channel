@@ -1,0 +1,66 @@
+MISS mishu ah, ah, apple! -> Uh, uh, Daple.
+MISS mishu kuh, kuh, cat! -> Co-co-cat
+MISS gul duh, duh, dog! -> Da da dog
+MISS gul fuh, fuh, fish! -> Fuff Fuff Fish
+MISS mishu guh, guh, grapes! -> Gaga grapes
+MISS gul huh, huh, hat! -> Ho, ho, hat.
+MISS gul juh, juh, jellyfish! -> Ja ja jellyfish
+MISS mishu kuh, kuh, kite! -> Co-co-kate
+MISS gul luh, luh, lion! -> Let's let's lion
+MISS mishu muh, muh, monkey! -> Mama Monkey
+MISS gul nuh, nuh, nest! -> No, no nest
+MISS gul puh, puh, penguin! -> P-P-Penguin
+MISS mishu kwuh, kwuh, queen! -> Qua qua queen
+MISS gul ruh, ruh, rainbow! -> Ruzz Ruzz rainbow
+MISS mishu suh, suh, sun! -> So so son
+MISS gul tuh, tuh, turtle! -> Ta ta turtle
+MISS gul vuh, vuh, violin! -> Va va violin
+MISS mishu wuh, wuh, whale! -> Whoa, whoa, whoa!
+MISS mishu yuh, yuh, yo-yo! -> Yes, yes, yo-yo
+MISS gul zuh, zuh, zebra! -> Zaza Zebra
+MISS both buh! -> Bye
+MISS both kuh! -> Tell
+MISS both duh! -> Yeah
+MISS both fuh! -> So
+MISS both guh! -> Yeah
+MISS both huh! -> Hi.
+MISS both juh! -> Ja
+MISS both luh! -> What?
+MISS both muh! -> Ma
+MISS both nuh! -> No
+MISS both puh! -> Bye!
+MISS both kwuh! -> Kueh
+MISS both ruh! -> Right
+MISS both suh! -> So
+MISS both tuh! -> Ta-da!
+MISS both vuh! -> Bye
+MISS both wuh! -> What?
+MISS both yuh! -> Yeah
+MISS both zuh! -> Yeah
+MISS mishu D! duh, duh, dog! -> D-D-D-Dog
+MISS mishu Sun! What letter does sun start with? -> Son, what letter does son start with?
+MISS gul S! suh, suh, sun! -> S.S.S.S.S.S.S.N.
+MISS mishu F! fuh, fuh, fish! -> F4Fish
+MISS gul M! muh, muh, moon! -> and Mama Moon.
+MISS mishu C! kuh, kuh, cat! -> Shee-ka-ka-kat
+MISS gul P! puh, puh, penguin! -> P-P-P-Penguin
+MISS mishu T! tuh, tuh, turtle! -> T-T-Turtle
+MISS mishu Z! zuh, zuh, zebra! -> Z Sasa Zebra
+MISS gul R! ruh, ruh, rainbow! -> R-R-R-Rainbow
+MISS mishu K! kuh, kuh, kite! -> K K Kite
+MISS gul What starts with S? suh, suh! -> What starts with s so so
+MISS mishu What starts with M? muh, muh! -> What starts with them? Mama
+MISS mishu kuh! -> Come
+MISS mishu tuh! -> Ciao!
+MISS mishu suh! -> Yeah
+MISS mishu nuh! -> No
+MISS gul nuh! -> No
+MISS mishu buh! -> Bye
+MISS gul buh! -> But
+MISS gul suh! -> So
+MISS mishu huh! -> Hi
+MISS both Y! Arms up high! -> Why aren't the pie?
+MISS mishu Buh, buh, ball! -> Bye, bye, ball.
+MISS mishu Z! Zuh, zuh, zebra! -> Si, sasa-sibra.
+MISS gul Twenty six letters! -> 26 Letters
+212/277 distinct lines clear
