@@ -1,0 +1,716 @@
+{
+ "beats": [
+  {
+   "who": "gul",
+   "text": "Hi friends! I'm Gul!",
+   "wave": "gul",
+   "scene": "intro",
+   "t": 0.6,
+   "wav": "../audio_kokoro/gul_01f26f2502.wav",
+   "dur": 1.341
+  },
+  {
+   "who": "mishu",
+   "text": "And I'm Mishu! Today, we're going to learn colours!",
+   "wave": "mishu",
+   "t": 2.541,
+   "wav": "../audio_kokoro/mishu_02ce73e966.wav",
+   "dur": 2.848
+  },
+  {
+   "who": "gul",
+   "text": "Colours are everywhere! Let's go!",
+   "eyes_closed": "gul",
+   "t": 5.989,
+   "wav": "../audio_kokoro/gul_ff654ed61d.wav",
+   "dur": 1.654
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "red",
+   "t": 8.242,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Gul, look! A balloon! What colour is it?",
+   "t": 9.142,
+   "wav": "../audio_kokoro/mishu_82601ab972.wav",
+   "dur": 2.247
+  },
+  {
+   "who": "gul",
+   "text": "Red! Red, like an apple!",
+   "label": "Red",
+   "t": 11.989,
+   "wav": "../audio_kokoro/gul_2088ef0b84.wav",
+   "dur": 1.36
+  },
+  {
+   "who": "mishu",
+   "text": "Red! Can you say red?",
+   "spell": "Red",
+   "t": 13.949,
+   "wav": "../audio_kokoro/mishu_96be46b532.wav",
+   "dur": 1.351
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 15.9,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 18.9,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.906
+  },
+  {
+   "who": "mishu",
+   "text": "Red is so bright!",
+   "t": 20.406,
+   "wav": "../audio_kokoro/mishu_9191610e11.wav",
+   "dur": 1.101
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "red",
+   "t": 22.106,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "orange",
+   "t": 22.706,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Mishu, what colour is this balloon?",
+   "t": 23.606,
+   "wav": "../audio_kokoro/gul_5d36500898.wav",
+   "dur": 1.883
+  },
+  {
+   "who": "mishu",
+   "text": "Orange! Orange, like an orange!",
+   "label": "Orange",
+   "t": 26.089,
+   "wav": "../audio_kokoro/mishu_1470a31455.wav",
+   "dur": 1.884
+  },
+  {
+   "who": "gul",
+   "text": "Orange! Can you say orange?",
+   "spell": "Orange",
+   "t": 28.573,
+   "wav": "../audio_kokoro/gul_39e84a0679.wav",
+   "dur": 1.535
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 30.709,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Yay! Well done!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 33.709,
+   "wav": "../audio_kokoro/mishu_1bd28d30a5.wav",
+   "dur": 1.122
+  },
+  {
+   "who": "gul",
+   "text": "Orange, orange! That's funny!",
+   "t": 35.431,
+   "wav": "../audio_kokoro/gul_3ea4ec852e.wav",
+   "dur": 1.606
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "orange",
+   "t": 37.637,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "yellow",
+   "t": 38.237,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh! What colour is this one?",
+   "t": 39.137,
+   "wav": "../audio_kokoro/mishu_8270679a43.wav",
+   "dur": 1.645
+  },
+  {
+   "who": "gul",
+   "text": "Yellow! Yellow, like a banana!",
+   "label": "Yellow",
+   "t": 41.382,
+   "wav": "../audio_kokoro/gul_adc17842d7.wav",
+   "dur": 1.541
+  },
+  {
+   "who": "mishu",
+   "text": "Yellow! Can you say yellow?",
+   "spell": "Yellow",
+   "t": 43.523,
+   "wav": "../audio_kokoro/mishu_f95bc1ba57.wav",
+   "dur": 1.508
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 45.631,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 48.631,
+   "wav": "../audio_kokoro/gul_78f9525d9d.wav",
+   "dur": 0.682
+  },
+  {
+   "who": "mishu",
+   "text": "Yellow like the sun!",
+   "t": 49.914,
+   "wav": "../audio_kokoro/mishu_17f25f7d61.wav",
+   "dur": 1.169
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "yellow",
+   "t": 51.682,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "green",
+   "t": 52.282,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Look, Mishu! What colour is it?",
+   "t": 53.182,
+   "wav": "../audio_kokoro/gul_a1211fa76c.wav",
+   "dur": 1.726
+  },
+  {
+   "who": "mishu",
+   "text": "Green! Green, like a leaf!",
+   "label": "Green",
+   "t": 55.509,
+   "wav": "../audio_kokoro/mishu_52b6b17dc3.wav",
+   "dur": 1.625
+  },
+  {
+   "who": "gul",
+   "text": "Green! Can you say green?",
+   "spell": "Green",
+   "t": 57.733,
+   "wav": "../audio_kokoro/gul_9c023c1abd.wav",
+   "dur": 1.373
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 59.706,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Super!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 62.706,
+   "wav": "../audio_kokoro/mishu_a8fa6858ce.wav",
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "Green like the grass!",
+   "t": 63.977,
+   "wav": "../audio_kokoro/gul_7f3157a9f3.wav",
+   "dur": 1.225
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "green",
+   "t": 65.802,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "blue",
+   "t": 66.402,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Gul, look! A balloon! What colour is it?",
+   "t": 67.302,
+   "wav": "../audio_kokoro/mishu_82601ab972.wav",
+   "dur": 2.247
+  },
+  {
+   "who": "gul",
+   "text": "Blue! Blue, like a little fish!",
+   "label": "Blue",
+   "t": 70.149,
+   "wav": "../audio_kokoro/gul_8d1096b1a1.wav",
+   "dur": 1.564
+  },
+  {
+   "who": "mishu",
+   "text": "Blue! Can you say blue?",
+   "spell": "Blue",
+   "t": 72.312,
+   "wav": "../audio_kokoro/mishu_cf4bdcdfdf.wav",
+   "dur": 1.336
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 74.248,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Good job, friends!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 77.248,
+   "wav": "../audio_kokoro/gul_05cefc0e50.wav",
+   "dur": 1.258
+  },
+  {
+   "who": "mishu",
+   "text": "Blue like the sky!",
+   "t": 79.107,
+   "wav": "../audio_kokoro/mishu_29fb618f31.wav",
+   "dur": 1.11
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "blue",
+   "t": 80.817,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "purple",
+   "t": 81.417,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Mishu, what colour is this balloon?",
+   "t": 82.317,
+   "wav": "../audio_kokoro/gul_5d36500898.wav",
+   "dur": 1.883
+  },
+  {
+   "who": "mishu",
+   "text": "Purple! Purple, like grapes!",
+   "label": "Purple",
+   "t": 84.8,
+   "wav": "../audio_kokoro/mishu_1526825834.wav",
+   "dur": 1.733
+  },
+  {
+   "who": "gul",
+   "text": "Purple! Can you say purple?",
+   "spell": "Purple",
+   "t": 87.133,
+   "wav": "../audio_kokoro/gul_17bad95dfe.wav",
+   "dur": 1.53
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 89.263,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Great job!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 92.263,
+   "wav": "../audio_kokoro/mishu_3a5043f6a9.wav",
+   "dur": 0.853
+  },
+  {
+   "who": "gul",
+   "text": "Purple is so pretty!",
+   "t": 93.716,
+   "wav": "../audio_kokoro/gul_c4afdc610f.wav",
+   "dur": 1.335
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "purple",
+   "t": 95.651,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "pink",
+   "t": 96.251,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh! What colour is this one?",
+   "t": 97.151,
+   "wav": "../audio_kokoro/mishu_8270679a43.wav",
+   "dur": 1.645
+  },
+  {
+   "who": "gul",
+   "text": "Pink! Pink, like a flower!",
+   "label": "Pink",
+   "t": 99.396,
+   "wav": "../audio_kokoro/gul_546a54da0f.wav",
+   "dur": 1.478
+  },
+  {
+   "who": "mishu",
+   "text": "Pink! Can you say pink?",
+   "spell": "Pink",
+   "t": 101.474,
+   "wav": "../audio_kokoro/mishu_248dff8a40.wav",
+   "dur": 1.306
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 103.38,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Yay! Well done!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 106.38,
+   "wav": "../audio_kokoro/gul_4b6f79d170.wav",
+   "dur": 0.992
+  },
+  {
+   "who": "mishu",
+   "text": "Pink like my dress!",
+   "t": 107.972,
+   "wav": "../audio_kokoro/mishu_740868d76a.wav",
+   "dur": 1.238
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "pink",
+   "t": 109.81,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "brown",
+   "t": 110.41,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Look, Mishu! What colour is it?",
+   "t": 111.31,
+   "wav": "../audio_kokoro/gul_a1211fa76c.wav",
+   "dur": 1.726
+  },
+  {
+   "who": "mishu",
+   "text": "Brown! Brown, like a teddy bear!",
+   "label": "Brown",
+   "t": 113.637,
+   "wav": "../audio_kokoro/mishu_e4773674bf.wav",
+   "dur": 1.971
+  },
+  {
+   "who": "gul",
+   "text": "Brown! Can you say brown?",
+   "spell": "Brown",
+   "t": 116.208,
+   "wav": "../audio_kokoro/gul_b5a141c7dd.wav",
+   "dur": 1.345
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 118.153,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Awesome!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 121.153,
+   "wav": "../audio_kokoro/mishu_1801bdeece.wav",
+   "dur": 0.646
+  },
+  {
+   "who": "gul",
+   "text": "A big brown hug!",
+   "t": 122.399,
+   "wav": "../audio_kokoro/gul_63aa9a7c2f.wav",
+   "dur": 1.213
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "brown",
+   "t": 124.212,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "grey",
+   "t": 124.812,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Gul, look! A balloon! What colour is it?",
+   "t": 125.712,
+   "wav": "../audio_kokoro/mishu_82601ab972.wav",
+   "dur": 2.247
+  },
+  {
+   "who": "gul",
+   "text": "Grey! Grey, like an elephant!",
+   "label": "Grey",
+   "t": 128.559,
+   "wav": "../audio_kokoro/gul_e1023eef94.wav",
+   "dur": 1.527
+  },
+  {
+   "who": "mishu",
+   "text": "Grey! Can you say grey?",
+   "spell": "Grey",
+   "t": 130.686,
+   "wav": "../audio_kokoro/mishu_bf1089ba22.wav",
+   "dur": 1.388
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 132.674,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Super!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 135.674,
+   "wav": "../audio_kokoro/gul_3e21ce06a3.wav",
+   "dur": 0.681
+  },
+  {
+   "who": "gul",
+   "text": "A big grey elephant!",
+   "t": 136.956,
+   "wav": "../audio_kokoro/gul_40366cf61c.wav",
+   "dur": 1.331
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "grey",
+   "t": 138.886,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "black",
+   "t": 139.486,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Mishu, what colour is this balloon?",
+   "t": 140.386,
+   "wav": "../audio_kokoro/gul_5d36500898.wav",
+   "dur": 1.883
+  },
+  {
+   "who": "mishu",
+   "text": "Black! Black, like a kitty cat!",
+   "label": "Black",
+   "t": 142.87,
+   "wav": "../audio_kokoro/mishu_c75b7a4ec9.wav",
+   "dur": 1.745
+  },
+  {
+   "who": "gul",
+   "text": "Black! Can you say black?",
+   "spell": "Black",
+   "t": 145.214,
+   "wav": "../audio_kokoro/gul_dda6b16df1.wav",
+   "dur": 1.233
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 147.048,
+   "dur": 3.0
+  },
+  {
+   "who": "mishu",
+   "text": "Good job, friends!",
+   "eyes_closed": "mishu",
+   "stars": true,
+   "t": 150.048,
+   "wav": "../audio_kokoro/mishu_89b7ff85c8.wav",
+   "dur": 1.219
+  },
+  {
+   "who": "mishu",
+   "text": "Meow, meow!",
+   "t": 151.866,
+   "wav": "../audio_kokoro/mishu_54f1e22fa5.wav",
+   "dur": 0.822
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "black",
+   "t": 153.289,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.9,
+   "fruit_in": "white",
+   "t": 153.889,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh! What colour is this one?",
+   "t": 154.789,
+   "wav": "../audio_kokoro/mishu_8270679a43.wav",
+   "dur": 1.645
+  },
+  {
+   "who": "gul",
+   "text": "White! White, like a fluffy cloud!",
+   "label": "White",
+   "t": 157.034,
+   "wav": "../audio_kokoro/gul_2896352150.wav",
+   "dur": 1.656
+  },
+  {
+   "who": "mishu",
+   "text": "White! Can you say white?",
+   "spell": "White",
+   "t": 159.29,
+   "wav": "../audio_kokoro/mishu_e39c10c3b3.wav",
+   "dur": 1.332
+  },
+  {
+   "pause": 3.0,
+   "prompt": true,
+   "t": 161.222,
+   "dur": 3.0
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "eyes_closed": "gul",
+   "stars": true,
+   "t": 164.222,
+   "wav": "../audio_kokoro/gul_744598970d.wav",
+   "dur": 0.906
+  },
+  {
+   "who": "gul",
+   "text": "Soft and fluffy!",
+   "t": 165.727,
+   "wav": "../audio_kokoro/gul_17cfd966e8.wav",
+   "dur": 1.151
+  },
+  {
+   "pause": 0.6,
+   "fruit_out": "white",
+   "t": 167.479,
+   "dur": 0.6
+  },
+  {
+   "pause": 0.6,
+   "recap": true,
+   "t": 168.079,
+   "dur": 0.6
+  },
+  {
+   "who": "mishu",
+   "text": "We learned eleven colours today!",
+   "t": 168.679,
+   "wav": "../audio_kokoro/mishu_18efa57958.wav",
+   "dur": 1.755
+  },
+  {
+   "who": "gul",
+   "text": "red, orange, yellow, green, blue, purple, pink, brown, grey, black, and white!",
+   "recap_walk": true,
+   "t": 171.034,
+   "wav": "../audio_kokoro/gul_8c108d6f12.wav",
+   "dur": 4.116
+  },
+  {
+   "who": "mishu",
+   "text": "What colour are you wearing today? I'm wearing pink!",
+   "t": 175.75,
+   "wav": "../audio_kokoro/mishu_6bf7dc29b5.wav",
+   "dur": 2.623
+  },
+  {
+   "who": "gul",
+   "text": "And I'm wearing blue! Look for colours all around you!",
+   "eyes_closed": "gul",
+   "t": 178.973,
+   "wav": "../audio_kokoro/gul_f98b7feb27.wav",
+   "dur": 2.744
+  },
+  {
+   "who": "mishu",
+   "text": "Bye bye, friends!",
+   "wave": "mishu",
+   "scene": "outro",
+   "t": 182.318,
+   "wav": "../audio_kokoro/mishu_de922abe3e.wav",
+   "dur": 1.145
+  },
+  {
+   "who": "gul",
+   "text": "See you next time!",
+   "wave": "gul",
+   "t": 184.063,
+   "wav": "../audio_kokoro/gul_a5bc07c40a.wav",
+   "dur": 1.157
+  },
+  {
+   "pause": 2.5,
+   "end": true,
+   "t": 185.82,
+   "dur": 2.5
+  }
+ ],
+ "total": 188.32
+}
