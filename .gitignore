@@ -1,0 +1,15 @@
+# videos and big media are kept elsewhere (Gulraiz manages them)
+VIDEOS/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+# regenerated caches
+words/
+_chunks/
+__pycache__/
+tools/_*/
+*.pyc
