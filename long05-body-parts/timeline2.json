@@ -1,0 +1,3790 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Body Parts!",
+   "t": 3.0,
+   "dur": 0.862
+  },
+  {
+   "who": "gul",
+   "text": "Let's go!",
+   "t": 4.162,
+   "dur": 0.714
+  },
+  {
+   "who": "gul",
+   "text": "Oh no! Where is my nose?!",
+   "t": 5.277,
+   "dur": 1.358
+  },
+  {
+   "who": "mishu",
+   "text": "Here it is! Catch!",
+   "t": 6.934,
+   "dur": 1.123
+  },
+  {
+   "who": "gul",
+   "text": "Boop! Thank you, Mishu!",
+   "t": 8.857,
+   "dur": 1.195
+  },
+  {
+   "who": "mishu",
+   "text": "Let's learn thirty body parts! Ready?",
+   "t": 10.352,
+   "dur": 2.094
+  },
+  {
+   "who": "mishu",
+   "text": "Let's start with my face!",
+   "t": 13.346,
+   "dur": 1.295
+  },
+  {
+   "who": "mishu",
+   "text": "This is my head! My brain lives inside!",
+   "t": 15.041,
+   "dur": 2.335
+  },
+  {
+   "who": "gul",
+   "text": "Head! Say it with me!",
+   "t": 17.676,
+   "dur": 1.077
+  },
+  {
+   "who": "gul",
+   "text": "My hair keeps my head warm!",
+   "t": 20.252,
+   "dur": 1.52
+  },
+  {
+   "who": "mishu",
+   "text": "Hair! Say it with me!",
+   "t": 22.073,
+   "dur": 1.169
+  },
+  {
+   "who": "mishu",
+   "text": "My forehead is above my eyes!",
+   "t": 24.742,
+   "dur": 1.747
+  },
+  {
+   "who": "gul",
+   "text": "Forehead! Say it with me!",
+   "t": 26.788,
+   "dur": 1.227
+  },
+  {
+   "who": "gul",
+   "text": "My eyebrows go up when I'm surprised!",
+   "t": 29.515,
+   "dur": 2.008
+  },
+  {
+   "who": "mishu",
+   "text": "Eyebrows! Say it with me!",
+   "t": 31.822,
+   "dur": 1.435
+  },
+  {
+   "who": "mishu",
+   "text": "My eyelashes keep dust out of my eyes!",
+   "t": 34.758,
+   "dur": 2.112
+  },
+  {
+   "who": "gul",
+   "text": "Eyelashes! Say it with me!",
+   "t": 37.169,
+   "dur": 1.336
+  },
+  {
+   "who": "gul",
+   "text": "My eyes help me see!",
+   "t": 40.006,
+   "dur": 1.161
+  },
+  {
+   "who": "mishu",
+   "text": "Eyes! Say it with me!",
+   "t": 41.467,
+   "dur": 1.255
+  },
+  {
+   "who": "mishu",
+   "text": "My nose helps me smell and breathe!",
+   "t": 44.222,
+   "dur": 1.756
+  },
+  {
+   "who": "gul",
+   "text": "Nose! Say it with me!",
+   "t": 46.278,
+   "dur": 1.119
+  },
+  {
+   "who": "gul",
+   "text": "Puff up your cheeks, like a balloon!",
+   "t": 48.897,
+   "dur": 1.616
+  },
+  {
+   "who": "mishu",
+   "text": "Cheeks! Say it with me!",
+   "t": 50.813,
+   "dur": 1.328
+  },
+  {
+   "who": "mishu",
+   "text": "Puff your cheeks with me!",
+   "t": 53.641,
+   "dur": 1.141
+  },
+  {
+   "who": "mishu",
+   "text": "My ears help me hear!",
+   "t": 56.782,
+   "dur": 1.193
+  },
+  {
+   "who": "gul",
+   "text": "Ears! Say it with me!",
+   "t": 58.275,
+   "dur": 1.116
+  },
+  {
+   "who": "gul",
+   "text": "My lips can smile and blow kisses!",
+   "t": 60.892,
+   "dur": 2.005
+  },
+  {
+   "who": "mishu",
+   "text": "Lips! Say it with me!",
+   "t": 63.197,
+   "dur": 1.249
+  },
+  {
+   "who": "mishu",
+   "text": "My teeth help me chew my food!",
+   "t": 65.945,
+   "dur": 1.62
+  },
+  {
+   "who": "gul",
+   "text": "Teeth! Say it with me!",
+   "t": 67.866,
+   "dur": 1.148
+  },
+  {
+   "who": "gul",
+   "text": "My tongue helps me taste and talk!",
+   "t": 70.514,
+   "dur": 1.787
+  },
+  {
+   "who": "mishu",
+   "text": "Tongue! Say it with me!",
+   "t": 72.601,
+   "dur": 1.238
+  },
+  {
+   "who": "mishu",
+   "text": "Stick out your tongue! Bleh!",
+   "t": 75.339,
+   "dur": 1.431
+  },
+  {
+   "who": "mishu",
+   "text": "This is my chin, at the bottom of my face!",
+   "t": 78.77,
+   "dur": 2.449
+  },
+  {
+   "who": "gul",
+   "text": "Chin! Say it with me!",
+   "t": 81.518,
+   "dur": 1.098
+  },
+  {
+   "who": "gul",
+   "text": "Touch your chin!",
+   "t": 84.116,
+   "dur": 0.907
+  },
+  {
+   "who": "both",
+   "text": "Head!",
+   "t": 87.023,
+   "dur": 0.501
+  },
+  {
+   "who": "both",
+   "text": "Shoulders!",
+   "t": 87.504,
+   "dur": 0.722
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 88.206,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 88.782,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 89.503,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 90.08,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "Head!",
+   "t": 90.801,
+   "dur": 0.501
+  },
+  {
+   "who": "both",
+   "text": "Shoulders!",
+   "t": 91.282,
+   "dur": 0.722
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 91.984,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 92.56,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 93.282,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 93.858,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "And eyes!",
+   "t": 94.579,
+   "dur": 0.723
+  },
+  {
+   "who": "both",
+   "text": "and ears!",
+   "t": 95.283,
+   "dur": 0.758
+  },
+  {
+   "who": "both",
+   "text": "and mouth!",
+   "t": 96.021,
+   "dur": 0.657
+  },
+  {
+   "who": "both",
+   "text": "and nose!",
+   "t": 96.658,
+   "dur": 0.709
+  },
+  {
+   "who": "both",
+   "text": "Head!",
+   "t": 97.347,
+   "dur": 0.501
+  },
+  {
+   "who": "both",
+   "text": "Shoulders!",
+   "t": 97.828,
+   "dur": 0.722
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 98.53,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 99.106,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 99.828,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 100.404,
+   "dur": 0.741
+  },
+  {
+   "who": "mishu",
+   "text": "Now super fast!",
+   "t": 101.425,
+   "dur": 1.135
+  },
+  {
+   "who": "both",
+   "text": "Head!",
+   "t": 102.96,
+   "dur": 0.501
+  },
+  {
+   "who": "both",
+   "text": "Shoulders!",
+   "t": 103.341,
+   "dur": 0.722
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 103.943,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 104.42,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 105.041,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 105.517,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "Head!",
+   "t": 106.138,
+   "dur": 0.501
+  },
+  {
+   "who": "both",
+   "text": "Shoulders!",
+   "t": 106.519,
+   "dur": 0.722
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 107.122,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 107.598,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 108.219,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 108.695,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "And eyes!",
+   "t": 109.317,
+   "dur": 0.723
+  },
+  {
+   "who": "both",
+   "text": "and ears!",
+   "t": 109.92,
+   "dur": 0.758
+  },
+  {
+   "who": "both",
+   "text": "and mouth!",
+   "t": 110.558,
+   "dur": 0.657
+  },
+  {
+   "who": "both",
+   "text": "and nose!",
+   "t": 111.095,
+   "dur": 0.709
+  },
+  {
+   "who": "both",
+   "text": "Head!",
+   "t": 111.684,
+   "dur": 0.501
+  },
+  {
+   "who": "both",
+   "text": "Shoulders!",
+   "t": 112.065,
+   "dur": 0.722
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 112.668,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 113.144,
+   "dur": 0.741
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 113.765,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "and toes!",
+   "t": 114.241,
+   "dur": 0.741
+  },
+  {
+   "who": "mishu",
+   "text": "Wow! So fast!",
+   "t": 115.163,
+   "dur": 1.025
+  },
+  {
+   "who": "gul",
+   "text": "Now my whole body! Move with me!",
+   "t": 117.087,
+   "dur": 1.816
+  },
+  {
+   "who": "gul",
+   "text": "My neck holds up my head!",
+   "t": 119.303,
+   "dur": 1.412
+  },
+  {
+   "who": "mishu",
+   "text": "Neck! Say it with me!",
+   "t": 121.015,
+   "dur": 1.185
+  },
+  {
+   "who": "mishu",
+   "text": "My shoulders can shrug!",
+   "t": 123.699,
+   "dur": 1.32
+  },
+  {
+   "who": "gul",
+   "text": "Shoulders! Say it with me!",
+   "t": 125.32,
+   "dur": 1.306
+  },
+  {
+   "who": "gul",
+   "text": "Shrug your shoulders!",
+   "t": 128.126,
+   "dur": 1.083
+  },
+  {
+   "who": "gul",
+   "text": "My chest goes up and down when I breathe!",
+   "t": 131.209,
+   "dur": 2.009
+  },
+  {
+   "who": "mishu",
+   "text": "Chest! Say it with me!",
+   "t": 133.518,
+   "dur": 1.322
+  },
+  {
+   "who": "mishu",
+   "text": "My tummy is where my food goes!",
+   "t": 136.34,
+   "dur": 1.729
+  },
+  {
+   "who": "gul",
+   "text": "Tummy! Say it with me!",
+   "t": 138.369,
+   "dur": 1.116
+  },
+  {
+   "who": "gul",
+   "text": "My arms can give big hugs!",
+   "t": 140.985,
+   "dur": 1.568
+  },
+  {
+   "who": "mishu",
+   "text": "Arms! Say it with me!",
+   "t": 142.853,
+   "dur": 1.311
+  },
+  {
+   "who": "mishu",
+   "text": "My elbows help my arms bend!",
+   "t": 145.664,
+   "dur": 1.657
+  },
+  {
+   "who": "gul",
+   "text": "Elbows! Say it with me!",
+   "t": 147.621,
+   "dur": 1.311
+  },
+  {
+   "who": "gul",
+   "text": "My wrists help my hands wave!",
+   "t": 150.432,
+   "dur": 1.593
+  },
+  {
+   "who": "mishu",
+   "text": "Wrists! Say it with me!",
+   "t": 152.325,
+   "dur": 1.348
+  },
+  {
+   "who": "mishu",
+   "text": "My hands can hold and clap!",
+   "t": 155.172,
+   "dur": 1.491
+  },
+  {
+   "who": "gul",
+   "text": "Hands! Say it with me!",
+   "t": 156.964,
+   "dur": 1.205
+  },
+  {
+   "who": "gul",
+   "text": "Clap your hands!",
+   "t": 159.669,
+   "dur": 0.927
+  },
+  {
+   "who": "gul",
+   "text": "Thumbs up! Thumbs help us hold things!",
+   "t": 162.596,
+   "dur": 1.911
+  },
+  {
+   "who": "mishu",
+   "text": "Thumbs! Say it with me!",
+   "t": 164.807,
+   "dur": 1.28
+  },
+  {
+   "who": "mishu",
+   "text": "I have ten fingers to wiggle!",
+   "t": 167.587,
+   "dur": 1.506
+  },
+  {
+   "who": "gul",
+   "text": "Fingers! Say it with me!",
+   "t": 169.393,
+   "dur": 1.24
+  },
+  {
+   "who": "gul",
+   "text": "My hips help me dance! Wiggle, wiggle!",
+   "t": 172.132,
+   "dur": 2.096
+  },
+  {
+   "who": "mishu",
+   "text": "Hips! Say it with me!",
+   "t": 174.528,
+   "dur": 1.217
+  },
+  {
+   "who": "mishu",
+   "text": "Wiggle your hips!",
+   "t": 177.246,
+   "dur": 0.958
+  },
+  {
+   "who": "mishu",
+   "text": "My legs help me walk and run!",
+   "t": 180.204,
+   "dur": 1.628
+  },
+  {
+   "who": "gul",
+   "text": "Legs! Say it with me!",
+   "t": 182.132,
+   "dur": 1.161
+  },
+  {
+   "who": "gul",
+   "text": "My knees help my legs bend!",
+   "t": 184.793,
+   "dur": 1.622
+  },
+  {
+   "who": "mishu",
+   "text": "Knees! Say it with me!",
+   "t": 186.715,
+   "dur": 1.32
+  },
+  {
+   "who": "mishu",
+   "text": "My ankles help my feet move!",
+   "t": 189.535,
+   "dur": 1.63
+  },
+  {
+   "who": "gul",
+   "text": "Ankles! Say it with me!",
+   "t": 191.465,
+   "dur": 1.304
+  },
+  {
+   "who": "gul",
+   "text": "My feet help me stand and jump!",
+   "t": 194.269,
+   "dur": 1.6
+  },
+  {
+   "who": "mishu",
+   "text": "Feet! Say it with me!",
+   "t": 196.169,
+   "dur": 1.217
+  },
+  {
+   "who": "mishu",
+   "text": "I have ten toes! Wiggle your toes!",
+   "t": 198.886,
+   "dur": 2.083
+  },
+  {
+   "who": "gul",
+   "text": "Toes! Say it with me!",
+   "t": 201.269,
+   "dur": 1.142
+  },
+  {
+   "who": "gul",
+   "text": "Stamp your feet!",
+   "t": 203.911,
+   "dur": 0.937
+  },
+  {
+   "who": "both",
+   "text": "Thirty body parts! Hooray!",
+   "t": 206.848,
+   "dur": 1.469
+  },
+  {
+   "who": "mishu",
+   "text": "Let's say them all, super fast!",
+   "t": 208.717,
+   "dur": 1.758
+  },
+  {
+   "who": "both",
+   "text": "Head!",
+   "t": 210.875,
+   "dur": 0.501
+  },
+  {
+   "who": "both",
+   "text": "Hair!",
+   "t": 211.476,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Forehead!",
+   "t": 212.063,
+   "dur": 0.679
+  },
+  {
+   "who": "both",
+   "text": "Eyebrows!",
+   "t": 212.842,
+   "dur": 0.71
+  },
+  {
+   "who": "both",
+   "text": "Eyelashes!",
+   "t": 213.652,
+   "dur": 0.774
+  },
+  {
+   "who": "both",
+   "text": "Eyes!",
+   "t": 214.526,
+   "dur": 0.532
+  },
+  {
+   "who": "both",
+   "text": "Nose!",
+   "t": 215.159,
+   "dur": 0.589
+  },
+  {
+   "who": "both",
+   "text": "Cheeks!",
+   "t": 215.848,
+   "dur": 0.585
+  },
+  {
+   "who": "both",
+   "text": "Ears!",
+   "t": 216.533,
+   "dur": 0.572
+  },
+  {
+   "who": "both",
+   "text": "Lips!",
+   "t": 217.205,
+   "dur": 0.554
+  },
+  {
+   "who": "both",
+   "text": "Teeth!",
+   "t": 217.859,
+   "dur": 0.547
+  },
+  {
+   "who": "both",
+   "text": "Tongue!",
+   "t": 218.507,
+   "dur": 0.518
+  },
+  {
+   "who": "both",
+   "text": "Chin!",
+   "t": 219.125,
+   "dur": 0.526
+  },
+  {
+   "who": "both",
+   "text": "Neck!",
+   "t": 219.75,
+   "dur": 0.508
+  },
+  {
+   "who": "both",
+   "text": "Shoulders!",
+   "t": 220.358,
+   "dur": 0.722
+  },
+  {
+   "who": "both",
+   "text": "Chest!",
+   "t": 221.18,
+   "dur": 0.544
+  },
+  {
+   "who": "both",
+   "text": "Tummy!",
+   "t": 221.824,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Arms!",
+   "t": 222.455,
+   "dur": 0.584
+  },
+  {
+   "who": "both",
+   "text": "Elbows!",
+   "t": 223.139,
+   "dur": 0.684
+  },
+  {
+   "who": "both",
+   "text": "Wrists!",
+   "t": 223.923,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Hands!",
+   "t": 224.597,
+   "dur": 0.637
+  },
+  {
+   "who": "both",
+   "text": "Thumbs!",
+   "t": 225.334,
+   "dur": 0.592
+  },
+  {
+   "who": "both",
+   "text": "Fingers!",
+   "t": 226.025,
+   "dur": 0.665
+  },
+  {
+   "who": "both",
+   "text": "Hips!",
+   "t": 226.79,
+   "dur": 0.542
+  },
+  {
+   "who": "both",
+   "text": "Legs!",
+   "t": 227.432,
+   "dur": 0.624
+  },
+  {
+   "who": "both",
+   "text": "Knees!",
+   "t": 228.156,
+   "dur": 0.596
+  },
+  {
+   "who": "both",
+   "text": "Ankles!",
+   "t": 228.852,
+   "dur": 0.683
+  },
+  {
+   "who": "both",
+   "text": "Feet!",
+   "t": 229.636,
+   "dur": 0.51
+  },
+  {
+   "who": "both",
+   "text": "Toes!",
+   "t": 230.246,
+   "dur": 0.59
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Let's learn left and right!",
+   "t": 231.436,
+   "dur": 1.845
+  },
+  {
+   "who": "mishu",
+   "text": "Raise your right hand! Wave, wave!",
+   "t": 233.681,
+   "dur": 2.128
+  },
+  {
+   "who": "gul",
+   "text": "Now your left hand! Wave, wave!",
+   "t": 237.808,
+   "dur": 1.792
+  },
+  {
+   "who": "mishu",
+   "text": "Stamp your right foot!",
+   "t": 241.601,
+   "dur": 1.143
+  },
+  {
+   "who": "gul",
+   "text": "Stamp your left foot!",
+   "t": 244.743,
+   "dur": 1.173
+  },
+  {
+   "who": "mishu",
+   "text": "Touch your right ear!",
+   "t": 247.917,
+   "dur": 0.923
+  },
+  {
+   "who": "gul",
+   "text": "Wink your left eye!",
+   "t": 250.84,
+   "dur": 1.002
+  },
+  {
+   "who": "mishu",
+   "text": "Zoom in game! What body part is this?",
+   "t": 254.342,
+   "dur": 2.351
+  },
+  {
+   "who": "gul",
+   "text": "What is it?",
+   "t": 257.093,
+   "dur": 0.721
+  },
+  {
+   "who": "mishu",
+   "text": "An ear!",
+   "t": 260.214,
+   "dur": 0.584
+  },
+  {
+   "who": "mishu",
+   "text": "What is it?",
+   "t": 261.199,
+   "dur": 0.675
+  },
+  {
+   "who": "gul",
+   "text": "An eye!",
+   "t": 264.274,
+   "dur": 0.581
+  },
+  {
+   "who": "gul",
+   "text": "What is it?",
+   "t": 265.255,
+   "dur": 0.721
+  },
+  {
+   "who": "mishu",
+   "text": "A hand!",
+   "t": 268.376,
+   "dur": 0.607
+  },
+  {
+   "who": "mishu",
+   "text": "What is it?",
+   "t": 269.383,
+   "dur": 0.675
+  },
+  {
+   "who": "gul",
+   "text": "A nose!",
+   "t": 272.458,
+   "dur": 0.653
+  },
+  {
+   "who": "gul",
+   "text": "What is it?",
+   "t": 273.511,
+   "dur": 0.721
+  },
+  {
+   "who": "mishu",
+   "text": "A knee!",
+   "t": 276.632,
+   "dur": 0.495
+  },
+  {
+   "who": "mishu",
+   "text": "What is it?",
+   "t": 277.528,
+   "dur": 0.675
+  },
+  {
+   "who": "gul",
+   "text": "Hair!",
+   "t": 280.603,
+   "dur": 0.487
+  },
+  {
+   "who": "mishu",
+   "text": "Now let's look inside! X-ray vision, on!",
+   "t": 281.99,
+   "dur": 2.666
+  },
+  {
+   "who": "mishu",
+   "text": "Inside my head is my brain!",
+   "t": 285.556,
+   "dur": 1.552
+  },
+  {
+   "who": "gul",
+   "text": "My brain helps me think, learn and remember!",
+   "t": 287.458,
+   "dur": 2.337
+  },
+  {
+   "who": "gul",
+   "text": "Inside my chest is my heart! Thump, thump!",
+   "t": 290.645,
+   "dur": 2.401
+  },
+  {
+   "who": "mishu",
+   "text": "My heart pumps blood all around my body!",
+   "t": 293.396,
+   "dur": 2.11
+  },
+  {
+   "who": "gul",
+   "text": "Put your hand on your chest. Can you feel it beating?",
+   "t": 295.856,
+   "dur": 2.494
+  },
+  {
+   "who": "mishu",
+   "text": "These are my lungs!",
+   "t": 299.2,
+   "dur": 1.034
+  },
+  {
+   "who": "gul",
+   "text": "Lungs help me breathe. Breathe in... and breathe out!",
+   "t": 300.585,
+   "dur": 2.507
+  },
+  {
+   "who": "gul",
+   "text": "This is my stomach!",
+   "t": 307.142,
+   "dur": 1.079
+  },
+  {
+   "who": "mishu",
+   "text": "When I eat, my food goes down into my stomach!",
+   "t": 308.571,
+   "dur": 2.451
+  },
+  {
+   "who": "mishu",
+   "text": "Under my skin, I have bones!",
+   "t": 311.872,
+   "dur": 1.616
+  },
+  {
+   "who": "gul",
+   "text": "Bones make me strong. A grown-up has two hundred and six bones!",
+   "t": 313.839,
+   "dur": 3.601
+  },
+  {
+   "who": "gul",
+   "text": "And these are muscles!",
+   "t": 318.289,
+   "dur": 1.232
+  },
+  {
+   "who": "mishu",
+   "text": "Muscles help me move, run and jump! I'm so strong!",
+   "t": 319.872,
+   "dur": 2.915
+  },
+  {
+   "who": "mishu",
+   "text": "My skin covers my whole body, like a cozy coat!",
+   "t": 323.637,
+   "dur": 2.916
+  },
+  {
+   "who": "gul",
+   "text": "Skin keeps germs out, and feels hot and cold!",
+   "t": 326.903,
+   "dur": 2.446
+  },
+  {
+   "who": "gul",
+   "text": "Kids have twenty baby teeth!",
+   "t": 330.199,
+   "dur": 1.478
+  },
+  {
+   "who": "mishu",
+   "text": "Grown-ups have thirty two teeth! Brush them every day!",
+   "t": 332.027,
+   "dur": 3.099
+  },
+  {
+   "who": "gul",
+   "text": "Our body has five senses!",
+   "t": 335.976,
+   "dur": 1.64
+  },
+  {
+   "who": "mishu",
+   "text": "I see a rainbow!",
+   "t": 338.016,
+   "dur": 0.969
+  },
+  {
+   "who": "gul",
+   "text": "We see with our eyes!",
+   "t": 339.335,
+   "dur": 1.177
+  },
+  {
+   "who": "mishu",
+   "text": "Ding, ding! Boom, boom!",
+   "t": 340.913,
+   "dur": 1.506
+  },
+  {
+   "who": "gul",
+   "text": "We hear with our ears!",
+   "t": 342.768,
+   "dur": 1.19
+  },
+  {
+   "who": "mishu",
+   "text": "Sniff, sniff! A sweet flower!",
+   "t": 344.358,
+   "dur": 1.696
+  },
+  {
+   "who": "gul",
+   "text": "We smell with our nose!",
+   "t": 346.404,
+   "dur": 1.265
+  },
+  {
+   "who": "mishu",
+   "text": "Lemon is sour! Ice cream is sweet!",
+   "t": 348.069,
+   "dur": 2.09
+  },
+  {
+   "who": "gul",
+   "text": "We taste with our tongue!",
+   "t": 350.509,
+   "dur": 1.299
+  },
+  {
+   "who": "mishu",
+   "text": "Teddy is soft! Cactus is spiky! Ouch!",
+   "t": 352.208,
+   "dur": 2.519
+  },
+  {
+   "who": "gul",
+   "text": "We touch with our skin!",
+   "t": 355.077,
+   "dur": 1.216
+  },
+  {
+   "who": "mishu",
+   "text": "Let's use our ears! Close your eyes...",
+   "t": 356.693,
+   "dur": 1.99
+  },
+  {
+   "who": "gul",
+   "text": "What can you hear?",
+   "t": 358.983,
+   "dur": 0.897
+  },
+  {
+   "who": "mishu",
+   "text": "A bell! Ding, ding! Open your eyes!",
+   "t": 362.48,
+   "dur": 2.064
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu Says! Only move if I say, Mishu says!",
+   "t": 365.544,
+   "dur": 2.738
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu says, touch your head!",
+   "t": 368.682,
+   "dur": 1.519
+  },
+  {
+   "who": "gul",
+   "text": "Yes!",
+   "t": 372.201,
+   "dur": 0.543
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu says, puff your cheeks!",
+   "t": 373.143,
+   "dur": 1.6
+  },
+  {
+   "who": "gul",
+   "text": "Yes!",
+   "t": 376.744,
+   "dur": 0.543
+  },
+  {
+   "who": "mishu",
+   "text": "touch your toes!",
+   "t": 377.686,
+   "dur": 0.882
+  },
+  {
+   "who": "gul",
+   "text": "Oops! Mishu didn't say!",
+   "t": 380.569,
+   "dur": 1.245
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu says, wiggle your hips!",
+   "t": 382.214,
+   "dur": 1.722
+  },
+  {
+   "who": "gul",
+   "text": "Yes!",
+   "t": 385.937,
+   "dur": 0.543
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu says, thumbs up!",
+   "t": 386.879,
+   "dur": 1.356
+  },
+  {
+   "who": "gul",
+   "text": "Yes!",
+   "t": 390.235,
+   "dur": 0.543
+  },
+  {
+   "who": "mishu",
+   "text": "jump!",
+   "t": 391.178,
+   "dur": 0.508
+  },
+  {
+   "who": "gul",
+   "text": "Oops! Mishu didn't say!",
+   "t": 393.686,
+   "dur": 1.245
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu says, flex your muscles!",
+   "t": 395.332,
+   "dur": 1.83
+  },
+  {
+   "who": "gul",
+   "text": "Yes!",
+   "t": 399.161,
+   "dur": 0.543
+  },
+  {
+   "who": "mishu",
+   "text": "sit down!",
+   "t": 400.104,
+   "dur": 0.752
+  },
+  {
+   "who": "gul",
+   "text": "Oops! Mishu didn't say!",
+   "t": 402.856,
+   "dur": 1.245
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu says, wink your eye!",
+   "t": 404.502,
+   "dur": 1.43
+  },
+  {
+   "who": "gul",
+   "text": "Yes!",
+   "t": 407.932,
+   "dur": 0.543
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu says, wiggle your fingers!",
+   "t": 408.875,
+   "dur": 1.897
+  },
+  {
+   "who": "gul",
+   "text": "Yes!",
+   "t": 412.772,
+   "dur": 0.543
+  },
+  {
+   "who": "mishu",
+   "text": "clap your hands!",
+   "t": 413.715,
+   "dur": 0.939
+  },
+  {
+   "who": "gul",
+   "text": "Oops! Mishu didn't say!",
+   "t": 416.654,
+   "dur": 1.245
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu says, give a big hug!",
+   "t": 418.299,
+   "dur": 1.695
+  },
+  {
+   "who": "gul",
+   "text": "Yes!",
+   "t": 421.994,
+   "dur": 0.543
+  },
+  {
+   "who": "gul",
+   "text": "Who's peeking through the window?",
+   "t": 423.437,
+   "dur": 1.476
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 425.313,
+   "dur": 0.712
+  },
+  {
+   "who": "gul",
+   "text": "The elephant! Long trunk!",
+   "t": 428.625,
+   "dur": 1.335
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 430.36,
+   "dur": 0.685
+  },
+  {
+   "who": "mishu",
+   "text": "The bunny! Long ears!",
+   "t": 433.645,
+   "dur": 1.445
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 435.49,
+   "dur": 0.712
+  },
+  {
+   "who": "gul",
+   "text": "The monkey! Curly tail!",
+   "t": 438.801,
+   "dur": 1.291
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 440.492,
+   "dur": 0.685
+  },
+  {
+   "who": "mishu",
+   "text": "The fish! Tail fin!",
+   "t": 443.777,
+   "dur": 1.227
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 445.405,
+   "dur": 0.712
+  },
+  {
+   "who": "gul",
+   "text": "The puppy! Wet nose!",
+   "t": 448.716,
+   "dur": 1.193
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 450.309,
+   "dur": 0.685
+  },
+  {
+   "who": "mishu",
+   "text": "The lion! Fluffy mane!",
+   "t": 453.594,
+   "dur": 1.406
+  },
+  {
+   "who": "both",
+   "text": "If you're happy and you know it, clap your hands!",
+   "t": 455.4,
+   "dur": 2.155
+  },
+  {
+   "who": "both",
+   "text": "If you're happy and you know it, clap your hands!",
+   "t": 458.855,
+   "dur": 2.155
+  },
+  {
+   "who": "both",
+   "text": "If you're happy and you know it, stamp your feet!",
+   "t": 462.311,
+   "dur": 2.115
+  },
+  {
+   "who": "both",
+   "text": "If you're happy and you know it, stamp your feet!",
+   "t": 465.726,
+   "dur": 2.115
+  },
+  {
+   "who": "both",
+   "text": "If you're happy and you know it, shout hooray!",
+   "t": 469.141,
+   "dur": 1.906
+  },
+  {
+   "who": "both",
+   "text": "If you're happy and you know it, shout hooray!",
+   "t": 472.347,
+   "dur": 1.906
+  },
+  {
+   "who": "gul",
+   "text": "Animals have special body parts too!",
+   "t": 476.054,
+   "dur": 2.059
+  },
+  {
+   "who": "mishu",
+   "text": "Who has a long trunk?",
+   "t": 478.512,
+   "dur": 1.161
+  },
+  {
+   "who": "gul",
+   "text": "The elephant! Its trunk is its nose!",
+   "t": 482.073,
+   "dur": 1.907
+  },
+  {
+   "who": "gul",
+   "text": "Who has fins to swim?",
+   "t": 484.38,
+   "dur": 1.299
+  },
+  {
+   "who": "mishu",
+   "text": "The fish!",
+   "t": 488.079,
+   "dur": 0.676
+  },
+  {
+   "who": "mishu",
+   "text": "Who has wings and a beak?",
+   "t": 489.154,
+   "dur": 1.293
+  },
+  {
+   "who": "gul",
+   "text": "The duckling! Quack!",
+   "t": 492.847,
+   "dur": 1.028
+  },
+  {
+   "who": "gul",
+   "text": "Who has a hard shell?",
+   "t": 494.275,
+   "dur": 1.059
+  },
+  {
+   "who": "mishu",
+   "text": "The turtle! Its shell is its house!",
+   "t": 497.734,
+   "dur": 1.829
+  },
+  {
+   "who": "mishu",
+   "text": "Who has eight arms?",
+   "t": 499.963,
+   "dur": 1.039
+  },
+  {
+   "who": "gul",
+   "text": "The octopus!",
+   "t": 503.403,
+   "dur": 0.911
+  },
+  {
+   "who": "gul",
+   "text": "Who has a long tail to swing?",
+   "t": 504.714,
+   "dur": 1.518
+  },
+  {
+   "who": "mishu",
+   "text": "The monkey!",
+   "t": 508.632,
+   "dur": 0.689
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids quiz! Are you ready?",
+   "t": 510.221,
+   "dur": 1.763
+  },
+  {
+   "who": "mishu",
+   "text": "What pumps blood around our body?",
+   "t": 512.385,
+   "dur": 1.649
+  },
+  {
+   "who": "gul",
+   "text": "Our heart!",
+   "t": 516.634,
+   "dur": 0.657
+  },
+  {
+   "who": "gul",
+   "text": "What helps us breathe?",
+   "t": 517.691,
+   "dur": 1.173
+  },
+  {
+   "who": "mishu",
+   "text": "Our lungs!",
+   "t": 521.464,
+   "dur": 0.682
+  },
+  {
+   "who": "mishu",
+   "text": "What helps us think?",
+   "t": 522.546,
+   "dur": 1.007
+  },
+  {
+   "who": "gul",
+   "text": "Our brain!",
+   "t": 526.153,
+   "dur": 0.769
+  },
+  {
+   "who": "gul",
+   "text": "What makes our body strong?",
+   "t": 527.322,
+   "dur": 1.337
+  },
+  {
+   "who": "mishu",
+   "text": "Our bones and muscles!",
+   "t": 531.258,
+   "dur": 1.365
+  },
+  {
+   "who": "mishu",
+   "text": "Where does our food go?",
+   "t": 533.023,
+   "dur": 1.101
+  },
+  {
+   "who": "gul",
+   "text": "Into our stomach!",
+   "t": 536.723,
+   "dur": 0.962
+  },
+  {
+   "who": "gul",
+   "text": "What covers our whole body?",
+   "t": 538.086,
+   "dur": 1.381
+  },
+  {
+   "who": "mishu",
+   "text": "Our skin!",
+   "t": 542.067,
+   "dur": 0.699
+  },
+  {
+   "who": "mishu",
+   "text": "What do we chew with?",
+   "t": 543.165,
+   "dur": 0.992
+  },
+  {
+   "who": "gul",
+   "text": "Our teeth!",
+   "t": 546.757,
+   "dur": 0.675
+  },
+  {
+   "who": "gul",
+   "text": "How many bones does a grown-up have?",
+   "t": 547.832,
+   "dur": 1.769
+  },
+  {
+   "who": "mishu",
+   "text": "Two hundred and six!",
+   "t": 552.201,
+   "dur": 1.215
+  },
+  {
+   "who": "mishu",
+   "text": "Your body is amazing!",
+   "t": 553.816,
+   "dur": 1.246
+  },
+  {
+   "who": "gul",
+   "text": "And I will never lose my nose again! Boop!",
+   "t": 555.361,
+   "dur": 2.348
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends!",
+   "t": 558.01,
+   "dur": 1.076
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "stage",
+   "t0": 0.0,
+   "crash_t": 1.6,
+   "logo_t": 2.0,
+   "title_t": 3.0,
+   "t1": 5.277
+  },
+  {
+   "kind": "hook",
+   "bg": "stage",
+   "t0": 5.277,
+   "who": "gul",
+   "search_t": 6.934,
+   "found_t": 8.257,
+   "t1": 12.846
+  },
+  {
+   "kind": "title",
+   "bg": "stage",
+   "t0": 12.846,
+   "title": "MY FACE!",
+   "t1": 15.041
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 15.041,
+   "who": "misheal",
+   "part": "head",
+   "label": "HEAD",
+   "num": 1,
+   "fact": "This is my head! My brain lives inside!",
+   "label_t": 15.041,
+   "say_t": 17.676,
+   "t1": 20.252
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 20.252,
+   "who": "misheal",
+   "part": "hair",
+   "label": "HAIR",
+   "num": 2,
+   "fact": "My hair keeps my head warm!",
+   "label_t": 20.252,
+   "say_t": 22.073,
+   "t1": 24.742
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 24.742,
+   "who": "misheal",
+   "part": "forehead",
+   "label": "FOREHEAD",
+   "num": 3,
+   "fact": "My forehead is above my eyes!",
+   "label_t": 24.742,
+   "say_t": 26.788,
+   "t1": 29.515
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 29.515,
+   "who": "misheal",
+   "part": "brows",
+   "label": "EYEBROWS",
+   "num": 4,
+   "fact": "My eyebrows go up when I'm surprised!",
+   "label_t": 29.515,
+   "say_t": 31.822,
+   "t1": 34.758
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 34.758,
+   "who": "misheal",
+   "part": "lashes",
+   "label": "EYELASHES",
+   "num": 5,
+   "fact": "My eyelashes keep dust out of my eyes!",
+   "label_t": 34.758,
+   "say_t": 37.169,
+   "t1": 40.006
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 40.006,
+   "who": "misheal",
+   "part": "eyes",
+   "label": "EYES",
+   "num": 6,
+   "fact": "My eyes help me see!",
+   "label_t": 40.006,
+   "say_t": 41.467,
+   "t1": 44.222
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 44.222,
+   "who": "misheal",
+   "part": "nose",
+   "label": "NOSE",
+   "num": 7,
+   "fact": "My nose helps me smell and breathe!",
+   "label_t": 44.222,
+   "say_t": 46.278,
+   "t1": 48.897
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 48.897,
+   "who": "misheal",
+   "part": "cheeks",
+   "label": "CHEEKS",
+   "num": 8,
+   "fact": "Puff up your cheeks, like a balloon!",
+   "label_t": 48.897,
+   "say_t": 50.813,
+   "t1": 56.782
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 56.782,
+   "who": "misheal",
+   "part": "ears",
+   "label": "EARS",
+   "num": 9,
+   "fact": "My ears help me hear!",
+   "label_t": 56.782,
+   "say_t": 58.275,
+   "t1": 60.892
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 60.892,
+   "who": "misheal",
+   "part": "lips",
+   "label": "LIPS",
+   "num": 10,
+   "fact": "My lips can smile and blow kisses!",
+   "label_t": 60.892,
+   "say_t": 63.197,
+   "t1": 65.945
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 65.945,
+   "who": "misheal",
+   "part": "teeth",
+   "label": "TEETH",
+   "num": 11,
+   "fact": "My teeth help me chew my food!",
+   "label_t": 65.945,
+   "say_t": 67.866,
+   "t1": 70.514
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 70.514,
+   "who": "misheal",
+   "part": "tongue",
+   "label": "TONGUE",
+   "num": 12,
+   "fact": "My tongue helps me taste and talk!",
+   "label_t": 70.514,
+   "say_t": 72.601,
+   "t1": 78.77
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 78.77,
+   "who": "misheal",
+   "part": "chin",
+   "label": "CHIN",
+   "num": 13,
+   "fact": "This is my chin, at the bottom of my face!",
+   "label_t": 78.77,
+   "say_t": 81.518,
+   "t1": 87.023
+  },
+  {
+   "kind": "song",
+   "bg": "stage",
+   "t0": 87.023,
+   "who": "gul",
+   "fast": false,
+   "words": [
+    [
+     87.023,
+     "Head!"
+    ],
+    [
+     87.504,
+     "Shoulders!"
+    ],
+    [
+     88.206,
+     "Knees!"
+    ],
+    [
+     88.782,
+     "and toes!"
+    ],
+    [
+     89.503,
+     "Knees!"
+    ],
+    [
+     90.08,
+     "and toes!"
+    ],
+    [
+     90.801,
+     "Head!"
+    ],
+    [
+     91.282,
+     "Shoulders!"
+    ],
+    [
+     91.984,
+     "Knees!"
+    ],
+    [
+     92.56,
+     "and toes!"
+    ],
+    [
+     93.282,
+     "Knees!"
+    ],
+    [
+     93.858,
+     "and toes!"
+    ],
+    [
+     94.579,
+     "And eyes!"
+    ],
+    [
+     95.283,
+     "and ears!"
+    ],
+    [
+     96.021,
+     "and mouth!"
+    ],
+    [
+     96.658,
+     "and nose!"
+    ],
+    [
+     97.347,
+     "Head!"
+    ],
+    [
+     97.828,
+     "Shoulders!"
+    ],
+    [
+     98.53,
+     "Knees!"
+    ],
+    [
+     99.106,
+     "and toes!"
+    ],
+    [
+     99.828,
+     "Knees!"
+    ],
+    [
+     100.404,
+     "and toes!"
+    ]
+   ],
+   "t1": 102.96
+  },
+  {
+   "kind": "song",
+   "bg": "stage",
+   "t0": 102.96,
+   "who": "gul",
+   "fast": true,
+   "words": [
+    [
+     102.96,
+     "Head!"
+    ],
+    [
+     103.341,
+     "Shoulders!"
+    ],
+    [
+     103.943,
+     "Knees!"
+    ],
+    [
+     104.42,
+     "and toes!"
+    ],
+    [
+     105.041,
+     "Knees!"
+    ],
+    [
+     105.517,
+     "and toes!"
+    ],
+    [
+     106.138,
+     "Head!"
+    ],
+    [
+     106.519,
+     "Shoulders!"
+    ],
+    [
+     107.122,
+     "Knees!"
+    ],
+    [
+     107.598,
+     "and toes!"
+    ],
+    [
+     108.219,
+     "Knees!"
+    ],
+    [
+     108.695,
+     "and toes!"
+    ],
+    [
+     109.317,
+     "And eyes!"
+    ],
+    [
+     109.92,
+     "and ears!"
+    ],
+    [
+     110.558,
+     "and mouth!"
+    ],
+    [
+     111.095,
+     "and nose!"
+    ],
+    [
+     111.684,
+     "Head!"
+    ],
+    [
+     112.065,
+     "Shoulders!"
+    ],
+    [
+     112.668,
+     "Knees!"
+    ],
+    [
+     113.144,
+     "and toes!"
+    ],
+    [
+     113.765,
+     "Knees!"
+    ],
+    [
+     114.241,
+     "and toes!"
+    ]
+   ],
+   "t1": 116.587
+  },
+  {
+   "kind": "title",
+   "bg": "stage",
+   "t0": 116.587,
+   "title": "MY BODY!",
+   "t1": 119.303
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 119.303,
+   "who": "gul",
+   "part": "neck",
+   "label": "NECK",
+   "num": 14,
+   "fact": "My neck holds up my head!",
+   "label_t": 119.303,
+   "act_t": 119.303,
+   "say_t": 121.015,
+   "t1": 123.699
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 123.699,
+   "who": "gul",
+   "part": "shoulders",
+   "label": "SHOULDERS",
+   "num": 15,
+   "fact": "My shoulders can shrug!",
+   "label_t": 123.699,
+   "act_t": 123.699,
+   "say_t": 125.32,
+   "t1": 131.209
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 131.209,
+   "who": "gul",
+   "part": "chest",
+   "label": "CHEST",
+   "num": 16,
+   "fact": "My chest goes up and down when I breathe!",
+   "label_t": 131.209,
+   "act_t": 131.209,
+   "say_t": 133.518,
+   "t1": 136.34
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 136.34,
+   "who": "gul",
+   "part": "tummy",
+   "label": "TUMMY",
+   "num": 17,
+   "fact": "My tummy is where my food goes!",
+   "label_t": 136.34,
+   "act_t": 136.34,
+   "say_t": 138.369,
+   "t1": 140.985
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 140.985,
+   "who": "gul",
+   "part": "arms",
+   "label": "ARMS",
+   "num": 18,
+   "fact": "My arms can give big hugs!",
+   "label_t": 140.985,
+   "act_t": 140.985,
+   "say_t": 142.853,
+   "t1": 145.664
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 145.664,
+   "who": "gul",
+   "part": "elbows",
+   "label": "ELBOWS",
+   "num": 19,
+   "fact": "My elbows help my arms bend!",
+   "label_t": 145.664,
+   "act_t": 145.664,
+   "say_t": 147.621,
+   "t1": 150.432
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 150.432,
+   "who": "gul",
+   "part": "wrists",
+   "label": "WRISTS",
+   "num": 20,
+   "fact": "My wrists help my hands wave!",
+   "label_t": 150.432,
+   "act_t": 150.432,
+   "say_t": 152.325,
+   "t1": 155.172
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 155.172,
+   "who": "gul",
+   "part": "hands",
+   "label": "HANDS",
+   "num": 21,
+   "fact": "My hands can hold and clap!",
+   "label_t": 155.172,
+   "act_t": 155.172,
+   "say_t": 156.964,
+   "t1": 162.596
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 162.596,
+   "who": "gul",
+   "part": "thumbs",
+   "label": "THUMBS",
+   "num": 22,
+   "fact": "Thumbs up! Thumbs help us hold things!",
+   "label_t": 162.596,
+   "act_t": 162.596,
+   "say_t": 164.807,
+   "t1": 167.587
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 167.587,
+   "who": "gul",
+   "part": "fingers",
+   "label": "FINGERS",
+   "num": 23,
+   "fact": "I have ten fingers to wiggle!",
+   "label_t": 167.587,
+   "act_t": 167.587,
+   "say_t": 169.393,
+   "t1": 172.132
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 172.132,
+   "who": "gul",
+   "part": "hips",
+   "label": "HIPS",
+   "num": 24,
+   "fact": "My hips help me dance! Wiggle, wiggle!",
+   "label_t": 172.132,
+   "act_t": 172.132,
+   "say_t": 174.528,
+   "t1": 180.204
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 180.204,
+   "who": "gul",
+   "part": "legs",
+   "label": "LEGS",
+   "num": 25,
+   "fact": "My legs help me walk and run!",
+   "label_t": 180.204,
+   "act_t": 180.204,
+   "say_t": 182.132,
+   "t1": 184.793
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 184.793,
+   "who": "gul",
+   "part": "knees",
+   "label": "KNEES",
+   "num": 26,
+   "fact": "My knees help my legs bend!",
+   "label_t": 184.793,
+   "act_t": 184.793,
+   "say_t": 186.715,
+   "t1": 189.535
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 189.535,
+   "who": "gul",
+   "part": "ankles",
+   "label": "ANKLES",
+   "num": 27,
+   "fact": "My ankles help my feet move!",
+   "label_t": 189.535,
+   "act_t": 189.535,
+   "say_t": 191.465,
+   "t1": 194.269
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 194.269,
+   "who": "gul",
+   "part": "feet",
+   "label": "FEET",
+   "num": 28,
+   "fact": "My feet help me stand and jump!",
+   "label_t": 194.269,
+   "act_t": 194.269,
+   "say_t": 196.169,
+   "t1": 198.886
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 198.886,
+   "who": "gul",
+   "part": "toes",
+   "label": "TOES",
+   "num": 29,
+   "fact": "I have ten toes! Wiggle your toes!",
+   "label_t": 198.886,
+   "act_t": 198.886,
+   "say_t": 201.269,
+   "t1": 206.848
+  },
+  {
+   "kind": "thirty",
+   "bg": "stage",
+   "t0": 206.848,
+   "t1": 210.875
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 210.875,
+   "who": "misheal",
+   "part": "head",
+   "label": "HEAD",
+   "num": 1,
+   "fact": "",
+   "quick": true,
+   "label_t": 210.875,
+   "act_t": 210.875,
+   "t1": 211.476
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 211.476,
+   "who": "misheal",
+   "part": "hair",
+   "label": "HAIR",
+   "num": 2,
+   "fact": "",
+   "quick": true,
+   "label_t": 211.476,
+   "act_t": 211.476,
+   "t1": 212.063
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 212.063,
+   "who": "misheal",
+   "part": "forehead",
+   "label": "FOREHEAD",
+   "num": 3,
+   "fact": "",
+   "quick": true,
+   "label_t": 212.063,
+   "act_t": 212.063,
+   "t1": 212.842
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 212.842,
+   "who": "misheal",
+   "part": "brows",
+   "label": "EYEBROWS",
+   "num": 4,
+   "fact": "",
+   "quick": true,
+   "label_t": 212.842,
+   "act_t": 212.842,
+   "t1": 213.652
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 213.652,
+   "who": "misheal",
+   "part": "lashes",
+   "label": "EYELASHES",
+   "num": 5,
+   "fact": "",
+   "quick": true,
+   "label_t": 213.652,
+   "act_t": 213.652,
+   "t1": 214.526
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 214.526,
+   "who": "misheal",
+   "part": "eyes",
+   "label": "EYES",
+   "num": 6,
+   "fact": "",
+   "quick": true,
+   "label_t": 214.526,
+   "act_t": 214.526,
+   "t1": 215.159
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 215.159,
+   "who": "misheal",
+   "part": "nose",
+   "label": "NOSE",
+   "num": 7,
+   "fact": "",
+   "quick": true,
+   "label_t": 215.159,
+   "act_t": 215.159,
+   "t1": 215.848
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 215.848,
+   "who": "misheal",
+   "part": "cheeks",
+   "label": "CHEEKS",
+   "num": 8,
+   "fact": "",
+   "quick": true,
+   "label_t": 215.848,
+   "act_t": 215.848,
+   "t1": 216.533
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 216.533,
+   "who": "misheal",
+   "part": "ears",
+   "label": "EARS",
+   "num": 9,
+   "fact": "",
+   "quick": true,
+   "label_t": 216.533,
+   "act_t": 216.533,
+   "t1": 217.205
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 217.205,
+   "who": "misheal",
+   "part": "lips",
+   "label": "LIPS",
+   "num": 10,
+   "fact": "",
+   "quick": true,
+   "label_t": 217.205,
+   "act_t": 217.205,
+   "t1": 217.859
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 217.859,
+   "who": "misheal",
+   "part": "teeth",
+   "label": "TEETH",
+   "num": 11,
+   "fact": "",
+   "quick": true,
+   "label_t": 217.859,
+   "act_t": 217.859,
+   "t1": 218.507
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 218.507,
+   "who": "misheal",
+   "part": "tongue",
+   "label": "TONGUE",
+   "num": 12,
+   "fact": "",
+   "quick": true,
+   "label_t": 218.507,
+   "act_t": 218.507,
+   "t1": 219.125
+  },
+  {
+   "kind": "face",
+   "bg": "stage",
+   "t0": 219.125,
+   "who": "misheal",
+   "part": "chin",
+   "label": "CHIN",
+   "num": 13,
+   "fact": "",
+   "quick": true,
+   "label_t": 219.125,
+   "act_t": 219.125,
+   "t1": 219.75
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 219.75,
+   "who": "gul",
+   "part": "neck",
+   "label": "NECK",
+   "num": 14,
+   "fact": "",
+   "quick": true,
+   "label_t": 219.75,
+   "act_t": 219.75,
+   "t1": 220.358
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 220.358,
+   "who": "gul",
+   "part": "shoulders",
+   "label": "SHOULDERS",
+   "num": 15,
+   "fact": "",
+   "quick": true,
+   "label_t": 220.358,
+   "act_t": 220.358,
+   "t1": 221.18
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 221.18,
+   "who": "gul",
+   "part": "chest",
+   "label": "CHEST",
+   "num": 16,
+   "fact": "",
+   "quick": true,
+   "label_t": 221.18,
+   "act_t": 221.18,
+   "t1": 221.824
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 221.824,
+   "who": "gul",
+   "part": "tummy",
+   "label": "TUMMY",
+   "num": 17,
+   "fact": "",
+   "quick": true,
+   "label_t": 221.824,
+   "act_t": 221.824,
+   "t1": 222.455
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 222.455,
+   "who": "gul",
+   "part": "arms",
+   "label": "ARMS",
+   "num": 18,
+   "fact": "",
+   "quick": true,
+   "label_t": 222.455,
+   "act_t": 222.455,
+   "t1": 223.139
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 223.139,
+   "who": "gul",
+   "part": "elbows",
+   "label": "ELBOWS",
+   "num": 19,
+   "fact": "",
+   "quick": true,
+   "label_t": 223.139,
+   "act_t": 223.139,
+   "t1": 223.923
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 223.923,
+   "who": "gul",
+   "part": "wrists",
+   "label": "WRISTS",
+   "num": 20,
+   "fact": "",
+   "quick": true,
+   "label_t": 223.923,
+   "act_t": 223.923,
+   "t1": 224.597
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 224.597,
+   "who": "gul",
+   "part": "hands",
+   "label": "HANDS",
+   "num": 21,
+   "fact": "",
+   "quick": true,
+   "label_t": 224.597,
+   "act_t": 224.597,
+   "t1": 225.334
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 225.334,
+   "who": "gul",
+   "part": "thumbs",
+   "label": "THUMBS",
+   "num": 22,
+   "fact": "",
+   "quick": true,
+   "label_t": 225.334,
+   "act_t": 225.334,
+   "t1": 226.025
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 226.025,
+   "who": "gul",
+   "part": "fingers",
+   "label": "FINGERS",
+   "num": 23,
+   "fact": "",
+   "quick": true,
+   "label_t": 226.025,
+   "act_t": 226.025,
+   "t1": 226.79
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 226.79,
+   "who": "gul",
+   "part": "hips",
+   "label": "HIPS",
+   "num": 24,
+   "fact": "",
+   "quick": true,
+   "label_t": 226.79,
+   "act_t": 226.79,
+   "t1": 227.432
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 227.432,
+   "who": "gul",
+   "part": "legs",
+   "label": "LEGS",
+   "num": 25,
+   "fact": "",
+   "quick": true,
+   "label_t": 227.432,
+   "act_t": 227.432,
+   "t1": 228.156
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 228.156,
+   "who": "gul",
+   "part": "knees",
+   "label": "KNEES",
+   "num": 26,
+   "fact": "",
+   "quick": true,
+   "label_t": 228.156,
+   "act_t": 228.156,
+   "t1": 228.852
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 228.852,
+   "who": "gul",
+   "part": "ankles",
+   "label": "ANKLES",
+   "num": 27,
+   "fact": "",
+   "quick": true,
+   "label_t": 228.852,
+   "act_t": 228.852,
+   "t1": 229.636
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 229.636,
+   "who": "gul",
+   "part": "feet",
+   "label": "FEET",
+   "num": 28,
+   "fact": "",
+   "quick": true,
+   "label_t": 229.636,
+   "act_t": 229.636,
+   "t1": 230.246
+  },
+  {
+   "kind": "body",
+   "bg": "stage",
+   "t0": 230.246,
+   "who": "gul",
+   "part": "toes",
+   "label": "TOES",
+   "num": 29,
+   "fact": "",
+   "quick": true,
+   "label_t": 230.246,
+   "act_t": 230.246,
+   "t1": 230.936
+  },
+  {
+   "kind": "title",
+   "bg": "stage",
+   "t0": 230.936,
+   "title": "LEFT AND RIGHT!",
+   "t1": 233.681
+  },
+  {
+   "kind": "leftright",
+   "bg": "stage",
+   "t0": 233.681,
+   "who": "gul",
+   "part": "hands",
+   "side": 1,
+   "label": "RIGHT HAND",
+   "label_t": 233.681,
+   "t1": 237.808
+  },
+  {
+   "kind": "leftright",
+   "bg": "stage",
+   "t0": 237.808,
+   "who": "gul",
+   "part": "hands",
+   "side": 0,
+   "label": "LEFT HAND",
+   "label_t": 237.808,
+   "t1": 241.601
+  },
+  {
+   "kind": "leftright",
+   "bg": "stage",
+   "t0": 241.601,
+   "who": "gul",
+   "part": "feet",
+   "side": 1,
+   "label": "RIGHT FOOT",
+   "label_t": 241.601,
+   "t1": 244.743
+  },
+  {
+   "kind": "leftright",
+   "bg": "stage",
+   "t0": 244.743,
+   "who": "gul",
+   "part": "feet",
+   "side": 0,
+   "label": "LEFT FOOT",
+   "label_t": 244.743,
+   "t1": 247.917
+  },
+  {
+   "kind": "leftright",
+   "bg": "stage",
+   "t0": 247.917,
+   "who": "gul",
+   "part": "ears",
+   "side": 1,
+   "label": "RIGHT EAR",
+   "label_t": 247.917,
+   "t1": 250.84
+  },
+  {
+   "kind": "leftright",
+   "bg": "stage",
+   "t0": 250.84,
+   "who": "gul",
+   "part": "eyes",
+   "side": 0,
+   "label": "LEFT EYE",
+   "label_t": 250.84,
+   "t1": 253.842
+  },
+  {
+   "kind": "title",
+   "bg": "stage",
+   "t0": 253.842,
+   "title": "ZOOM IN!",
+   "t1": 257.093
+  },
+  {
+   "kind": "zoom",
+   "bg": "stage",
+   "t0": 257.093,
+   "who": "gul",
+   "part": "ears",
+   "reveal_t": 260.214,
+   "t1": 261.199
+  },
+  {
+   "kind": "zoom",
+   "bg": "stage",
+   "t0": 261.199,
+   "who": "gul",
+   "part": "eyes",
+   "reveal_t": 264.274,
+   "t1": 265.255
+  },
+  {
+   "kind": "zoom",
+   "bg": "stage",
+   "t0": 265.255,
+   "who": "gul",
+   "part": "hands",
+   "reveal_t": 268.376,
+   "t1": 269.383
+  },
+  {
+   "kind": "zoom",
+   "bg": "stage",
+   "t0": 269.383,
+   "who": "gul",
+   "part": "nose",
+   "reveal_t": 272.458,
+   "t1": 273.511
+  },
+  {
+   "kind": "zoom",
+   "bg": "stage",
+   "t0": 273.511,
+   "who": "gul",
+   "part": "knees",
+   "reveal_t": 276.632,
+   "t1": 277.528
+  },
+  {
+   "kind": "zoom",
+   "bg": "stage",
+   "t0": 277.528,
+   "who": "gul",
+   "part": "hair",
+   "reveal_t": 280.603,
+   "t1": 281.49
+  },
+  {
+   "kind": "title",
+   "bg": "stage",
+   "t0": 281.49,
+   "title": "INSIDE MY BODY!",
+   "t1": 285.056
+  },
+  {
+   "kind": "xray",
+   "bg": "stage",
+   "t0": 285.056,
+   "who": "gul",
+   "art": "brain",
+   "win": "head",
+   "label": "BRAIN",
+   "label_t": 285.556,
+   "t1": 290.145
+  },
+  {
+   "kind": "xray",
+   "bg": "stage",
+   "t0": 290.145,
+   "who": "gul",
+   "art": "heart_organ",
+   "win": "chest",
+   "label": "HEART",
+   "label_t": 290.645,
+   "t1": 298.7
+  },
+  {
+   "kind": "xray",
+   "bg": "stage",
+   "t0": 298.7,
+   "who": "gul",
+   "art": "lungs",
+   "win": "chest",
+   "label": "LUNGS",
+   "label_t": 299.2,
+   "breath_t": 303.442,
+   "t1": 306.642
+  },
+  {
+   "kind": "xray",
+   "bg": "stage",
+   "t0": 306.642,
+   "who": "gul",
+   "art": "stomach",
+   "win": "tummy",
+   "label": "STOMACH",
+   "label_t": 307.142,
+   "t1": 311.372
+  },
+  {
+   "kind": "xray",
+   "bg": "stage",
+   "t0": 311.372,
+   "who": "gul",
+   "art": "bone",
+   "win": "leg",
+   "label": "BONES",
+   "label_t": 311.872,
+   "t1": 317.789
+  },
+  {
+   "kind": "xray",
+   "bg": "stage",
+   "t0": 317.789,
+   "who": "gul",
+   "art": "muscle",
+   "win": "arm",
+   "label": "MUSCLES",
+   "label_t": 318.289,
+   "t1": 323.137
+  },
+  {
+   "kind": "xray",
+   "bg": "stage",
+   "t0": 323.137,
+   "who": "gul",
+   "art": "hand",
+   "win": "arm",
+   "label": "SKIN",
+   "label_t": 323.637,
+   "t1": 329.699
+  },
+  {
+   "kind": "xray",
+   "bg": "stage",
+   "t0": 329.699,
+   "who": "gul",
+   "art": "mouth",
+   "win": "head",
+   "label": "TEETH",
+   "label_t": 330.199,
+   "t1": 335.476
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 335.476,
+   "title": "FIVE SENSES!",
+   "t1": 338.016
+  },
+  {
+   "kind": "sense",
+   "bg": "park",
+   "t0": 338.016,
+   "icon": "eye",
+   "objs": [
+    "rainbow"
+   ],
+   "label": "SEE",
+   "label_t": 338.016,
+   "objs_t": 338.016,
+   "t1": 340.913
+  },
+  {
+   "kind": "sense",
+   "bg": "park",
+   "t0": 340.913,
+   "icon": "ear",
+   "objs": [
+    "bell",
+    "drum"
+   ],
+   "label": "HEAR",
+   "label_t": 340.913,
+   "objs_t": 340.913,
+   "t1": 344.358
+  },
+  {
+   "kind": "sense",
+   "bg": "park",
+   "t0": 344.358,
+   "icon": "nose",
+   "objs": [
+    "flower"
+   ],
+   "label": "SMELL",
+   "label_t": 344.358,
+   "objs_t": 344.358,
+   "t1": 348.069
+  },
+  {
+   "kind": "sense",
+   "bg": "park",
+   "t0": 348.069,
+   "icon": "mouth",
+   "objs": [
+    "lemon",
+    "icecream"
+   ],
+   "label": "TASTE",
+   "label_t": 348.069,
+   "objs_t": 348.069,
+   "t1": 352.208
+  },
+  {
+   "kind": "sense",
+   "bg": "park",
+   "t0": 352.208,
+   "icon": "hand",
+   "objs": [
+    "teddy",
+    "cactus"
+   ],
+   "label": "TOUCH",
+   "label_t": 352.208,
+   "objs_t": 352.208,
+   "t1": 356.693
+  },
+  {
+   "kind": "listen",
+   "bg": "park",
+   "t0": 356.693,
+   "sound_t": 360.08,
+   "t1": 365.044
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 365.044,
+   "title": "MISHU SAYS!",
+   "t1": 368.682
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 368.682,
+   "said": true,
+   "action": "TOUCH YOUR HEAD",
+   "icon": null,
+   "say_t": 368.682,
+   "result_t": 372.201,
+   "t1": 373.143
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 373.143,
+   "said": true,
+   "action": "PUFF YOUR CHEEKS",
+   "icon": null,
+   "say_t": 373.143,
+   "result_t": 376.744,
+   "t1": 377.686
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 377.686,
+   "said": false,
+   "action": "TOUCH YOUR TOES",
+   "icon": null,
+   "say_t": 377.686,
+   "result_t": 380.569,
+   "t1": 382.214
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 382.214,
+   "said": true,
+   "action": "WIGGLE YOUR HIPS",
+   "icon": null,
+   "say_t": 382.214,
+   "result_t": 385.937,
+   "t1": 386.879
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 386.879,
+   "said": true,
+   "action": "THUMBS UP",
+   "icon": null,
+   "say_t": 386.879,
+   "result_t": 390.235,
+   "t1": 391.178
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 391.178,
+   "said": false,
+   "action": "JUMP",
+   "icon": null,
+   "say_t": 391.178,
+   "result_t": 393.686,
+   "t1": 395.332
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 395.332,
+   "said": true,
+   "action": "FLEX YOUR MUSCLES",
+   "icon": null,
+   "say_t": 395.332,
+   "result_t": 399.161,
+   "t1": 400.104
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 400.104,
+   "said": false,
+   "action": "SIT DOWN",
+   "icon": null,
+   "say_t": 400.104,
+   "result_t": 402.856,
+   "t1": 404.502
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 404.502,
+   "said": true,
+   "action": "WINK YOUR EYE",
+   "icon": null,
+   "say_t": 404.502,
+   "result_t": 407.932,
+   "t1": 408.875
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 408.875,
+   "said": true,
+   "action": "WIGGLE YOUR FINGERS",
+   "icon": null,
+   "say_t": 408.875,
+   "result_t": 412.772,
+   "t1": 413.715
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 413.715,
+   "said": false,
+   "action": "CLAP YOUR HANDS",
+   "icon": null,
+   "say_t": 413.715,
+   "result_t": 416.654,
+   "t1": 418.299
+  },
+  {
+   "kind": "says",
+   "bg": "park",
+   "t0": 418.299,
+   "said": true,
+   "action": "GIVE A BIG HUG",
+   "icon": null,
+   "say_t": 418.299,
+   "result_t": 421.994,
+   "t1": 422.937
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 422.937,
+   "title": "WHO'S PEEKING?",
+   "t1": 425.313
+  },
+  {
+   "kind": "peek",
+   "bg": "park",
+   "t0": 425.313,
+   "key": "elephant",
+   "focus": [
+    0.25,
+    0.62
+   ],
+   "reveal_t": 428.625,
+   "t1": 430.36
+  },
+  {
+   "kind": "peek",
+   "bg": "park",
+   "t0": 430.36,
+   "key": "bunny",
+   "focus": [
+    0.55,
+    0.12
+   ],
+   "reveal_t": 433.645,
+   "t1": 435.49
+  },
+  {
+   "kind": "peek",
+   "bg": "park",
+   "t0": 435.49,
+   "key": "monkey",
+   "focus": [
+    0.82,
+    0.72
+   ],
+   "reveal_t": 438.801,
+   "t1": 440.492
+  },
+  {
+   "kind": "peek",
+   "bg": "park",
+   "t0": 440.492,
+   "key": "fish",
+   "focus": [
+    0.86,
+    0.5
+   ],
+   "reveal_t": 443.777,
+   "t1": 445.405
+  },
+  {
+   "kind": "peek",
+   "bg": "park",
+   "t0": 445.405,
+   "key": "puppy",
+   "focus": [
+    0.5,
+    0.42
+   ],
+   "reveal_t": 448.716,
+   "t1": 450.309
+  },
+  {
+   "kind": "peek",
+   "bg": "park",
+   "t0": 450.309,
+   "key": "cub",
+   "focus": [
+    0.5,
+    0.25
+   ],
+   "reveal_t": 453.594,
+   "t1": 455.4
+  },
+  {
+   "kind": "happy",
+   "bg": "park",
+   "t0": 455.4,
+   "acts": [
+    [
+     455.4,
+     "CLAP!",
+     null,
+     "clap your hands!"
+    ],
+    [
+     458.855,
+     "CLAP!",
+     null,
+     "clap your hands!"
+    ],
+    [
+     462.311,
+     "STAMP!",
+     null,
+     "stamp your feet!"
+    ],
+    [
+     465.726,
+     "STAMP!",
+     null,
+     "stamp your feet!"
+    ],
+    [
+     469.141,
+     "HOORAY!",
+     null,
+     "shout hooray!"
+    ],
+    [
+     472.347,
+     "HOORAY!",
+     null,
+     "shout hooray!"
+    ]
+   ],
+   "t1": 475.554
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 475.554,
+   "title": "ANIMAL BODIES!",
+   "t1": 478.512
+  },
+  {
+   "kind": "animal",
+   "bg": "park",
+   "t0": 478.512,
+   "key": "elephant",
+   "q": "WHO HAS A LONG TRUNK?",
+   "reveal_t": 482.073,
+   "t1": 484.38
+  },
+  {
+   "kind": "animal",
+   "bg": "park",
+   "t0": 484.38,
+   "key": "fish",
+   "q": "WHO HAS FINS TO SWIM?",
+   "reveal_t": 488.079,
+   "t1": 489.154
+  },
+  {
+   "kind": "animal",
+   "bg": "park",
+   "t0": 489.154,
+   "key": "duckling",
+   "q": "WHO HAS WINGS AND A BEAK?",
+   "reveal_t": 492.847,
+   "t1": 494.275
+  },
+  {
+   "kind": "animal",
+   "bg": "park",
+   "t0": 494.275,
+   "key": "turtle",
+   "q": "WHO HAS A HARD SHELL?",
+   "reveal_t": 497.734,
+   "t1": 499.963
+  },
+  {
+   "kind": "animal",
+   "bg": "park",
+   "t0": 499.963,
+   "key": "octopus",
+   "q": "WHO HAS EIGHT ARMS?",
+   "reveal_t": 503.403,
+   "t1": 504.714
+  },
+  {
+   "kind": "animal",
+   "bg": "park",
+   "t0": 504.714,
+   "key": "monkey",
+   "q": "WHO HAS A LONG TAIL TO SWING?",
+   "reveal_t": 508.632,
+   "t1": 509.721
+  },
+  {
+   "kind": "title",
+   "bg": "stage",
+   "t0": 509.721,
+   "title": "BIG KIDS QUIZ!",
+   "t1": 512.385
+  },
+  {
+   "kind": "quiz",
+   "bg": "stage",
+   "t0": 512.385,
+   "icon": "heart_organ",
+   "q": "WHAT PUMPS BLOOD AROUND OUR BODY?",
+   "answer_t": 516.634,
+   "t1": 517.691
+  },
+  {
+   "kind": "quiz",
+   "bg": "stage",
+   "t0": 517.691,
+   "icon": "lungs",
+   "q": "WHAT HELPS US BREATHE?",
+   "answer_t": 521.464,
+   "t1": 522.546
+  },
+  {
+   "kind": "quiz",
+   "bg": "stage",
+   "t0": 522.546,
+   "icon": "brain",
+   "q": "WHAT HELPS US THINK?",
+   "answer_t": 526.153,
+   "t1": 527.322
+  },
+  {
+   "kind": "quiz",
+   "bg": "stage",
+   "t0": 527.322,
+   "icon": "muscle",
+   "q": "WHAT MAKES OUR BODY STRONG?",
+   "answer_t": 531.258,
+   "t1": 533.023
+  },
+  {
+   "kind": "quiz",
+   "bg": "stage",
+   "t0": 533.023,
+   "icon": "stomach",
+   "q": "WHERE DOES OUR FOOD GO?",
+   "answer_t": 536.723,
+   "t1": 538.086
+  },
+  {
+   "kind": "quiz",
+   "bg": "stage",
+   "t0": 538.086,
+   "icon": "hand",
+   "q": "WHAT COVERS OUR WHOLE BODY?",
+   "answer_t": 542.067,
+   "t1": 543.165
+  },
+  {
+   "kind": "quiz",
+   "bg": "stage",
+   "t0": 543.165,
+   "icon": "mouth",
+   "q": "WHAT DO WE CHEW WITH?",
+   "answer_t": 546.757,
+   "t1": 547.832
+  },
+  {
+   "kind": "quiz",
+   "bg": "stage",
+   "t0": 547.832,
+   "icon": "bone",
+   "q": "HOW MANY BONES DOES A GROWN-UP HAVE?",
+   "answer_t": 552.201,
+   "t1": 553.816
+  },
+  {
+   "kind": "outro",
+   "bg": "stage",
+   "t0": 553.816,
+   "who": "gul",
+   "bye_t": 558.01,
+   "t1": 560.786
+  }
+ ],
+ "prompts": [
+  [
+   18.952,
+   20.252
+  ],
+  [
+   23.442,
+   24.742
+  ],
+  [
+   28.215,
+   29.515
+  ],
+  [
+   33.458,
+   34.758
+  ],
+  [
+   38.706,
+   40.006
+  ],
+  [
+   42.922,
+   44.222
+  ],
+  [
+   47.597,
+   48.897
+  ],
+  [
+   52.341,
+   53.641
+  ],
+  [
+   54.982,
+   56.782
+  ],
+  [
+   59.592,
+   60.892
+  ],
+  [
+   64.645,
+   65.945
+  ],
+  [
+   69.214,
+   70.514
+  ],
+  [
+   74.039,
+   75.339
+  ],
+  [
+   76.97,
+   78.77
+  ],
+  [
+   82.816,
+   84.116
+  ],
+  [
+   85.223,
+   87.023
+  ],
+  [
+   122.399,
+   123.699
+  ],
+  [
+   126.826,
+   128.126
+  ],
+  [
+   129.409,
+   131.209
+  ],
+  [
+   135.04,
+   136.34
+  ],
+  [
+   139.685,
+   140.985
+  ],
+  [
+   144.364,
+   145.664
+  ],
+  [
+   149.132,
+   150.432
+  ],
+  [
+   153.872,
+   155.172
+  ],
+  [
+   158.369,
+   159.669
+  ],
+  [
+   160.796,
+   162.596
+  ],
+  [
+   166.287,
+   167.587
+  ],
+  [
+   170.832,
+   172.132
+  ],
+  [
+   175.946,
+   177.246
+  ],
+  [
+   178.404,
+   180.204
+  ],
+  [
+   183.493,
+   184.793
+  ],
+  [
+   188.235,
+   189.535
+  ],
+  [
+   192.969,
+   194.269
+  ],
+  [
+   197.586,
+   198.886
+  ],
+  [
+   202.611,
+   203.911
+  ],
+  [
+   205.048,
+   206.848
+  ],
+  [
+   236.008,
+   237.808
+  ],
+  [
+   239.801,
+   241.601
+  ],
+  [
+   242.943,
+   244.743
+  ],
+  [
+   246.117,
+   247.917
+  ],
+  [
+   249.04,
+   250.84
+  ],
+  [
+   252.042,
+   253.842
+  ],
+  [
+   258.014,
+   260.214
+  ],
+  [
+   262.074,
+   264.274
+  ],
+  [
+   266.176,
+   268.376
+  ],
+  [
+   270.258,
+   272.458
+  ],
+  [
+   274.432,
+   276.632
+  ],
+  [
+   278.403,
+   280.603
+  ],
+  [
+   303.442,
+   306.642
+  ],
+  [
+   360.08,
+   362.48
+  ],
+  [
+   370.401,
+   372.201
+  ],
+  [
+   374.944,
+   376.744
+  ],
+  [
+   378.769,
+   380.569
+  ],
+  [
+   384.137,
+   385.937
+  ],
+  [
+   388.435,
+   390.235
+  ],
+  [
+   391.886,
+   393.686
+  ],
+  [
+   397.361,
+   399.161
+  ],
+  [
+   401.056,
+   402.856
+  ],
+  [
+   406.132,
+   407.932
+  ],
+  [
+   410.972,
+   412.772
+  ],
+  [
+   414.854,
+   416.654
+  ],
+  [
+   420.194,
+   421.994
+  ],
+  [
+   426.225,
+   428.625
+  ],
+  [
+   431.245,
+   433.645
+  ],
+  [
+   436.401,
+   438.801
+  ],
+  [
+   441.377,
+   443.777
+  ],
+  [
+   446.316,
+   448.716
+  ],
+  [
+   451.194,
+   453.594
+  ],
+  [
+   479.873,
+   482.073
+  ],
+  [
+   485.879,
+   488.079
+  ],
+  [
+   490.647,
+   492.847
+  ],
+  [
+   495.534,
+   497.734
+  ],
+  [
+   501.203,
+   503.403
+  ],
+  [
+   506.432,
+   508.632
+  ],
+  [
+   514.234,
+   516.634
+  ],
+  [
+   519.064,
+   521.464
+  ],
+  [
+   523.753,
+   526.153
+  ],
+  [
+   528.858,
+   531.258
+  ],
+  [
+   534.323,
+   536.723
+  ],
+  [
+   539.667,
+   542.067
+  ],
+  [
+   544.357,
+   546.757
+  ],
+  [
+   549.801,
+   552.201
+  ]
+ ],
+ "stars": [
+  261.199,
+  265.255,
+  269.383,
+  273.511,
+  277.528,
+  281.49,
+  290.145,
+  298.7,
+  306.642,
+  311.372,
+  317.789,
+  323.137,
+  329.699,
+  335.476,
+  517.691,
+  522.546,
+  527.322,
+  533.023,
+  538.086,
+  543.165,
+  547.832,
+  553.816
+ ],
+ "total": 560.79
+}
