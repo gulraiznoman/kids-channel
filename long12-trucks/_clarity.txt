@@ -1,0 +1,13 @@
+MISS both Big trucks! -> BINGTRAX
+MISS mishu These are tracks. They roll over bumpy ground! -> These attracts. They roll over bumpy ground
+MISS both Blade! -> late
+MISS both Hook! -> Okay
+MISS both Five! -> Fine.
+MISS mishu The fire truck rushes to put out fires! Nee naw, nee naw! -> The fire truck rushes to put out fires, Nina and Nina.
+MISS both The road is fixed! Beep beep! Cars can drive again! -> The road is fixed, beep beep, cars are driving again.
+MISS mishu Trucks come in lots of colours! What colour is it? -> Trucks come in lots of colors. What color is it?
+MISS mishu Orange! -> Orn't.
+MISS both Eight! -> great
+MISS gul Nee naw! The fire truck! -> Nino the fire truck
+MISS mishu Full! -> So
+165/177 distinct lines clear

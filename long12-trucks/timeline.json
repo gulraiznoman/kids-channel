@@ -1,0 +1,2530 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Big trucks!",
+   "t": 1.5,
+   "dur": 0.793
+  },
+  {
+   "who": "mishu",
+   "text": "Put on your hard hat! Let's build something!",
+   "t": 2.643,
+   "dur": 2.227
+  },
+  {
+   "who": "gul",
+   "text": "Dig, dump, push, and lift! Let's go!",
+   "t": 5.22,
+   "dur": 2.048
+  },
+  {
+   "who": "gul",
+   "text": "Here comes the construction team!",
+   "t": 8.318,
+   "dur": 1.659
+  },
+  {
+   "who": "gul",
+   "text": "This is an excavator!",
+   "t": 11.427,
+   "dur": 1.363
+  },
+  {
+   "who": "mishu",
+   "text": "It digs big holes with its bucket. Dig, dig, dig!",
+   "t": 13.04,
+   "dur": 3.087
+  },
+  {
+   "who": "gul",
+   "text": "Excavators have tracks instead of wheels, so they never get stuck!",
+   "t": 16.476,
+   "dur": 3.349
+  },
+  {
+   "who": "mishu",
+   "text": "Say excavator!",
+   "t": 20.075,
+   "dur": 0.968
+  },
+  {
+   "who": "mishu",
+   "text": "This is a dump truck!",
+   "t": 23.593,
+   "dur": 1.168
+  },
+  {
+   "who": "gul",
+   "text": "It carries dirt, and dumps it out. Dump!",
+   "t": 25.011,
+   "dur": 2.09
+  },
+  {
+   "who": "mishu",
+   "text": "The biggest dump trucks have wheels taller than a grown-up!",
+   "t": 27.451,
+   "dur": 2.784
+  },
+  {
+   "who": "gul",
+   "text": "Say dump truck!",
+   "t": 30.485,
+   "dur": 0.984
+  },
+  {
+   "who": "gul",
+   "text": "This is a bulldozer!",
+   "t": 34.019,
+   "dur": 1.264
+  },
+  {
+   "who": "mishu",
+   "text": "It pushes dirt with its big blade. Push, push, push!",
+   "t": 35.533,
+   "dur": 3.34
+  },
+  {
+   "who": "gul",
+   "text": "A bulldozer is super strong. It can push a giant pile of rocks!",
+   "t": 39.222,
+   "dur": 3.727
+  },
+  {
+   "who": "mishu",
+   "text": "Say bulldozer!",
+   "t": 43.199,
+   "dur": 0.942
+  },
+  {
+   "who": "mishu",
+   "text": "This is a cement mixer!",
+   "t": 46.692,
+   "dur": 1.292
+  },
+  {
+   "who": "gul",
+   "text": "Its drum spins round and round, to mix cement!",
+   "t": 48.234,
+   "dur": 2.552
+  },
+  {
+   "who": "mishu",
+   "text": "The drum keeps spinning, so the cement doesn't get hard!",
+   "t": 51.135,
+   "dur": 2.906
+  },
+  {
+   "who": "gul",
+   "text": "Say cement mixer!",
+   "t": 54.291,
+   "dur": 1.117
+  },
+  {
+   "who": "gul",
+   "text": "This is a crane truck!",
+   "t": 57.958,
+   "dur": 1.195
+  },
+  {
+   "who": "mishu",
+   "text": "It lifts heavy things, way up high!",
+   "t": 59.403,
+   "dur": 1.84
+  },
+  {
+   "who": "gul",
+   "text": "Cranes use a strong rope and a hook to lift things!",
+   "t": 61.593,
+   "dur": 2.628
+  },
+  {
+   "who": "mishu",
+   "text": "Say crane truck!",
+   "t": 64.471,
+   "dur": 0.955
+  },
+  {
+   "who": "mishu",
+   "text": "This is a road roller!",
+   "t": 67.976,
+   "dur": 1.29
+  },
+  {
+   "who": "gul",
+   "text": "It rolls the ground flat and smooth. Roll, roll, roll!",
+   "t": 69.516,
+   "dur": 3.237
+  },
+  {
+   "who": "mishu",
+   "text": "Its heavy drum makes new roads nice and flat!",
+   "t": 73.102,
+   "dur": 2.677
+  },
+  {
+   "who": "gul",
+   "text": "Say road roller!",
+   "t": 76.029,
+   "dur": 1.045
+  },
+  {
+   "who": "mishu",
+   "text": "The trucks work together! Let's build a playground!",
+   "t": 79.124,
+   "dur": 2.65
+  },
+  {
+   "who": "gul",
+   "text": "First, the excavator digs the ground!",
+   "t": 83.024,
+   "dur": 2.12
+  },
+  {
+   "who": "mishu",
+   "text": "The dump truck takes the dirt away!",
+   "t": 87.094,
+   "dur": 1.577
+  },
+  {
+   "who": "gul",
+   "text": "The bulldozer pushes the ground flat!",
+   "t": 90.621,
+   "dur": 1.934
+  },
+  {
+   "who": "mishu",
+   "text": "The cement mixer pours the cement!",
+   "t": 94.505,
+   "dur": 1.732
+  },
+  {
+   "who": "gul",
+   "text": "The crane lifts the slide into place!",
+   "t": 98.187,
+   "dur": 1.921
+  },
+  {
+   "who": "mishu",
+   "text": "The road roller makes a smooth path!",
+   "t": 102.058,
+   "dur": 1.659
+  },
+  {
+   "who": "both",
+   "text": "Ta-da! A brand new playground!",
+   "t": 104.867,
+   "dur": 1.739
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you, trucks! Let's play!",
+   "t": 106.956,
+   "dur": 1.444
+  },
+  {
+   "who": "mishu",
+   "text": "Let's look closely! What are the parts of a truck?",
+   "t": 109.65,
+   "dur": 2.508
+  },
+  {
+   "who": "gul",
+   "text": "This is the cab. The driver sits inside!",
+   "t": 112.608,
+   "dur": 2.523
+  },
+  {
+   "who": "both",
+   "text": "Cab!",
+   "t": 115.48,
+   "dur": 0.537
+  },
+  {
+   "who": "mishu",
+   "text": "These are wheels. They go round and round!",
+   "t": 116.567,
+   "dur": 2.31
+  },
+  {
+   "who": "both",
+   "text": "Wheels!",
+   "t": 119.227,
+   "dur": 0.607
+  },
+  {
+   "who": "gul",
+   "text": "This is the bucket. It scoops up dirt!",
+   "t": 120.384,
+   "dur": 2.023
+  },
+  {
+   "who": "both",
+   "text": "Bucket!",
+   "t": 122.757,
+   "dur": 0.633
+  },
+  {
+   "who": "mishu",
+   "text": "These are tracks. They roll over bumpy ground!",
+   "t": 123.94,
+   "dur": 2.489
+  },
+  {
+   "who": "both",
+   "text": "Tracks!",
+   "t": 126.779,
+   "dur": 0.626
+  },
+  {
+   "who": "gul",
+   "text": "This is the blade. It pushes big piles!",
+   "t": 127.955,
+   "dur": 2.266
+  },
+  {
+   "who": "both",
+   "text": "Blade!",
+   "t": 130.571,
+   "dur": 0.56
+  },
+  {
+   "who": "mishu",
+   "text": "This is the drum. It spins to mix cement!",
+   "t": 131.681,
+   "dur": 2.444
+  },
+  {
+   "who": "both",
+   "text": "Drum!",
+   "t": 134.474,
+   "dur": 0.546
+  },
+  {
+   "who": "gul",
+   "text": "This is the hook. It holds heavy things!",
+   "t": 135.57,
+   "dur": 2.171
+  },
+  {
+   "who": "both",
+   "text": "Hook!",
+   "t": 138.091,
+   "dur": 0.49
+  },
+  {
+   "who": "gul",
+   "text": "The excavator is digging! What will it find?",
+   "t": 139.631,
+   "dur": 2.412
+  },
+  {
+   "who": "mishu",
+   "text": "Dig, dig! What did it find?",
+   "t": 142.492,
+   "dur": 1.598
+  },
+  {
+   "who": "gul",
+   "text": "A dinosaur fossil! Wow!",
+   "t": 145.741,
+   "dur": 1.454
+  },
+  {
+   "who": "gul",
+   "text": "Dig, dig! What did it find?",
+   "t": 147.744,
+   "dur": 1.37
+  },
+  {
+   "who": "mishu",
+   "text": "A shiny gold coin!",
+   "t": 150.764,
+   "dur": 1.172
+  },
+  {
+   "who": "mishu",
+   "text": "Dig, dig! What did it find?",
+   "t": 152.486,
+   "dur": 1.598
+  },
+  {
+   "who": "gul",
+   "text": "A lost ball!",
+   "t": 155.734,
+   "dur": 0.908
+  },
+  {
+   "who": "gul",
+   "text": "Dig, dig! What did it find?",
+   "t": 157.192,
+   "dur": 1.37
+  },
+  {
+   "who": "mishu",
+   "text": "An old key!",
+   "t": 160.212,
+   "dur": 0.821
+  },
+  {
+   "who": "mishu",
+   "text": "Dig, dig! What did it find?",
+   "t": 161.583,
+   "dur": 1.598
+  },
+  {
+   "who": "gul",
+   "text": "A big bone! Woof woof!",
+   "t": 164.832,
+   "dur": 1.352
+  },
+  {
+   "who": "gul",
+   "text": "Dig, dig! What did it find?",
+   "t": 166.733,
+   "dur": 1.37
+  },
+  {
+   "who": "mishu",
+   "text": "A spotty dinosaur egg!",
+   "t": 169.753,
+   "dur": 1.388
+  },
+  {
+   "who": "mishu",
+   "text": "Let's load the dump truck with rocks! Count with us!",
+   "t": 171.691,
+   "dur": 2.736
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 174.677,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 175.564,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 176.429,
+   "dur": 0.54
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 177.369,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 178.307,
+   "dur": 0.574
+  },
+  {
+   "who": "gul",
+   "text": "Five rocks! The dump truck is full! Vroom!",
+   "t": 179.281,
+   "dur": 2.039
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Which truck does this job?",
+   "t": 182.57,
+   "dur": 1.922
+  },
+  {
+   "who": "mishu",
+   "text": "Which truck digs big holes?",
+   "t": 184.942,
+   "dur": 1.447
+  },
+  {
+   "who": "gul",
+   "text": "The excavator!",
+   "t": 188.639,
+   "dur": 1.017
+  },
+  {
+   "who": "gul",
+   "text": "Which truck spins round and round?",
+   "t": 190.206,
+   "dur": 1.732
+  },
+  {
+   "who": "mishu",
+   "text": "The cement mixer!",
+   "t": 194.188,
+   "dur": 0.964
+  },
+  {
+   "who": "mishu",
+   "text": "Which truck pushes dirt with a blade?",
+   "t": 195.702,
+   "dur": 1.764
+  },
+  {
+   "who": "gul",
+   "text": "The bulldozer!",
+   "t": 199.716,
+   "dur": 0.946
+  },
+  {
+   "who": "gul",
+   "text": "Which truck lifts things up high?",
+   "t": 201.212,
+   "dur": 1.558
+  },
+  {
+   "who": "mishu",
+   "text": "The crane truck!",
+   "t": 205.02,
+   "dur": 0.893
+  },
+  {
+   "who": "mishu",
+   "text": "Which truck dumps the dirt?",
+   "t": 206.463,
+   "dur": 1.325
+  },
+  {
+   "who": "gul",
+   "text": "The dump truck!",
+   "t": 210.038,
+   "dur": 0.906
+  },
+  {
+   "who": "gul",
+   "text": "Which truck makes the road flat?",
+   "t": 211.494,
+   "dur": 1.603
+  },
+  {
+   "who": "mishu",
+   "text": "The road roller!",
+   "t": 215.347,
+   "dur": 0.827
+  },
+  {
+   "who": "mishu",
+   "text": "Now let's meet the trucks in the city!",
+   "t": 217.224,
+   "dur": 1.784
+  },
+  {
+   "who": "gul",
+   "text": "The garbage truck picks up all the trash! Crunch, crunch!",
+   "t": 220.358,
+   "dur": 2.876
+  },
+  {
+   "who": "mishu",
+   "text": "The fire truck rushes to put out fires! Nee naw, nee naw!",
+   "t": 224.884,
+   "dur": 3.418
+  },
+  {
+   "who": "gul",
+   "text": "The tow truck pulls broken cars to the garage!",
+   "t": 229.952,
+   "dur": 2.496
+  },
+  {
+   "who": "mishu",
+   "text": "And the monster truck has giant wheels! It can jump! Wow!",
+   "t": 234.098,
+   "dur": 3.57
+  },
+  {
+   "who": "gul",
+   "text": "Uh oh! The cars can't drive. Trucks to the rescue!",
+   "t": 238.919,
+   "dur": 2.691
+  },
+  {
+   "who": "gul",
+   "text": "Oh no! A big hole in the road! The excavator digs out the broken bits.",
+   "t": 242.86,
+   "dur": 4.126
+  },
+  {
+   "who": "mishu",
+   "text": "The dump truck brings new gravel. Dump!",
+   "t": 248.736,
+   "dur": 2.31
+  },
+  {
+   "who": "gul",
+   "text": "The road roller makes it flat and smooth. Roll, roll!",
+   "t": 252.795,
+   "dur": 2.845
+  },
+  {
+   "who": "both",
+   "text": "The road is fixed! Beep beep! Cars can drive again!",
+   "t": 256.59,
+   "dur": 3.203
+  },
+  {
+   "who": "mishu",
+   "text": "Trucks come in lots of colours! What colour is it?",
+   "t": 261.043,
+   "dur": 2.638
+  },
+  {
+   "who": "gul",
+   "text": "What colour is the excavator?",
+   "t": 264.131,
+   "dur": 1.553
+  },
+  {
+   "who": "mishu",
+   "text": "Yellow!",
+   "t": 267.534,
+   "dur": 0.539
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is the fire truck?",
+   "t": 268.623,
+   "dur": 1.609
+  },
+  {
+   "who": "gul",
+   "text": "Red!",
+   "t": 272.082,
+   "dur": 0.506
+  },
+  {
+   "who": "gul",
+   "text": "What colour is the garbage truck?",
+   "t": 273.138,
+   "dur": 1.622
+  },
+  {
+   "who": "mishu",
+   "text": "Green!",
+   "t": 276.61,
+   "dur": 0.576
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is the tow truck?",
+   "t": 277.736,
+   "dur": 1.443
+  },
+  {
+   "who": "gul",
+   "text": "Blue!",
+   "t": 281.03,
+   "dur": 0.473
+  },
+  {
+   "who": "gul",
+   "text": "What colour is the monster truck?",
+   "t": 282.053,
+   "dur": 1.633
+  },
+  {
+   "who": "mishu",
+   "text": "Purple!",
+   "t": 285.537,
+   "dur": 0.583
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is the road roller?",
+   "t": 286.669,
+   "dur": 1.497
+  },
+  {
+   "who": "gul",
+   "text": "Green!",
+   "t": 290.016,
+   "dur": 0.567
+  },
+  {
+   "who": "gul",
+   "text": "What colour is the crane truck?",
+   "t": 291.134,
+   "dur": 1.519
+  },
+  {
+   "who": "mishu",
+   "text": "Orange!",
+   "t": 294.503,
+   "dur": 0.614
+  },
+  {
+   "who": "gul",
+   "text": "How many wheels can you see?",
+   "t": 296.167,
+   "dur": 1.384
+  },
+  {
+   "who": "mishu",
+   "text": "How many wheels?",
+   "t": 298.0,
+   "dur": 0.921
+  },
+  {
+   "who": "gul",
+   "text": "Three wheels!",
+   "t": 300.971,
+   "dur": 0.776
+  },
+  {
+   "who": "gul",
+   "text": "How many wheels?",
+   "t": 302.297,
+   "dur": 0.91
+  },
+  {
+   "who": "mishu",
+   "text": "Two giant wheels!",
+   "t": 305.257,
+   "dur": 1.038
+  },
+  {
+   "who": "mishu",
+   "text": "How many wheels?",
+   "t": 306.845,
+   "dur": 0.921
+  },
+  {
+   "who": "gul",
+   "text": "Three wheels!",
+   "t": 309.816,
+   "dur": 0.776
+  },
+  {
+   "who": "gul",
+   "text": "How many wheels?",
+   "t": 311.142,
+   "dur": 0.91
+  },
+  {
+   "who": "mishu",
+   "text": "One wheel, and one big drum!",
+   "t": 314.102,
+   "dur": 1.724
+  },
+  {
+   "who": "gul",
+   "text": "Which truck is bigger?",
+   "t": 316.375,
+   "dur": 1.163
+  },
+  {
+   "who": "mishu",
+   "text": "The dump truck is bigger!",
+   "t": 319.589,
+   "dur": 1.271
+  },
+  {
+   "who": "mishu",
+   "text": "Which wheels are bigger?",
+   "t": 321.409,
+   "dur": 1.212
+  },
+  {
+   "who": "gul",
+   "text": "The monster truck wheels!",
+   "t": 324.671,
+   "dur": 1.378
+  },
+  {
+   "who": "gul",
+   "text": "Which one is smaller?",
+   "t": 326.6,
+   "dur": 1.175
+  },
+  {
+   "who": "mishu",
+   "text": "The toy truck is smaller!",
+   "t": 329.825,
+   "dur": 1.201
+  },
+  {
+   "who": "gul",
+   "text": "Here comes a truck parade! Let's count!",
+   "t": 332.076,
+   "dur": 2.021
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 334.547,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 335.434,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 336.298,
+   "dur": 0.54
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 337.238,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 338.176,
+   "dur": 0.574
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 339.15,
+   "dur": 0.581
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 340.132,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 341.14,
+   "dur": 0.508
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 342.048,
+   "dur": 0.528
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 342.976,
+   "dur": 0.506
+  },
+  {
+   "who": "mishu",
+   "text": "Ten trucks! What a big parade!",
+   "t": 343.882,
+   "dur": 1.732
+  },
+  {
+   "who": "mishu",
+   "text": "Listen carefully! Which truck makes this sound?",
+   "t": 346.764,
+   "dur": 2.408
+  },
+  {
+   "who": "gul",
+   "text": "Which truck is it?",
+   "t": 351.522,
+   "dur": 0.976
+  },
+  {
+   "who": "mishu",
+   "text": "Beep, beep, beep! A truck backing up!",
+   "t": 354.548,
+   "dur": 2.346
+  },
+  {
+   "who": "mishu",
+   "text": "Which truck is it?",
+   "t": 359.344,
+   "dur": 0.937
+  },
+  {
+   "who": "gul",
+   "text": "Nee naw! The fire truck!",
+   "t": 362.331,
+   "dur": 1.309
+  },
+  {
+   "who": "gul",
+   "text": "Which truck is it?",
+   "t": 366.09,
+   "dur": 0.976
+  },
+  {
+   "who": "mishu",
+   "text": "Crunch! The garbage truck!",
+   "t": 369.115,
+   "dur": 1.363
+  },
+  {
+   "who": "mishu",
+   "text": "Which truck is it?",
+   "t": 372.929,
+   "dur": 0.937
+  },
+  {
+   "who": "gul",
+   "text": "Honk honk! The dump truck!",
+   "t": 375.916,
+   "dur": 1.409
+  },
+  {
+   "who": "gul",
+   "text": "Which truck is it?",
+   "t": 379.774,
+   "dur": 0.976
+  },
+  {
+   "who": "mishu",
+   "text": "Swish, swish! The cement mixer!",
+   "t": 382.8,
+   "dur": 1.917
+  },
+  {
+   "who": "mishu",
+   "text": "Which truck is it?",
+   "t": 387.167,
+   "dur": 0.937
+  },
+  {
+   "who": "gul",
+   "text": "Vroom! Boing! The monster truck!",
+   "t": 390.154,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids! Trucks can show us opposites!",
+   "t": 392.815,
+   "dur": 2.221
+  },
+  {
+   "who": "gul",
+   "text": "Up!",
+   "t": 395.486,
+   "dur": 0.392
+  },
+  {
+   "who": "mishu",
+   "text": "Down!",
+   "t": 396.628,
+   "dur": 0.521
+  },
+  {
+   "who": "both",
+   "text": "The crane lifts things up, and puts them down!",
+   "t": 397.599,
+   "dur": 2.405
+  },
+  {
+   "who": "mishu",
+   "text": "Full!",
+   "t": 400.555,
+   "dur": 0.508
+  },
+  {
+   "who": "gul",
+   "text": "Empty!",
+   "t": 401.812,
+   "dur": 0.632
+  },
+  {
+   "who": "both",
+   "text": "The dump truck is full, then empty!",
+   "t": 402.894,
+   "dur": 1.846
+  },
+  {
+   "who": "gul",
+   "text": "Fast!",
+   "t": 405.29,
+   "dur": 0.541
+  },
+  {
+   "who": "mishu",
+   "text": "Slow!",
+   "t": 406.581,
+   "dur": 0.526
+  },
+  {
+   "who": "both",
+   "text": "The monster truck is fast! The road roller is slow!",
+   "t": 407.557,
+   "dur": 2.975
+  },
+  {
+   "who": "gul",
+   "text": "Big trucks are so cool! But drivers can't always see little kids.",
+   "t": 411.082,
+   "dur": 3.571
+  },
+  {
+   "who": "mishu",
+   "text": "So stay far away from big trucks, and hold a grown-up's hand.",
+   "t": 415.003,
+   "dur": 3.455
+  },
+  {
+   "who": "both",
+   "text": "And wave to the driver from the sidewalk! Hello!",
+   "t": 418.808,
+   "dur": 2.694
+  },
+  {
+   "who": "gul",
+   "text": "Stand up! Let's move like trucks! Copy us!",
+   "t": 422.752,
+   "dur": 2.035
+  },
+  {
+   "who": "both",
+   "text": "Dig, dig, dig like an excavator!",
+   "t": 425.237,
+   "dur": 2.168
+  },
+  {
+   "who": "both",
+   "text": "Push, push like a bulldozer!",
+   "t": 429.156,
+   "dur": 1.612
+  },
+  {
+   "who": "both",
+   "text": "Spin around like a mixer!",
+   "t": 432.518,
+   "dur": 1.412
+  },
+  {
+   "who": "both",
+   "text": "Lift up high like a crane!",
+   "t": 435.68,
+   "dur": 1.429
+  },
+  {
+   "who": "both",
+   "text": "Beep, beep, back up!",
+   "t": 438.859,
+   "dur": 1.252
+  },
+  {
+   "who": "both",
+   "text": "Honk, honk! Jump!",
+   "t": 441.861,
+   "dur": 1.156
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 444.768,
+   "dur": 1.03
+  },
+  {
+   "who": "both",
+   "text": "Dig, dig, dig like an excavator!",
+   "t": 446.148,
+   "dur": 2.168
+  },
+  {
+   "who": "both",
+   "text": "Push, push like a bulldozer!",
+   "t": 449.367,
+   "dur": 1.612
+  },
+  {
+   "who": "both",
+   "text": "Spin around like a mixer!",
+   "t": 452.029,
+   "dur": 1.412
+  },
+  {
+   "who": "both",
+   "text": "Lift up high like a crane!",
+   "t": 454.491,
+   "dur": 1.429
+  },
+  {
+   "who": "both",
+   "text": "Beep, beep, back up!",
+   "t": 456.97,
+   "dur": 1.252
+  },
+  {
+   "who": "both",
+   "text": "Honk, honk! Jump!",
+   "t": 459.272,
+   "dur": 1.156
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids quiz! Are you ready?",
+   "t": 461.979,
+   "dur": 1.766
+  },
+  {
+   "who": "gul",
+   "text": "Which truck digs big holes?",
+   "t": 464.195,
+   "dur": 1.526
+  },
+  {
+   "who": "mishu",
+   "text": "The excavator!",
+   "t": 468.371,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "What does a cement mixer do?",
+   "t": 469.92,
+   "dur": 1.429
+  },
+  {
+   "who": "gul",
+   "text": "It mixes cement!",
+   "t": 473.999,
+   "dur": 1.071
+  },
+  {
+   "who": "gul",
+   "text": "What do builders wear on their heads?",
+   "t": 475.72,
+   "dur": 1.799
+  },
+  {
+   "who": "mishu",
+   "text": "A hard hat!",
+   "t": 480.169,
+   "dur": 0.849
+  },
+  {
+   "who": "mishu",
+   "text": "Which truck lifts heavy things?",
+   "t": 481.669,
+   "dur": 1.501
+  },
+  {
+   "who": "gul",
+   "text": "The crane!",
+   "t": 485.82,
+   "dur": 0.701
+  },
+  {
+   "who": "gul",
+   "text": "Which truck pushes dirt with a big blade?",
+   "t": 487.171,
+   "dur": 2.028
+  },
+  {
+   "who": "mishu",
+   "text": "The bulldozer!",
+   "t": 491.849,
+   "dur": 0.832
+  },
+  {
+   "who": "mishu",
+   "text": "Should we play near big trucks?",
+   "t": 493.331,
+   "dur": 1.54
+  },
+  {
+   "who": "gul",
+   "text": "No! Stay far away, with a grown-up!",
+   "t": 497.522,
+   "dur": 1.67
+  },
+  {
+   "who": "gul",
+   "text": "Where does the driver sit?",
+   "t": 499.842,
+   "dur": 1.268
+  },
+  {
+   "who": "mishu",
+   "text": "In the cab!",
+   "t": 503.76,
+   "dur": 0.773
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is the fire truck?",
+   "t": 505.183,
+   "dur": 1.609
+  },
+  {
+   "who": "gul",
+   "text": "Red!",
+   "t": 509.442,
+   "dur": 0.506
+  },
+  {
+   "who": "gul",
+   "text": "Which truck has giant wheels?",
+   "t": 510.597,
+   "dur": 1.473
+  },
+  {
+   "who": "mishu",
+   "text": "The monster truck!",
+   "t": 514.721,
+   "dur": 1.048
+  },
+  {
+   "who": "mishu",
+   "text": "What does a road roller make?",
+   "t": 516.419,
+   "dur": 1.444
+  },
+  {
+   "who": "gul",
+   "text": "Flat, smooth roads!",
+   "t": 520.513,
+   "dur": 1.169
+  },
+  {
+   "who": "mishu",
+   "text": "Which truck is your favourite?",
+   "t": 522.332,
+   "dur": 1.365
+  },
+  {
+   "who": "gul",
+   "text": "Mine is the excavator! Dig, dig, dig!",
+   "t": 524.047,
+   "dur": 2.321
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends! Beep beep!",
+   "t": 526.718,
+   "dur": 1.728
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "site",
+   "t0": 0.0,
+   "engine_t": 0.0,
+   "smash_t": 0.5,
+   "title_t": 1.5,
+   "kids_t": 2.643,
+   "t1": 7.818
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 7.818,
+   "title": "MEET THE TRUCKS!",
+   "t1": 10.427
+  },
+  {
+   "kind": "team",
+   "bg": "site",
+   "t0": 10.427,
+   "key": "excavator",
+   "name": "excavator",
+   "act": "dig",
+   "num": 1,
+   "in_t": 10.427,
+   "name_t": 11.427,
+   "act_t": 13.04,
+   "t1": 22.593
+  },
+  {
+   "kind": "team",
+   "bg": "site",
+   "t0": 22.593,
+   "key": "dumptruck",
+   "name": "dump truck",
+   "act": "dump",
+   "num": 2,
+   "in_t": 22.593,
+   "name_t": 23.593,
+   "act_t": 25.011,
+   "t1": 33.019
+  },
+  {
+   "kind": "team",
+   "bg": "site",
+   "t0": 33.019,
+   "key": "bulldozer",
+   "name": "bulldozer",
+   "act": "push",
+   "num": 3,
+   "in_t": 33.019,
+   "name_t": 34.019,
+   "act_t": 35.533,
+   "t1": 45.692
+  },
+  {
+   "kind": "team",
+   "bg": "site",
+   "t0": 45.692,
+   "key": "mixer",
+   "name": "cement mixer",
+   "act": "spin",
+   "num": 4,
+   "in_t": 45.692,
+   "name_t": 46.692,
+   "act_t": 48.234,
+   "t1": 56.958
+  },
+  {
+   "kind": "team",
+   "bg": "site",
+   "t0": 56.958,
+   "key": "crane",
+   "name": "crane truck",
+   "act": "lift",
+   "num": 5,
+   "in_t": 56.958,
+   "name_t": 57.958,
+   "act_t": 59.403,
+   "t1": 66.976
+  },
+  {
+   "kind": "team",
+   "bg": "site",
+   "t0": 66.976,
+   "key": "roller",
+   "name": "road roller",
+   "act": "roll",
+   "num": 6,
+   "in_t": 66.976,
+   "name_t": 67.976,
+   "act_t": 69.516,
+   "t1": 78.624
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 78.624,
+   "title": "LET'S BUILD A PLAYGROUND!",
+   "t1": 82.224
+  },
+  {
+   "kind": "build",
+   "bg": "site",
+   "t0": 82.224,
+   "key": "excavator",
+   "step": 0,
+   "act": "dig",
+   "in_t": 82.224,
+   "act_t": 83.024,
+   "t1": 86.294
+  },
+  {
+   "kind": "build",
+   "bg": "site",
+   "t0": 86.294,
+   "key": "dumptruck",
+   "step": 1,
+   "act": "dump",
+   "in_t": 86.294,
+   "act_t": 87.094,
+   "t1": 89.821
+  },
+  {
+   "kind": "build",
+   "bg": "site",
+   "t0": 89.821,
+   "key": "bulldozer",
+   "step": 2,
+   "act": "push",
+   "in_t": 89.821,
+   "act_t": 90.621,
+   "t1": 93.705
+  },
+  {
+   "kind": "build",
+   "bg": "site",
+   "t0": 93.705,
+   "key": "mixer",
+   "step": 3,
+   "act": "spin",
+   "in_t": 93.705,
+   "act_t": 94.505,
+   "t1": 97.387
+  },
+  {
+   "kind": "build",
+   "bg": "site",
+   "t0": 97.387,
+   "key": "crane",
+   "step": 4,
+   "act": "lift",
+   "in_t": 97.387,
+   "act_t": 98.187,
+   "t1": 101.258
+  },
+  {
+   "kind": "build",
+   "bg": "site",
+   "t0": 101.258,
+   "key": "roller",
+   "step": 5,
+   "act": "roll",
+   "in_t": 101.258,
+   "act_t": 102.058,
+   "t1": 104.867
+  },
+  {
+   "kind": "playground",
+   "bg": "park",
+   "t0": 104.867,
+   "reveal_t": 104.867,
+   "t1": 109.15
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 109.15,
+   "title": "TRUCK PARTS!",
+   "t1": 112.608
+  },
+  {
+   "kind": "part",
+   "bg": "site",
+   "t0": 112.608,
+   "key": "dumptruck",
+   "part": "cab",
+   "xy": [
+    150,
+    190
+   ],
+   "say_t": 112.608,
+   "t1": 116.567
+  },
+  {
+   "kind": "part",
+   "bg": "site",
+   "t0": 116.567,
+   "key": "dumptruck",
+   "part": "wheels",
+   "xy": [
+    560,
+    340
+   ],
+   "say_t": 116.567,
+   "t1": 120.384
+  },
+  {
+   "kind": "part",
+   "bg": "site",
+   "t0": 120.384,
+   "key": "excavator",
+   "part": "bucket",
+   "xy": [
+    -60,
+    300
+   ],
+   "say_t": 120.384,
+   "t1": 123.94
+  },
+  {
+   "kind": "part",
+   "bg": "site",
+   "t0": 123.94,
+   "key": "excavator",
+   "part": "tracks",
+   "xy": [
+    370,
+    340
+   ],
+   "say_t": 123.94,
+   "t1": 127.955
+  },
+  {
+   "kind": "part",
+   "bg": "site",
+   "t0": 127.955,
+   "key": "bulldozer",
+   "part": "blade",
+   "xy": [
+    100,
+    270
+   ],
+   "say_t": 127.955,
+   "t1": 131.681
+  },
+  {
+   "kind": "part",
+   "bg": "site",
+   "t0": 131.681,
+   "key": "mixer",
+   "part": "drum",
+   "xy": [
+    480,
+    215
+   ],
+   "say_t": 131.681,
+   "t1": 135.57
+  },
+  {
+   "kind": "part",
+   "bg": "site",
+   "t0": 135.57,
+   "key": "crane",
+   "part": "hook",
+   "xy": [
+    308,
+    40
+   ],
+   "say_t": 135.57,
+   "t1": 139.131
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 139.131,
+   "title": "DIG FOR TREASURE!",
+   "t1": 142.492
+  },
+  {
+   "kind": "treasure",
+   "bg": "site",
+   "t0": 142.492,
+   "key": "fossil",
+   "dig_t": 142.492,
+   "find_t": 145.741,
+   "t1": 147.744
+  },
+  {
+   "kind": "treasure",
+   "bg": "site",
+   "t0": 147.744,
+   "key": "coin",
+   "dig_t": 147.744,
+   "find_t": 150.764,
+   "t1": 152.486
+  },
+  {
+   "kind": "treasure",
+   "bg": "site",
+   "t0": 152.486,
+   "key": "ball",
+   "dig_t": 152.486,
+   "find_t": 155.734,
+   "t1": 157.192
+  },
+  {
+   "kind": "treasure",
+   "bg": "site",
+   "t0": 157.192,
+   "key": "key",
+   "dig_t": 157.192,
+   "find_t": 160.212,
+   "t1": 161.583
+  },
+  {
+   "kind": "treasure",
+   "bg": "site",
+   "t0": 161.583,
+   "key": "bone",
+   "dig_t": 161.583,
+   "find_t": 164.832,
+   "t1": 166.733
+  },
+  {
+   "kind": "treasure",
+   "bg": "site",
+   "t0": 166.733,
+   "key": "egg",
+   "dig_t": 166.733,
+   "find_t": 169.753,
+   "t1": 171.691
+  },
+  {
+   "kind": "load",
+   "bg": "site",
+   "t0": 171.691,
+   "lts": [
+    174.677,
+    175.564,
+    176.429,
+    177.369,
+    178.307
+   ],
+   "go_t": 179.281,
+   "t1": 182.07
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 182.07,
+   "title": "WHICH TRUCK?",
+   "t1": 184.942
+  },
+  {
+   "kind": "job",
+   "bg": "site",
+   "t0": 184.942,
+   "q": "WHICH TRUCK DIGS BIG HOLES?",
+   "ans": "excavator",
+   "opts": [
+    "bulldozer",
+    "excavator",
+    "mixer"
+   ],
+   "answer_t": 188.639,
+   "t1": 190.206
+  },
+  {
+   "kind": "job",
+   "bg": "site",
+   "t0": 190.206,
+   "q": "WHICH TRUCK SPINS ROUND AND ROUND?",
+   "ans": "mixer",
+   "opts": [
+    "mixer",
+    "roller",
+    "dumptruck"
+   ],
+   "answer_t": 194.188,
+   "t1": 195.702
+  },
+  {
+   "kind": "job",
+   "bg": "site",
+   "t0": 195.702,
+   "q": "WHICH TRUCK PUSHES DIRT WITH A BLADE?",
+   "ans": "bulldozer",
+   "opts": [
+    "crane",
+    "excavator",
+    "bulldozer"
+   ],
+   "answer_t": 199.716,
+   "t1": 201.212
+  },
+  {
+   "kind": "job",
+   "bg": "site",
+   "t0": 201.212,
+   "q": "WHICH TRUCK LIFTS THINGS UP HIGH?",
+   "ans": "crane",
+   "opts": [
+    "crane",
+    "dumptruck",
+    "roller"
+   ],
+   "answer_t": 205.02,
+   "t1": 206.463
+  },
+  {
+   "kind": "job",
+   "bg": "site",
+   "t0": 206.463,
+   "q": "WHICH TRUCK DUMPS THE DIRT?",
+   "ans": "dumptruck",
+   "opts": [
+    "roller",
+    "dumptruck",
+    "excavator"
+   ],
+   "answer_t": 210.038,
+   "t1": 211.494
+  },
+  {
+   "kind": "job",
+   "bg": "site",
+   "t0": 211.494,
+   "q": "WHICH TRUCK MAKES THE ROAD FLAT?",
+   "ans": "roller",
+   "opts": [
+    "mixer",
+    "bulldozer",
+    "roller"
+   ],
+   "answer_t": 215.347,
+   "t1": 216.724
+  },
+  {
+   "kind": "title",
+   "bg": "city",
+   "t0": 216.724,
+   "title": "CITY TRUCKS!",
+   "t1": 219.458
+  },
+  {
+   "kind": "city",
+   "bg": "city",
+   "t0": 219.458,
+   "key": "garbage",
+   "act": "crunch",
+   "in_t": 219.458,
+   "act_t": 220.358,
+   "t1": 223.984
+  },
+  {
+   "kind": "city",
+   "bg": "city",
+   "t0": 223.984,
+   "key": "firetruck",
+   "act": "siren",
+   "in_t": 223.984,
+   "act_t": 224.884,
+   "t1": 229.052
+  },
+  {
+   "kind": "city",
+   "bg": "city",
+   "t0": 229.052,
+   "key": "towtruck",
+   "act": "winch",
+   "in_t": 229.052,
+   "act_t": 229.952,
+   "t1": 233.198
+  },
+  {
+   "kind": "city",
+   "bg": "city",
+   "t0": 233.198,
+   "key": "monster",
+   "act": "jump",
+   "in_t": 233.198,
+   "act_t": 234.098,
+   "t1": 238.419
+  },
+  {
+   "kind": "title",
+   "bg": "city",
+   "t0": 238.419,
+   "title": "FIX THE ROAD!",
+   "t1": 242.06
+  },
+  {
+   "kind": "fix",
+   "bg": "city",
+   "t0": 242.06,
+   "key": "excavator",
+   "step": 0,
+   "act": "dig",
+   "in_t": 242.06,
+   "act_t": 242.86,
+   "t1": 247.936
+  },
+  {
+   "kind": "fix",
+   "bg": "city",
+   "t0": 247.936,
+   "key": "dumptruck",
+   "step": 1,
+   "act": "dump",
+   "in_t": 247.936,
+   "act_t": 248.736,
+   "t1": 251.995
+  },
+  {
+   "kind": "fix",
+   "bg": "city",
+   "t0": 251.995,
+   "key": "roller",
+   "step": 2,
+   "act": "roll",
+   "in_t": 251.995,
+   "act_t": 252.795,
+   "t1": 256.59
+  },
+  {
+   "kind": "fixdone",
+   "bg": "city",
+   "t0": 256.59,
+   "done_t": 256.59,
+   "t1": 260.543
+  },
+  {
+   "kind": "title",
+   "bg": "city",
+   "t0": 260.543,
+   "title": "WHAT COLOUR?",
+   "t1": 264.131
+  },
+  {
+   "kind": "colour",
+   "bg": "city",
+   "t0": 264.131,
+   "key": "excavator",
+   "col": "yellow",
+   "answer_t": 267.534,
+   "t1": 268.623
+  },
+  {
+   "kind": "colour",
+   "bg": "city",
+   "t0": 268.623,
+   "key": "firetruck",
+   "col": "red",
+   "answer_t": 272.082,
+   "t1": 273.138
+  },
+  {
+   "kind": "colour",
+   "bg": "city",
+   "t0": 273.138,
+   "key": "garbage",
+   "col": "green",
+   "answer_t": 276.61,
+   "t1": 277.736
+  },
+  {
+   "kind": "colour",
+   "bg": "city",
+   "t0": 277.736,
+   "key": "towtruck",
+   "col": "blue",
+   "answer_t": 281.03,
+   "t1": 282.053
+  },
+  {
+   "kind": "colour",
+   "bg": "city",
+   "t0": 282.053,
+   "key": "monster",
+   "col": "purple",
+   "answer_t": 285.537,
+   "t1": 286.669
+  },
+  {
+   "kind": "colour",
+   "bg": "city",
+   "t0": 286.669,
+   "key": "roller",
+   "col": "green",
+   "answer_t": 290.016,
+   "t1": 291.134
+  },
+  {
+   "kind": "colour",
+   "bg": "city",
+   "t0": 291.134,
+   "key": "crane",
+   "col": "orange",
+   "answer_t": 294.503,
+   "t1": 295.667
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 295.667,
+   "title": "COUNT THE WHEELS!",
+   "t1": 298.0
+  },
+  {
+   "kind": "wheels",
+   "bg": "site",
+   "t0": 298.0,
+   "key": "dumptruck",
+   "n": 3,
+   "answer_t": 300.971,
+   "t1": 302.297
+  },
+  {
+   "kind": "wheels",
+   "bg": "site",
+   "t0": 302.297,
+   "key": "monster",
+   "n": 2,
+   "answer_t": 305.257,
+   "t1": 306.845
+  },
+  {
+   "kind": "wheels",
+   "bg": "site",
+   "t0": 306.845,
+   "key": "towtruck",
+   "n": 3,
+   "answer_t": 309.816,
+   "t1": 311.142
+  },
+  {
+   "kind": "wheels",
+   "bg": "site",
+   "t0": 311.142,
+   "key": "roller",
+   "n": 1,
+   "answer_t": 314.102,
+   "t1": 316.375
+  },
+  {
+   "kind": "bigsmall",
+   "bg": "site",
+   "t0": 316.375,
+   "pair": [
+    "dumptruck",
+    "toytruck"
+   ],
+   "ans": 0,
+   "answer_t": 319.589,
+   "t1": 321.409
+  },
+  {
+   "kind": "bigsmall",
+   "bg": "site",
+   "t0": 321.409,
+   "pair": [
+    "monster",
+    "car"
+   ],
+   "ans": 0,
+   "answer_t": 324.671,
+   "t1": 326.6
+  },
+  {
+   "kind": "bigsmall",
+   "bg": "site",
+   "t0": 326.6,
+   "pair": [
+    "crane",
+    "toytruck"
+   ],
+   "ans": 1,
+   "answer_t": 329.825,
+   "t1": 331.576
+  },
+  {
+   "kind": "title",
+   "bg": "city",
+   "t0": 331.576,
+   "title": "COUNT THE TRUCKS!",
+   "t1": 334.547
+  },
+  {
+   "kind": "count",
+   "bg": "city",
+   "t0": 334.547,
+   "cts": [
+    334.547,
+    335.434,
+    336.298,
+    337.238,
+    338.176,
+    339.15,
+    340.132,
+    341.14,
+    342.048,
+    342.976
+   ],
+   "t1": 346.264
+  },
+  {
+   "kind": "title",
+   "bg": "city",
+   "t0": 346.264,
+   "title": "WHICH TRUCK IS IT?",
+   "t1": 349.622
+  },
+  {
+   "kind": "sound",
+   "bg": "city",
+   "t0": 349.622,
+   "key": "towtruck",
+   "snd_t": 349.922,
+   "answer_t": 354.548,
+   "t1": 357.444
+  },
+  {
+   "kind": "sound",
+   "bg": "city",
+   "t0": 357.444,
+   "key": "firetruck",
+   "snd_t": 357.744,
+   "answer_t": 362.331,
+   "t1": 364.19
+  },
+  {
+   "kind": "sound",
+   "bg": "city",
+   "t0": 364.19,
+   "key": "garbage",
+   "snd_t": 364.49,
+   "answer_t": 369.115,
+   "t1": 371.029
+  },
+  {
+   "kind": "sound",
+   "bg": "city",
+   "t0": 371.029,
+   "key": "dumptruck",
+   "snd_t": 371.329,
+   "answer_t": 375.916,
+   "t1": 377.874
+  },
+  {
+   "kind": "sound",
+   "bg": "city",
+   "t0": 377.874,
+   "key": "mixer",
+   "snd_t": 378.174,
+   "answer_t": 382.8,
+   "t1": 385.267
+  },
+  {
+   "kind": "sound",
+   "bg": "city",
+   "t0": 385.267,
+   "key": "monster",
+   "snd_t": 385.567,
+   "answer_t": 390.154,
+   "t1": 392.315
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 392.315,
+   "title": "TRUCK OPPOSITES!",
+   "t1": 395.486
+  },
+  {
+   "kind": "opps",
+   "bg": "site",
+   "t0": 395.486,
+   "key": "crane",
+   "w1": "up",
+   "w2": "down",
+   "a_t": 395.486,
+   "b_t": 396.628,
+   "t1": 400.555
+  },
+  {
+   "kind": "opps",
+   "bg": "site",
+   "t0": 400.555,
+   "key": "dumptruck",
+   "w1": "full",
+   "w2": "empty",
+   "a_t": 400.555,
+   "b_t": 401.812,
+   "t1": 405.29
+  },
+  {
+   "kind": "opps",
+   "bg": "site",
+   "t0": 405.29,
+   "key": "monster",
+   "w1": "fast",
+   "w2": "slow",
+   "a_t": 405.29,
+   "b_t": 406.581,
+   "t1": 411.082
+  },
+  {
+   "kind": "safety",
+   "bg": "city",
+   "t0": 411.082,
+   "s1": 411.082,
+   "s2": 415.003,
+   "s3": 418.808,
+   "t1": 422.252
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 422.252,
+   "title": "TRUCK DANCE!",
+   "t1": 425.237
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 425.237,
+   "move": "dig",
+   "fast": false,
+   "word": "DIG, DIG, DIG!",
+   "say_t": 425.237,
+   "t1": 429.156
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 429.156,
+   "move": "push",
+   "fast": false,
+   "word": "PUSH, PUSH!",
+   "say_t": 429.156,
+   "t1": 432.518
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 432.518,
+   "move": "spin",
+   "fast": false,
+   "word": "SPIN AROUND!",
+   "say_t": 432.518,
+   "t1": 435.68
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 435.68,
+   "move": "lift",
+   "fast": false,
+   "word": "LIFT UP HIGH!",
+   "say_t": 435.68,
+   "t1": 438.859
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 438.859,
+   "move": "back",
+   "fast": false,
+   "word": "BEEP, BEEP, BACK UP!",
+   "say_t": 438.859,
+   "t1": 441.861
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 441.861,
+   "move": "honk",
+   "fast": false,
+   "word": "HONK, HONK!",
+   "say_t": 441.861,
+   "t1": 444.768
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 444.768,
+   "title": "FASTER!",
+   "t1": 446.148
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 446.148,
+   "move": "dig",
+   "fast": true,
+   "word": "DIG, DIG, DIG!",
+   "say_t": 446.148,
+   "t1": 449.367
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 449.367,
+   "move": "push",
+   "fast": true,
+   "word": "PUSH, PUSH!",
+   "say_t": 449.367,
+   "t1": 452.029
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 452.029,
+   "move": "spin",
+   "fast": true,
+   "word": "SPIN AROUND!",
+   "say_t": 452.029,
+   "t1": 454.491
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 454.491,
+   "move": "lift",
+   "fast": true,
+   "word": "LIFT UP HIGH!",
+   "say_t": 454.491,
+   "t1": 456.97
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 456.97,
+   "move": "back",
+   "fast": true,
+   "word": "BEEP, BEEP, BACK UP!",
+   "say_t": 456.97,
+   "t1": 459.272
+  },
+  {
+   "kind": "dance",
+   "bg": "site",
+   "t0": 459.272,
+   "move": "honk",
+   "fast": true,
+   "word": "HONK, HONK!",
+   "say_t": 459.272,
+   "t1": 461.479
+  },
+  {
+   "kind": "title",
+   "bg": "site",
+   "t0": 461.479,
+   "title": "TRUCK QUIZ!",
+   "t1": 464.195
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 464.195,
+   "q": "WHICH TRUCK DIGS BIG HOLES?",
+   "vis": "excavator",
+   "answer_t": 468.371,
+   "t1": 469.92
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 469.92,
+   "q": "WHAT DOES A CEMENT MIXER DO?",
+   "vis": "mixer",
+   "answer_t": 473.999,
+   "t1": 475.72
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 475.72,
+   "q": "WHAT DO BUILDERS WEAR ON THEIR HEADS?",
+   "vis": "hardhat",
+   "answer_t": 480.169,
+   "t1": 481.669
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 481.669,
+   "q": "WHICH TRUCK LIFTS HEAVY THINGS?",
+   "vis": "crane",
+   "answer_t": 485.82,
+   "t1": 487.171
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 487.171,
+   "q": "WHICH TRUCK PUSHES DIRT WITH A BIG BLADE?",
+   "vis": "bulldozer",
+   "answer_t": 491.849,
+   "t1": 493.331
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 493.331,
+   "q": "SHOULD WE PLAY NEAR BIG TRUCKS?",
+   "vis": "cone",
+   "answer_t": 497.522,
+   "t1": 499.842
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 499.842,
+   "q": "WHERE DOES THE DRIVER SIT?",
+   "vis": "dumptruck",
+   "answer_t": 503.76,
+   "t1": 505.183
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 505.183,
+   "q": "WHAT COLOUR IS THE FIRE TRUCK?",
+   "vis": "firetruck",
+   "answer_t": 509.442,
+   "t1": 510.597
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 510.597,
+   "q": "WHICH TRUCK HAS GIANT WHEELS?",
+   "vis": "monster",
+   "answer_t": 514.721,
+   "t1": 516.419
+  },
+  {
+   "kind": "quiz",
+   "bg": "site",
+   "t0": 516.419,
+   "q": "WHAT DOES A ROAD ROLLER MAKE?",
+   "vis": "roller",
+   "answer_t": 520.513,
+   "t1": 522.332
+  },
+  {
+   "kind": "outro",
+   "bg": "park",
+   "t0": 522.332,
+   "bye_t": 526.718,
+   "t1": 530.395
+  }
+ ],
+ "prompts": [
+  [
+   21.293,
+   22.593
+  ],
+  [
+   31.719,
+   33.019
+  ],
+  [
+   44.392,
+   45.692
+  ],
+  [
+   55.658,
+   56.958
+  ],
+  [
+   65.676,
+   66.976
+  ],
+  [
+   77.324,
+   78.624
+  ],
+  [
+   144.341,
+   145.741
+  ],
+  [
+   149.364,
+   150.764
+  ],
+  [
+   154.334,
+   155.734
+  ],
+  [
+   158.812,
+   160.212
+  ],
+  [
+   163.432,
+   164.832
+  ],
+  [
+   168.353,
+   169.753
+  ],
+  [
+   186.639,
+   188.639
+  ],
+  [
+   192.188,
+   194.188
+  ],
+  [
+   197.716,
+   199.716
+  ],
+  [
+   203.02,
+   205.02
+  ],
+  [
+   208.038,
+   210.038
+  ],
+  [
+   213.347,
+   215.347
+  ],
+  [
+   265.934,
+   267.534
+  ],
+  [
+   270.482,
+   272.082
+  ],
+  [
+   275.01,
+   276.61
+  ],
+  [
+   279.43,
+   281.03
+  ],
+  [
+   283.937,
+   285.537
+  ],
+  [
+   288.416,
+   290.016
+  ],
+  [
+   292.903,
+   294.503
+  ],
+  [
+   299.171,
+   300.971
+  ],
+  [
+   303.457,
+   305.257
+  ],
+  [
+   308.016,
+   309.816
+  ],
+  [
+   312.302,
+   314.102
+  ],
+  [
+   317.789,
+   319.589
+  ],
+  [
+   322.871,
+   324.671
+  ],
+  [
+   328.025,
+   329.825
+  ],
+  [
+   352.748,
+   354.548
+  ],
+  [
+   360.531,
+   362.331
+  ],
+  [
+   367.315,
+   369.115
+  ],
+  [
+   374.116,
+   375.916
+  ],
+  [
+   381.0,
+   382.8
+  ],
+  [
+   388.354,
+   390.154
+  ],
+  [
+   427.556,
+   429.156
+  ],
+  [
+   430.918,
+   432.518
+  ],
+  [
+   434.08,
+   435.68
+  ],
+  [
+   437.259,
+   438.859
+  ],
+  [
+   440.261,
+   441.861
+  ],
+  [
+   443.168,
+   444.768
+  ],
+  [
+   448.467,
+   449.367
+  ],
+  [
+   451.129,
+   452.029
+  ],
+  [
+   453.591,
+   454.491
+  ],
+  [
+   456.07,
+   456.97
+  ],
+  [
+   458.372,
+   459.272
+  ],
+  [
+   460.579,
+   461.479
+  ],
+  [
+   465.971,
+   468.371
+  ],
+  [
+   471.599,
+   473.999
+  ],
+  [
+   477.769,
+   480.169
+  ],
+  [
+   483.42,
+   485.82
+  ],
+  [
+   489.449,
+   491.849
+  ],
+  [
+   495.122,
+   497.522
+  ],
+  [
+   501.36,
+   503.76
+  ],
+  [
+   507.042,
+   509.442
+  ],
+  [
+   512.321,
+   514.721
+  ],
+  [
+   518.113,
+   520.513
+  ]
+ ],
+ "stars": [
+  104.867,
+  145.741,
+  150.764,
+  155.734,
+  160.212,
+  164.832,
+  169.753,
+  256.59,
+  469.92,
+  475.72,
+  481.669,
+  487.171,
+  493.331,
+  499.842,
+  505.183,
+  510.597,
+  516.419,
+  522.332
+ ],
+ "total": 530.4
+}
