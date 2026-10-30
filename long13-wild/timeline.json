@@ -1,0 +1,2571 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Wild animals!",
+   "t": 1.7,
+   "dur": 1.015
+  },
+  {
+   "who": "mishu",
+   "text": "Hop in the safari jeep! Let's meet animals from all over the world!",
+   "t": 3.065,
+   "dur": 3.751
+  },
+  {
+   "who": "gul",
+   "text": "Roar! Let's go!",
+   "t": 7.167,
+   "dur": 0.939
+  },
+  {
+   "who": "gul",
+   "text": "First stop, the grassy savanna!",
+   "t": 9.256,
+   "dur": 1.646
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A lion!",
+   "t": 11.652,
+   "dur": 0.997
+  },
+  {
+   "who": "gul",
+   "text": "Lions live in big families called prides!",
+   "t": 14.198,
+   "dur": 2.248
+  },
+  {
+   "who": "mishu",
+   "text": "Say lion!",
+   "t": 16.696,
+   "dur": 0.705
+  },
+  {
+   "who": "gul",
+   "text": "Look! An elephant!",
+   "t": 19.151,
+   "dur": 0.959
+  },
+  {
+   "who": "mishu",
+   "text": "Elephants are the biggest animals on land!",
+   "t": 21.66,
+   "dur": 2.289
+  },
+  {
+   "who": "gul",
+   "text": "Say elephant!",
+   "t": 24.199,
+   "dur": 0.894
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A giraffe!",
+   "t": 26.843,
+   "dur": 0.962
+  },
+  {
+   "who": "gul",
+   "text": "Giraffes are the tallest animals in the world!",
+   "t": 29.354,
+   "dur": 2.284
+  },
+  {
+   "who": "mishu",
+   "text": "Say giraffe!",
+   "t": 31.888,
+   "dur": 0.79
+  },
+  {
+   "who": "gul",
+   "text": "Look! A zebra!",
+   "t": 34.428,
+   "dur": 0.95
+  },
+  {
+   "who": "mishu",
+   "text": "Every zebra has its very own stripes!",
+   "t": 36.929,
+   "dur": 2.123
+  },
+  {
+   "who": "gul",
+   "text": "Say zebra!",
+   "t": 39.302,
+   "dur": 0.856
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A hippo!",
+   "t": 41.908,
+   "dur": 0.949
+  },
+  {
+   "who": "gul",
+   "text": "Hippos stay in the water all day, to keep cool!",
+   "t": 44.407,
+   "dur": 2.325
+  },
+  {
+   "who": "mishu",
+   "text": "Say hippo!",
+   "t": 46.982,
+   "dur": 0.685
+  },
+  {
+   "who": "gul",
+   "text": "Look! A rhino!",
+   "t": 49.417,
+   "dur": 0.894
+  },
+  {
+   "who": "mishu",
+   "text": "A rhino's horn is made of the same stuff as your fingernails!",
+   "t": 51.861,
+   "dur": 3.325
+  },
+  {
+   "who": "gul",
+   "text": "Say rhino!",
+   "t": 55.436,
+   "dur": 0.8
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A cheetah!",
+   "t": 57.987,
+   "dur": 0.974
+  },
+  {
+   "who": "gul",
+   "text": "Cheetahs are the fastest runners! And they chirp like birds!",
+   "t": 60.511,
+   "dur": 3.264
+  },
+  {
+   "who": "mishu",
+   "text": "Say cheetah!",
+   "t": 64.025,
+   "dur": 0.715
+  },
+  {
+   "who": "mishu",
+   "text": "Next stop, the green jungle!",
+   "t": 66.79,
+   "dur": 1.529
+  },
+  {
+   "who": "gul",
+   "text": "Look! A tiger!",
+   "t": 69.07,
+   "dur": 0.936
+  },
+  {
+   "who": "mishu",
+   "text": "Tigers have stripes, and they love to swim!",
+   "t": 71.555,
+   "dur": 2.289
+  },
+  {
+   "who": "gul",
+   "text": "Say tiger!",
+   "t": 74.094,
+   "dur": 0.815
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A monkey!",
+   "t": 76.66,
+   "dur": 1.019
+  },
+  {
+   "who": "gul",
+   "text": "Monkeys swing from tree to tree!",
+   "t": 79.229,
+   "dur": 1.635
+  },
+  {
+   "who": "mishu",
+   "text": "Say monkey!",
+   "t": 81.114,
+   "dur": 0.766
+  },
+  {
+   "who": "gul",
+   "text": "Look! A gorilla!",
+   "t": 83.63,
+   "dur": 0.903
+  },
+  {
+   "who": "mishu",
+   "text": "Gorillas beat their chests! But they're very gentle.",
+   "t": 86.083,
+   "dur": 2.765
+  },
+  {
+   "who": "gul",
+   "text": "Say gorilla!",
+   "t": 89.098,
+   "dur": 0.819
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A parrot!",
+   "t": 91.667,
+   "dur": 1.022
+  },
+  {
+   "who": "gul",
+   "text": "Some parrots can copy words! Hello! Hello!",
+   "t": 94.239,
+   "dur": 2.489
+  },
+  {
+   "who": "mishu",
+   "text": "Say parrot!",
+   "t": 96.978,
+   "dur": 0.742
+  },
+  {
+   "who": "gul",
+   "text": "Look! A snake!",
+   "t": 99.471,
+   "dur": 0.895
+  },
+  {
+   "who": "mishu",
+   "text": "Snakes smell with their tongues!",
+   "t": 101.916,
+   "dur": 1.434
+  },
+  {
+   "who": "gul",
+   "text": "Say snake!",
+   "t": 103.6,
+   "dur": 0.776
+  },
+  {
+   "who": "gul",
+   "text": "Now, into the forest!",
+   "t": 106.427,
+   "dur": 1.177
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A bear!",
+   "t": 108.353,
+   "dur": 0.814
+  },
+  {
+   "who": "gul",
+   "text": "Bears love honey, and sleep all winter long!",
+   "t": 110.717,
+   "dur": 2.309
+  },
+  {
+   "who": "mishu",
+   "text": "Say bear!",
+   "t": 113.276,
+   "dur": 0.646
+  },
+  {
+   "who": "gul",
+   "text": "Look! A wolf!",
+   "t": 115.672,
+   "dur": 0.855
+  },
+  {
+   "who": "mishu",
+   "text": "Wolves howl to talk to their family!",
+   "t": 118.077,
+   "dur": 1.917
+  },
+  {
+   "who": "gul",
+   "text": "Say wolf!",
+   "t": 120.243,
+   "dur": 0.749
+  },
+  {
+   "who": "mishu",
+   "text": "Look! An owl!",
+   "t": 122.743,
+   "dur": 0.86
+  },
+  {
+   "who": "gul",
+   "text": "Owls can turn their heads almost all the way around!",
+   "t": 125.153,
+   "dur": 2.577
+  },
+  {
+   "who": "mishu",
+   "text": "Say owl!",
+   "t": 127.98,
+   "dur": 0.631
+  },
+  {
+   "who": "gul",
+   "text": "Look! A panda!",
+   "t": 130.361,
+   "dur": 0.895
+  },
+  {
+   "who": "mishu",
+   "text": "Pandas eat bamboo, almost all day long!",
+   "t": 132.806,
+   "dur": 2.342
+  },
+  {
+   "who": "gul",
+   "text": "Say panda!",
+   "t": 135.399,
+   "dur": 0.801
+  },
+  {
+   "who": "gul",
+   "text": "Phew! It's hot in the desert!",
+   "t": 138.25,
+   "dur": 1.335
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A camel!",
+   "t": 140.335,
+   "dur": 0.971
+  },
+  {
+   "who": "gul",
+   "text": "Camels can walk for days in the hot sand!",
+   "t": 142.856,
+   "dur": 2.166
+  },
+  {
+   "who": "mishu",
+   "text": "Say camel!",
+   "t": 145.272,
+   "dur": 0.736
+  },
+  {
+   "who": "mishu",
+   "text": "Hop hop! Welcome to the outback!",
+   "t": 148.057,
+   "dur": 1.861
+  },
+  {
+   "who": "gul",
+   "text": "Look! A kangaroo!",
+   "t": 150.669,
+   "dur": 0.981
+  },
+  {
+   "who": "mishu",
+   "text": "Baby kangaroos ride in their mum's pouch!",
+   "t": 153.2,
+   "dur": 2.115
+  },
+  {
+   "who": "gul",
+   "text": "Say kangaroo!",
+   "t": 155.564,
+   "dur": 0.867
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A koala!",
+   "t": 158.181,
+   "dur": 1.014
+  },
+  {
+   "who": "gul",
+   "text": "Koalas sleep about twenty hours a day!",
+   "t": 160.746,
+   "dur": 1.913
+  },
+  {
+   "who": "mishu",
+   "text": "Say koala!",
+   "t": 162.909,
+   "dur": 0.769
+  },
+  {
+   "who": "mishu",
+   "text": "Brrr! It's cold on the ice!",
+   "t": 165.727,
+   "dur": 2.097
+  },
+  {
+   "who": "gul",
+   "text": "Look! A penguin!",
+   "t": 168.574,
+   "dur": 0.883
+  },
+  {
+   "who": "mishu",
+   "text": "Penguins can't fly, but they swim super fast!",
+   "t": 171.007,
+   "dur": 2.802
+  },
+  {
+   "who": "gul",
+   "text": "Say penguin!",
+   "t": 174.058,
+   "dur": 0.785
+  },
+  {
+   "who": "gul",
+   "text": "Last stop, the river!",
+   "t": 176.894,
+   "dur": 1.155
+  },
+  {
+   "who": "mishu",
+   "text": "Look! A flamingo!",
+   "t": 178.799,
+   "dur": 1.099
+  },
+  {
+   "who": "gul",
+   "text": "Flamingos are pink because of the food they eat!",
+   "t": 181.448,
+   "dur": 2.412
+  },
+  {
+   "who": "mishu",
+   "text": "Say flamingo!",
+   "t": 184.11,
+   "dur": 0.882
+  },
+  {
+   "who": "gul",
+   "text": "Look! A crocodile!",
+   "t": 186.742,
+   "dur": 1.048
+  },
+  {
+   "who": "mishu",
+   "text": "Crocodiles lived at the time of the dinosaurs!",
+   "t": 189.34,
+   "dur": 2.452
+  },
+  {
+   "who": "gul",
+   "text": "Say crocodile!",
+   "t": 192.042,
+   "dur": 0.949
+  },
+  {
+   "who": "both",
+   "text": "We met so many wild animals! Hooray!",
+   "t": 194.441,
+   "dur": 2.313
+  },
+  {
+   "who": "mishu",
+   "text": "Who is the biggest? Who is the fastest? Let's find out!",
+   "t": 197.904,
+   "dur": 3.034
+  },
+  {
+   "who": "gul",
+   "text": "Which animal is the biggest on land?",
+   "t": 201.388,
+   "dur": 1.989
+  },
+  {
+   "who": "mishu",
+   "text": "The elephant!",
+   "t": 205.627,
+   "dur": 0.768
+  },
+  {
+   "who": "mishu",
+   "text": "Which animal is the tallest?",
+   "t": 206.946,
+   "dur": 1.485
+  },
+  {
+   "who": "gul",
+   "text": "The giraffe!",
+   "t": 210.681,
+   "dur": 0.758
+  },
+  {
+   "who": "gul",
+   "text": "Which animal runs the fastest?",
+   "t": 211.989,
+   "dur": 1.703
+  },
+  {
+   "who": "mishu",
+   "text": "The cheetah!",
+   "t": 215.941,
+   "dur": 0.727
+  },
+  {
+   "who": "mishu",
+   "text": "Which animal sleeps the most?",
+   "t": 217.218,
+   "dur": 1.507
+  },
+  {
+   "who": "gul",
+   "text": "The koala! Zzz!",
+   "t": 220.976,
+   "dur": 1.273
+  },
+  {
+   "who": "gul",
+   "text": "Listen carefully! Which animal is it?",
+   "t": 223.299,
+   "dur": 1.934
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 227.582,
+   "dur": 0.715
+  },
+  {
+   "who": "gul",
+   "text": "Roar! The lion!",
+   "t": 230.348,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 233.697,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "The elephant!",
+   "t": 236.436,
+   "dur": 0.768
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 239.654,
+   "dur": 0.715
+  },
+  {
+   "who": "gul",
+   "text": "Hoo hoo! The owl!",
+   "t": 242.419,
+   "dur": 0.953
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 245.822,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "Awoooo! The wolf!",
+   "t": 248.56,
+   "dur": 1.089
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 252.099,
+   "dur": 0.715
+  },
+  {
+   "who": "gul",
+   "text": "Sss! The snake!",
+   "t": 254.864,
+   "dur": 1.191
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 258.505,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "Ooh ooh ah ah! The monkey!",
+   "t": 261.243,
+   "dur": 1.289
+  },
+  {
+   "who": "mishu",
+   "text": "Help the animals find their homes!",
+   "t": 263.582,
+   "dur": 1.732
+  },
+  {
+   "who": "gul",
+   "text": "Where does the penguin live?",
+   "t": 265.764,
+   "dur": 1.362
+  },
+  {
+   "who": "mishu",
+   "text": "On the cold ice!",
+   "t": 269.376,
+   "dur": 0.998
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the camel live?",
+   "t": 270.924,
+   "dur": 1.27
+  },
+  {
+   "who": "gul",
+   "text": "In the hot desert!",
+   "t": 274.444,
+   "dur": 1.065
+  },
+  {
+   "who": "gul",
+   "text": "Where does the kangaroo live?",
+   "t": 276.059,
+   "dur": 1.349
+  },
+  {
+   "who": "mishu",
+   "text": "In the outback!",
+   "t": 279.658,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the monkey live?",
+   "t": 281.109,
+   "dur": 1.248
+  },
+  {
+   "who": "gul",
+   "text": "In the jungle!",
+   "t": 284.606,
+   "dur": 0.791
+  },
+  {
+   "who": "gul",
+   "text": "Where does the bear live?",
+   "t": 285.947,
+   "dur": 1.154
+  },
+  {
+   "who": "mishu",
+   "text": "In the forest!",
+   "t": 289.351,
+   "dur": 0.871
+  },
+  {
+   "who": "mishu",
+   "text": "Where does the lion live?",
+   "t": 290.773,
+   "dur": 1.168
+  },
+  {
+   "who": "gul",
+   "text": "On the savanna!",
+   "t": 294.191,
+   "dur": 0.927
+  },
+  {
+   "who": "gul",
+   "text": "Animals are hungry! What do they eat?",
+   "t": 296.168,
+   "dur": 1.885
+  },
+  {
+   "who": "mishu",
+   "text": "What does the lion eat?",
+   "t": 298.504,
+   "dur": 1.175
+  },
+  {
+   "who": "gul",
+   "text": "Lions eat meat!",
+   "t": 301.728,
+   "dur": 1.001
+  },
+  {
+   "who": "gul",
+   "text": "What does the panda eat?",
+   "t": 303.279,
+   "dur": 1.228
+  },
+  {
+   "who": "mishu",
+   "text": "Pandas eat bamboo!",
+   "t": 306.557,
+   "dur": 1.161
+  },
+  {
+   "who": "mishu",
+   "text": "What does the monkey eat?",
+   "t": 308.267,
+   "dur": 1.202
+  },
+  {
+   "who": "gul",
+   "text": "Monkeys love bananas!",
+   "t": 311.519,
+   "dur": 1.413
+  },
+  {
+   "who": "gul",
+   "text": "What does the koala eat?",
+   "t": 313.482,
+   "dur": 1.287
+  },
+  {
+   "who": "mishu",
+   "text": "Koalas eat eucalyptus leaves!",
+   "t": 316.819,
+   "dur": 1.738
+  },
+  {
+   "who": "mishu",
+   "text": "What does the penguin eat?",
+   "t": 319.107,
+   "dur": 1.293
+  },
+  {
+   "who": "gul",
+   "text": "Penguins eat fish!",
+   "t": 322.449,
+   "dur": 1.135
+  },
+  {
+   "who": "gul",
+   "text": "What does the giraffe eat?",
+   "t": 324.135,
+   "dur": 1.246
+  },
+  {
+   "who": "mishu",
+   "text": "Giraffes eat leaves from tall trees!",
+   "t": 327.431,
+   "dur": 1.796
+  },
+  {
+   "who": "mishu",
+   "text": "Someone is hiding behind the bush! Who is it?",
+   "t": 330.276,
+   "dur": 2.527
+  },
+  {
+   "who": "gul",
+   "text": "I see black and white stripes!",
+   "t": 333.253,
+   "dur": 1.56
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 335.064,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "Peekaboo! A zebra!",
+   "t": 337.802,
+   "dur": 1.287
+  },
+  {
+   "who": "mishu",
+   "text": "I see a long trunk!",
+   "t": 339.639,
+   "dur": 1.114
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 341.003,
+   "dur": 0.715
+  },
+  {
+   "who": "gul",
+   "text": "Peekaboo! An elephant!",
+   "t": 343.769,
+   "dur": 1.246
+  },
+  {
+   "who": "gul",
+   "text": "I see a very long neck!",
+   "t": 345.565,
+   "dur": 1.258
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 347.073,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "Peekaboo! A giraffe!",
+   "t": 349.811,
+   "dur": 1.373
+  },
+  {
+   "who": "mishu",
+   "text": "I see a fluffy mane!",
+   "t": 351.734,
+   "dur": 1.125
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 353.108,
+   "dur": 0.715
+  },
+  {
+   "who": "gul",
+   "text": "Peekaboo! A lion!",
+   "t": 355.874,
+   "dur": 1.138
+  },
+  {
+   "who": "gul",
+   "text": "I see big, long ears!",
+   "t": 357.562,
+   "dur": 1.289
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 359.101,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "Peekaboo! A kangaroo!",
+   "t": 361.839,
+   "dur": 1.332
+  },
+  {
+   "who": "mishu",
+   "text": "I see a pink, curly neck!",
+   "t": 363.721,
+   "dur": 1.442
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 365.412,
+   "dur": 0.715
+  },
+  {
+   "who": "gul",
+   "text": "Peekaboo! A flamingo!",
+   "t": 368.178,
+   "dur": 1.299
+  },
+  {
+   "who": "gul",
+   "text": "Some animals have spots. Some have stripes!",
+   "t": 370.527,
+   "dur": 2.335
+  },
+  {
+   "who": "mishu",
+   "text": "Does the zebra have spots, or stripes?",
+   "t": 373.312,
+   "dur": 1.996
+  },
+  {
+   "who": "gul",
+   "text": "Stripes!",
+   "t": 377.358,
+   "dur": 0.65
+  },
+  {
+   "who": "gul",
+   "text": "Does the cheetah have spots, or stripes?",
+   "t": 378.557,
+   "dur": 1.865
+  },
+  {
+   "who": "mishu",
+   "text": "Spots!",
+   "t": 382.472,
+   "dur": 0.676
+  },
+  {
+   "who": "mishu",
+   "text": "Does the tiger have spots, or stripes?",
+   "t": 383.698,
+   "dur": 1.964
+  },
+  {
+   "who": "gul",
+   "text": "Stripes!",
+   "t": 387.712,
+   "dur": 0.65
+  },
+  {
+   "who": "gul",
+   "text": "Does the giraffe have spots, or stripes?",
+   "t": 388.912,
+   "dur": 1.887
+  },
+  {
+   "who": "mishu",
+   "text": "Spots!",
+   "t": 392.849,
+   "dur": 0.676
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Baby animals have special names!",
+   "t": 394.575,
+   "dur": 2.485
+  },
+  {
+   "who": "mishu",
+   "text": "What is a baby lion called?",
+   "t": 397.511,
+   "dur": 1.363
+  },
+  {
+   "who": "gul",
+   "text": "A baby lion is called a cub!",
+   "t": 400.924,
+   "dur": 1.599
+  },
+  {
+   "who": "gul",
+   "text": "What is a baby kangaroo called?",
+   "t": 403.074,
+   "dur": 1.649
+  },
+  {
+   "who": "mishu",
+   "text": "A baby kangaroo is called a joey!",
+   "t": 406.772,
+   "dur": 1.795
+  },
+  {
+   "who": "mishu",
+   "text": "What is a baby elephant called?",
+   "t": 409.117,
+   "dur": 1.602
+  },
+  {
+   "who": "gul",
+   "text": "A baby elephant is called a calf!",
+   "t": 412.769,
+   "dur": 1.836
+  },
+  {
+   "who": "gul",
+   "text": "What is a baby owl called?",
+   "t": 415.155,
+   "dur": 1.366
+  },
+  {
+   "who": "mishu",
+   "text": "A baby owl is called an owlet!",
+   "t": 418.571,
+   "dur": 1.633
+  },
+  {
+   "who": "mishu",
+   "text": "Here come the zebras! Let's count them!",
+   "t": 420.754,
+   "dur": 2.086
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 423.09,
+   "dur": 0.485
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 423.975,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 424.839,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 425.782,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 426.712,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 427.685,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 428.667,
+   "dur": 0.612
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 429.679,
+   "dur": 0.508
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 430.587,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 431.518,
+   "dur": 0.497
+  },
+  {
+   "who": "gul",
+   "text": "Ten zebras! Run, zebras, run!",
+   "t": 432.415,
+   "dur": 1.967
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! Move like the animals! Copy us!",
+   "t": 435.533,
+   "dur": 2.225
+  },
+  {
+   "who": "both",
+   "text": "Stomp like an elephant!",
+   "t": 438.208,
+   "dur": 1.268
+  },
+  {
+   "who": "both",
+   "text": "Jump like a kangaroo!",
+   "t": 441.226,
+   "dur": 1.228
+  },
+  {
+   "who": "both",
+   "text": "Swing like a monkey!",
+   "t": 444.204,
+   "dur": 1.149
+  },
+  {
+   "who": "both",
+   "text": "Stretch tall like a giraffe!",
+   "t": 447.103,
+   "dur": 1.419
+  },
+  {
+   "who": "both",
+   "text": "Roar like a lion! Roar!",
+   "t": 450.272,
+   "dur": 1.477
+  },
+  {
+   "who": "both",
+   "text": "Waddle like a penguin!",
+   "t": 453.499,
+   "dur": 1.154
+  },
+  {
+   "who": "gul",
+   "text": "Again, faster!",
+   "t": 456.404,
+   "dur": 0.994
+  },
+  {
+   "who": "both",
+   "text": "Stomp like an elephant!",
+   "t": 457.747,
+   "dur": 1.268
+  },
+  {
+   "who": "both",
+   "text": "Jump like a kangaroo!",
+   "t": 460.066,
+   "dur": 1.228
+  },
+  {
+   "who": "both",
+   "text": "Swing like a monkey!",
+   "t": 462.343,
+   "dur": 1.149
+  },
+  {
+   "who": "both",
+   "text": "Stretch tall like a giraffe!",
+   "t": 464.543,
+   "dur": 1.419
+  },
+  {
+   "who": "both",
+   "text": "Roar like a lion! Roar!",
+   "t": 467.012,
+   "dur": 1.477
+  },
+  {
+   "who": "both",
+   "text": "Waddle like a penguin!",
+   "t": 469.539,
+   "dur": 1.154
+  },
+  {
+   "who": "gul",
+   "text": "Big kids quiz! Are you ready?",
+   "t": 472.243,
+   "dur": 1.564
+  },
+  {
+   "who": "mishu",
+   "text": "Which animal is the tallest?",
+   "t": 474.257,
+   "dur": 1.485
+  },
+  {
+   "who": "gul",
+   "text": "The giraffe!",
+   "t": 478.392,
+   "dur": 0.758
+  },
+  {
+   "who": "gul",
+   "text": "What do pandas eat?",
+   "t": 479.8,
+   "dur": 1.171
+  },
+  {
+   "who": "mishu",
+   "text": "Bamboo!",
+   "t": 483.621,
+   "dur": 0.659
+  },
+  {
+   "who": "mishu",
+   "text": "Where does a camel live?",
+   "t": 484.93,
+   "dur": 1.189
+  },
+  {
+   "who": "gul",
+   "text": "In the desert!",
+   "t": 488.769,
+   "dur": 0.837
+  },
+  {
+   "who": "gul",
+   "text": "What is a baby kangaroo called?",
+   "t": 490.255,
+   "dur": 1.649
+  },
+  {
+   "who": "mishu",
+   "text": "A joey!",
+   "t": 494.554,
+   "dur": 0.602
+  },
+  {
+   "who": "mishu",
+   "text": "Which animal is the fastest?",
+   "t": 495.807,
+   "dur": 1.653
+  },
+  {
+   "who": "gul",
+   "text": "The cheetah!",
+   "t": 500.11,
+   "dur": 0.768
+  },
+  {
+   "who": "gul",
+   "text": "What sound does a wolf make?",
+   "t": 501.528,
+   "dur": 1.411
+  },
+  {
+   "who": "mishu",
+   "text": "It howls! Awoooo!",
+   "t": 505.589,
+   "dur": 1.182
+  },
+  {
+   "who": "mishu",
+   "text": "Why are flamingos pink?",
+   "t": 507.421,
+   "dur": 1.239
+  },
+  {
+   "who": "gul",
+   "text": "Because of the food they eat!",
+   "t": 511.311,
+   "dur": 1.436
+  },
+  {
+   "who": "gul",
+   "text": "Which animal has a long trunk?",
+   "t": 513.397,
+   "dur": 1.667
+  },
+  {
+   "who": "mishu",
+   "text": "The elephant!",
+   "t": 517.714,
+   "dur": 0.768
+  },
+  {
+   "who": "mishu",
+   "text": "Which wild animal is your favourite?",
+   "t": 519.132,
+   "dur": 1.89
+  },
+  {
+   "who": "gul",
+   "text": "Mine is the lion! Roar!",
+   "t": 521.371,
+   "dur": 1.312
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends! See you on the next safari!",
+   "t": 523.034,
+   "dur": 2.449
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "savanna",
+   "t0": 0.0,
+   "roar_t": 0.3,
+   "title_t": 1.7,
+   "kids_t": 3.065,
+   "t1": 8.656
+  },
+  {
+   "kind": "habitat",
+   "bg": "savanna",
+   "t0": 8.656,
+   "title": "THE SAVANNA!",
+   "t1": 11.352
+  },
+  {
+   "kind": "animal",
+   "bg": "savanna",
+   "t0": 11.352,
+   "key": "lion",
+   "name": "lion",
+   "num": 1,
+   "name_t": 11.652,
+   "snd_t": 12.898,
+   "t1": 18.851
+  },
+  {
+   "kind": "animal",
+   "bg": "savanna",
+   "t0": 18.851,
+   "key": "elephant",
+   "name": "elephant",
+   "num": 2,
+   "name_t": 19.151,
+   "snd_t": 20.36,
+   "t1": 26.543
+  },
+  {
+   "kind": "animal",
+   "bg": "savanna",
+   "t0": 26.543,
+   "key": "giraffe",
+   "name": "giraffe",
+   "num": 3,
+   "name_t": 26.843,
+   "snd_t": 28.054,
+   "t1": 34.128
+  },
+  {
+   "kind": "animal",
+   "bg": "savanna",
+   "t0": 34.128,
+   "key": "zebra",
+   "name": "zebra",
+   "num": 4,
+   "name_t": 34.428,
+   "snd_t": 35.629,
+   "t1": 41.608
+  },
+  {
+   "kind": "animal",
+   "bg": "savanna",
+   "t0": 41.608,
+   "key": "hippo",
+   "name": "hippo",
+   "num": 5,
+   "name_t": 41.908,
+   "snd_t": 43.107,
+   "t1": 49.117
+  },
+  {
+   "kind": "animal",
+   "bg": "savanna",
+   "t0": 49.117,
+   "key": "rhino",
+   "name": "rhino",
+   "num": 6,
+   "name_t": 49.417,
+   "snd_t": 50.561,
+   "t1": 57.687
+  },
+  {
+   "kind": "animal",
+   "bg": "savanna",
+   "t0": 57.687,
+   "key": "cheetah",
+   "name": "cheetah",
+   "num": 7,
+   "name_t": 57.987,
+   "snd_t": 59.211,
+   "t1": 66.19
+  },
+  {
+   "kind": "habitat",
+   "bg": "jungle",
+   "t0": 66.19,
+   "title": "THE JUNGLE!",
+   "t1": 68.77
+  },
+  {
+   "kind": "animal",
+   "bg": "jungle",
+   "t0": 68.77,
+   "key": "tiger",
+   "name": "tiger",
+   "num": 8,
+   "name_t": 69.07,
+   "snd_t": 70.255,
+   "t1": 76.36
+  },
+  {
+   "kind": "animal",
+   "bg": "jungle",
+   "t0": 76.36,
+   "key": "monkey",
+   "name": "monkey",
+   "num": 9,
+   "name_t": 76.66,
+   "snd_t": 77.929,
+   "t1": 83.33
+  },
+  {
+   "kind": "animal",
+   "bg": "jungle",
+   "t0": 83.33,
+   "key": "gorilla",
+   "name": "gorilla",
+   "num": 10,
+   "name_t": 83.63,
+   "snd_t": 84.783,
+   "t1": 91.367
+  },
+  {
+   "kind": "animal",
+   "bg": "jungle",
+   "t0": 91.367,
+   "key": "parrot",
+   "name": "parrot",
+   "num": 11,
+   "name_t": 91.667,
+   "snd_t": 92.939,
+   "t1": 99.171
+  },
+  {
+   "kind": "animal",
+   "bg": "jungle",
+   "t0": 99.171,
+   "key": "snake",
+   "name": "snake",
+   "num": 12,
+   "name_t": 99.471,
+   "snd_t": 100.616,
+   "t1": 105.827
+  },
+  {
+   "kind": "habitat",
+   "bg": "forest",
+   "t0": 105.827,
+   "title": "THE FOREST!",
+   "t1": 108.053
+  },
+  {
+   "kind": "animal",
+   "bg": "forest",
+   "t0": 108.053,
+   "key": "bear",
+   "name": "bear",
+   "num": 13,
+   "name_t": 108.353,
+   "snd_t": 109.417,
+   "t1": 115.372
+  },
+  {
+   "kind": "animal",
+   "bg": "forest",
+   "t0": 115.372,
+   "key": "wolf",
+   "name": "wolf",
+   "num": 14,
+   "name_t": 115.672,
+   "snd_t": 116.777,
+   "t1": 122.443
+  },
+  {
+   "kind": "animal",
+   "bg": "forest",
+   "t0": 122.443,
+   "key": "owl",
+   "name": "owl",
+   "num": 15,
+   "name_t": 122.743,
+   "snd_t": 123.853,
+   "t1": 130.061
+  },
+  {
+   "kind": "animal",
+   "bg": "forest",
+   "t0": 130.061,
+   "key": "panda",
+   "name": "panda",
+   "num": 16,
+   "name_t": 130.361,
+   "snd_t": 131.506,
+   "t1": 137.65
+  },
+  {
+   "kind": "habitat",
+   "bg": "desert",
+   "t0": 137.65,
+   "title": "THE DESERT!",
+   "t1": 140.035
+  },
+  {
+   "kind": "animal",
+   "bg": "desert",
+   "t0": 140.035,
+   "key": "camel",
+   "name": "camel",
+   "num": 17,
+   "name_t": 140.335,
+   "snd_t": 141.556,
+   "t1": 147.457
+  },
+  {
+   "kind": "habitat",
+   "bg": "outback",
+   "t0": 147.457,
+   "title": "THE OUTBACK!",
+   "t1": 150.369
+  },
+  {
+   "kind": "animal",
+   "bg": "outback",
+   "t0": 150.369,
+   "key": "kangaroo",
+   "name": "kangaroo",
+   "num": 18,
+   "name_t": 150.669,
+   "snd_t": 151.9,
+   "t1": 157.881
+  },
+  {
+   "kind": "animal",
+   "bg": "outback",
+   "t0": 157.881,
+   "key": "koala",
+   "name": "koala",
+   "num": 19,
+   "name_t": 158.181,
+   "snd_t": 159.446,
+   "t1": 165.127
+  },
+  {
+   "kind": "habitat",
+   "bg": "ice",
+   "t0": 165.127,
+   "title": "THE ICE!",
+   "t1": 168.274
+  },
+  {
+   "kind": "animal",
+   "bg": "ice",
+   "t0": 168.274,
+   "key": "penguin",
+   "name": "penguin",
+   "num": 20,
+   "name_t": 168.574,
+   "snd_t": 169.707,
+   "t1": 176.294
+  },
+  {
+   "kind": "habitat",
+   "bg": "pond",
+   "t0": 176.294,
+   "title": "THE RIVER!",
+   "t1": 178.499
+  },
+  {
+   "kind": "animal",
+   "bg": "pond",
+   "t0": 178.499,
+   "key": "flamingo",
+   "name": "flamingo",
+   "num": 21,
+   "name_t": 178.799,
+   "snd_t": 180.148,
+   "t1": 186.442
+  },
+  {
+   "kind": "animal",
+   "bg": "pond",
+   "t0": 186.442,
+   "key": "crocodile",
+   "name": "crocodile",
+   "num": 22,
+   "name_t": 186.742,
+   "snd_t": 188.04,
+   "t1": 194.441
+  },
+  {
+   "kind": "allanimals",
+   "bg": "savanna",
+   "t0": 194.441,
+   "t1": 197.404
+  },
+  {
+   "kind": "title",
+   "bg": "savanna",
+   "t0": 197.404,
+   "title": "ANIMAL RECORDS!",
+   "t1": 201.388
+  },
+  {
+   "kind": "record",
+   "bg": "savanna",
+   "t0": 201.388,
+   "ans": "elephant",
+   "opts": [
+    "giraffe",
+    "elephant",
+    "lion"
+   ],
+   "answer_t": 205.627,
+   "t1": 206.946
+  },
+  {
+   "kind": "record",
+   "bg": "savanna",
+   "t0": 206.946,
+   "ans": "giraffe",
+   "opts": [
+    "giraffe",
+    "zebra",
+    "camel"
+   ],
+   "answer_t": 210.681,
+   "t1": 211.989
+  },
+  {
+   "kind": "record",
+   "bg": "savanna",
+   "t0": 211.989,
+   "ans": "cheetah",
+   "opts": [
+    "hippo",
+    "bear",
+    "cheetah"
+   ],
+   "answer_t": 215.941,
+   "t1": 217.218
+  },
+  {
+   "kind": "record",
+   "bg": "savanna",
+   "t0": 217.218,
+   "ans": "koala",
+   "opts": [
+    "koala",
+    "monkey",
+    "wolf"
+   ],
+   "answer_t": 220.976,
+   "t1": 222.799
+  },
+  {
+   "kind": "title",
+   "bg": "jungle",
+   "t0": 222.799,
+   "title": "WHO'S THAT SOUND?",
+   "t1": 225.682
+  },
+  {
+   "kind": "sound",
+   "bg": "jungle",
+   "t0": 225.682,
+   "key": "lion",
+   "snd_t": 225.982,
+   "answer_t": 230.348,
+   "t1": 231.797
+  },
+  {
+   "kind": "sound",
+   "bg": "jungle",
+   "t0": 231.797,
+   "key": "elephant",
+   "snd_t": 232.097,
+   "answer_t": 236.436,
+   "t1": 237.754
+  },
+  {
+   "kind": "sound",
+   "bg": "jungle",
+   "t0": 237.754,
+   "key": "owl",
+   "snd_t": 238.054,
+   "answer_t": 242.419,
+   "t1": 243.922
+  },
+  {
+   "kind": "sound",
+   "bg": "jungle",
+   "t0": 243.922,
+   "key": "wolf",
+   "snd_t": 244.222,
+   "answer_t": 248.56,
+   "t1": 250.199
+  },
+  {
+   "kind": "sound",
+   "bg": "jungle",
+   "t0": 250.199,
+   "key": "snake",
+   "snd_t": 250.499,
+   "answer_t": 254.864,
+   "t1": 256.605
+  },
+  {
+   "kind": "sound",
+   "bg": "jungle",
+   "t0": 256.605,
+   "key": "monkey",
+   "snd_t": 256.905,
+   "answer_t": 261.243,
+   "t1": 263.082
+  },
+  {
+   "kind": "title",
+   "bg": "savanna",
+   "t0": 263.082,
+   "title": "WHERE DO THEY LIVE?",
+   "t1": 265.764
+  },
+  {
+   "kind": "home",
+   "bg": "savanna",
+   "t0": 265.764,
+   "key": "penguin",
+   "home": "ice",
+   "opts": [
+    "ice",
+    "desert",
+    "jungle"
+   ],
+   "answer_t": 269.376,
+   "t1": 270.924
+  },
+  {
+   "kind": "home",
+   "bg": "savanna",
+   "t0": 270.924,
+   "key": "camel",
+   "home": "desert",
+   "opts": [
+    "forest",
+    "desert",
+    "ice"
+   ],
+   "answer_t": 274.444,
+   "t1": 276.059
+  },
+  {
+   "kind": "home",
+   "bg": "savanna",
+   "t0": 276.059,
+   "key": "kangaroo",
+   "home": "outback",
+   "opts": [
+    "pond",
+    "jungle",
+    "outback"
+   ],
+   "answer_t": 279.658,
+   "t1": 281.109
+  },
+  {
+   "kind": "home",
+   "bg": "savanna",
+   "t0": 281.109,
+   "key": "monkey",
+   "home": "jungle",
+   "opts": [
+    "jungle",
+    "ice",
+    "desert"
+   ],
+   "answer_t": 284.606,
+   "t1": 285.947
+  },
+  {
+   "kind": "home",
+   "bg": "savanna",
+   "t0": 285.947,
+   "key": "bear",
+   "home": "forest",
+   "opts": [
+    "savanna",
+    "forest",
+    "pond"
+   ],
+   "answer_t": 289.351,
+   "t1": 290.773
+  },
+  {
+   "kind": "home",
+   "bg": "savanna",
+   "t0": 290.773,
+   "key": "lion",
+   "home": "savanna",
+   "opts": [
+    "outback",
+    "pond",
+    "savanna"
+   ],
+   "answer_t": 294.191,
+   "t1": 295.668
+  },
+  {
+   "kind": "title",
+   "bg": "jungle",
+   "t0": 295.668,
+   "title": "WHAT DO THEY EAT?",
+   "t1": 298.504
+  },
+  {
+   "kind": "eat",
+   "bg": "jungle",
+   "t0": 298.504,
+   "key": "lion",
+   "food": "meat",
+   "opts": [
+    "meat",
+    "banana",
+    "bamboo"
+   ],
+   "answer_t": 301.728,
+   "t1": 303.279
+  },
+  {
+   "kind": "eat",
+   "bg": "jungle",
+   "t0": 303.279,
+   "key": "panda",
+   "food": "bamboo",
+   "opts": [
+    "fish",
+    "bamboo",
+    "meat"
+   ],
+   "answer_t": 306.557,
+   "t1": 308.267
+  },
+  {
+   "kind": "eat",
+   "bg": "jungle",
+   "t0": 308.267,
+   "key": "monkey",
+   "food": "banana",
+   "opts": [
+    "leaves",
+    "fish",
+    "banana"
+   ],
+   "answer_t": 311.519,
+   "t1": 313.482
+  },
+  {
+   "kind": "eat",
+   "bg": "jungle",
+   "t0": 313.482,
+   "key": "koala",
+   "food": "leaves",
+   "opts": [
+    "leaves",
+    "meat",
+    "fish"
+   ],
+   "answer_t": 316.819,
+   "t1": 319.107
+  },
+  {
+   "kind": "eat",
+   "bg": "jungle",
+   "t0": 319.107,
+   "key": "penguin",
+   "food": "fish",
+   "opts": [
+    "banana",
+    "fish",
+    "bamboo"
+   ],
+   "answer_t": 322.449,
+   "t1": 324.135
+  },
+  {
+   "kind": "eat",
+   "bg": "jungle",
+   "t0": 324.135,
+   "key": "giraffe",
+   "food": "leaves",
+   "opts": [
+    "meat",
+    "banana",
+    "leaves"
+   ],
+   "answer_t": 327.431,
+   "t1": 329.776
+  },
+  {
+   "kind": "title",
+   "bg": "forest",
+   "t0": 329.776,
+   "title": "WHO'S HIDING?",
+   "t1": 333.253
+  },
+  {
+   "kind": "hide",
+   "bg": "forest",
+   "t0": 333.253,
+   "key": "zebra",
+   "reveal_t": 337.802,
+   "t1": 339.639
+  },
+  {
+   "kind": "hide",
+   "bg": "forest",
+   "t0": 339.639,
+   "key": "elephant",
+   "reveal_t": 343.769,
+   "t1": 345.565
+  },
+  {
+   "kind": "hide",
+   "bg": "forest",
+   "t0": 345.565,
+   "key": "giraffe",
+   "reveal_t": 349.811,
+   "t1": 351.734
+  },
+  {
+   "kind": "hide",
+   "bg": "forest",
+   "t0": 351.734,
+   "key": "lion",
+   "reveal_t": 355.874,
+   "t1": 357.562
+  },
+  {
+   "kind": "hide",
+   "bg": "forest",
+   "t0": 357.562,
+   "key": "kangaroo",
+   "reveal_t": 361.839,
+   "t1": 363.721
+  },
+  {
+   "kind": "hide",
+   "bg": "forest",
+   "t0": 363.721,
+   "key": "flamingo",
+   "reveal_t": 368.178,
+   "t1": 370.027
+  },
+  {
+   "kind": "title",
+   "bg": "savanna",
+   "t0": 370.027,
+   "title": "SPOTS OR STRIPES?",
+   "t1": 373.312
+  },
+  {
+   "kind": "pattern",
+   "bg": "savanna",
+   "t0": 373.312,
+   "key": "zebra",
+   "pat": "stripes",
+   "answer_t": 377.358,
+   "t1": 378.557
+  },
+  {
+   "kind": "pattern",
+   "bg": "savanna",
+   "t0": 378.557,
+   "key": "cheetah",
+   "pat": "spots",
+   "answer_t": 382.472,
+   "t1": 383.698
+  },
+  {
+   "kind": "pattern",
+   "bg": "savanna",
+   "t0": 383.698,
+   "key": "tiger",
+   "pat": "stripes",
+   "answer_t": 387.712,
+   "t1": 388.912
+  },
+  {
+   "kind": "pattern",
+   "bg": "savanna",
+   "t0": 388.912,
+   "key": "giraffe",
+   "pat": "spots",
+   "answer_t": 392.849,
+   "t1": 394.075
+  },
+  {
+   "kind": "title",
+   "bg": "outback",
+   "t0": 394.075,
+   "title": "BABY ANIMALS!",
+   "t1": 397.511
+  },
+  {
+   "kind": "baby",
+   "bg": "outback",
+   "t0": 397.511,
+   "key": "lion",
+   "baby": "cub",
+   "answer_t": 400.924,
+   "t1": 403.074
+  },
+  {
+   "kind": "baby",
+   "bg": "outback",
+   "t0": 403.074,
+   "key": "kangaroo",
+   "baby": "joey",
+   "answer_t": 406.772,
+   "t1": 409.117
+  },
+  {
+   "kind": "baby",
+   "bg": "outback",
+   "t0": 409.117,
+   "key": "elephant",
+   "baby": "calf",
+   "answer_t": 412.769,
+   "t1": 415.155
+  },
+  {
+   "kind": "baby",
+   "bg": "outback",
+   "t0": 415.155,
+   "key": "owl",
+   "baby": "owlet",
+   "answer_t": 418.571,
+   "t1": 420.754
+  },
+  {
+   "kind": "count",
+   "bg": "savanna",
+   "t0": 420.754,
+   "cts": [
+    423.09,
+    423.975,
+    424.839,
+    425.782,
+    426.712,
+    427.685,
+    428.667,
+    429.679,
+    430.587,
+    431.518
+   ],
+   "t1": 435.033
+  },
+  {
+   "kind": "title",
+   "bg": "savanna",
+   "t0": 435.033,
+   "title": "ANIMAL MOVES!",
+   "t1": 438.208
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 438.208,
+   "move": "stomp",
+   "fast": false,
+   "word": "STOMP LIKE AN ELEPHANT!",
+   "say_t": 438.208,
+   "t1": 441.226
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 441.226,
+   "move": "jump",
+   "fast": false,
+   "word": "JUMP LIKE A KANGAROO!",
+   "say_t": 441.226,
+   "t1": 444.204
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 444.204,
+   "move": "swing",
+   "fast": false,
+   "word": "SWING LIKE A MONKEY!",
+   "say_t": 444.204,
+   "t1": 447.103
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 447.103,
+   "move": "stretch",
+   "fast": false,
+   "word": "STRETCH TALL LIKE A GIRAFFE!",
+   "say_t": 447.103,
+   "t1": 450.272
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 450.272,
+   "move": "roar",
+   "fast": false,
+   "word": "ROAR LIKE A LION!",
+   "say_t": 450.272,
+   "t1": 453.499
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 453.499,
+   "move": "waddle",
+   "fast": false,
+   "word": "WADDLE LIKE A PENGUIN!",
+   "say_t": 453.499,
+   "t1": 456.404
+  },
+  {
+   "kind": "title",
+   "bg": "savanna",
+   "t0": 456.404,
+   "title": "FASTER!",
+   "t1": 457.747
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 457.747,
+   "move": "stomp",
+   "fast": true,
+   "word": "STOMP LIKE AN ELEPHANT!",
+   "say_t": 457.747,
+   "t1": 460.066
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 460.066,
+   "move": "jump",
+   "fast": true,
+   "word": "JUMP LIKE A KANGAROO!",
+   "say_t": 460.066,
+   "t1": 462.343
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 462.343,
+   "move": "swing",
+   "fast": true,
+   "word": "SWING LIKE A MONKEY!",
+   "say_t": 462.343,
+   "t1": 464.543
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 464.543,
+   "move": "stretch",
+   "fast": true,
+   "word": "STRETCH TALL LIKE A GIRAFFE!",
+   "say_t": 464.543,
+   "t1": 467.012
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 467.012,
+   "move": "roar",
+   "fast": true,
+   "word": "ROAR LIKE A LION!",
+   "say_t": 467.012,
+   "t1": 469.539
+  },
+  {
+   "kind": "dance",
+   "bg": "savanna",
+   "t0": 469.539,
+   "move": "waddle",
+   "fast": true,
+   "word": "WADDLE LIKE A PENGUIN!",
+   "say_t": 469.539,
+   "t1": 471.743
+  },
+  {
+   "kind": "title",
+   "bg": "jungle",
+   "t0": 471.743,
+   "title": "ANIMAL QUIZ!",
+   "t1": 474.257
+  },
+  {
+   "kind": "quiz",
+   "bg": "jungle",
+   "t0": 474.257,
+   "q": "WHICH ANIMAL IS THE TALLEST?",
+   "vis": "giraffe",
+   "answer_t": 478.392,
+   "t1": 479.8
+  },
+  {
+   "kind": "quiz",
+   "bg": "jungle",
+   "t0": 479.8,
+   "q": "WHAT DO PANDAS EAT?",
+   "vis": "panda",
+   "answer_t": 483.621,
+   "t1": 484.93
+  },
+  {
+   "kind": "quiz",
+   "bg": "jungle",
+   "t0": 484.93,
+   "q": "WHERE DOES A CAMEL LIVE?",
+   "vis": "camel",
+   "answer_t": 488.769,
+   "t1": 490.255
+  },
+  {
+   "kind": "quiz",
+   "bg": "jungle",
+   "t0": 490.255,
+   "q": "WHAT IS A BABY KANGAROO CALLED?",
+   "vis": "kangaroo",
+   "answer_t": 494.554,
+   "t1": 495.807
+  },
+  {
+   "kind": "quiz",
+   "bg": "jungle",
+   "t0": 495.807,
+   "q": "WHICH ANIMAL IS THE FASTEST?",
+   "vis": "cheetah",
+   "answer_t": 500.11,
+   "t1": 501.528
+  },
+  {
+   "kind": "quiz",
+   "bg": "jungle",
+   "t0": 501.528,
+   "q": "WHAT SOUND DOES A WOLF MAKE?",
+   "vis": "wolf",
+   "answer_t": 505.589,
+   "t1": 507.421
+  },
+  {
+   "kind": "quiz",
+   "bg": "jungle",
+   "t0": 507.421,
+   "q": "WHY ARE FLAMINGOS PINK?",
+   "vis": "flamingo",
+   "answer_t": 511.311,
+   "t1": 513.397
+  },
+  {
+   "kind": "quiz",
+   "bg": "jungle",
+   "t0": 513.397,
+   "q": "WHICH ANIMAL HAS A LONG TRUNK?",
+   "vis": "elephant",
+   "answer_t": 517.714,
+   "t1": 519.132
+  },
+  {
+   "kind": "outro",
+   "bg": "savanna",
+   "t0": 519.132,
+   "bye_t": 523.034,
+   "t1": 527.433
+  }
+ ],
+ "prompts": [
+  [
+   17.651,
+   18.851
+  ],
+  [
+   25.343,
+   26.543
+  ],
+  [
+   32.928,
+   34.128
+  ],
+  [
+   40.408,
+   41.608
+  ],
+  [
+   47.917,
+   49.117
+  ],
+  [
+   56.487,
+   57.687
+  ],
+  [
+   64.99,
+   66.19
+  ],
+  [
+   75.16,
+   76.36
+  ],
+  [
+   82.13,
+   83.33
+  ],
+  [
+   90.167,
+   91.367
+  ],
+  [
+   97.971,
+   99.171
+  ],
+  [
+   104.627,
+   105.827
+  ],
+  [
+   114.172,
+   115.372
+  ],
+  [
+   121.243,
+   122.443
+  ],
+  [
+   128.861,
+   130.061
+  ],
+  [
+   136.45,
+   137.65
+  ],
+  [
+   146.257,
+   147.457
+  ],
+  [
+   156.681,
+   157.881
+  ],
+  [
+   163.927,
+   165.127
+  ],
+  [
+   175.094,
+   176.294
+  ],
+  [
+   185.242,
+   186.442
+  ],
+  [
+   193.241,
+   194.441
+  ],
+  [
+   203.627,
+   205.627
+  ],
+  [
+   208.681,
+   210.681
+  ],
+  [
+   213.941,
+   215.941
+  ],
+  [
+   218.976,
+   220.976
+  ],
+  [
+   228.548,
+   230.348
+  ],
+  [
+   234.636,
+   236.436
+  ],
+  [
+   240.619,
+   242.419
+  ],
+  [
+   246.76,
+   248.56
+  ],
+  [
+   253.064,
+   254.864
+  ],
+  [
+   259.443,
+   261.243
+  ],
+  [
+   267.376,
+   269.376
+  ],
+  [
+   272.444,
+   274.444
+  ],
+  [
+   277.658,
+   279.658
+  ],
+  [
+   282.606,
+   284.606
+  ],
+  [
+   287.351,
+   289.351
+  ],
+  [
+   292.191,
+   294.191
+  ],
+  [
+   299.928,
+   301.728
+  ],
+  [
+   304.757,
+   306.557
+  ],
+  [
+   309.719,
+   311.519
+  ],
+  [
+   315.019,
+   316.819
+  ],
+  [
+   320.649,
+   322.449
+  ],
+  [
+   325.631,
+   327.431
+  ],
+  [
+   336.002,
+   337.802
+  ],
+  [
+   341.969,
+   343.769
+  ],
+  [
+   348.011,
+   349.811
+  ],
+  [
+   354.074,
+   355.874
+  ],
+  [
+   360.039,
+   361.839
+  ],
+  [
+   366.378,
+   368.178
+  ],
+  [
+   375.558,
+   377.358
+  ],
+  [
+   380.672,
+   382.472
+  ],
+  [
+   385.912,
+   387.712
+  ],
+  [
+   391.049,
+   392.849
+  ],
+  [
+   399.124,
+   400.924
+  ],
+  [
+   404.972,
+   406.772
+  ],
+  [
+   410.969,
+   412.769
+  ],
+  [
+   416.771,
+   418.571
+  ],
+  [
+   439.626,
+   441.226
+  ],
+  [
+   442.604,
+   444.204
+  ],
+  [
+   445.503,
+   447.103
+  ],
+  [
+   448.672,
+   450.272
+  ],
+  [
+   451.899,
+   453.499
+  ],
+  [
+   454.804,
+   456.404
+  ],
+  [
+   459.166,
+   460.066
+  ],
+  [
+   461.443,
+   462.343
+  ],
+  [
+   463.643,
+   464.543
+  ],
+  [
+   466.112,
+   467.012
+  ],
+  [
+   468.639,
+   469.539
+  ],
+  [
+   470.843,
+   471.743
+  ],
+  [
+   475.992,
+   478.392
+  ],
+  [
+   481.221,
+   483.621
+  ],
+  [
+   486.369,
+   488.769
+  ],
+  [
+   492.154,
+   494.554
+  ],
+  [
+   497.71,
+   500.11
+  ],
+  [
+   503.189,
+   505.589
+  ],
+  [
+   508.911,
+   511.311
+  ],
+  [
+   515.314,
+   517.714
+  ]
+ ],
+ "stars": [
+  196.604,
+  205.627,
+  210.681,
+  215.941,
+  220.976,
+  479.8,
+  484.93,
+  490.255,
+  495.807,
+  501.528,
+  507.421,
+  513.397,
+  519.132
+ ],
+ "total": 527.43
+}

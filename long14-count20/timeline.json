@@ -1,0 +1,3546 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Count to twenty!",
+   "t": 1.8,
+   "dur": 1.056
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count, jump, clap, and play, all the way to twenty!",
+   "t": 3.206,
+   "dur": 2.969
+  },
+  {
+   "who": "gul",
+   "text": "Ready? Let's go!",
+   "t": 6.525,
+   "dur": 1.063
+  },
+  {
+   "who": "gul",
+   "text": "First, let's count to ten, and clap!",
+   "t": 8.637,
+   "dur": 1.676
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 10.764,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 11.481,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 12.174,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 12.942,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 13.707,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 14.511,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 15.323,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 16.161,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 16.897,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 17.658,
+   "dur": 0.503
+  },
+  {
+   "who": "mishu",
+   "text": "Easy! Now let's go higher!",
+   "t": 18.391,
+   "dur": 1.541
+  },
+  {
+   "who": "mishu",
+   "text": "After ten come the teen numbers! Let's meet them!",
+   "t": 20.983,
+   "dur": 2.77
+  },
+  {
+   "who": "gul",
+   "text": "This is eleven!",
+   "t": 24.402,
+   "dur": 1.027
+  },
+  {
+   "who": "mishu",
+   "text": "Eleven is ten, and one more!",
+   "t": 25.729,
+   "dur": 1.769
+  },
+  {
+   "who": "both",
+   "text": "Eleven apples!",
+   "t": 27.799,
+   "dur": 1.018
+  },
+  {
+   "who": "gul",
+   "text": "Say eleven!",
+   "t": 29.167,
+   "dur": 0.824
+  },
+  {
+   "who": "mishu",
+   "text": "This is twelve!",
+   "t": 31.541,
+   "dur": 0.923
+  },
+  {
+   "who": "gul",
+   "text": "Twelve is ten, and two more!",
+   "t": 32.764,
+   "dur": 1.553
+  },
+  {
+   "who": "both",
+   "text": "Twelve stars!",
+   "t": 34.618,
+   "dur": 0.949
+  },
+  {
+   "who": "mishu",
+   "text": "Say twelve!",
+   "t": 35.917,
+   "dur": 0.754
+  },
+  {
+   "who": "gul",
+   "text": "This is thirteen!",
+   "t": 38.221,
+   "dur": 1.087
+  },
+  {
+   "who": "mishu",
+   "text": "Thirteen is ten, and three more!",
+   "t": 39.608,
+   "dur": 1.773
+  },
+  {
+   "who": "both",
+   "text": "Thirteen fish!",
+   "t": 41.681,
+   "dur": 0.926
+  },
+  {
+   "who": "gul",
+   "text": "Say thirteen!",
+   "t": 42.957,
+   "dur": 0.9
+  },
+  {
+   "who": "mishu",
+   "text": "This is fourteen!",
+   "t": 45.407,
+   "dur": 1.012
+  },
+  {
+   "who": "gul",
+   "text": "Fourteen is ten, and four more!",
+   "t": 46.718,
+   "dur": 1.731
+  },
+  {
+   "who": "both",
+   "text": "Fourteen ducklings!",
+   "t": 48.749,
+   "dur": 1.145
+  },
+  {
+   "who": "mishu",
+   "text": "Say fourteen!",
+   "t": 50.245,
+   "dur": 0.883
+  },
+  {
+   "who": "gul",
+   "text": "This is fifteen!",
+   "t": 52.678,
+   "dur": 1.044
+  },
+  {
+   "who": "mishu",
+   "text": "Fifteen is ten, and five more!",
+   "t": 54.021,
+   "dur": 1.782
+  },
+  {
+   "who": "both",
+   "text": "Fifteen strawberries!",
+   "t": 56.103,
+   "dur": 1.245
+  },
+  {
+   "who": "gul",
+   "text": "Say fifteen!",
+   "t": 57.698,
+   "dur": 0.858
+  },
+  {
+   "who": "mishu",
+   "text": "This is sixteen!",
+   "t": 60.107,
+   "dur": 1.003
+  },
+  {
+   "who": "gul",
+   "text": "Sixteen is ten, and six more!",
+   "t": 61.41,
+   "dur": 1.796
+  },
+  {
+   "who": "both",
+   "text": "Sixteen balls!",
+   "t": 63.506,
+   "dur": 1.035
+  },
+  {
+   "who": "mishu",
+   "text": "Say sixteen!",
+   "t": 64.891,
+   "dur": 0.915
+  },
+  {
+   "who": "gul",
+   "text": "This is seventeen!",
+   "t": 67.356,
+   "dur": 1.212
+  },
+  {
+   "who": "mishu",
+   "text": "Seventeen is ten, and seven more!",
+   "t": 68.868,
+   "dur": 2.11
+  },
+  {
+   "who": "both",
+   "text": "Seventeen cupcakes!",
+   "t": 71.278,
+   "dur": 1.288
+  },
+  {
+   "who": "gul",
+   "text": "Say seventeen!",
+   "t": 72.916,
+   "dur": 1.066
+  },
+  {
+   "who": "mishu",
+   "text": "This is eighteen!",
+   "t": 75.532,
+   "dur": 0.966
+  },
+  {
+   "who": "gul",
+   "text": "Eighteen is ten, and eight more!",
+   "t": 76.798,
+   "dur": 1.574
+  },
+  {
+   "who": "both",
+   "text": "Eighteen balloons!",
+   "t": 78.672,
+   "dur": 1.075
+  },
+  {
+   "who": "mishu",
+   "text": "Say eighteen!",
+   "t": 80.097,
+   "dur": 0.817
+  },
+  {
+   "who": "gul",
+   "text": "This is nineteen!",
+   "t": 82.464,
+   "dur": 1.12
+  },
+  {
+   "who": "mishu",
+   "text": "Nineteen is ten, and nine more!",
+   "t": 83.884,
+   "dur": 1.875
+  },
+  {
+   "who": "both",
+   "text": "Nineteen flowers!",
+   "t": 86.059,
+   "dur": 1.107
+  },
+  {
+   "who": "gul",
+   "text": "Say nineteen!",
+   "t": 87.516,
+   "dur": 0.928
+  },
+  {
+   "who": "mishu",
+   "text": "This is twenty!",
+   "t": 89.993,
+   "dur": 0.97
+  },
+  {
+   "who": "gul",
+   "text": "Twenty is two tens! Ten, and ten more!",
+   "t": 91.263,
+   "dur": 2.371
+  },
+  {
+   "who": "both",
+   "text": "Twenty hearts!",
+   "t": 93.934,
+   "dur": 0.891
+  },
+  {
+   "who": "mishu",
+   "text": "Say twenty!",
+   "t": 95.175,
+   "dur": 0.751
+  },
+  {
+   "who": "gul",
+   "text": "Stand up! Let's count to twenty and move!",
+   "t": 97.777,
+   "dur": 1.94
+  },
+  {
+   "who": "mishu",
+   "text": "Let's jump twenty times! Ready? Jump!",
+   "t": 100.167,
+   "dur": 2.236
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 102.652,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 103.309,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 103.942,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 104.65,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 105.356,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 106.099,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 106.852,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 107.63,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 108.306,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 109.007,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 109.68,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 110.498,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 111.274,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 112.192,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 113.109,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 114.013,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 114.964,
+   "dur": 0.857
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 115.99,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Nineteen!",
+   "t": 116.846,
+   "dur": 0.754
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 117.771,
+   "dur": 0.671
+  },
+  {
+   "who": "both",
+   "text": "Twenty! Phew! Great job!",
+   "t": 118.612,
+   "dur": 1.499
+  },
+  {
+   "who": "gul",
+   "text": "Now clap twenty times! Clap!",
+   "t": 120.66,
+   "dur": 1.518
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 122.429,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 123.085,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 123.719,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 124.427,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 125.132,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 125.876,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 126.628,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 127.406,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 128.082,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 128.783,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 129.456,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 130.274,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 131.05,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 131.968,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 132.886,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 133.79,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 134.74,
+   "dur": 0.857
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 135.767,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Nineteen!",
+   "t": 136.623,
+   "dur": 0.754
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 137.547,
+   "dur": 0.671
+  },
+  {
+   "who": "both",
+   "text": "Twenty! Phew! Great job!",
+   "t": 138.388,
+   "dur": 1.499
+  },
+  {
+   "who": "mishu",
+   "text": "Now stomp twenty times! Stomp!",
+   "t": 140.437,
+   "dur": 2.004
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 142.691,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 143.348,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 143.981,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 144.689,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 145.395,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 146.138,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 146.891,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 147.669,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 148.345,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 149.046,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 149.719,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 150.537,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 151.313,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 152.231,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 153.148,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 154.052,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 155.003,
+   "dur": 0.857
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 156.029,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Nineteen!",
+   "t": 156.885,
+   "dur": 0.754
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 157.81,
+   "dur": 0.671
+  },
+  {
+   "who": "both",
+   "text": "Twenty! Phew! Great job!",
+   "t": 158.651,
+   "dur": 1.499
+  },
+  {
+   "who": "mishu",
+   "text": "Did you know? You have twenty fingers and toes!",
+   "t": 161.199,
+   "dur": 2.47
+  },
+  {
+   "who": "gul",
+   "text": "Let's count your fingers!",
+   "t": 164.119,
+   "dur": 1.264
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 165.633,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 166.29,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 166.923,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 167.631,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 168.337,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 169.08,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 169.833,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 170.611,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 171.287,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 171.988,
+   "dur": 0.503
+  },
+  {
+   "who": "mishu",
+   "text": "Now your toes! Eleven...",
+   "t": 172.661,
+   "dur": 1.506
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 174.316,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 175.092,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 176.01,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 176.928,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 177.832,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 178.782,
+   "dur": 0.857
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 179.809,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Nineteen!",
+   "t": 180.665,
+   "dur": 0.754
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 181.589,
+   "dur": 0.671
+  },
+  {
+   "who": "both",
+   "text": "Ten fingers and ten toes make twenty!",
+   "t": 182.43,
+   "dur": 2.194
+  },
+  {
+   "who": "mishu",
+   "text": "Let's play hide and seek! Gul, count to twenty!",
+   "t": 185.274,
+   "dur": 2.804
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 188.328,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 188.965,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 189.578,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 190.266,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 190.952,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 191.675,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 192.408,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 193.166,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 193.822,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 194.503,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 195.156,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 195.954,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 196.71,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 197.608,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 198.505,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 199.389,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 200.32,
+   "dur": 0.857
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 201.326,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Nineteen!",
+   "t": 202.162,
+   "dur": 0.754
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 203.067,
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "Ready or not, here I come!",
+   "t": 203.888,
+   "dur": 1.392
+  },
+  {
+   "who": "gul",
+   "text": "Found you, Mishu! Behind the tree!",
+   "t": 205.73,
+   "dur": 1.76
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count the things! How many are there?",
+   "t": 208.64,
+   "dur": 2.149
+  },
+  {
+   "who": "gul",
+   "text": "How many stars? Count with us!",
+   "t": 211.239,
+   "dur": 1.642
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 213.131,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 213.788,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 214.421,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 215.129,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 215.835,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 216.578,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 217.33,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 218.109,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 218.784,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 219.486,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 220.159,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 220.977,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 221.753,
+   "dur": 0.748
+  },
+  {
+   "who": "mishu",
+   "text": "Thirteen!",
+   "t": 222.67,
+   "dur": 0.71
+  },
+  {
+   "who": "mishu",
+   "text": "How many fish? Count with us!",
+   "t": 223.93,
+   "dur": 1.641
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 225.821,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 226.478,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 227.112,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 227.82,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 228.525,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 229.269,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 230.021,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 230.799,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 231.475,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 232.176,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 232.849,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 233.667,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 234.443,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 235.361,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 236.278,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 237.182,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 238.133,
+   "dur": 0.857
+  },
+  {
+   "who": "gul",
+   "text": "Seventeen!",
+   "t": 239.16,
+   "dur": 0.857
+  },
+  {
+   "who": "gul",
+   "text": "How many apples? Count with us!",
+   "t": 240.566,
+   "dur": 1.62
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 242.436,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 243.093,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 243.726,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 244.434,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 245.14,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 245.883,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 246.636,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 247.414,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 248.09,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 248.791,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 249.464,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 250.282,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 251.058,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 251.976,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 252.893,
+   "dur": 0.734
+  },
+  {
+   "who": "mishu",
+   "text": "Fifteen!",
+   "t": 253.797,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "How many balloons? Count with us!",
+   "t": 255.035,
+   "dur": 1.856
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 257.141,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 257.798,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 258.431,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 259.139,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 259.845,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 260.588,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 261.341,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 262.119,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 262.795,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 263.496,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 264.169,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 264.987,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 265.763,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 266.68,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 267.598,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 268.502,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 269.453,
+   "dur": 0.857
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 270.479,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Nineteen!",
+   "t": 271.335,
+   "dur": 0.754
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 272.259,
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "Twenty!",
+   "t": 273.101,
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "How many ducklings? Count with us!",
+   "t": 274.322,
+   "dur": 1.713
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 276.284,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 276.941,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 277.574,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 278.282,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 278.988,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 279.731,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 280.484,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 281.262,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 281.938,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 282.639,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 283.312,
+   "dur": 0.648
+  },
+  {
+   "who": "mishu",
+   "text": "Eleven!",
+   "t": 284.13,
+   "dur": 0.587
+  },
+  {
+   "who": "mishu",
+   "text": "How many hearts? Count with us!",
+   "t": 285.268,
+   "dur": 1.703
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 287.22,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 287.877,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 288.511,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 289.219,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 289.924,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 290.668,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 291.42,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 292.198,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 292.874,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 293.575,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 294.248,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 295.066,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 295.842,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 296.76,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 297.678,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 298.581,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 299.532,
+   "dur": 0.857
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 300.559,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Nineteen!",
+   "t": 301.415,
+   "dur": 0.754
+  },
+  {
+   "who": "gul",
+   "text": "Nineteen!",
+   "t": 302.339,
+   "dur": 0.754
+  },
+  {
+   "who": "gul",
+   "text": "How many flowers? Count with us!",
+   "t": 303.643,
+   "dur": 1.663
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 305.556,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 306.213,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 306.846,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 307.554,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 308.259,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 309.003,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 309.755,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 310.533,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 311.209,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 311.91,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 312.583,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 313.402,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 314.177,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 315.095,
+   "dur": 0.748
+  },
+  {
+   "who": "mishu",
+   "text": "Fourteen!",
+   "t": 316.013,
+   "dur": 0.701
+  },
+  {
+   "who": "mishu",
+   "text": "How many cupcakes? Count with us!",
+   "t": 317.264,
+   "dur": 1.872
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 319.386,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 320.042,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 320.676,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 321.384,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 322.089,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 322.833,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 323.585,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 324.363,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 325.039,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 325.74,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 326.413,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 327.231,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 328.007,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 328.925,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 329.843,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 330.746,
+   "dur": 0.781
+  },
+  {
+   "who": "gul",
+   "text": "Sixteen!",
+   "t": 331.697,
+   "dur": 0.781
+  },
+  {
+   "who": "gul",
+   "text": "Look at both groups. Which one has more?",
+   "t": 333.528,
+   "dur": 2.081
+  },
+  {
+   "who": "mishu",
+   "text": "Which side has more?",
+   "t": 336.059,
+   "dur": 1.045
+  },
+  {
+   "who": "gul",
+   "text": "Eighteen is more than twelve!",
+   "t": 339.354,
+   "dur": 1.459
+  },
+  {
+   "who": "gul",
+   "text": "Which side has more?",
+   "t": 341.363,
+   "dur": 1.093
+  },
+  {
+   "who": "mishu",
+   "text": "Sixteen is more than eleven!",
+   "t": 344.706,
+   "dur": 1.647
+  },
+  {
+   "who": "mishu",
+   "text": "Which side has more?",
+   "t": 346.903,
+   "dur": 1.045
+  },
+  {
+   "who": "gul",
+   "text": "Nineteen is more than fourteen!",
+   "t": 350.198,
+   "dur": 1.629
+  },
+  {
+   "who": "gul",
+   "text": "Which side has more?",
+   "t": 352.377,
+   "dur": 1.093
+  },
+  {
+   "who": "mishu",
+   "text": "Twenty is more than fifteen!",
+   "t": 355.72,
+   "dur": 1.582
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids! What is one more?",
+   "t": 358.352,
+   "dur": 1.503
+  },
+  {
+   "who": "gul",
+   "text": "What is twelve, and one more?",
+   "t": 360.304,
+   "dur": 1.417
+  },
+  {
+   "who": "mishu",
+   "text": "Thirteen!",
+   "t": 363.971,
+   "dur": 0.71
+  },
+  {
+   "who": "mishu",
+   "text": "What is fifteen, and one more?",
+   "t": 365.231,
+   "dur": 1.546
+  },
+  {
+   "who": "gul",
+   "text": "Sixteen!",
+   "t": 369.028,
+   "dur": 0.781
+  },
+  {
+   "who": "gul",
+   "text": "What is seventeen, and one more?",
+   "t": 370.358,
+   "dur": 1.645
+  },
+  {
+   "who": "mishu",
+   "text": "Eighteen!",
+   "t": 374.253,
+   "dur": 0.644
+  },
+  {
+   "who": "mishu",
+   "text": "What is nineteen, and one more?",
+   "t": 375.448,
+   "dur": 1.619
+  },
+  {
+   "who": "gul",
+   "text": "Twenty!",
+   "t": 379.317,
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! What number comes after?",
+   "t": 381.038,
+   "dur": 1.763
+  },
+  {
+   "who": "mishu",
+   "text": "What comes after eleven?",
+   "t": 383.251,
+   "dur": 1.333
+  },
+  {
+   "who": "gul",
+   "text": "Twelve!",
+   "t": 386.633,
+   "dur": 0.552
+  },
+  {
+   "who": "gul",
+   "text": "What comes after fourteen?",
+   "t": 387.735,
+   "dur": 1.428
+  },
+  {
+   "who": "mishu",
+   "text": "Fifteen!",
+   "t": 391.213,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "What comes after sixteen?",
+   "t": 392.451,
+   "dur": 1.458
+  },
+  {
+   "who": "gul",
+   "text": "Seventeen!",
+   "t": 395.959,
+   "dur": 0.857
+  },
+  {
+   "who": "gul",
+   "text": "What comes after eighteen?",
+   "t": 397.365,
+   "dur": 1.393
+  },
+  {
+   "who": "mishu",
+   "text": "Nineteen!",
+   "t": 400.808,
+   "dur": 0.716
+  },
+  {
+   "who": "mishu",
+   "text": "What comes after nineteen?",
+   "t": 402.073,
+   "dur": 1.358
+  },
+  {
+   "who": "gul",
+   "text": "Twenty!",
+   "t": 405.481,
+   "dur": 0.671
+  },
+  {
+   "who": "mishu",
+   "text": "Oh no! A number is missing! Can you find it?",
+   "t": 407.202,
+   "dur": 2.488
+  },
+  {
+   "who": "gul",
+   "text": "Which number is missing?",
+   "t": 410.14,
+   "dur": 1.31
+  },
+  {
+   "who": "mishu",
+   "text": "Thirteen!",
+   "t": 413.7,
+   "dur": 0.71
+  },
+  {
+   "who": "mishu",
+   "text": "Which number is missing?",
+   "t": 414.96,
+   "dur": 1.317
+  },
+  {
+   "who": "gul",
+   "text": "Eighteen!",
+   "t": 418.526,
+   "dur": 0.686
+  },
+  {
+   "who": "gul",
+   "text": "Which number is missing?",
+   "t": 419.762,
+   "dur": 1.31
+  },
+  {
+   "who": "mishu",
+   "text": "Eleven!",
+   "t": 423.322,
+   "dur": 0.587
+  },
+  {
+   "who": "mishu",
+   "text": "Which number is missing?",
+   "t": 424.459,
+   "dur": 1.317
+  },
+  {
+   "who": "gul",
+   "text": "Twenty!",
+   "t": 428.026,
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "Big kids! Shoes come in pairs. Let's count by twos!",
+   "t": 429.747,
+   "dur": 2.784
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 432.981,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 433.744,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 434.58,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 435.462,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 436.268,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 437.071,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 437.977,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 439.024,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 440.105,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 441.091,
+   "dur": 0.671
+  },
+  {
+   "who": "mishu",
+   "text": "Two, four, six, eight, ten, all the way to twenty!",
+   "t": 442.062,
+   "dur": 2.607
+  },
+  {
+   "who": "mishu",
+   "text": "Now, count by fives, with our hands!",
+   "t": 445.22,
+   "dur": 2.064
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 447.533,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 448.557,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 449.51,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 450.693,
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "And by tens! Ten, twenty!",
+   "t": 451.815,
+   "dur": 1.601
+  },
+  {
+   "who": "mishu",
+   "text": "Now, count backwards from twenty! Blast off!",
+   "t": 454.466,
+   "dur": 2.664
+  },
+  {
+   "who": "both",
+   "text": "Twenty!",
+   "t": 457.58,
+   "dur": 0.671
+  },
+  {
+   "who": "both",
+   "text": "Nineteen!",
+   "t": 458.421,
+   "dur": 0.754
+  },
+  {
+   "who": "both",
+   "text": "Eighteen!",
+   "t": 459.345,
+   "dur": 0.686
+  },
+  {
+   "who": "both",
+   "text": "Seventeen!",
+   "t": 460.201,
+   "dur": 0.857
+  },
+  {
+   "who": "both",
+   "text": "Sixteen!",
+   "t": 461.228,
+   "dur": 0.781
+  },
+  {
+   "who": "both",
+   "text": "Fifteen!",
+   "t": 462.179,
+   "dur": 0.734
+  },
+  {
+   "who": "both",
+   "text": "Fourteen!",
+   "t": 463.083,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Thirteen!",
+   "t": 464.0,
+   "dur": 0.748
+  },
+  {
+   "who": "both",
+   "text": "Twelve!",
+   "t": 464.918,
+   "dur": 0.606
+  },
+  {
+   "who": "both",
+   "text": "Eleven!",
+   "t": 465.694,
+   "dur": 0.648
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 466.512,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 467.185,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 467.886,
+   "dur": 0.506
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 468.562,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 469.34,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 470.092,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 470.836,
+   "dur": 0.535
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 471.541,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 472.249,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 472.883,
+   "dur": 0.487
+  },
+  {
+   "who": "both",
+   "text": "Blast off! Whoosh!",
+   "t": 473.54,
+   "dur": 1.118
+  },
+  {
+   "who": "gul",
+   "text": "Quiz time! Are you ready?",
+   "t": 476.308,
+   "dur": 1.303
+  },
+  {
+   "who": "mishu",
+   "text": "What comes after nineteen?",
+   "t": 478.061,
+   "dur": 1.358
+  },
+  {
+   "who": "gul",
+   "text": "Twenty!",
+   "t": 482.069,
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "How many fingers on two hands?",
+   "t": 483.39,
+   "dur": 1.69
+  },
+  {
+   "who": "mishu",
+   "text": "Ten!",
+   "t": 487.729,
+   "dur": 0.503
+  },
+  {
+   "who": "mishu",
+   "text": "Eleven is ten and how many more?",
+   "t": 488.882,
+   "dur": 1.877
+  },
+  {
+   "who": "gul",
+   "text": "One more!",
+   "t": 493.409,
+   "dur": 0.709
+  },
+  {
+   "who": "gul",
+   "text": "What comes before fifteen?",
+   "t": 494.767,
+   "dur": 1.479
+  },
+  {
+   "who": "mishu",
+   "text": "Fourteen!",
+   "t": 498.896,
+   "dur": 0.701
+  },
+  {
+   "who": "mishu",
+   "text": "Count by twos: two, four, six... what's next?",
+   "t": 500.247,
+   "dur": 2.747
+  },
+  {
+   "who": "gul",
+   "text": "Eight!",
+   "t": 505.644,
+   "dur": 0.43
+  },
+  {
+   "who": "gul",
+   "text": "Which is bigger, twelve or twenty?",
+   "t": 506.724,
+   "dur": 1.641
+  },
+  {
+   "who": "mishu",
+   "text": "Twenty!",
+   "t": 511.015,
+   "dur": 0.645
+  },
+  {
+   "who": "mishu",
+   "text": "How many fingers and toes do you have?",
+   "t": 512.31,
+   "dur": 1.968
+  },
+  {
+   "who": "gul",
+   "text": "Twenty!",
+   "t": 516.927,
+   "dur": 0.671
+  },
+  {
+   "who": "gul",
+   "text": "What is sixteen and one more?",
+   "t": 518.248,
+   "dur": 1.532
+  },
+  {
+   "who": "mishu",
+   "text": "Seventeen!",
+   "t": 522.43,
+   "dur": 0.776
+  },
+  {
+   "who": "mishu",
+   "text": "You can count to twenty! Wow!",
+   "t": 523.856,
+   "dur": 1.772
+  },
+  {
+   "who": "gul",
+   "text": "Count your toys today, and see how many you have!",
+   "t": 525.978,
+   "dur": 2.245
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends! One, two, see you!",
+   "t": 528.573,
+   "dur": 2.091
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "rainbow",
+   "t0": 0.0,
+   "rain_t": 0.0,
+   "title_t": 1.8,
+   "kids_t": 3.206,
+   "t1": 8.137
+  },
+  {
+   "kind": "title",
+   "bg": "rainbow",
+   "t0": 8.137,
+   "title": "WARM UP: 1 TO 10!",
+   "t1": 10.764
+  },
+  {
+   "kind": "warm",
+   "bg": "rainbow",
+   "t0": 10.764,
+   "ts": [
+    10.764,
+    11.481,
+    12.174,
+    12.942,
+    13.707,
+    14.511,
+    15.323,
+    16.161,
+    16.897,
+    17.658
+   ],
+   "t1": 20.483
+  },
+  {
+   "kind": "title",
+   "bg": "board",
+   "t0": 20.483,
+   "title": "MEET 11 TO 20!",
+   "t1": 24.202
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 24.202,
+   "n": 11,
+   "art": "apple",
+   "name_t": 24.402,
+   "ten_t": 25.729,
+   "count_t": 27.799,
+   "t1": 31.341
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 31.341,
+   "n": 12,
+   "art": "star",
+   "name_t": 31.541,
+   "ten_t": 32.764,
+   "count_t": 34.618,
+   "t1": 38.021
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 38.021,
+   "n": 13,
+   "art": "fish",
+   "name_t": 38.221,
+   "ten_t": 39.608,
+   "count_t": 41.681,
+   "t1": 45.207
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 45.207,
+   "n": 14,
+   "art": "duckling",
+   "name_t": 45.407,
+   "ten_t": 46.718,
+   "count_t": 48.749,
+   "t1": 52.478
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 52.478,
+   "n": 15,
+   "art": "strawberry",
+   "name_t": 52.678,
+   "ten_t": 54.021,
+   "count_t": 56.103,
+   "t1": 59.907
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 59.907,
+   "n": 16,
+   "art": "ball",
+   "name_t": 60.107,
+   "ten_t": 61.41,
+   "count_t": 63.506,
+   "t1": 67.156
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 67.156,
+   "n": 17,
+   "art": "cupcake",
+   "name_t": 67.356,
+   "ten_t": 68.868,
+   "count_t": 71.278,
+   "t1": 75.332
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 75.332,
+   "n": 18,
+   "art": "balloon",
+   "name_t": 75.532,
+   "ten_t": 76.798,
+   "count_t": 78.672,
+   "t1": 82.264
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 82.264,
+   "n": 19,
+   "art": "flower",
+   "name_t": 82.464,
+   "ten_t": 83.884,
+   "count_t": 86.059,
+   "t1": 89.793
+  },
+  {
+   "kind": "teen",
+   "bg": "board",
+   "t0": 89.793,
+   "n": 20,
+   "art": "heart",
+   "name_t": 89.993,
+   "ten_t": 91.263,
+   "count_t": 93.934,
+   "t1": 97.277
+  },
+  {
+   "kind": "title",
+   "bg": "rainbow",
+   "t0": 97.277,
+   "title": "COUNT AND MOVE!",
+   "t1": 100.167
+  },
+  {
+   "kind": "move",
+   "bg": "rainbow",
+   "t0": 100.167,
+   "move": "jump",
+   "ts": [
+    102.652,
+    103.309,
+    103.942,
+    104.65,
+    105.356,
+    106.099,
+    106.852,
+    107.63,
+    108.306,
+    109.007,
+    109.68,
+    110.498,
+    111.274,
+    112.192,
+    113.109,
+    114.013,
+    114.964,
+    115.99,
+    116.846,
+    117.771
+   ],
+   "t1": 120.66
+  },
+  {
+   "kind": "move",
+   "bg": "rainbow",
+   "t0": 120.66,
+   "move": "clap",
+   "ts": [
+    122.429,
+    123.085,
+    123.719,
+    124.427,
+    125.132,
+    125.876,
+    126.628,
+    127.406,
+    128.082,
+    128.783,
+    129.456,
+    130.274,
+    131.05,
+    131.968,
+    132.886,
+    133.79,
+    134.74,
+    135.767,
+    136.623,
+    137.547
+   ],
+   "t1": 140.437
+  },
+  {
+   "kind": "move",
+   "bg": "rainbow",
+   "t0": 140.437,
+   "move": "stomp",
+   "ts": [
+    142.691,
+    143.348,
+    143.981,
+    144.689,
+    145.395,
+    146.138,
+    146.891,
+    147.669,
+    148.345,
+    149.046,
+    149.719,
+    150.537,
+    151.313,
+    152.231,
+    153.148,
+    154.052,
+    155.003,
+    156.029,
+    156.885,
+    157.81
+   ],
+   "t1": 160.699
+  },
+  {
+   "kind": "title",
+   "bg": "rainbow",
+   "t0": 160.699,
+   "title": "FINGERS AND TOES!",
+   "t1": 164.119
+  },
+  {
+   "kind": "fingers",
+   "bg": "rainbow",
+   "t0": 164.119,
+   "f_ts": [
+    165.633,
+    166.29,
+    166.923,
+    167.631,
+    168.337,
+    169.08,
+    169.833,
+    170.611,
+    171.287,
+    171.988
+   ],
+   "t_ts": [
+    174.316,
+    175.092,
+    176.01,
+    176.928,
+    177.832,
+    178.782,
+    179.809,
+    180.665,
+    181.589
+   ],
+   "sum_t": 182.43,
+   "t1": 185.274
+  },
+  {
+   "kind": "hide",
+   "bg": "rainbow",
+   "t0": 185.274,
+   "hide_t": 188.328,
+   "ts": [
+    188.328,
+    188.965,
+    189.578,
+    190.266,
+    190.952,
+    191.675,
+    192.408,
+    193.166,
+    193.822,
+    194.503,
+    195.156,
+    195.954,
+    196.71,
+    197.608,
+    198.505,
+    199.389,
+    200.32,
+    201.326,
+    202.162,
+    203.067
+   ],
+   "found_t": 205.73,
+   "t1": 208.14
+  },
+  {
+   "kind": "title",
+   "bg": "rainbow",
+   "t0": 208.14,
+   "title": "HOW MANY?",
+   "t1": 211.239
+  },
+  {
+   "kind": "howmany",
+   "bg": "rainbow",
+   "t0": 211.239,
+   "n": 13,
+   "art": "star",
+   "ts": [
+    213.131,
+    213.788,
+    214.421,
+    215.129,
+    215.835,
+    216.578,
+    217.33,
+    218.109,
+    218.784,
+    219.486,
+    220.159,
+    220.977,
+    221.753
+   ],
+   "answer_t": 222.67,
+   "t1": 223.93
+  },
+  {
+   "kind": "howmany",
+   "bg": "rainbow",
+   "t0": 223.93,
+   "n": 17,
+   "art": "fish",
+   "ts": [
+    225.821,
+    226.478,
+    227.112,
+    227.82,
+    228.525,
+    229.269,
+    230.021,
+    230.799,
+    231.475,
+    232.176,
+    232.849,
+    233.667,
+    234.443,
+    235.361,
+    236.278,
+    237.182,
+    238.133
+   ],
+   "answer_t": 239.16,
+   "t1": 240.566
+  },
+  {
+   "kind": "howmany",
+   "bg": "rainbow",
+   "t0": 240.566,
+   "n": 15,
+   "art": "apple",
+   "ts": [
+    242.436,
+    243.093,
+    243.726,
+    244.434,
+    245.14,
+    245.883,
+    246.636,
+    247.414,
+    248.09,
+    248.791,
+    249.464,
+    250.282,
+    251.058,
+    251.976,
+    252.893
+   ],
+   "answer_t": 253.797,
+   "t1": 255.035
+  },
+  {
+   "kind": "howmany",
+   "bg": "rainbow",
+   "t0": 255.035,
+   "n": 20,
+   "art": "balloon",
+   "ts": [
+    257.141,
+    257.798,
+    258.431,
+    259.139,
+    259.845,
+    260.588,
+    261.341,
+    262.119,
+    262.795,
+    263.496,
+    264.169,
+    264.987,
+    265.763,
+    266.68,
+    267.598,
+    268.502,
+    269.453,
+    270.479,
+    271.335,
+    272.259
+   ],
+   "answer_t": 273.101,
+   "t1": 274.322
+  },
+  {
+   "kind": "howmany",
+   "bg": "rainbow",
+   "t0": 274.322,
+   "n": 11,
+   "art": "duckling",
+   "ts": [
+    276.284,
+    276.941,
+    277.574,
+    278.282,
+    278.988,
+    279.731,
+    280.484,
+    281.262,
+    281.938,
+    282.639,
+    283.312
+   ],
+   "answer_t": 284.13,
+   "t1": 285.268
+  },
+  {
+   "kind": "howmany",
+   "bg": "rainbow",
+   "t0": 285.268,
+   "n": 19,
+   "art": "heart",
+   "ts": [
+    287.22,
+    287.877,
+    288.511,
+    289.219,
+    289.924,
+    290.668,
+    291.42,
+    292.198,
+    292.874,
+    293.575,
+    294.248,
+    295.066,
+    295.842,
+    296.76,
+    297.678,
+    298.581,
+    299.532,
+    300.559,
+    301.415
+   ],
+   "answer_t": 302.339,
+   "t1": 303.643
+  },
+  {
+   "kind": "howmany",
+   "bg": "rainbow",
+   "t0": 303.643,
+   "n": 14,
+   "art": "flower",
+   "ts": [
+    305.556,
+    306.213,
+    306.846,
+    307.554,
+    308.259,
+    309.003,
+    309.755,
+    310.533,
+    311.209,
+    311.91,
+    312.583,
+    313.402,
+    314.177,
+    315.095
+   ],
+   "answer_t": 316.013,
+   "t1": 317.264
+  },
+  {
+   "kind": "howmany",
+   "bg": "rainbow",
+   "t0": 317.264,
+   "n": 16,
+   "art": "cupcake",
+   "ts": [
+    319.386,
+    320.042,
+    320.676,
+    321.384,
+    322.089,
+    322.833,
+    323.585,
+    324.363,
+    325.039,
+    325.74,
+    326.413,
+    327.231,
+    328.007,
+    328.925,
+    329.843,
+    330.746
+   ],
+   "answer_t": 331.697,
+   "t1": 333.028
+  },
+  {
+   "kind": "title",
+   "bg": "rainbow",
+   "t0": 333.028,
+   "title": "WHICH HAS MORE?",
+   "t1": 336.059
+  },
+  {
+   "kind": "more",
+   "bg": "rainbow",
+   "t0": 336.059,
+   "g1": [
+    12,
+    "apple"
+   ],
+   "g2": [
+    18,
+    "apple"
+   ],
+   "ans": 1,
+   "answer_t": 339.354,
+   "t1": 341.363
+  },
+  {
+   "kind": "more",
+   "bg": "rainbow",
+   "t0": 341.363,
+   "g1": [
+    16,
+    "star"
+   ],
+   "g2": [
+    11,
+    "star"
+   ],
+   "ans": 0,
+   "answer_t": 344.706,
+   "t1": 346.903
+  },
+  {
+   "kind": "more",
+   "bg": "rainbow",
+   "t0": 346.903,
+   "g1": [
+    14,
+    "fish"
+   ],
+   "g2": [
+    19,
+    "fish"
+   ],
+   "ans": 1,
+   "answer_t": 350.198,
+   "t1": 352.377
+  },
+  {
+   "kind": "more",
+   "bg": "rainbow",
+   "t0": 352.377,
+   "g1": [
+    20,
+    "ball"
+   ],
+   "g2": [
+    15,
+    "ball"
+   ],
+   "ans": 0,
+   "answer_t": 355.72,
+   "t1": 357.852
+  },
+  {
+   "kind": "title",
+   "bg": "board",
+   "t0": 357.852,
+   "title": "ONE MORE!",
+   "t1": 360.304
+  },
+  {
+   "kind": "onemore",
+   "bg": "board",
+   "t0": 360.304,
+   "n": 12,
+   "answer_t": 363.971,
+   "t1": 365.231
+  },
+  {
+   "kind": "onemore",
+   "bg": "board",
+   "t0": 365.231,
+   "n": 15,
+   "answer_t": 369.028,
+   "t1": 370.358
+  },
+  {
+   "kind": "onemore",
+   "bg": "board",
+   "t0": 370.358,
+   "n": 17,
+   "answer_t": 374.253,
+   "t1": 375.448
+  },
+  {
+   "kind": "onemore",
+   "bg": "board",
+   "t0": 375.448,
+   "n": 19,
+   "answer_t": 379.317,
+   "t1": 380.538
+  },
+  {
+   "kind": "title",
+   "bg": "board",
+   "t0": 380.538,
+   "title": "WHAT COMES NEXT?",
+   "t1": 383.251
+  },
+  {
+   "kind": "after",
+   "bg": "board",
+   "t0": 383.251,
+   "n": 11,
+   "ans": 12,
+   "answer_t": 386.633,
+   "t1": 387.735
+  },
+  {
+   "kind": "after",
+   "bg": "board",
+   "t0": 387.735,
+   "n": 14,
+   "ans": 15,
+   "answer_t": 391.213,
+   "t1": 392.451
+  },
+  {
+   "kind": "after",
+   "bg": "board",
+   "t0": 392.451,
+   "n": 16,
+   "ans": 17,
+   "answer_t": 395.959,
+   "t1": 397.365
+  },
+  {
+   "kind": "after",
+   "bg": "board",
+   "t0": 397.365,
+   "n": 18,
+   "ans": 19,
+   "answer_t": 400.808,
+   "t1": 402.073
+  },
+  {
+   "kind": "after",
+   "bg": "board",
+   "t0": 402.073,
+   "n": 19,
+   "ans": 20,
+   "answer_t": 405.481,
+   "t1": 406.702
+  },
+  {
+   "kind": "title",
+   "bg": "board",
+   "t0": 406.702,
+   "title": "MISSING NUMBER!",
+   "t1": 410.14
+  },
+  {
+   "kind": "missing",
+   "bg": "board",
+   "t0": 410.14,
+   "row": [
+    11,
+    12,
+    null,
+    14,
+    15
+   ],
+   "ans": 13,
+   "answer_t": 413.7,
+   "t1": 414.96
+  },
+  {
+   "kind": "missing",
+   "bg": "board",
+   "t0": 414.96,
+   "row": [
+    15,
+    16,
+    17,
+    null,
+    19
+   ],
+   "ans": 18,
+   "answer_t": 418.526,
+   "t1": 419.762
+  },
+  {
+   "kind": "missing",
+   "bg": "board",
+   "t0": 419.762,
+   "row": [
+    10,
+    null,
+    12,
+    13,
+    14
+   ],
+   "ans": 11,
+   "answer_t": 423.322,
+   "t1": 424.459
+  },
+  {
+   "kind": "missing",
+   "bg": "board",
+   "t0": 424.459,
+   "row": [
+    16,
+    17,
+    18,
+    19,
+    null
+   ],
+   "ans": 20,
+   "answer_t": 428.026,
+   "t1": 429.247
+  },
+  {
+   "kind": "title",
+   "bg": "rainbow",
+   "t0": 429.247,
+   "title": "COUNT BY TWOS!",
+   "t1": 432.981
+  },
+  {
+   "kind": "twos",
+   "bg": "rainbow",
+   "t0": 432.981,
+   "ts": [
+    432.981,
+    433.744,
+    434.58,
+    435.462,
+    436.268,
+    437.071,
+    437.977,
+    439.024,
+    440.105,
+    441.091
+   ],
+   "t1": 445.22
+  },
+  {
+   "kind": "fives",
+   "bg": "rainbow",
+   "t0": 445.22,
+   "ts": [
+    447.533,
+    448.557,
+    449.51,
+    450.693
+   ],
+   "t1": 453.966
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 453.966,
+   "title": "COUNTDOWN!",
+   "t1": 457.58
+  },
+  {
+   "kind": "rocket",
+   "bg": "space",
+   "t0": 457.58,
+   "ts": [
+    457.58,
+    458.421,
+    459.345,
+    460.201,
+    461.228,
+    462.179,
+    463.083,
+    464.0,
+    464.918,
+    465.694,
+    466.512,
+    467.185,
+    467.886,
+    468.562,
+    469.34,
+    470.092,
+    470.836,
+    471.541,
+    472.249,
+    472.883
+   ],
+   "blast_t": 473.54,
+   "t1": 475.808
+  },
+  {
+   "kind": "title",
+   "bg": "rainbow",
+   "t0": 475.808,
+   "title": "NUMBER QUIZ!",
+   "t1": 478.061
+  },
+  {
+   "kind": "quiz",
+   "bg": "rainbow",
+   "t0": 478.061,
+   "q": "WHAT COMES AFTER NINETEEN?",
+   "vis": 20,
+   "answer_t": 482.069,
+   "t1": 483.39
+  },
+  {
+   "kind": "quiz",
+   "bg": "rainbow",
+   "t0": 483.39,
+   "q": "HOW MANY FINGERS ON TWO HANDS?",
+   "vis": 10,
+   "answer_t": 487.729,
+   "t1": 488.882
+  },
+  {
+   "kind": "quiz",
+   "bg": "rainbow",
+   "t0": 488.882,
+   "q": "ELEVEN IS TEN AND HOW MANY MORE?",
+   "vis": 11,
+   "answer_t": 493.409,
+   "t1": 494.767
+  },
+  {
+   "kind": "quiz",
+   "bg": "rainbow",
+   "t0": 494.767,
+   "q": "WHAT COMES BEFORE FIFTEEN?",
+   "vis": 14,
+   "answer_t": 498.896,
+   "t1": 500.247
+  },
+  {
+   "kind": "quiz",
+   "bg": "rainbow",
+   "t0": 500.247,
+   "q": "COUNT BY TWOS: TWO, FOUR, SIX... WHAT'S NEXT?",
+   "vis": 8,
+   "answer_t": 505.644,
+   "t1": 506.724
+  },
+  {
+   "kind": "quiz",
+   "bg": "rainbow",
+   "t0": 506.724,
+   "q": "WHICH IS BIGGER, TWELVE OR TWENTY?",
+   "vis": 20,
+   "answer_t": 511.015,
+   "t1": 512.31
+  },
+  {
+   "kind": "quiz",
+   "bg": "rainbow",
+   "t0": 512.31,
+   "q": "HOW MANY FINGERS AND TOES DO YOU HAVE?",
+   "vis": 20,
+   "answer_t": 516.927,
+   "t1": 518.248
+  },
+  {
+   "kind": "quiz",
+   "bg": "rainbow",
+   "t0": 518.248,
+   "q": "WHAT IS SIXTEEN AND ONE MORE?",
+   "vis": 17,
+   "answer_t": 522.43,
+   "t1": 523.856
+  },
+  {
+   "kind": "outro",
+   "bg": "rainbow",
+   "t0": 523.856,
+   "bye_t": 528.573,
+   "t1": 532.614
+  }
+ ],
+ "prompts": [
+  [
+   30.241,
+   31.341
+  ],
+  [
+   36.921,
+   38.021
+  ],
+  [
+   44.107,
+   45.207
+  ],
+  [
+   51.378,
+   52.478
+  ],
+  [
+   58.807,
+   59.907
+  ],
+  [
+   66.056,
+   67.156
+  ],
+  [
+   74.232,
+   75.332
+  ],
+  [
+   81.164,
+   82.264
+  ],
+  [
+   88.693,
+   89.793
+  ],
+  [
+   96.177,
+   97.277
+  ],
+  [
+   337.354,
+   339.354
+  ],
+  [
+   342.706,
+   344.706
+  ],
+  [
+   348.198,
+   350.198
+  ],
+  [
+   353.72,
+   355.72
+  ],
+  [
+   361.971,
+   363.971
+  ],
+  [
+   367.028,
+   369.028
+  ],
+  [
+   372.253,
+   374.253
+  ],
+  [
+   377.317,
+   379.317
+  ],
+  [
+   384.833,
+   386.633
+  ],
+  [
+   389.413,
+   391.213
+  ],
+  [
+   394.159,
+   395.959
+  ],
+  [
+   399.008,
+   400.808
+  ],
+  [
+   403.681,
+   405.481
+  ],
+  [
+   411.7,
+   413.7
+  ],
+  [
+   416.526,
+   418.526
+  ],
+  [
+   421.322,
+   423.322
+  ],
+  [
+   426.026,
+   428.026
+  ],
+  [
+   479.669,
+   482.069
+  ],
+  [
+   485.329,
+   487.729
+  ],
+  [
+   491.009,
+   493.409
+  ],
+  [
+   496.496,
+   498.896
+  ],
+  [
+   503.244,
+   505.644
+  ],
+  [
+   508.615,
+   511.015
+  ],
+  [
+   514.527,
+   516.927
+  ],
+  [
+   520.03,
+   522.43
+  ]
+ ],
+ "stars": [
+  184.474,
+  222.67,
+  239.16,
+  253.797,
+  273.101,
+  284.13,
+  302.339,
+  316.013,
+  331.697,
+  413.7,
+  418.526,
+  423.322,
+  428.026,
+  483.39,
+  488.882,
+  494.767,
+  500.247,
+  506.724,
+  512.31,
+  518.248,
+  523.856
+ ],
+ "total": 532.61
+}
