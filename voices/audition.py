@@ -1,0 +1,39 @@
+"""Voice audition: Kokoro (free, Apache-2.0, offline) voices shifted younger for Gul and Mishu.
+python audition.py -> one WAV per candidate in this folder
+"""
+import pathlib, subprocess
+import numpy as np, soundfile as sf
+from kokoro import KPipeline
+
+HERE = pathlib.Path(__file__).resolve().parent
+pipe = KPipeline(lang_code="a")
+
+LINES = {
+    "mishu": "Hi friends! I'm Mishu! Gul, look! What's this? Apple! Can you say apple?",
+    "gul": "Hi friends! I'm Gul! It's a red, shiny apple! Great job! Let's go!",
+}
+CANDIDATES = [
+    # (file label, character, kokoro voice, semitones up, speed)
+    ("Mishu 1", "mishu", "af_heart", 4, 0.95),
+    ("Mishu 2", "mishu", "af_bella", 4, 0.95),
+    ("Mishu 3", "mishu", "af_sky", 4, 0.95),
+    ("Gul 1", "gul", "af_sarah", 2, 1.0),
+    ("Gul 2", "gul", "af_nicole", 3, 1.0),
+    ("Gul 3", "gul", "am_puck", 6, 1.0),
+]
+
+
+def say(text, voice, speed):
+    chunks = [a for _, _, a in pipe(text, voice=voice, speed=speed)]
+    return np.concatenate([c.numpy() if hasattr(c, "numpy") else c for c in chunks])
+
+
+for label, who, voice, st, speed in CANDIDATES:
+    raw = HERE / f"_raw_{label}.wav"
+    sf.write(raw, say(LINES[who], voice, speed), 24000)
+    out = HERE / f"{label}.wav"
+    ratio = 2 ** (st / 12)
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(raw),
+                    "-af", f"rubberband=pitch={ratio:.4f},aresample=48000", str(out)], check=True)
+    raw.unlink()
+    print("wrote", out.name)
