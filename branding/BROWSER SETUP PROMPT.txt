@@ -1,0 +1,69 @@
+Please set up my YouTube channel "Gul & Mishu" in YouTube Studio (studio.youtube.com). I'm already signed in and the channel already exists. It's a kids learning channel (fruits, colours, animals, numbers) with two cartoon characters, Gul and Mishu. Work through the steps below in order. Tell me what you did after each section.
+
+RULES
+- Don't buy anything, don't change account passwords or security settings, and don't upload any videos.
+- Before changing the channel NAME or HANDLE, show me what you're about to set and wait for my "yes" (YouTube limits how often these can change).
+- If YouTube asks for a phone code, a file from my computer, or anything you can't do, stop and tell me exactly what to click. I'll do that part, then you continue.
+- If a setting below doesn't exist or looks different, tell me rather than guessing.
+
+STEP 1: Customization > Profile
+- Name: Gul & Mishu - Kids Learning & Songs
+- Handle: @GulAndMishu (if taken, suggest 3 close alternatives, like @GulAndMishuKids or @GulMishuTV, and ask me)
+- Description (paste exactly):
+Welcome to Gul & Mishu! 🌈
+
+Join Gul and Mishu, two cheerful kids, as they learn fruits, colours, animals, numbers, shapes and good habits through fun stories and songs. Every video helps toddlers and preschoolers learn new words, count, and say things out loud with Gul and Mishu.
+
+🍎 Learn fruits, colours and animals
+🔢 Count numbers and learn shapes
+🎵 Kids songs and nursery rhymes
+🌟 Good habits and kind manners
+
+New videos every week. Made with love for little learners! 💛
+
+- Links: skip for now
+- Contact email: leave empty, I'll add it myself
+
+STEP 2: Customization > Branding
+Each of these needs a file from my computer. Open the upload dialog and tell me to pick the file:
+- Picture: C:\Users\BiM Pro -057\kids-channel\branding\PROFILE PICTURE - FINAL.png
+- Banner image: C:\Users\BiM Pro -057\kids-channel\branding\CHANNEL BANNER.jpg (keep the default crop; the important part is already in the centre)
+- Video watermark: C:\Users\BiM Pro -057\kids-channel\branding\WATERMARK.png, display time "Entire video"
+Click Publish when all three are in.
+
+STEP 3: Settings > Channel > Basic info
+- Country of residence: Pakistan
+- Keywords: kids learning, toddler learning, preschool, learn fruits, learn colors, learn animals, nursery rhymes, kids songs, educational videos for kids, first words, Gul and Mishu, cartoon for kids, learn english for kids
+
+STEP 4: Settings > Channel > Advanced settings
+- Audience: "Yes, set this channel as made for kids" (all our videos are for young children; this is required by YouTube's rules for kids content)
+- Leave everything else at the defaults.
+
+STEP 5: Settings > Upload defaults
+- Title: (leave empty)
+- Description:
+Learn with Gul & Mishu! 🌈 Fun learning videos for toddlers and preschoolers.
+
+#kidslearning #toddlerlearning #preschool #gulandmishu #educationalvideos
+- Tags: kids learning, toddler learning, preschool learning, educational videos for kids, gul and mishu, kids cartoon
+- Visibility: Private (I'll publish each video myself)
+- Category: Education
+- Video language: English
+- Title and description language: English
+- Licence: Standard YouTube Licence
+- Altered or synthetic content: No
+Save.
+
+STEP 6: Settings > Channel > Feature eligibility
+- Tell me the status of "Intermediate features". If it needs phone verification, tell me to do it (it unlocks custom thumbnails, which we need).
+
+STEP 7: Playlists
+Create these empty playlists if Studio allows it (Public, and mark as made for kids if asked). If it needs a video first, skip and tell me:
+1. Learn with Gul & Mishu
+2. Fruits & Food
+3. Colours & Shapes
+4. Animals
+5. Numbers & Counting
+
+STEP 8: Report back
+Give me a short checklist of what's done, what's skipped, and anything I need to do myself.
