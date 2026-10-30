@@ -1,0 +1,2487 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Big feelings!",
+   "t": 2.4,
+   "dur": 0.887
+  },
+  {
+   "who": "mishu",
+   "text": "Today we'll learn all about our feelings!",
+   "t": 3.637,
+   "dur": 1.993
+  },
+  {
+   "who": "gul",
+   "text": "Happy, sad, angry, and more! Let's go!",
+   "t": 5.981,
+   "dur": 1.913
+  },
+  {
+   "who": "gul",
+   "text": "Before we start, how do YOU feel today?",
+   "t": 8.443,
+   "dur": 1.925
+  },
+  {
+   "who": "mishu",
+   "text": "Happy? Sad? Excited? Point to your face!",
+   "t": 10.718,
+   "dur": 2.587
+  },
+  {
+   "who": "gul",
+   "text": "Great! Every feeling is okay!",
+   "t": 16.555,
+   "dur": 1.626
+  },
+  {
+   "who": "gul",
+   "text": "Let's look at our faces! Can you copy us?",
+   "t": 19.231,
+   "dur": 2.249
+  },
+  {
+   "who": "gul",
+   "text": "I feel happy!",
+   "t": 22.23,
+   "dur": 0.966
+  },
+  {
+   "who": "gul",
+   "text": "When I'm happy, I smile and laugh! Ha ha ha!",
+   "t": 23.545,
+   "dur": 2.429
+  },
+  {
+   "who": "mishu",
+   "text": "Show me your happy face!",
+   "t": 26.325,
+   "dur": 1.225
+  },
+  {
+   "who": "mishu",
+   "text": "I feel sad.",
+   "t": 30.1,
+   "dur": 0.858
+  },
+  {
+   "who": "mishu",
+   "text": "When I'm sad, I might cry, and tears come out.",
+   "t": 31.308,
+   "dur": 2.426
+  },
+  {
+   "who": "gul",
+   "text": "Show me your sad face!",
+   "t": 34.084,
+   "dur": 1.211
+  },
+  {
+   "who": "gul",
+   "text": "I feel angry!",
+   "t": 37.845,
+   "dur": 0.942
+  },
+  {
+   "who": "gul",
+   "text": "When I'm angry, my face feels hot, and I want to stomp!",
+   "t": 39.137,
+   "dur": 2.734
+  },
+  {
+   "who": "mishu",
+   "text": "Show me your angry face!",
+   "t": 42.222,
+   "dur": 1.316
+  },
+  {
+   "who": "mishu",
+   "text": "I feel scared!",
+   "t": 46.087,
+   "dur": 0.893
+  },
+  {
+   "who": "mishu",
+   "text": "When I'm scared, my heart beats fast, and I want a hug.",
+   "t": 47.331,
+   "dur": 2.957
+  },
+  {
+   "who": "gul",
+   "text": "Show me your scared face!",
+   "t": 50.638,
+   "dur": 1.236
+  },
+  {
+   "who": "gul",
+   "text": "Oh! I feel surprised!",
+   "t": 54.424,
+   "dur": 1.265
+  },
+  {
+   "who": "gul",
+   "text": "My eyes go big, and my mouth makes an O!",
+   "t": 56.039,
+   "dur": 2.155
+  },
+  {
+   "who": "mishu",
+   "text": "Show me your surprised face!",
+   "t": 58.544,
+   "dur": 1.441
+  },
+  {
+   "who": "mishu",
+   "text": "I feel excited!",
+   "t": 62.535,
+   "dur": 0.985
+  },
+  {
+   "who": "mishu",
+   "text": "I can't wait! I want to jump up and down!",
+   "t": 63.87,
+   "dur": 2.174
+  },
+  {
+   "who": "gul",
+   "text": "Show me your excited face!",
+   "t": 66.394,
+   "dur": 1.444
+  },
+  {
+   "who": "gul",
+   "text": "Yawn! I feel tired.",
+   "t": 70.388,
+   "dur": 1.2
+  },
+  {
+   "who": "gul",
+   "text": "My eyes are sleepy. I need some rest.",
+   "t": 71.938,
+   "dur": 1.927
+  },
+  {
+   "who": "mishu",
+   "text": "Show me your tired face!",
+   "t": 74.215,
+   "dur": 1.346
+  },
+  {
+   "who": "mishu",
+   "text": "I feel shy.",
+   "t": 78.111,
+   "dur": 0.823
+  },
+  {
+   "who": "mishu",
+   "text": "When I'm shy, I want to hide a little bit.",
+   "t": 79.284,
+   "dur": 2.163
+  },
+  {
+   "who": "gul",
+   "text": "Show me your shy face!",
+   "t": 81.798,
+   "dur": 1.208
+  },
+  {
+   "who": "gul",
+   "text": "I feel proud!",
+   "t": 85.556,
+   "dur": 0.915
+  },
+  {
+   "who": "gul",
+   "text": "I did it all by myself!",
+   "t": 86.821,
+   "dur": 1.273
+  },
+  {
+   "who": "mishu",
+   "text": "Show me your proud face!",
+   "t": 88.444,
+   "dur": 1.237
+  },
+  {
+   "who": "mishu",
+   "text": "I feel calm.",
+   "t": 92.231,
+   "dur": 0.81
+  },
+  {
+   "who": "mishu",
+   "text": "Nice and quiet, like a soft, sleepy cloud.",
+   "t": 93.391,
+   "dur": 2.619
+  },
+  {
+   "who": "gul",
+   "text": "Show me your calm face!",
+   "t": 96.36,
+   "dur": 1.215
+  },
+  {
+   "who": "mishu",
+   "text": "Things happen, and we get feelings! Watch and guess!",
+   "t": 100.324,
+   "dur": 2.84
+  },
+  {
+   "who": "mishu",
+   "text": "Gul has a yummy ice cream.",
+   "t": 103.614,
+   "dur": 1.488
+  },
+  {
+   "who": "mishu",
+   "text": "Oh no! It fell on the floor!",
+   "t": 105.452,
+   "dur": 1.585
+  },
+  {
+   "who": "gul",
+   "text": "How does Gul feel?",
+   "t": 107.287,
+   "dur": 1.124
+  },
+  {
+   "who": "mishu",
+   "text": "Gul feels sad.",
+   "t": 110.861,
+   "dur": 1.006
+  },
+  {
+   "who": "mishu",
+   "text": "It's okay to feel sad. Let's share mine!",
+   "t": 112.217,
+   "dur": 2.307
+  },
+  {
+   "who": "mishu",
+   "text": "Look! Mishu got a present!",
+   "t": 115.174,
+   "dur": 1.489
+  },
+  {
+   "who": "gul",
+   "text": "What's inside? A new teddy bear!",
+   "t": 117.013,
+   "dur": 1.804
+  },
+  {
+   "who": "gul",
+   "text": "How does Mishu feel?",
+   "t": 119.068,
+   "dur": 1.235
+  },
+  {
+   "who": "gul",
+   "text": "Mishu feels excited!",
+   "t": 122.752,
+   "dur": 1.376
+  },
+  {
+   "who": "gul",
+   "text": "Yay! Excited feels like popcorn inside!",
+   "t": 124.478,
+   "dur": 2.235
+  },
+  {
+   "who": "mishu",
+   "text": "Gul is playing with his ball.",
+   "t": 127.364,
+   "dur": 1.436
+  },
+  {
+   "who": "mishu",
+   "text": "Oh no! Someone broke it!",
+   "t": 129.15,
+   "dur": 1.341
+  },
+  {
+   "who": "gul",
+   "text": "How does Gul feel?",
+   "t": 130.741,
+   "dur": 1.124
+  },
+  {
+   "who": "mishu",
+   "text": "Gul feels angry.",
+   "t": 134.315,
+   "dur": 1.069
+  },
+  {
+   "who": "mishu",
+   "text": "It's okay to feel angry. Let's take a big breath.",
+   "t": 135.734,
+   "dur": 2.753
+  },
+  {
+   "who": "mishu",
+   "text": "It's a rainy night.",
+   "t": 139.137,
+   "dur": 1.013
+  },
+  {
+   "who": "gul",
+   "text": "BOOM! Loud thunder!",
+   "t": 140.5,
+   "dur": 1.064
+  },
+  {
+   "who": "gul",
+   "text": "How does Mishu feel?",
+   "t": 141.814,
+   "dur": 1.235
+  },
+  {
+   "who": "gul",
+   "text": "Mishu feels scared.",
+   "t": 145.498,
+   "dur": 1.151
+  },
+  {
+   "who": "gul",
+   "text": "A big hug helps us feel safe.",
+   "t": 146.999,
+   "dur": 1.675
+  },
+  {
+   "who": "mishu",
+   "text": "Gul opens the door.",
+   "t": 149.325,
+   "dur": 1.199
+  },
+  {
+   "who": "mishu",
+   "text": "SURPRISE! A party for Gul!",
+   "t": 150.873,
+   "dur": 1.593
+  },
+  {
+   "who": "gul",
+   "text": "How does Gul feel?",
+   "t": 152.717,
+   "dur": 1.124
+  },
+  {
+   "who": "mishu",
+   "text": "Gul feels surprised!",
+   "t": 156.291,
+   "dur": 1.228
+  },
+  {
+   "who": "mishu",
+   "text": "Wow! What a nice surprise!",
+   "t": 157.869,
+   "dur": 1.364
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu is doing a hard puzzle.",
+   "t": 159.883,
+   "dur": 1.698
+  },
+  {
+   "who": "gul",
+   "text": "She finished it all by herself!",
+   "t": 161.931,
+   "dur": 1.502
+  },
+  {
+   "who": "gul",
+   "text": "How does Mishu feel?",
+   "t": 163.683,
+   "dur": 1.235
+  },
+  {
+   "who": "gul",
+   "text": "Mishu feels proud!",
+   "t": 167.368,
+   "dur": 1.198
+  },
+  {
+   "who": "gul",
+   "text": "Great job, Mishu! You did it!",
+   "t": 168.916,
+   "dur": 1.636
+  },
+  {
+   "who": "mishu",
+   "text": "Gul can't find his teddy anywhere.",
+   "t": 171.201,
+   "dur": 1.719
+  },
+  {
+   "who": "mishu",
+   "text": "Where is it? It's lost!",
+   "t": 173.271,
+   "dur": 1.382
+  },
+  {
+   "who": "gul",
+   "text": "How does Gul feel?",
+   "t": 174.902,
+   "dur": 1.124
+  },
+  {
+   "who": "mishu",
+   "text": "Gul feels sad and worried.",
+   "t": 178.477,
+   "dur": 1.411
+  },
+  {
+   "who": "mishu",
+   "text": "Let's look together. Found it! Now Gul feels happy!",
+   "t": 180.238,
+   "dur": 3.043
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu is walking in the park.",
+   "t": 183.931,
+   "dur": 1.659
+  },
+  {
+   "who": "gul",
+   "text": "WOOF WOOF! A big dog barks!",
+   "t": 185.94,
+   "dur": 1.686
+  },
+  {
+   "who": "gul",
+   "text": "How does Mishu feel?",
+   "t": 187.875,
+   "dur": 1.235
+  },
+  {
+   "who": "gul",
+   "text": "Mishu feels scared.",
+   "t": 191.56,
+   "dur": 1.151
+  },
+  {
+   "who": "gul",
+   "text": "Hold a grown-up's hand. The dog is friendly!",
+   "t": 193.061,
+   "dur": 2.498
+  },
+  {
+   "who": "mishu",
+   "text": "A new friend says hello to Gul.",
+   "t": 196.209,
+   "dur": 1.546
+  },
+  {
+   "who": "mishu",
+   "text": "Gul doesn't know what to say.",
+   "t": 198.105,
+   "dur": 1.385
+  },
+  {
+   "who": "gul",
+   "text": "How does Gul feel?",
+   "t": 199.74,
+   "dur": 1.124
+  },
+  {
+   "who": "mishu",
+   "text": "Gul feels shy.",
+   "t": 203.314,
+   "dur": 0.998
+  },
+  {
+   "who": "mishu",
+   "text": "It's okay to feel shy. Just say hello, and smile!",
+   "t": 204.662,
+   "dur": 2.893
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu runs in a race.",
+   "t": 208.205,
+   "dur": 1.39
+  },
+  {
+   "who": "gul",
+   "text": "She ran so fast! She won!",
+   "t": 209.945,
+   "dur": 1.585
+  },
+  {
+   "who": "gul",
+   "text": "How does Mishu feel?",
+   "t": 211.78,
+   "dur": 1.235
+  },
+  {
+   "who": "gul",
+   "text": "Mishu feels proud!",
+   "t": 215.465,
+   "dur": 1.198
+  },
+  {
+   "who": "gul",
+   "text": "Hooray, Mishu! Well done!",
+   "t": 217.013,
+   "dur": 1.453
+  },
+  {
+   "who": "gul",
+   "text": "Look at the face. How does it feel?",
+   "t": 219.615,
+   "dur": 1.661
+  },
+  {
+   "who": "gul",
+   "text": "How does this face feel?",
+   "t": 222.026,
+   "dur": 1.327
+  },
+  {
+   "who": "mishu",
+   "text": "Happy!",
+   "t": 226.003,
+   "dur": 0.557
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 226.911,
+   "dur": 0.831
+  },
+  {
+   "who": "mishu",
+   "text": "How does this face feel?",
+   "t": 228.592,
+   "dur": 1.296
+  },
+  {
+   "who": "gul",
+   "text": "Scared!",
+   "t": 232.538,
+   "dur": 0.614
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! You got it!",
+   "t": 233.502,
+   "dur": 1.046
+  },
+  {
+   "who": "gul",
+   "text": "How does this face feel?",
+   "t": 235.398,
+   "dur": 1.327
+  },
+  {
+   "who": "mishu",
+   "text": "Angry!",
+   "t": 239.375,
+   "dur": 0.513
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 240.238,
+   "dur": 0.612
+  },
+  {
+   "who": "mishu",
+   "text": "How does this face feel?",
+   "t": 241.7,
+   "dur": 1.296
+  },
+  {
+   "who": "gul",
+   "text": "Tired!",
+   "t": 245.646,
+   "dur": 0.59
+  },
+  {
+   "who": "mishu",
+   "text": "Well done!",
+   "t": 246.586,
+   "dur": 0.664
+  },
+  {
+   "who": "gul",
+   "text": "How does this face feel?",
+   "t": 248.1,
+   "dur": 1.327
+  },
+  {
+   "who": "mishu",
+   "text": "Surprised!",
+   "t": 252.077,
+   "dur": 0.79
+  },
+  {
+   "who": "gul",
+   "text": "Super!",
+   "t": 253.217,
+   "dur": 0.601
+  },
+  {
+   "who": "mishu",
+   "text": "How does this face feel?",
+   "t": 254.668,
+   "dur": 1.296
+  },
+  {
+   "who": "gul",
+   "text": "Sad!",
+   "t": 258.614,
+   "dur": 0.552
+  },
+  {
+   "who": "mishu",
+   "text": "You're so smart!",
+   "t": 259.516,
+   "dur": 0.956
+  },
+  {
+   "who": "gul",
+   "text": "How does this face feel?",
+   "t": 261.322,
+   "dur": 1.327
+  },
+  {
+   "who": "mishu",
+   "text": "Shy!",
+   "t": 265.3,
+   "dur": 0.495
+  },
+  {
+   "who": "gul",
+   "text": "Great job!",
+   "t": 266.145,
+   "dur": 0.831
+  },
+  {
+   "who": "mishu",
+   "text": "How does this face feel?",
+   "t": 267.826,
+   "dur": 1.296
+  },
+  {
+   "who": "gul",
+   "text": "Excited!",
+   "t": 271.772,
+   "dur": 0.75
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! You got it!",
+   "t": 272.872,
+   "dur": 1.046
+  },
+  {
+   "who": "gul",
+   "text": "How does this face feel?",
+   "t": 274.768,
+   "dur": 1.327
+  },
+  {
+   "who": "mishu",
+   "text": "Proud!",
+   "t": 278.745,
+   "dur": 0.558
+  },
+  {
+   "who": "gul",
+   "text": "Awesome!",
+   "t": 279.653,
+   "dur": 0.612
+  },
+  {
+   "who": "mishu",
+   "text": "How does this face feel?",
+   "t": 281.115,
+   "dur": 1.296
+  },
+  {
+   "who": "gul",
+   "text": "Calm!",
+   "t": 285.061,
+   "dur": 0.523
+  },
+  {
+   "who": "mishu",
+   "text": "Well done!",
+   "t": 285.933,
+   "dur": 0.664
+  },
+  {
+   "who": "mishu",
+   "text": "What makes us happy? Let's see!",
+   "t": 287.648,
+   "dur": 1.597
+  },
+  {
+   "who": "mishu",
+   "text": "A sunny day makes me happy!",
+   "t": 289.695,
+   "dur": 1.499
+  },
+  {
+   "who": "gul",
+   "text": "Big hugs make me happy!",
+   "t": 291.744,
+   "dur": 1.411
+  },
+  {
+   "who": "mishu",
+   "text": "Playing with my friends makes me happy!",
+   "t": 293.706,
+   "dur": 1.845
+  },
+  {
+   "who": "gul",
+   "text": "Music and dancing make me happy!",
+   "t": 296.101,
+   "dur": 1.805
+  },
+  {
+   "who": "mishu",
+   "text": "A cuddly puppy makes me happy!",
+   "t": 298.456,
+   "dur": 1.679
+  },
+  {
+   "who": "gul",
+   "text": "And ice cream! Yummy!",
+   "t": 300.684,
+   "dur": 1.177
+  },
+  {
+   "who": "gul",
+   "text": "What makes YOU happy?",
+   "t": 302.411,
+   "dur": 1.164
+  },
+  {
+   "who": "gul",
+   "text": "Mirror game! Quick, copy our faces!",
+   "t": 306.925,
+   "dur": 1.978
+  },
+  {
+   "who": "both",
+   "text": "Happy face!",
+   "t": 309.354,
+   "dur": 0.842
+  },
+  {
+   "who": "both",
+   "text": "Angry face!",
+   "t": 311.845,
+   "dur": 0.874
+  },
+  {
+   "who": "both",
+   "text": "Surprised face!",
+   "t": 314.369,
+   "dur": 1.026
+  },
+  {
+   "who": "both",
+   "text": "Sad face!",
+   "t": 317.045,
+   "dur": 0.786
+  },
+  {
+   "who": "both",
+   "text": "Scared face!",
+   "t": 319.481,
+   "dur": 0.864
+  },
+  {
+   "who": "both",
+   "text": "Excited face!",
+   "t": 321.995,
+   "dur": 1.027
+  },
+  {
+   "who": "both",
+   "text": "Tired face!",
+   "t": 324.671,
+   "dur": 0.872
+  },
+  {
+   "who": "both",
+   "text": "Proud face!",
+   "t": 327.194,
+   "dur": 0.794
+  },
+  {
+   "who": "mishu",
+   "text": "Now faster!",
+   "t": 329.638,
+   "dur": 0.821
+  },
+  {
+   "who": "both",
+   "text": "Sad face!",
+   "t": 330.809,
+   "dur": 0.786
+  },
+  {
+   "who": "both",
+   "text": "Happy face!",
+   "t": 332.545,
+   "dur": 0.842
+  },
+  {
+   "who": "both",
+   "text": "Angry face!",
+   "t": 334.337,
+   "dur": 0.874
+  },
+  {
+   "who": "both",
+   "text": "Calm face!",
+   "t": 336.16,
+   "dur": 0.794
+  },
+  {
+   "who": "both",
+   "text": "Surprised face!",
+   "t": 337.905,
+   "dur": 1.026
+  },
+  {
+   "who": "both",
+   "text": "Shy face!",
+   "t": 339.881,
+   "dur": 0.784
+  },
+  {
+   "who": "mishu",
+   "text": "When feelings are big, these help us feel calm!",
+   "t": 342.115,
+   "dur": 2.382
+  },
+  {
+   "who": "gul",
+   "text": "Smell the flower, and blow out the candle. Do it with us!",
+   "t": 344.947,
+   "dur": 2.955
+  },
+  {
+   "who": "mishu",
+   "text": "Smell the flower...",
+   "t": 348.353,
+   "dur": 1.001
+  },
+  {
+   "who": "gul",
+   "text": "Blow the candle...",
+   "t": 351.103,
+   "dur": 0.901
+  },
+  {
+   "who": "mishu",
+   "text": "Smell the flower...",
+   "t": 353.754,
+   "dur": 1.001
+  },
+  {
+   "who": "gul",
+   "text": "Blow the candle...",
+   "t": 356.505,
+   "dur": 0.901
+  },
+  {
+   "who": "mishu",
+   "text": "Smell the flower...",
+   "t": 359.156,
+   "dur": 1.001
+  },
+  {
+   "who": "gul",
+   "text": "Blow the candle...",
+   "t": 361.906,
+   "dur": 0.901
+  },
+  {
+   "who": "mishu",
+   "text": "Ahh. I feel calm now.",
+   "t": 364.557,
+   "dur": 1.337
+  },
+  {
+   "who": "gul",
+   "text": "Count to five, slowly. One, two, three, four, five.",
+   "t": 366.544,
+   "dur": 2.744
+  },
+  {
+   "who": "mishu",
+   "text": "Hug your teddy, or a grown-up you love.",
+   "t": 370.038,
+   "dur": 2.068
+  },
+  {
+   "who": "gul",
+   "text": "Tell a grown-up how you feel. Talking helps!",
+   "t": 372.856,
+   "dur": 2.301
+  },
+  {
+   "who": "mishu",
+   "text": "Take a little rest in a quiet, cozy corner.",
+   "t": 375.907,
+   "dur": 2.331
+  },
+  {
+   "who": "gul",
+   "text": "Have a drink of cool water.",
+   "t": 378.988,
+   "dur": 1.351
+  },
+  {
+   "who": "gul",
+   "text": "Now let's dance our feelings! Copy us!",
+   "t": 381.589,
+   "dur": 2.139
+  },
+  {
+   "who": "both",
+   "text": "Happy face! Jump, jump, jump!",
+   "t": 384.178,
+   "dur": 1.907
+  },
+  {
+   "who": "both",
+   "text": "Angry face! Stomp, stomp, stomp!",
+   "t": 387.835,
+   "dur": 2.169
+  },
+  {
+   "who": "both",
+   "text": "Sad face! Boo hoo hoo!",
+   "t": 391.754,
+   "dur": 1.432
+  },
+  {
+   "who": "both",
+   "text": "Surprised face! Oh, oh, oh!",
+   "t": 394.936,
+   "dur": 1.896
+  },
+  {
+   "who": "both",
+   "text": "Scared face! Shake, shake, shake!",
+   "t": 398.583,
+   "dur": 1.914
+  },
+  {
+   "who": "both",
+   "text": "Calm face! Breathe in, and out.",
+   "t": 402.246,
+   "dur": 1.688
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 405.684,
+   "dur": 1.03
+  },
+  {
+   "who": "both",
+   "text": "Happy face! Jump, jump, jump!",
+   "t": 407.064,
+   "dur": 1.907
+  },
+  {
+   "who": "both",
+   "text": "Angry face! Stomp, stomp, stomp!",
+   "t": 410.022,
+   "dur": 2.169
+  },
+  {
+   "who": "both",
+   "text": "Sad face! Boo hoo hoo!",
+   "t": 413.241,
+   "dur": 1.432
+  },
+  {
+   "who": "both",
+   "text": "Surprised face! Oh, oh, oh!",
+   "t": 415.723,
+   "dur": 1.896
+  },
+  {
+   "who": "both",
+   "text": "Scared face! Shake, shake, shake!",
+   "t": 418.669,
+   "dur": 1.914
+  },
+  {
+   "who": "both",
+   "text": "Calm face! Breathe in, and out.",
+   "t": 421.633,
+   "dur": 1.688
+  },
+  {
+   "who": "mishu",
+   "text": "When a friend is sad, we can help!",
+   "t": 424.871,
+   "dur": 1.711
+  },
+  {
+   "who": "gul",
+   "text": "Oh no, Mishu fell down. Her knee hurts.",
+   "t": 427.032,
+   "dur": 2.206
+  },
+  {
+   "who": "mishu",
+   "text": "How can we help?",
+   "t": 429.488,
+   "dur": 0.98
+  },
+  {
+   "who": "gul",
+   "text": "Are you okay, Mishu? Here's a big hug!",
+   "t": 432.918,
+   "dur": 2.084
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you! I feel happy now!",
+   "t": 435.352,
+   "dur": 1.616
+  },
+  {
+   "who": "mishu",
+   "text": "Gul has no toy to play with. He feels sad.",
+   "t": 437.618,
+   "dur": 2.463
+  },
+  {
+   "who": "gul",
+   "text": "How can we help?",
+   "t": 440.331,
+   "dur": 0.916
+  },
+  {
+   "who": "mishu",
+   "text": "Gul, let's share my teddy! We can play together!",
+   "t": 443.698,
+   "dur": 2.595
+  },
+  {
+   "who": "gul",
+   "text": "Thank you! I feel happy now!",
+   "t": 446.642,
+   "dur": 1.519
+  },
+  {
+   "who": "gul",
+   "text": "Mishu's drawing got wet. She feels sad.",
+   "t": 448.811,
+   "dur": 2.162
+  },
+  {
+   "who": "mishu",
+   "text": "How can we help?",
+   "t": 451.223,
+   "dur": 0.98
+  },
+  {
+   "who": "gul",
+   "text": "Don't worry, Mishu! Let's draw a new one together!",
+   "t": 454.653,
+   "dur": 2.548
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you! I feel happy now!",
+   "t": 457.551,
+   "dur": 1.616
+  },
+  {
+   "who": "mishu",
+   "text": "Gul feels scared of the dark.",
+   "t": 459.817,
+   "dur": 1.548
+  },
+  {
+   "who": "gul",
+   "text": "How can we help?",
+   "t": 461.615,
+   "dur": 0.916
+  },
+  {
+   "who": "mishu",
+   "text": "Here's a little light, Gul. I'll stay with you!",
+   "t": 464.982,
+   "dur": 2.139
+  },
+  {
+   "who": "gul",
+   "text": "Thank you! I feel happy now!",
+   "t": 467.471,
+   "dur": 1.519
+  },
+  {
+   "who": "gul",
+   "text": "Mishu feels angry. Her tower fell down.",
+   "t": 469.64,
+   "dur": 2.465
+  },
+  {
+   "who": "mishu",
+   "text": "How can we help?",
+   "t": 472.356,
+   "dur": 0.98
+  },
+  {
+   "who": "gul",
+   "text": "Let's breathe together, and build it again!",
+   "t": 475.786,
+   "dur": 1.97
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you! I feel happy now!",
+   "t": 478.106,
+   "dur": 1.616
+  },
+  {
+   "who": "gul",
+   "text": "Big kids quiz! Are you ready?",
+   "t": 480.872,
+   "dur": 1.564
+  },
+  {
+   "who": "mishu",
+   "text": "What can you do when you feel angry?",
+   "t": 482.885,
+   "dur": 1.594
+  },
+  {
+   "who": "gul",
+   "text": "Take deep breaths, and count to five!",
+   "t": 487.23,
+   "dur": 1.724
+  },
+  {
+   "who": "gul",
+   "text": "How does a surprised face look?",
+   "t": 489.603,
+   "dur": 1.546
+  },
+  {
+   "who": "mishu",
+   "text": "Big eyes, and an O mouth!",
+   "t": 493.899,
+   "dur": 1.416
+  },
+  {
+   "who": "mishu",
+   "text": "Is it okay to feel sad?",
+   "t": 495.965,
+   "dur": 1.306
+  },
+  {
+   "who": "gul",
+   "text": "Yes! All feelings are okay!",
+   "t": 500.021,
+   "dur": 1.501
+  },
+  {
+   "who": "gul",
+   "text": "When do we feel proud?",
+   "t": 502.173,
+   "dur": 1.163
+  },
+  {
+   "who": "mishu",
+   "text": "When we do something all by ourselves!",
+   "t": 506.085,
+   "dur": 1.76
+  },
+  {
+   "who": "mishu",
+   "text": "What can you do when a friend is sad?",
+   "t": 508.496,
+   "dur": 1.607
+  },
+  {
+   "who": "gul",
+   "text": "Give a hug, or say kind words!",
+   "t": 512.853,
+   "dur": 1.664
+  },
+  {
+   "who": "gul",
+   "text": "How does a tired face look?",
+   "t": 515.167,
+   "dur": 1.489
+  },
+  {
+   "who": "mishu",
+   "text": "Sleepy eyes, and a big yawn!",
+   "t": 519.406,
+   "dur": 1.587
+  },
+  {
+   "who": "mishu",
+   "text": "Who can you talk to about big feelings?",
+   "t": 521.643,
+   "dur": 1.845
+  },
+  {
+   "who": "gul",
+   "text": "A grown-up who loves you!",
+   "t": 526.237,
+   "dur": 1.259
+  },
+  {
+   "who": "mishu",
+   "text": "Remember, all feelings are okay!",
+   "t": 528.146,
+   "dur": 1.764
+  },
+  {
+   "who": "gul",
+   "text": "Tell a grown-up how you feel. They love you!",
+   "t": 530.26,
+   "dur": 2.137
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, friends!",
+   "t": 532.747,
+   "dur": 1.075
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "room",
+   "t0": 0.0,
+   "flips": [
+    [
+     0.0,
+     "happy"
+    ],
+    [
+     0.4,
+     "sad"
+    ],
+    [
+     0.8,
+     "angry"
+    ],
+    [
+     1.2,
+     "surprised"
+    ],
+    [
+     1.6,
+     "scared"
+    ],
+    [
+     2.0,
+     "excited"
+    ]
+   ],
+   "title_t": 2.4,
+   "kids_t": 3.637,
+   "t1": 8.443
+  },
+  {
+   "kind": "checkin",
+   "bg": "room",
+   "t0": 8.443,
+   "t1": 18.731
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 18.731,
+   "title": "MEET THE FEELINGS!",
+   "t1": 21.93
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 21.93,
+   "emo": "happy",
+   "who": "gul",
+   "num": 1,
+   "label_t": 22.23,
+   "t1": 29.8
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 29.8,
+   "emo": "sad",
+   "who": "misheal",
+   "num": 2,
+   "label_t": 30.1,
+   "t1": 37.545
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 37.545,
+   "emo": "angry",
+   "who": "gul",
+   "num": 3,
+   "label_t": 37.845,
+   "t1": 45.787
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 45.787,
+   "emo": "scared",
+   "who": "misheal",
+   "num": 4,
+   "label_t": 46.087,
+   "t1": 54.124
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 54.124,
+   "emo": "surprised",
+   "who": "gul",
+   "num": 5,
+   "label_t": 54.424,
+   "t1": 62.235
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 62.235,
+   "emo": "excited",
+   "who": "misheal",
+   "num": 6,
+   "label_t": 62.535,
+   "t1": 70.088
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 70.088,
+   "emo": "tired",
+   "who": "gul",
+   "num": 7,
+   "label_t": 70.388,
+   "t1": 77.811
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 77.811,
+   "emo": "shy",
+   "who": "misheal",
+   "num": 8,
+   "label_t": 78.111,
+   "t1": 85.256
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 85.256,
+   "emo": "proud",
+   "who": "gul",
+   "num": 9,
+   "label_t": 85.556,
+   "t1": 91.931
+  },
+  {
+   "kind": "feeling",
+   "bg": "room",
+   "t0": 91.931,
+   "emo": "calm",
+   "who": "misheal",
+   "num": 10,
+   "label_t": 92.231,
+   "t1": 99.824
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 99.824,
+   "title": "HOW DO THEY FEEL?",
+   "t1": 103.614
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 103.614,
+   "who": "gul",
+   "prop": "icecream",
+   "emo": "sad",
+   "event_t": 105.452,
+   "answer_t": 110.861,
+   "t1": 115.174
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 115.174,
+   "who": "misheal",
+   "prop": "gift",
+   "emo": "excited",
+   "event_t": 117.013,
+   "answer_t": 122.752,
+   "t1": 127.364
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 127.364,
+   "who": "gul",
+   "prop": "ball",
+   "emo": "angry",
+   "event_t": 129.15,
+   "answer_t": 134.315,
+   "t1": 139.137
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 139.137,
+   "who": "misheal",
+   "prop": "thunder",
+   "emo": "scared",
+   "event_t": 140.5,
+   "answer_t": 145.498,
+   "t1": 149.325
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 149.325,
+   "who": "gul",
+   "prop": "balloons",
+   "emo": "surprised",
+   "event_t": 150.873,
+   "answer_t": 156.291,
+   "t1": 159.883
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 159.883,
+   "who": "misheal",
+   "prop": "puzzle",
+   "emo": "proud",
+   "event_t": 161.931,
+   "answer_t": 167.368,
+   "t1": 171.201
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 171.201,
+   "who": "gul",
+   "prop": "teddy",
+   "emo": "sad",
+   "event_t": 173.271,
+   "answer_t": 178.477,
+   "t1": 183.931
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 183.931,
+   "who": "misheal",
+   "prop": "dog",
+   "emo": "scared",
+   "event_t": 185.94,
+   "answer_t": 191.56,
+   "t1": 196.209
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 196.209,
+   "who": "gul",
+   "prop": "friend",
+   "emo": "shy",
+   "event_t": 198.105,
+   "answer_t": 203.314,
+   "t1": 208.205
+  },
+  {
+   "kind": "story",
+   "bg": "room",
+   "t0": 208.205,
+   "who": "misheal",
+   "prop": "medal",
+   "emo": "proud",
+   "event_t": 209.945,
+   "answer_t": 215.465,
+   "t1": 219.115
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 219.115,
+   "title": "GUESS THE FEELING!",
+   "t1": 221.726
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 221.726,
+   "who": "misheal",
+   "emo": "happy",
+   "answer_t": 226.003,
+   "t1": 228.292
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 228.292,
+   "who": "gul",
+   "emo": "scared",
+   "answer_t": 232.538,
+   "t1": 235.098
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 235.098,
+   "who": "misheal",
+   "emo": "angry",
+   "answer_t": 239.375,
+   "t1": 241.4
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 241.4,
+   "who": "gul",
+   "emo": "tired",
+   "answer_t": 245.646,
+   "t1": 247.8
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 247.8,
+   "who": "misheal",
+   "emo": "surprised",
+   "answer_t": 252.077,
+   "t1": 254.368
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 254.368,
+   "who": "gul",
+   "emo": "sad",
+   "answer_t": 258.614,
+   "t1": 261.022
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 261.022,
+   "who": "misheal",
+   "emo": "shy",
+   "answer_t": 265.3,
+   "t1": 267.526
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 267.526,
+   "who": "gul",
+   "emo": "excited",
+   "answer_t": 271.772,
+   "t1": 274.468
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 274.468,
+   "who": "misheal",
+   "emo": "proud",
+   "answer_t": 278.745,
+   "t1": 280.815
+  },
+  {
+   "kind": "guess",
+   "bg": "room",
+   "t0": 280.815,
+   "who": "gul",
+   "emo": "calm",
+   "answer_t": 285.061,
+   "t1": 287.148
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 287.148,
+   "title": "WHAT MAKES YOU HAPPY?",
+   "t1": 289.695
+  },
+  {
+   "kind": "happy",
+   "bg": "room",
+   "t0": 289.695,
+   "prop": "sun",
+   "who": "misheal",
+   "say_t": 289.695,
+   "t1": 291.744
+  },
+  {
+   "kind": "happy",
+   "bg": "room",
+   "t0": 291.744,
+   "prop": "hearthug",
+   "who": "gul",
+   "say_t": 291.744,
+   "t1": 293.706
+  },
+  {
+   "kind": "happy",
+   "bg": "room",
+   "t0": 293.706,
+   "prop": "ball",
+   "who": "misheal",
+   "say_t": 293.706,
+   "t1": 296.101
+  },
+  {
+   "kind": "happy",
+   "bg": "room",
+   "t0": 296.101,
+   "prop": "music",
+   "who": "gul",
+   "say_t": 296.101,
+   "t1": 298.456
+  },
+  {
+   "kind": "happy",
+   "bg": "room",
+   "t0": 298.456,
+   "prop": "puppy",
+   "who": "misheal",
+   "say_t": 298.456,
+   "t1": 300.684
+  },
+  {
+   "kind": "happy",
+   "bg": "room",
+   "t0": 300.684,
+   "prop": "icecream",
+   "who": "gul",
+   "say_t": 300.684,
+   "t1": 302.411
+  },
+  {
+   "kind": "happy",
+   "bg": "room",
+   "t0": 302.411,
+   "prop": "question",
+   "who": "gul",
+   "t1": 306.425
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 306.425,
+   "title": "COPY MY FACE!",
+   "t1": 309.354
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 309.354,
+   "emo": "happy",
+   "say_t": 309.354,
+   "t1": 311.845
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 311.845,
+   "emo": "angry",
+   "say_t": 311.845,
+   "t1": 314.369
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 314.369,
+   "emo": "surprised",
+   "say_t": 314.369,
+   "t1": 317.045
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 317.045,
+   "emo": "sad",
+   "say_t": 317.045,
+   "t1": 319.481
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 319.481,
+   "emo": "scared",
+   "say_t": 319.481,
+   "t1": 321.995
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 321.995,
+   "emo": "excited",
+   "say_t": 321.995,
+   "t1": 324.671
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 324.671,
+   "emo": "tired",
+   "say_t": 324.671,
+   "t1": 327.194
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 327.194,
+   "emo": "proud",
+   "say_t": 327.194,
+   "t1": 329.638
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 329.638,
+   "title": "FASTER!",
+   "t1": 330.809
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 330.809,
+   "emo": "sad",
+   "say_t": 330.809,
+   "t1": 332.545
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 332.545,
+   "emo": "happy",
+   "say_t": 332.545,
+   "t1": 334.337
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 334.337,
+   "emo": "angry",
+   "say_t": 334.337,
+   "t1": 336.16
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 336.16,
+   "emo": "calm",
+   "say_t": 336.16,
+   "t1": 337.905
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 337.905,
+   "emo": "surprised",
+   "say_t": 337.905,
+   "t1": 339.881
+  },
+  {
+   "kind": "mirror",
+   "bg": "room",
+   "t0": 339.881,
+   "emo": "shy",
+   "say_t": 339.881,
+   "t1": 341.615
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 341.615,
+   "title": "BIG FEELINGS? TRY THIS!",
+   "t1": 344.947
+  },
+  {
+   "kind": "breathe",
+   "bg": "room",
+   "t0": 344.947,
+   "calm": true,
+   "breaths": [
+    [
+     348.353,
+     351.103
+    ],
+    [
+     353.754,
+     356.505
+    ],
+    [
+     359.156,
+     361.906
+    ]
+   ],
+   "t1": 366.544
+  },
+  {
+   "kind": "tool",
+   "bg": "room",
+   "t0": 366.544,
+   "prop": "count",
+   "word": "COUNT TO FIVE",
+   "num": 1,
+   "calm": true,
+   "say_t": 366.544,
+   "t1": 370.038
+  },
+  {
+   "kind": "tool",
+   "bg": "room",
+   "t0": 370.038,
+   "prop": "teddy",
+   "word": "HUG",
+   "num": 2,
+   "calm": true,
+   "say_t": 370.038,
+   "t1": 372.856
+  },
+  {
+   "kind": "tool",
+   "bg": "room",
+   "t0": 372.856,
+   "prop": "speech",
+   "word": "TALK ABOUT IT",
+   "num": 3,
+   "calm": true,
+   "say_t": 372.856,
+   "t1": 375.907
+  },
+  {
+   "kind": "tool",
+   "bg": "room",
+   "t0": 375.907,
+   "prop": "pillow",
+   "word": "QUIET CORNER",
+   "num": 4,
+   "calm": true,
+   "say_t": 375.907,
+   "t1": 378.988
+  },
+  {
+   "kind": "tool",
+   "bg": "room",
+   "t0": 378.988,
+   "prop": "water",
+   "word": "DRINK WATER",
+   "num": 5,
+   "calm": true,
+   "say_t": 378.988,
+   "t1": 381.089
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 381.089,
+   "title": "FEELINGS DANCE!",
+   "t1": 384.178
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 384.178,
+   "emo": "happy",
+   "move": "jump",
+   "fast": false,
+   "say_t": 384.178,
+   "t1": 387.835
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 387.835,
+   "emo": "angry",
+   "move": "stomp",
+   "fast": false,
+   "say_t": 387.835,
+   "t1": 391.754
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 391.754,
+   "emo": "sad",
+   "move": "sway",
+   "fast": false,
+   "say_t": 391.754,
+   "t1": 394.936
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 394.936,
+   "emo": "surprised",
+   "move": "pop",
+   "fast": false,
+   "say_t": 394.936,
+   "t1": 398.583
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 398.583,
+   "emo": "scared",
+   "move": "shake",
+   "fast": false,
+   "say_t": 398.583,
+   "t1": 402.246
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 402.246,
+   "emo": "calm",
+   "move": "slow",
+   "fast": false,
+   "say_t": 402.246,
+   "t1": 405.684
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 405.684,
+   "title": "FASTER!",
+   "t1": 407.064
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 407.064,
+   "emo": "happy",
+   "move": "jump",
+   "fast": true,
+   "say_t": 407.064,
+   "t1": 410.022
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 410.022,
+   "emo": "angry",
+   "move": "stomp",
+   "fast": true,
+   "say_t": 410.022,
+   "t1": 413.241
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 413.241,
+   "emo": "sad",
+   "move": "sway",
+   "fast": true,
+   "say_t": 413.241,
+   "t1": 415.723
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 415.723,
+   "emo": "surprised",
+   "move": "pop",
+   "fast": true,
+   "say_t": 415.723,
+   "t1": 418.669
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 418.669,
+   "emo": "scared",
+   "move": "shake",
+   "fast": true,
+   "say_t": 418.669,
+   "t1": 421.633
+  },
+  {
+   "kind": "dance",
+   "bg": "room",
+   "t0": 421.633,
+   "emo": "calm",
+   "move": "slow",
+   "fast": true,
+   "say_t": 421.633,
+   "t1": 424.371
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 424.371,
+   "title": "BE A KIND FRIEND!",
+   "t1": 427.032
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 427.032,
+   "who": "misheal",
+   "prop": "hearthug",
+   "help_t": 432.918,
+   "happy_t": 435.352,
+   "t1": 437.618
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 437.618,
+   "who": "gul",
+   "prop": "teddy",
+   "help_t": 443.698,
+   "happy_t": 446.642,
+   "t1": 448.811
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 448.811,
+   "who": "misheal",
+   "prop": "drawing",
+   "help_t": 454.653,
+   "happy_t": 457.551,
+   "t1": 459.817
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 459.817,
+   "who": "gul",
+   "prop": "candle",
+   "help_t": 464.982,
+   "happy_t": 467.471,
+   "t1": 469.64
+  },
+  {
+   "kind": "kind",
+   "bg": "room",
+   "t0": 469.64,
+   "who": "misheal",
+   "prop": "puzzle",
+   "help_t": 475.786,
+   "happy_t": 478.106,
+   "t1": 480.372
+  },
+  {
+   "kind": "title",
+   "bg": "room",
+   "t0": 480.372,
+   "title": "FEELINGS QUIZ!",
+   "t1": 482.885
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 482.885,
+   "q": "WHAT CAN YOU DO WHEN YOU FEEL ANGRY?",
+   "emo": "calm",
+   "who": "misheal",
+   "answer_t": 487.23,
+   "t1": 489.603
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 489.603,
+   "q": "HOW DOES A SURPRISED FACE LOOK?",
+   "emo": "surprised",
+   "who": "gul",
+   "answer_t": 493.899,
+   "t1": 495.965
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 495.965,
+   "q": "IS IT OKAY TO FEEL SAD?",
+   "emo": "sad",
+   "who": "misheal",
+   "answer_t": 500.021,
+   "t1": 502.173
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 502.173,
+   "q": "WHEN DO WE FEEL PROUD?",
+   "emo": "proud",
+   "who": "gul",
+   "answer_t": 506.085,
+   "t1": 508.496
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 508.496,
+   "q": "WHAT CAN YOU DO WHEN A FRIEND IS SAD?",
+   "emo": "happy",
+   "who": "misheal",
+   "answer_t": 512.853,
+   "t1": 515.167
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 515.167,
+   "q": "HOW DOES A TIRED FACE LOOK?",
+   "emo": "tired",
+   "who": "gul",
+   "answer_t": 519.406,
+   "t1": 521.643
+  },
+  {
+   "kind": "quiz",
+   "bg": "room",
+   "t0": 521.643,
+   "q": "WHO CAN YOU TALK TO ABOUT BIG FEELINGS?",
+   "emo": "calm",
+   "who": "misheal",
+   "answer_t": 526.237,
+   "t1": 528.146
+  },
+  {
+   "kind": "outro",
+   "bg": "room",
+   "t0": 528.146,
+   "bye_t": 532.747,
+   "t1": 535.772
+  }
+ ],
+ "prompts": [
+  [
+   13.555,
+   16.555
+  ],
+  [
+   27.8,
+   29.8
+  ],
+  [
+   35.545,
+   37.545
+  ],
+  [
+   43.787,
+   45.787
+  ],
+  [
+   52.124,
+   54.124
+  ],
+  [
+   60.235,
+   62.235
+  ],
+  [
+   68.088,
+   70.088
+  ],
+  [
+   75.811,
+   77.811
+  ],
+  [
+   83.256,
+   85.256
+  ],
+  [
+   89.931,
+   91.931
+  ],
+  [
+   97.824,
+   99.824
+  ],
+  [
+   108.661,
+   110.861
+  ],
+  [
+   120.552,
+   122.752
+  ],
+  [
+   132.115,
+   134.315
+  ],
+  [
+   143.298,
+   145.498
+  ],
+  [
+   154.091,
+   156.291
+  ],
+  [
+   165.168,
+   167.368
+  ],
+  [
+   176.277,
+   178.477
+  ],
+  [
+   189.36,
+   191.56
+  ],
+  [
+   201.114,
+   203.314
+  ],
+  [
+   213.265,
+   215.465
+  ],
+  [
+   223.603,
+   226.003
+  ],
+  [
+   230.138,
+   232.538
+  ],
+  [
+   236.975,
+   239.375
+  ],
+  [
+   243.246,
+   245.646
+  ],
+  [
+   249.677,
+   252.077
+  ],
+  [
+   256.214,
+   258.614
+  ],
+  [
+   262.9,
+   265.3
+  ],
+  [
+   269.372,
+   271.772
+  ],
+  [
+   276.345,
+   278.745
+  ],
+  [
+   282.661,
+   285.061
+  ],
+  [
+   303.825,
+   306.425
+  ],
+  [
+   310.345,
+   311.845
+  ],
+  [
+   312.869,
+   314.369
+  ],
+  [
+   315.545,
+   317.045
+  ],
+  [
+   317.981,
+   319.481
+  ],
+  [
+   320.495,
+   321.995
+  ],
+  [
+   323.171,
+   324.671
+  ],
+  [
+   325.694,
+   327.194
+  ],
+  [
+   328.138,
+   329.638
+  ],
+  [
+   331.745,
+   332.545
+  ],
+  [
+   333.537,
+   334.337
+  ],
+  [
+   335.36,
+   336.16
+  ],
+  [
+   337.105,
+   337.905
+  ],
+  [
+   339.081,
+   339.881
+  ],
+  [
+   340.815,
+   341.615
+  ],
+  [
+   386.235,
+   387.835
+  ],
+  [
+   390.154,
+   391.754
+  ],
+  [
+   393.336,
+   394.936
+  ],
+  [
+   396.983,
+   398.583
+  ],
+  [
+   400.646,
+   402.246
+  ],
+  [
+   404.084,
+   405.684
+  ],
+  [
+   409.122,
+   410.022
+  ],
+  [
+   412.341,
+   413.241
+  ],
+  [
+   414.823,
+   415.723
+  ],
+  [
+   417.769,
+   418.669
+  ],
+  [
+   420.733,
+   421.633
+  ],
+  [
+   423.471,
+   424.371
+  ],
+  [
+   430.718,
+   432.918
+  ],
+  [
+   441.498,
+   443.698
+  ],
+  [
+   452.453,
+   454.653
+  ],
+  [
+   462.782,
+   464.982
+  ],
+  [
+   473.586,
+   475.786
+  ],
+  [
+   484.73,
+   487.23
+  ],
+  [
+   491.399,
+   493.899
+  ],
+  [
+   497.521,
+   500.021
+  ],
+  [
+   503.585,
+   506.085
+  ],
+  [
+   510.353,
+   512.853
+  ],
+  [
+   516.906,
+   519.406
+  ],
+  [
+   523.737,
+   526.237
+  ]
+ ],
+ "stars": [
+  29.8,
+  37.545,
+  45.787,
+  54.124,
+  62.235,
+  70.088,
+  77.811,
+  85.256,
+  91.931,
+  99.824,
+  435.852,
+  447.142,
+  458.051,
+  467.971,
+  478.606,
+  489.603,
+  495.965,
+  502.173,
+  508.496,
+  515.167,
+  521.643,
+  528.146
+ ],
+ "total": 535.77
+}

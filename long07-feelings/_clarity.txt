@@ -1,0 +1,8 @@
+MISS mishu Gul feels sad. -> Go feel sad
+MISS mishu Gul opens the door. -> Go open the door.
+MISS mishu Gul feels surprised! -> Go feel surprised!
+MISS mishu Gul feels sad and worried. -> Go feel sad and worried.
+MISS gul Calm! -> Come
+MISS both Calm face! -> Comfort
+MISS mishu Gul feels scared of the dark. -> Go feel scared of the dark
+161/168 distinct lines clear
