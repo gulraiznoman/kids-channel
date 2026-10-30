@@ -1,0 +1,426 @@
+{
+ "puppy": {
+  "clips": [
+   {
+    "slug": "a-dog-resting-on-the-grass-next-to-a-dog-1479",
+    "file": "clips\\puppy__a-dog-resting-on-the-grass-next-to-a-dog-1479.mp4",
+    "page": "https://mixkit.co/free-stock-video/a-dog-resting-on-the-grass-next-to-a-dog-1479/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "panting-dog-1548",
+    "file": "clips\\puppy__panting-dog-1548.mp4",
+    "page": "https://mixkit.co/free-stock-video/panting-dog-1548/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": {
+   "id": "1",
+   "title": "dog barking twice",
+   "file": "sounds\\puppy.mp3",
+   "page": "https://mixkit.co/free-sound-effects/dog/",
+   "licence": "sfxFree"
+  }
+ },
+ "kitten": {
+  "clips": [
+   {
+    "slug": "white-cat-lying-among-the-grasses-seen-up-close-22732",
+    "file": "clips\\kitten__white-cat-lying-among-the-grasses-seen-up-close-22732.mp4",
+    "page": "https://mixkit.co/free-stock-video/white-cat-lying-among-the-grasses-seen-up-close-22732/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "petting-a-cute-cat-close-up-1778",
+    "file": "clips\\kitten__petting-a-cute-cat-close-up-1778.mp4",
+    "page": "https://mixkit.co/free-stock-video/petting-a-cute-cat-close-up-1778/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": {
+   "id": "93",
+   "title": "sweet kitty meow",
+   "file": "sounds\\kitten.mp3",
+   "page": "https://mixkit.co/free-sound-effects/cat/",
+   "licence": "sfxFree"
+  }
+ },
+ "duckling": {
+  "clips": [
+   {
+    "slug": "ducks-in-a-meadow-during-an-afternoon-3300",
+    "file": "clips\\duckling__ducks-in-a-meadow-during-an-afternoon-3300.mp4",
+    "page": "https://mixkit.co/free-stock-video/ducks-in-a-meadow-during-an-afternoon-3300/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "yellow-rubber-duck-in-water-4370",
+    "file": "clips\\duckling__yellow-rubber-duck-in-water-4370.mp4",
+    "page": "https://mixkit.co/free-stock-video/yellow-rubber-duck-in-water-4370/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": null
+ },
+ "chick": {
+  "clips": [],
+  "sound": {
+   "id": "1769",
+   "title": "chickens and pigeons",
+   "file": "sounds\\chick.mp3",
+   "page": "https://mixkit.co/free-sound-effects/chicken/",
+   "licence": "sfxFree"
+  }
+ },
+ "lamb": {
+  "clips": [
+   {
+    "slug": "sheep-feeding-in-the-wild-5034",
+    "file": "clips\\lamb__sheep-feeding-in-the-wild-5034.mp4",
+    "page": "https://mixkit.co/free-stock-video/sheep-feeding-in-the-wild-5034/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": {
+   "id": "1741",
+   "title": "sheep sounds",
+   "file": "sounds\\lamb.mp3",
+   "page": "https://mixkit.co/free-sound-effects/sheep/",
+   "licence": "sfxFree"
+  }
+ },
+ "piglet": {
+  "clips": [],
+  "sound": {
+   "id": "3",
+   "title": "pig grunting",
+   "file": "sounds\\piglet.mp3",
+   "page": "https://mixkit.co/free-sound-effects/pig/",
+   "licence": "sfxFree"
+  }
+ },
+ "calf": {
+  "clips": [
+   {
+    "slug": "cow-in-a-stable-chewing-its-food-4721",
+    "file": "clips\\calf__cow-in-a-stable-chewing-its-food-4721.mp4",
+    "page": "https://mixkit.co/free-stock-video/cow-in-a-stable-chewing-its-food-4721/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": {
+   "id": "1751",
+   "title": "cow moo in the barn",
+   "file": "sounds\\calf.mp3",
+   "page": "https://mixkit.co/free-sound-effects/cow/",
+   "licence": "sfxFree"
+  }
+ },
+ "bunny": {
+  "clips": [],
+  "sound": null
+ },
+ "foal": {
+  "clips": [
+   {
+    "slug": "white-horse-chewing-1157",
+    "file": "clips\\foal__white-horse-chewing-1157.mp4",
+    "page": "https://mixkit.co/free-stock-video/white-horse-chewing-1157/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "horse-in-a-stable-close-up-100645",
+    "file": "clips\\foal__horse-in-a-stable-close-up-100645.mp4",
+    "page": "https://mixkit.co/free-stock-video/horse-in-a-stable-close-up-100645/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": {
+   "id": "85",
+   "title": "scared horse neighing",
+   "file": "sounds\\foal.mp3",
+   "page": "https://mixkit.co/free-sound-effects/horse/",
+   "licence": "sfxFree"
+  }
+ },
+ "cub": {
+  "clips": [],
+  "sound": {
+   "id": "6",
+   "title": "wild lion animal roar",
+   "file": "sounds\\cub.mp3",
+   "page": "https://mixkit.co/free-sound-effects/lion/",
+   "licence": "sfxFree"
+  }
+ },
+ "elephant": {
+  "clips": [
+   {
+    "slug": "elephants-walking-inside-a-river-3683",
+    "file": "clips\\elephant__elephants-walking-inside-a-river-3683.mp4",
+    "page": "https://mixkit.co/free-stock-video/elephants-walking-inside-a-river-3683/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "elephants-eating-seen-in-detail-3668",
+    "file": "clips\\elephant__elephants-eating-seen-in-detail-3668.mp4",
+    "page": "https://mixkit.co/free-stock-video/elephants-eating-seen-in-detail-3668/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": null
+ },
+ "monkey": {
+  "clips": [],
+  "sound": {
+   "id": "108",
+   "title": "cartoon monkey mocking and giggling",
+   "file": "sounds\\monkey.mp3",
+   "page": "https://mixkit.co/free-sound-effects/monkey/",
+   "licence": "sfxFree"
+  }
+ },
+ "fish": {
+  "clips": [
+   {
+    "slug": "tropical-freshwater-fish-and-moss-in-a-tank-4021",
+    "file": "clips\\fish__tropical-freshwater-fish-and-moss-in-a-tank-4021.mp4",
+    "page": "https://mixkit.co/free-stock-video/tropical-freshwater-fish-and-moss-in-a-tank-4021/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "multicolored-coral-shot-with-fish-projections-4020",
+    "file": "clips\\fish__multicolored-coral-shot-with-fish-projections-4020.mp4",
+    "page": "https://mixkit.co/free-stock-video/multicolored-coral-shot-with-fish-projections-4020/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": null
+ },
+ "octopus": {
+  "clips": [],
+  "sound": null
+ },
+ "whale": {
+  "clips": [],
+  "sound": null
+ },
+ "crab": {
+  "clips": [
+   {
+    "slug": "hermit-crab-walking-on-the-sand-1043",
+    "file": "clips\\crab__hermit-crab-walking-on-the-sand-1043.mp4",
+    "page": "https://mixkit.co/free-stock-video/hermit-crab-walking-on-the-sand-1043/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": null
+ },
+ "turtle": {
+  "clips": [
+   {
+    "slug": "sea-turtle-feeding-on-the-seabed-4465",
+    "file": "clips\\turtle__sea-turtle-feeding-on-the-seabed-4465.mp4",
+    "page": "https://mixkit.co/free-stock-video/sea-turtle-feeding-on-the-seabed-4465/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": null
+ },
+ "starfish": {
+  "clips": [],
+  "sound": null
+ },
+ "dolphin": {
+  "clips": [
+   {
+    "slug": "dolphins-underwater-4133",
+    "file": "clips\\dolphin__dolphins-underwater-4133.mp4",
+    "page": "https://mixkit.co/free-stock-video/dolphins-underwater-4133/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": null
+ },
+ "jellyfish": {
+  "clips": [],
+  "sound": null
+ },
+ "car": {
+  "clips": [
+   {
+    "slug": "accelerating-car-dashboard-64",
+    "file": "clips\\car__accelerating-car-dashboard-64.mp4",
+    "page": "https://mixkit.co/free-stock-video/accelerating-car-dashboard-64/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "red-sports-car-74",
+    "file": "clips\\car__red-sports-car-74.mp4",
+    "page": "https://mixkit.co/free-stock-video/red-sports-car-74/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": {
+   "id": "1565",
+   "title": "classic car horn",
+   "file": "sounds\\car.mp3",
+   "page": "https://mixkit.co/free-sound-effects/car/",
+   "licence": "sfxFree"
+  }
+ },
+ "bus": {
+  "clips": [
+   {
+    "slug": "busy-street-in-the-city-4000",
+    "file": "clips\\bus__busy-street-in-the-city-4000.mp4",
+    "page": "https://mixkit.co/free-stock-video/busy-street-in-the-city-4000/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "interior-of-a-bus-with-a-few-young-passengers-42574",
+    "file": "clips\\bus__interior-of-a-bus-with-a-few-young-passengers-42574.mp4",
+    "page": "https://mixkit.co/free-stock-video/interior-of-a-bus-with-a-few-young-passengers-42574/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": null
+ },
+ "firetruck": {
+  "clips": [],
+  "sound": {
+   "id": "1643",
+   "title": "police siren us",
+   "file": "sounds\\firetruck.mp3",
+   "page": "https://mixkit.co/free-sound-effects/siren/",
+   "licence": "sfxFree"
+  }
+ },
+ "police": {
+  "clips": [
+   {
+    "slug": "policemen-gathered-on-the-street-4290",
+    "file": "clips\\police__policemen-gathered-on-the-street-4290.mp4",
+    "page": "https://mixkit.co/free-stock-video/policemen-gathered-on-the-street-4290/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "police-barricade-tape-at-a-crime-scene-32790",
+    "file": "clips\\police__police-barricade-tape-at-a-crime-scene-32790.mp4",
+    "page": "https://mixkit.co/free-stock-video/police-barricade-tape-at-a-crime-scene-32790/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": {
+   "id": "1643",
+   "title": "police siren us",
+   "file": "sounds\\police.mp3",
+   "page": "https://mixkit.co/free-sound-effects/police/",
+   "licence": "sfxFree"
+  }
+ },
+ "ambulance": {
+  "clips": [],
+  "sound": {
+   "id": "1642",
+   "title": "ambulance siren us",
+   "file": "sounds\\ambulance.mp3",
+   "page": "https://mixkit.co/free-sound-effects/ambulance/",
+   "licence": "sfxFree"
+  }
+ },
+ "train": {
+  "clips": [
+   {
+    "slug": "train-arriving-to-a-subway-station-1622",
+    "file": "clips\\train__train-arriving-to-a-subway-station-1622.mp4",
+    "page": "https://mixkit.co/free-stock-video/train-arriving-to-a-subway-station-1622/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "sunset-over-train-tracks-1594",
+    "file": "clips\\train__sunset-over-train-tracks-1594.mp4",
+    "page": "https://mixkit.co/free-stock-video/sunset-over-train-tracks-1594/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": {
+   "id": "1630",
+   "title": "steam train passing",
+   "file": "sounds\\train.mp3",
+   "page": "https://mixkit.co/free-sound-effects/train/",
+   "licence": "sfxFree"
+  }
+ },
+ "airplane": {
+  "clips": [
+   {
+    "slug": "pink-sunset-seen-from-a-plane-window-4204",
+    "file": "clips\\airplane__pink-sunset-seen-from-a-plane-window-4204.mp4",
+    "page": "https://mixkit.co/free-stock-video/pink-sunset-seen-from-a-plane-window-4204/",
+    "licence": "videoFree"
+   },
+   {
+    "slug": "sky-through-a-plane-window-4368",
+    "file": "clips\\airplane__sky-through-a-plane-window-4368.mp4",
+    "page": "https://mixkit.co/free-stock-video/sky-through-a-plane-window-4368/",
+    "licence": "videoFree"
+   }
+  ],
+  "sound": {
+   "id": "1588",
+   "title": "airplane flying by rumble",
+   "file": "sounds\\airplane.mp3",
+   "page": "https://mixkit.co/free-sound-effects/airplane/",
+   "licence": "sfxFree"
+  }
+ },
+ "boat": {
+  "clips": [],
+  "sound": null
+ },
+ "tractor": {
+  "clips": [],
+  "sound": null
+ },
+ "helicopter": {
+  "clips": [],
+  "sound": null
+ },
+ "sunny": {
+  "clips": [],
+  "sound": null
+ },
+ "rainy": {
+  "clips": [],
+  "sound": {
+   "id": "2393",
+   "title": "light rain loop",
+   "file": "sounds\\rainy.mp3",
+   "page": "https://mixkit.co/free-sound-effects/rain/",
+   "licence": "sfxFree"
+  }
+ },
+ "cloudy": {
+  "clips": [],
+  "sound": null
+ },
+ "windy": {
+  "clips": [],
+  "sound": {
+   "id": "2658",
+   "title": "wind blowing ambience",
+   "file": "sounds\\windy.mp3",
+   "page": "https://mixkit.co/free-sound-effects/wind/",
+   "licence": "sfxFree"
+  }
+ },
+ "snowy": {
+  "clips": [],
+  "sound": null
+ },
+ "rainbow": {
+  "clips": [],
+  "sound": null
+ }
+}

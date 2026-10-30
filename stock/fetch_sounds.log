@@ -1,0 +1,4 @@
+  helicopter: sound 'cinematic riser helicopter engine'
+  rainy: sound 'light rain loop'
+  windy: sound 'wind blowing ambience'
+done: 16 items with clips, 19 with sounds

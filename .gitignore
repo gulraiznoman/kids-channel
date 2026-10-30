@@ -13,3 +13,6 @@ _chunks/
 __pycache__/
 tools/_*/
 *.pyc
+
+# early stock-photo test, not used
+stock/photos/
