@@ -483,7 +483,7 @@ Parents: what's the hardest thing for your little one to share? 💬
 - **Video file:** VIDEOS/L17 Christmas Tree/Decorate the Christmas Tree for Kids v1.mp4
 - **Thumbnail:** VIDEOS/L17 Christmas Tree/THUMBNAIL v1.jpg
 - **Subtitles (English):** VIDEOS/L17 Christmas Tree/SUBTITLES - English.srt
-- **Playlist:** Learn with Gul & Mishu
+- **Playlist:** Christmas for Kids (new playlist)
 - **Schedule:** Tue 24 Nov 2026, 6:00 PM PKT
 
 **Title**
