@@ -1,0 +1,2820 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Happy New Year!",
+   "t": 1.2,
+   "dur": 0.935
+  },
+  {
+   "who": "mishu",
+   "text": "A new year has twelve months! Let's learn them all!",
+   "t": 2.485,
+   "dur": 2.547
+  },
+  {
+   "who": "gul",
+   "text": "From January to December! Let's go!",
+   "t": 5.382,
+   "dur": 2.272
+  },
+  {
+   "who": "gul",
+   "text": "Here are the twelve months of the year!",
+   "t": 8.704,
+   "dur": 1.693
+  },
+  {
+   "who": "gul",
+   "text": "January!",
+   "t": 10.847,
+   "dur": 0.769
+  },
+  {
+   "who": "mishu",
+   "text": "February!",
+   "t": 11.916,
+   "dur": 0.757
+  },
+  {
+   "who": "gul",
+   "text": "March!",
+   "t": 12.973,
+   "dur": 0.581
+  },
+  {
+   "who": "mishu",
+   "text": "April!",
+   "t": 13.854,
+   "dur": 0.587
+  },
+  {
+   "who": "gul",
+   "text": "May!",
+   "t": 14.741,
+   "dur": 0.476
+  },
+  {
+   "who": "mishu",
+   "text": "June!",
+   "t": 15.517,
+   "dur": 0.516
+  },
+  {
+   "who": "gul",
+   "text": "July!",
+   "t": 16.334,
+   "dur": 0.586
+  },
+  {
+   "who": "mishu",
+   "text": "August!",
+   "t": 17.22,
+   "dur": 0.59
+  },
+  {
+   "who": "gul",
+   "text": "September!",
+   "t": 18.109,
+   "dur": 0.787
+  },
+  {
+   "who": "mishu",
+   "text": "October!",
+   "t": 19.197,
+   "dur": 0.709
+  },
+  {
+   "who": "gul",
+   "text": "November!",
+   "t": 20.206,
+   "dur": 0.713
+  },
+  {
+   "who": "mishu",
+   "text": "December!",
+   "t": 21.219,
+   "dur": 0.673
+  },
+  {
+   "who": "both",
+   "text": "Twelve months! That's one year!",
+   "t": 22.192,
+   "dur": 1.675
+  },
+  {
+   "who": "mishu",
+   "text": "Say them with us! Slow, then fast, then super fast!",
+   "t": 25.016,
+   "dur": 3.221
+  },
+  {
+   "who": "both",
+   "text": "January",
+   "t": 28.688,
+   "dur": 0.737
+  },
+  {
+   "who": "both",
+   "text": "February",
+   "t": 29.875,
+   "dur": 0.762
+  },
+  {
+   "who": "both",
+   "text": "March",
+   "t": 31.087,
+   "dur": 0.556
+  },
+  {
+   "who": "both",
+   "text": "April",
+   "t": 32.093,
+   "dur": 0.586
+  },
+  {
+   "who": "both",
+   "text": "May",
+   "t": 33.129,
+   "dur": 0.437
+  },
+  {
+   "who": "both",
+   "text": "June",
+   "t": 34.016,
+   "dur": 0.51
+  },
+  {
+   "who": "both",
+   "text": "July",
+   "t": 34.976,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "August",
+   "t": 35.969,
+   "dur": 0.548
+  },
+  {
+   "who": "both",
+   "text": "September",
+   "t": 36.967,
+   "dur": 0.775
+  },
+  {
+   "who": "both",
+   "text": "October",
+   "t": 38.192,
+   "dur": 0.707
+  },
+  {
+   "who": "both",
+   "text": "November",
+   "t": 39.348,
+   "dur": 0.655
+  },
+  {
+   "who": "both",
+   "text": "December",
+   "t": 40.454,
+   "dur": 0.68
+  },
+  {
+   "who": "mishu",
+   "text": "Faster!",
+   "t": 42.084,
+   "dur": 0.656
+  },
+  {
+   "who": "both",
+   "text": "January",
+   "t": 42.99,
+   "dur": 0.737
+  },
+  {
+   "who": "both",
+   "text": "February",
+   "t": 43.977,
+   "dur": 0.762
+  },
+  {
+   "who": "both",
+   "text": "March",
+   "t": 44.989,
+   "dur": 0.556
+  },
+  {
+   "who": "both",
+   "text": "April",
+   "t": 45.795,
+   "dur": 0.586
+  },
+  {
+   "who": "both",
+   "text": "May",
+   "t": 46.631,
+   "dur": 0.437
+  },
+  {
+   "who": "both",
+   "text": "June",
+   "t": 47.319,
+   "dur": 0.51
+  },
+  {
+   "who": "both",
+   "text": "July",
+   "t": 48.079,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "August",
+   "t": 48.871,
+   "dur": 0.548
+  },
+  {
+   "who": "both",
+   "text": "September",
+   "t": 49.669,
+   "dur": 0.775
+  },
+  {
+   "who": "both",
+   "text": "October",
+   "t": 50.694,
+   "dur": 0.707
+  },
+  {
+   "who": "both",
+   "text": "November",
+   "t": 51.651,
+   "dur": 0.655
+  },
+  {
+   "who": "both",
+   "text": "December",
+   "t": 52.556,
+   "dur": 0.68
+  },
+  {
+   "who": "gul",
+   "text": "Super fast!",
+   "t": 53.986,
+   "dur": 0.907
+  },
+  {
+   "who": "both",
+   "text": "January",
+   "t": 55.144,
+   "dur": 0.737
+  },
+  {
+   "who": "both",
+   "text": "February",
+   "t": 56.031,
+   "dur": 0.762
+  },
+  {
+   "who": "both",
+   "text": "March",
+   "t": 56.943,
+   "dur": 0.556
+  },
+  {
+   "who": "both",
+   "text": "April",
+   "t": 57.649,
+   "dur": 0.586
+  },
+  {
+   "who": "both",
+   "text": "May",
+   "t": 58.385,
+   "dur": 0.437
+  },
+  {
+   "who": "both",
+   "text": "June",
+   "t": 58.972,
+   "dur": 0.51
+  },
+  {
+   "who": "both",
+   "text": "July",
+   "t": 59.632,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "August",
+   "t": 60.325,
+   "dur": 0.548
+  },
+  {
+   "who": "both",
+   "text": "September",
+   "t": 61.023,
+   "dur": 0.775
+  },
+  {
+   "who": "both",
+   "text": "October",
+   "t": 61.948,
+   "dur": 0.707
+  },
+  {
+   "who": "both",
+   "text": "November",
+   "t": 62.804,
+   "dur": 0.655
+  },
+  {
+   "who": "both",
+   "text": "December",
+   "t": 63.61,
+   "dur": 0.68
+  },
+  {
+   "who": "gul",
+   "text": "What happens in each month? Let's see!",
+   "t": 65.44,
+   "dur": 1.759
+  },
+  {
+   "who": "both",
+   "text": "January!",
+   "t": 67.649,
+   "dur": 0.769
+  },
+  {
+   "who": "mishu",
+   "text": "January is cold! The year begins, and snow may fall!",
+   "t": 68.668,
+   "dur": 3.264
+  },
+  {
+   "who": "gul",
+   "text": "Wear your warm hat!",
+   "t": 72.182,
+   "dur": 1.075
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! January!",
+   "t": 73.508,
+   "dur": 1.138
+  },
+  {
+   "who": "both",
+   "text": "February!",
+   "t": 76.096,
+   "dur": 0.768
+  },
+  {
+   "who": "gul",
+   "text": "February is the shortest month!",
+   "t": 77.113,
+   "dur": 1.75
+  },
+  {
+   "who": "mishu",
+   "text": "It has only twenty eight days!",
+   "t": 79.113,
+   "dur": 1.654
+  },
+  {
+   "who": "gul",
+   "text": "Say it! February!",
+   "t": 81.017,
+   "dur": 1.169
+  },
+  {
+   "who": "both",
+   "text": "March!",
+   "t": 83.636,
+   "dur": 0.582
+  },
+  {
+   "who": "mishu",
+   "text": "In March, the flowers start to grow!",
+   "t": 84.468,
+   "dur": 1.893
+  },
+  {
+   "who": "gul",
+   "text": "Spring is coming!",
+   "t": 86.611,
+   "dur": 1.029
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! March!",
+   "t": 87.89,
+   "dur": 0.89
+  },
+  {
+   "who": "both",
+   "text": "April!",
+   "t": 90.23,
+   "dur": 0.587
+  },
+  {
+   "who": "gul",
+   "text": "April brings the rain! Splish, splash!",
+   "t": 91.067,
+   "dur": 2.087
+  },
+  {
+   "who": "mishu",
+   "text": "Rain helps the plants grow!",
+   "t": 93.404,
+   "dur": 1.456
+  },
+  {
+   "who": "gul",
+   "text": "Say it! April!",
+   "t": 95.109,
+   "dur": 0.938
+  },
+  {
+   "who": "both",
+   "text": "May!",
+   "t": 97.497,
+   "dur": 0.478
+  },
+  {
+   "who": "mishu",
+   "text": "May is warm and windy! Let's fly a kite!",
+   "t": 98.226,
+   "dur": 2.415
+  },
+  {
+   "who": "gul",
+   "text": "Up, up, up it goes!",
+   "t": 100.89,
+   "dur": 1.121
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! May!",
+   "t": 102.262,
+   "dur": 0.784
+  },
+  {
+   "who": "both",
+   "text": "June!",
+   "t": 104.496,
+   "dur": 0.516
+  },
+  {
+   "who": "gul",
+   "text": "June is hot! The sun shines all day!",
+   "t": 105.263,
+   "dur": 2.023
+  },
+  {
+   "who": "mishu",
+   "text": "Summer is here!",
+   "t": 107.536,
+   "dur": 0.863
+  },
+  {
+   "who": "gul",
+   "text": "Say it! June!",
+   "t": 108.649,
+   "dur": 0.878
+  },
+  {
+   "who": "both",
+   "text": "July!",
+   "t": 110.977,
+   "dur": 0.586
+  },
+  {
+   "who": "mishu",
+   "text": "July is very hot! Let's eat ice cream!",
+   "t": 111.813,
+   "dur": 2.334
+  },
+  {
+   "who": "gul",
+   "text": "Yummy and cold!",
+   "t": 114.397,
+   "dur": 1.042
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! July!",
+   "t": 115.689,
+   "dur": 1.145
+  },
+  {
+   "who": "both",
+   "text": "August!",
+   "t": 118.285,
+   "dur": 0.59
+  },
+  {
+   "who": "gul",
+   "text": "August is for juicy watermelon!",
+   "t": 119.124,
+   "dur": 1.926
+  },
+  {
+   "who": "mishu",
+   "text": "Sweet, and so yummy!",
+   "t": 121.3,
+   "dur": 1.26
+  },
+  {
+   "who": "gul",
+   "text": "Say it! August!",
+   "t": 122.811,
+   "dur": 0.9
+  },
+  {
+   "who": "both",
+   "text": "September!",
+   "t": 125.161,
+   "dur": 0.787
+  },
+  {
+   "who": "mishu",
+   "text": "In September, we go back to school!",
+   "t": 126.198,
+   "dur": 2.012
+  },
+  {
+   "who": "gul",
+   "text": "Hello, teacher!",
+   "t": 128.46,
+   "dur": 0.903
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! September!",
+   "t": 129.613,
+   "dur": 1.25
+  },
+  {
+   "who": "both",
+   "text": "October!",
+   "t": 132.313,
+   "dur": 0.766
+  },
+  {
+   "who": "gul",
+   "text": "In October, the leaves turn orange and fall!",
+   "t": 133.329,
+   "dur": 2.189
+  },
+  {
+   "who": "mishu",
+   "text": "Crunch, crunch, crunch!",
+   "t": 135.768,
+   "dur": 1.283
+  },
+  {
+   "who": "gul",
+   "text": "Say it! October!",
+   "t": 137.301,
+   "dur": 1.16
+  },
+  {
+   "who": "both",
+   "text": "November!",
+   "t": 139.911,
+   "dur": 0.713
+  },
+  {
+   "who": "mishu",
+   "text": "November gets chilly! Wear a warm scarf!",
+   "t": 140.873,
+   "dur": 2.386
+  },
+  {
+   "who": "gul",
+   "text": "Brrr! Winter is coming!",
+   "t": 143.509,
+   "dur": 1.663
+  },
+  {
+   "who": "mishu",
+   "text": "Say it! November!",
+   "t": 145.422,
+   "dur": 1.074
+  },
+  {
+   "who": "both",
+   "text": "December!",
+   "t": 147.947,
+   "dur": 0.681
+  },
+  {
+   "who": "gul",
+   "text": "December is the last month! Let's build a snowman!",
+   "t": 148.878,
+   "dur": 2.855
+  },
+  {
+   "who": "mishu",
+   "text": "The year is ending!",
+   "t": 151.983,
+   "dur": 1.015
+  },
+  {
+   "who": "gul",
+   "text": "Say it! December!",
+   "t": 153.248,
+   "dur": 1.057
+  },
+  {
+   "who": "mishu",
+   "text": "Every month has a place in the year!",
+   "t": 156.255,
+   "dur": 1.788
+  },
+  {
+   "who": "gul",
+   "text": "January is first!",
+   "t": 158.493,
+   "dur": 1.221
+  },
+  {
+   "who": "mishu",
+   "text": "February is second!",
+   "t": 160.014,
+   "dur": 1.112
+  },
+  {
+   "who": "gul",
+   "text": "March is third!",
+   "t": 161.426,
+   "dur": 0.999
+  },
+  {
+   "who": "mishu",
+   "text": "April is fourth!",
+   "t": 162.725,
+   "dur": 0.994
+  },
+  {
+   "who": "gul",
+   "text": "May is fifth!",
+   "t": 164.019,
+   "dur": 0.813
+  },
+  {
+   "who": "mishu",
+   "text": "June is sixth!",
+   "t": 165.133,
+   "dur": 0.987
+  },
+  {
+   "who": "gul",
+   "text": "July is seventh!",
+   "t": 166.42,
+   "dur": 1.061
+  },
+  {
+   "who": "mishu",
+   "text": "August is eighth!",
+   "t": 167.781,
+   "dur": 0.928
+  },
+  {
+   "who": "gul",
+   "text": "September is ninth!",
+   "t": 169.009,
+   "dur": 1.178
+  },
+  {
+   "who": "mishu",
+   "text": "October is tenth!",
+   "t": 170.487,
+   "dur": 1.058
+  },
+  {
+   "who": "gul",
+   "text": "November is eleventh!",
+   "t": 171.846,
+   "dur": 1.373
+  },
+  {
+   "who": "mishu",
+   "text": "December is twelfth!",
+   "t": 173.519,
+   "dur": 1.155
+  },
+  {
+   "who": "mishu",
+   "text": "A year also has four seasons!",
+   "t": 175.873,
+   "dur": 1.7
+  },
+  {
+   "who": "gul",
+   "text": "Spring! Flowers grow, and baby animals are born!",
+   "t": 178.023,
+   "dur": 2.856
+  },
+  {
+   "who": "mishu",
+   "text": "Summer! It's hot and sunny!",
+   "t": 181.529,
+   "dur": 1.379
+  },
+  {
+   "who": "gul",
+   "text": "Autumn! Leaves fall from the trees!",
+   "t": 183.558,
+   "dur": 1.692
+  },
+  {
+   "who": "mishu",
+   "text": "Winter! It's cold and frosty!",
+   "t": 185.9,
+   "dur": 1.802
+  },
+  {
+   "who": "mishu",
+   "text": "A snowman? Which season?",
+   "t": 188.352,
+   "dur": 1.467
+  },
+  {
+   "who": "gul",
+   "text": "Winter!",
+   "t": 191.869,
+   "dur": 0.622
+  },
+  {
+   "who": "gul",
+   "text": "Watermelon? Which season?",
+   "t": 193.141,
+   "dur": 1.39
+  },
+  {
+   "who": "mishu",
+   "text": "Summer!",
+   "t": 196.581,
+   "dur": 0.542
+  },
+  {
+   "who": "mishu",
+   "text": "Falling leaves? Which season?",
+   "t": 197.774,
+   "dur": 1.597
+  },
+  {
+   "who": "gul",
+   "text": "Autumn!",
+   "t": 201.42,
+   "dur": 0.57
+  },
+  {
+   "who": "gul",
+   "text": "New flowers? Which season?",
+   "t": 202.64,
+   "dur": 1.439
+  },
+  {
+   "who": "mishu",
+   "text": "Spring!",
+   "t": 206.13,
+   "dur": 0.633
+  },
+  {
+   "who": "gul",
+   "text": "The weather changes every month! What do we wear?",
+   "t": 207.913,
+   "dur": 2.48
+  },
+  {
+   "who": "mishu",
+   "text": "It's January! What do we wear?",
+   "t": 210.842,
+   "dur": 1.778
+  },
+  {
+   "who": "gul",
+   "text": "A warm scarf! It's cold!",
+   "t": 214.771,
+   "dur": 1.468
+  },
+  {
+   "who": "gul",
+   "text": "It's April! What do we wear?",
+   "t": 216.889,
+   "dur": 1.347
+  },
+  {
+   "who": "mishu",
+   "text": "A raincoat! It's rainy!",
+   "t": 220.385,
+   "dur": 1.354
+  },
+  {
+   "who": "mishu",
+   "text": "It's July! What do we wear?",
+   "t": 222.389,
+   "dur": 1.56
+  },
+  {
+   "who": "gul",
+   "text": "A sun hat! It's hot!",
+   "t": 226.099,
+   "dur": 1.207
+  },
+  {
+   "who": "gul",
+   "text": "It's December! What do we wear?",
+   "t": 227.956,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "Warm boots! It's snowy!",
+   "t": 231.718,
+   "dur": 1.416
+  },
+  {
+   "who": "mishu",
+   "text": "Do you remember? Which month is it?",
+   "t": 234.283,
+   "dur": 1.937
+  },
+  {
+   "who": "gul",
+   "text": "Which month do we go back to school?",
+   "t": 236.67,
+   "dur": 1.726
+  },
+  {
+   "who": "mishu",
+   "text": "September!",
+   "t": 240.647,
+   "dur": 0.716
+  },
+  {
+   "who": "mishu",
+   "text": "Which month is the first month?",
+   "t": 242.013,
+   "dur": 1.707
+  },
+  {
+   "who": "gul",
+   "text": "January!",
+   "t": 245.97,
+   "dur": 0.769
+  },
+  {
+   "who": "gul",
+   "text": "Which month is cold, with a snowman?",
+   "t": 247.388,
+   "dur": 1.812
+  },
+  {
+   "who": "mishu",
+   "text": "December!",
+   "t": 251.45,
+   "dur": 0.673
+  },
+  {
+   "who": "mishu",
+   "text": "Which month has falling leaves?",
+   "t": 252.773,
+   "dur": 1.483
+  },
+  {
+   "who": "gul",
+   "text": "October!",
+   "t": 256.507,
+   "dur": 0.766
+  },
+  {
+   "who": "gul",
+   "text": "What month comes next? Think hard!",
+   "t": 258.423,
+   "dur": 1.782
+  },
+  {
+   "who": "mishu",
+   "text": "What comes after January?",
+   "t": 260.655,
+   "dur": 1.444
+  },
+  {
+   "who": "gul",
+   "text": "February!",
+   "t": 264.349,
+   "dur": 0.768
+  },
+  {
+   "who": "gul",
+   "text": "What comes after March?",
+   "t": 265.767,
+   "dur": 1.305
+  },
+  {
+   "who": "mishu",
+   "text": "April!",
+   "t": 269.322,
+   "dur": 0.587
+  },
+  {
+   "who": "mishu",
+   "text": "What comes after June?",
+   "t": 270.559,
+   "dur": 1.211
+  },
+  {
+   "who": "gul",
+   "text": "July!",
+   "t": 274.019,
+   "dur": 0.586
+  },
+  {
+   "who": "gul",
+   "text": "What comes after October?",
+   "t": 275.256,
+   "dur": 1.43
+  },
+  {
+   "who": "mishu",
+   "text": "November!",
+   "t": 278.936,
+   "dur": 0.688
+  },
+  {
+   "who": "mishu",
+   "text": "What comes after December?",
+   "t": 280.274,
+   "dur": 1.424
+  },
+  {
+   "who": "gul",
+   "text": "January!",
+   "t": 283.949,
+   "dur": 0.769
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids! Which month comes before?",
+   "t": 285.867,
+   "dur": 2.047
+  },
+  {
+   "who": "gul",
+   "text": "What comes before February?",
+   "t": 288.364,
+   "dur": 1.582
+  },
+  {
+   "who": "mishu",
+   "text": "January! Then February!",
+   "t": 292.196,
+   "dur": 1.749
+  },
+  {
+   "who": "mishu",
+   "text": "What comes before May?",
+   "t": 294.595,
+   "dur": 1.202
+  },
+  {
+   "who": "gul",
+   "text": "April! Then May!",
+   "t": 298.047,
+   "dur": 1.055
+  },
+  {
+   "who": "gul",
+   "text": "What comes before December?",
+   "t": 299.751,
+   "dur": 1.543
+  },
+  {
+   "who": "mishu",
+   "text": "November! Then December!",
+   "t": 303.544,
+   "dur": 1.579
+  },
+  {
+   "who": "mishu",
+   "text": "What comes before August?",
+   "t": 305.773,
+   "dur": 1.395
+  },
+  {
+   "who": "gul",
+   "text": "July! Then August!",
+   "t": 309.418,
+   "dur": 1.109
+  },
+  {
+   "who": "gul",
+   "text": "Oh no! A month is missing!",
+   "t": 311.677,
+   "dur": 1.495
+  },
+  {
+   "who": "mishu",
+   "text": "Which month is missing?",
+   "t": 313.622,
+   "dur": 1.301
+  },
+  {
+   "who": "gul",
+   "text": "March!",
+   "t": 317.573,
+   "dur": 0.581
+  },
+  {
+   "who": "gul",
+   "text": "Which month is missing?",
+   "t": 318.904,
+   "dur": 1.248
+  },
+  {
+   "who": "mishu",
+   "text": "July!",
+   "t": 322.802,
+   "dur": 0.543
+  },
+  {
+   "who": "mishu",
+   "text": "Which month is missing?",
+   "t": 324.095,
+   "dur": 1.301
+  },
+  {
+   "who": "gul",
+   "text": "November!",
+   "t": 328.046,
+   "dur": 0.713
+  },
+  {
+   "who": "mishu",
+   "text": "Some months start with the same letter!",
+   "t": 330.009,
+   "dur": 1.766
+  },
+  {
+   "who": "gul",
+   "text": "Three months start with J!",
+   "t": 332.225,
+   "dur": 1.402
+  },
+  {
+   "who": "both",
+   "text": "January",
+   "t": 333.977,
+   "dur": 0.737
+  },
+  {
+   "who": "both",
+   "text": "June",
+   "t": 335.065,
+   "dur": 0.51
+  },
+  {
+   "who": "both",
+   "text": "July",
+   "t": 335.925,
+   "dur": 0.543
+  },
+  {
+   "who": "mishu",
+   "text": "Two months start with M!",
+   "t": 337.217,
+   "dur": 1.292
+  },
+  {
+   "who": "both",
+   "text": "March",
+   "t": 338.859,
+   "dur": 0.556
+  },
+  {
+   "who": "both",
+   "text": "May",
+   "t": 339.765,
+   "dur": 0.437
+  },
+  {
+   "who": "gul",
+   "text": "Two months start with A!",
+   "t": 340.952,
+   "dur": 1.327
+  },
+  {
+   "who": "both",
+   "text": "April",
+   "t": 342.63,
+   "dur": 0.586
+  },
+  {
+   "who": "both",
+   "text": "August",
+   "t": 343.566,
+   "dur": 0.548
+  },
+  {
+   "who": "gul",
+   "text": "Days, weeks, months, and a year!",
+   "t": 345.364,
+   "dur": 1.622
+  },
+  {
+   "who": "mishu",
+   "text": "A day is one sleep!",
+   "t": 347.436,
+   "dur": 1.17
+  },
+  {
+   "who": "gul",
+   "text": "A week is seven days!",
+   "t": 349.256,
+   "dur": 1.344
+  },
+  {
+   "who": "mishu",
+   "text": "A month is about four weeks!",
+   "t": 351.251,
+   "dur": 1.61
+  },
+  {
+   "who": "gul",
+   "text": "And a year is twelve months!",
+   "t": 353.511,
+   "dur": 1.46
+  },
+  {
+   "who": "mishu",
+   "text": "Everyone has a birthday month!",
+   "t": 356.121,
+   "dur": 1.558
+  },
+  {
+   "who": "gul",
+   "text": "My birthday is in March!",
+   "t": 358.128,
+   "dur": 1.534
+  },
+  {
+   "who": "mishu",
+   "text": "My birthday is in August!",
+   "t": 360.212,
+   "dur": 1.485
+  },
+  {
+   "who": "both",
+   "text": "What month is your birthday?",
+   "t": 362.247,
+   "dur": 1.492
+  },
+  {
+   "who": "gul",
+   "text": "Clap along with our months rhyme!",
+   "t": 366.689,
+   "dur": 1.527
+  },
+  {
+   "who": "both",
+   "text": "January, February, snow and ice!",
+   "t": 368.666,
+   "dur": 2.207
+  },
+  {
+   "who": "both",
+   "text": "March and April, rain is nice!",
+   "t": 371.273,
+   "dur": 1.794
+  },
+  {
+   "who": "both",
+   "text": "May, June, July, sunny fun!",
+   "t": 373.467,
+   "dur": 1.439
+  },
+  {
+   "who": "both",
+   "text": "August, shining summer sun!",
+   "t": 375.307,
+   "dur": 1.649
+  },
+  {
+   "who": "both",
+   "text": "September, school, October leaves!",
+   "t": 377.356,
+   "dur": 2.182
+  },
+  {
+   "who": "both",
+   "text": "November wind blows through the trees!",
+   "t": 379.938,
+   "dur": 2.043
+  },
+  {
+   "who": "both",
+   "text": "December ends the year so bright!",
+   "t": 382.38,
+   "dur": 1.854
+  },
+  {
+   "who": "both",
+   "text": "Happy New Year, day and night!",
+   "t": 384.635,
+   "dur": 1.645
+  },
+  {
+   "who": "both",
+   "text": "January, February, snow and ice!",
+   "t": 386.68,
+   "dur": 2.207
+  },
+  {
+   "who": "both",
+   "text": "March and April, rain is nice!",
+   "t": 389.287,
+   "dur": 1.794
+  },
+  {
+   "who": "both",
+   "text": "May, June, July, sunny fun!",
+   "t": 391.482,
+   "dur": 1.439
+  },
+  {
+   "who": "both",
+   "text": "August, shining summer sun!",
+   "t": 393.321,
+   "dur": 1.649
+  },
+  {
+   "who": "both",
+   "text": "September, school, October leaves!",
+   "t": 395.37,
+   "dur": 2.182
+  },
+  {
+   "who": "both",
+   "text": "November wind blows through the trees!",
+   "t": 397.952,
+   "dur": 2.043
+  },
+  {
+   "who": "both",
+   "text": "December ends the year so bright!",
+   "t": 400.395,
+   "dur": 1.854
+  },
+  {
+   "who": "both",
+   "text": "Happy New Year, day and night!",
+   "t": 402.649,
+   "dur": 1.645
+  },
+  {
+   "who": "mishu",
+   "text": "After December, a new year begins!",
+   "t": 405.494,
+   "dur": 2.151
+  },
+  {
+   "who": "gul",
+   "text": "It's the last night of the year! Happy New Year's Eve!",
+   "t": 408.095,
+   "dur": 2.624
+  },
+  {
+   "who": "mishu",
+   "text": "At twelve o'clock, the new year begins!",
+   "t": 411.369,
+   "dur": 2.039
+  },
+  {
+   "who": "mishu",
+   "text": "Let's count down together!",
+   "t": 414.058,
+   "dur": 1.33
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 415.638,
+   "dur": 0.503
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 416.431,
+   "dur": 0.528
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 417.249,
+   "dur": 0.508
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 418.047,
+   "dur": 0.608
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 418.945,
+   "dur": 0.579
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 419.814,
+   "dur": 0.575
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 420.678,
+   "dur": 0.536
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 421.505,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 422.333,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 423.087,
+   "dur": 0.485
+  },
+  {
+   "who": "both",
+   "text": "Happy New Year!",
+   "t": 423.863,
+   "dur": 0.935
+  },
+  {
+   "who": "gul",
+   "text": "In the new year, we can try to be even better!",
+   "t": 426.648,
+   "dur": 2.164
+  },
+  {
+   "who": "mishu",
+   "text": "Be kind to everyone!",
+   "t": 429.261,
+   "dur": 1.16
+  },
+  {
+   "who": "gul",
+   "text": "Help at home!",
+   "t": 431.071,
+   "dur": 0.861
+  },
+  {
+   "who": "mishu",
+   "text": "Read more books!",
+   "t": 432.582,
+   "dur": 0.993
+  },
+  {
+   "who": "gul",
+   "text": "Try new things!",
+   "t": 434.225,
+   "dur": 0.981
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! Let's do the months dance!",
+   "t": 436.356,
+   "dur": 1.898
+  },
+  {
+   "who": "both",
+   "text": "January, jump!",
+   "t": 438.704,
+   "dur": 1.076
+  },
+  {
+   "who": "both",
+   "text": "March, march, march!",
+   "t": 441.53,
+   "dur": 1.175
+  },
+  {
+   "who": "both",
+   "text": "May, sway, sway!",
+   "t": 444.455,
+   "dur": 1.014
+  },
+  {
+   "who": "both",
+   "text": "July, shake it high!",
+   "t": 447.219,
+   "dur": 1.12
+  },
+  {
+   "who": "both",
+   "text": "October, spin like a leaf!",
+   "t": 450.09,
+   "dur": 1.532
+  },
+  {
+   "who": "both",
+   "text": "Happy New Year! Hooray!",
+   "t": 453.371,
+   "dur": 1.298
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 456.42,
+   "dur": 1.029
+  },
+  {
+   "who": "both",
+   "text": "January, jump!",
+   "t": 457.798,
+   "dur": 1.076
+  },
+  {
+   "who": "both",
+   "text": "March, march, march!",
+   "t": 459.924,
+   "dur": 1.175
+  },
+  {
+   "who": "both",
+   "text": "May, sway, sway!",
+   "t": 462.149,
+   "dur": 1.014
+  },
+  {
+   "who": "both",
+   "text": "July, shake it high!",
+   "t": 464.214,
+   "dur": 1.12
+  },
+  {
+   "who": "both",
+   "text": "October, spin like a leaf!",
+   "t": 466.384,
+   "dur": 1.532
+  },
+  {
+   "who": "both",
+   "text": "Happy New Year! Hooray!",
+   "t": 468.965,
+   "dur": 1.298
+  },
+  {
+   "who": "gul",
+   "text": "Quick quiz time! Are you ready?",
+   "t": 471.814,
+   "dur": 1.506
+  },
+  {
+   "who": "gul",
+   "text": "How many months are in a year?",
+   "t": 473.77,
+   "dur": 1.498
+  },
+  {
+   "who": "mishu",
+   "text": "Twelve!",
+   "t": 477.918,
+   "dur": 0.607
+  },
+  {
+   "who": "mishu",
+   "text": "Which month comes first?",
+   "t": 479.175,
+   "dur": 1.302
+  },
+  {
+   "who": "gul",
+   "text": "January!",
+   "t": 483.126,
+   "dur": 0.769
+  },
+  {
+   "who": "gul",
+   "text": "Which month is the shortest?",
+   "t": 484.545,
+   "dur": 1.423
+  },
+  {
+   "who": "mishu",
+   "text": "February!",
+   "t": 488.618,
+   "dur": 0.757
+  },
+  {
+   "who": "mishu",
+   "text": "Which month is the last one?",
+   "t": 490.025,
+   "dur": 1.521
+  },
+  {
+   "who": "gul",
+   "text": "December!",
+   "t": 494.196,
+   "dur": 0.681
+  },
+  {
+   "who": "mishu",
+   "text": "Now you know all twelve months!",
+   "t": 495.527,
+   "dur": 1.495
+  },
+  {
+   "who": "both",
+   "text": "Happy New Year, friends! Bye bye!",
+   "t": 497.372,
+   "dur": 1.963
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "city",
+   "t0": 0.0,
+   "boom_t": 0.0,
+   "title_t": 1.2,
+   "kids_t": 2.485,
+   "t1": 8.204
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 8.204,
+   "title": "12 MONTHS!",
+   "t1": 10.847
+  },
+  {
+   "kind": "twelve",
+   "bg": "playroom",
+   "t0": 10.847,
+   "ts": [
+    10.847,
+    11.916,
+    12.973,
+    13.854,
+    14.741,
+    15.517,
+    16.334,
+    17.22,
+    18.109,
+    19.197,
+    20.206,
+    21.219
+   ],
+   "sum_t": 22.192,
+   "t1": 24.516
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 24.516,
+   "title": "SAY THEM WITH US!",
+   "t1": 28.688
+  },
+  {
+   "kind": "chant",
+   "bg": "playroom",
+   "t0": 28.688,
+   "label": "SLOW",
+   "ts": [
+    28.688,
+    29.875,
+    31.087,
+    32.093,
+    33.129,
+    34.016,
+    34.976,
+    35.969,
+    36.967,
+    38.192,
+    39.348,
+    40.454
+   ],
+   "end_t": 41.584,
+   "t1": 42.084
+  },
+  {
+   "kind": "chant",
+   "bg": "playroom",
+   "t0": 42.084,
+   "label": "FAST",
+   "ts": [
+    42.99,
+    43.977,
+    44.989,
+    45.795,
+    46.631,
+    47.319,
+    48.079,
+    48.871,
+    49.669,
+    50.694,
+    51.651,
+    52.556
+   ],
+   "end_t": 53.486,
+   "t1": 53.986
+  },
+  {
+   "kind": "chant",
+   "bg": "playroom",
+   "t0": 53.986,
+   "label": "SUPER FAST!",
+   "ts": [
+    55.144,
+    56.031,
+    56.943,
+    57.649,
+    58.385,
+    58.972,
+    59.632,
+    60.325,
+    61.023,
+    61.948,
+    62.804,
+    63.61
+   ],
+   "end_t": 64.44,
+   "t1": 64.94
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 64.94,
+   "title": "OUR YEAR!",
+   "t1": 67.649
+  },
+  {
+   "kind": "month",
+   "bg": "northpole",
+   "t0": 67.649,
+   "m": 0,
+   "key": "snowflake",
+   "w": "COLD!",
+   "day_t": 67.649,
+   "act_t": 68.668,
+   "t1": 76.096
+  },
+  {
+   "kind": "month",
+   "bg": "northpole",
+   "t0": 76.096,
+   "m": 1,
+   "key": "heart",
+   "w": "SHORTEST!",
+   "day_t": 76.096,
+   "act_t": 77.113,
+   "t1": 83.636
+  },
+  {
+   "kind": "month",
+   "bg": "park",
+   "t0": 83.636,
+   "m": 2,
+   "key": "blossom",
+   "w": "FLOWERS!",
+   "day_t": 83.636,
+   "act_t": 84.468,
+   "t1": 90.23
+  },
+  {
+   "kind": "month",
+   "bg": "patch",
+   "t0": 90.23,
+   "m": 3,
+   "key": "rainy",
+   "w": "RAIN!",
+   "day_t": 90.23,
+   "act_t": 91.067,
+   "t1": 97.497
+  },
+  {
+   "kind": "month",
+   "bg": "park",
+   "t0": 97.497,
+   "m": 4,
+   "key": "kite",
+   "w": "KITE!",
+   "day_t": 97.497,
+   "act_t": 98.226,
+   "t1": 104.496
+  },
+  {
+   "kind": "month",
+   "bg": "beach",
+   "t0": 104.496,
+   "m": 5,
+   "key": "sunny",
+   "w": "SUNNY!",
+   "day_t": 104.496,
+   "act_t": 105.263,
+   "t1": 110.977
+  },
+  {
+   "kind": "month",
+   "bg": "beach",
+   "t0": 110.977,
+   "m": 6,
+   "key": "icecream2",
+   "w": "ICE CREAM!",
+   "day_t": 110.977,
+   "act_t": 111.813,
+   "t1": 118.285
+  },
+  {
+   "kind": "month",
+   "bg": "beach",
+   "t0": 118.285,
+   "m": 7,
+   "key": "watermelon",
+   "w": "WATERMELON!",
+   "day_t": 118.285,
+   "act_t": 119.124,
+   "t1": 125.161
+  },
+  {
+   "kind": "month",
+   "bg": "board",
+   "t0": 125.161,
+   "m": 8,
+   "key": "schoolbag",
+   "w": "SCHOOL!",
+   "day_t": 125.161,
+   "act_t": 126.198,
+   "t1": 132.313
+  },
+  {
+   "kind": "month",
+   "bg": "tree",
+   "t0": 132.313,
+   "m": 9,
+   "key": "autumnleaf",
+   "w": "LEAVES!",
+   "day_t": 132.313,
+   "act_t": 133.329,
+   "t1": 139.911
+  },
+  {
+   "kind": "month",
+   "bg": "tree",
+   "t0": 139.911,
+   "m": 10,
+   "key": "scarf",
+   "w": "CHILLY!",
+   "day_t": 139.911,
+   "act_t": 140.873,
+   "t1": 147.947
+  },
+  {
+   "kind": "month",
+   "bg": "xmasroom",
+   "t0": 147.947,
+   "m": 11,
+   "key": "snowman",
+   "w": "LAST MONTH!",
+   "day_t": 147.947,
+   "act_t": 148.878,
+   "t1": 155.755
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 155.755,
+   "title": "FIRST TO TWELFTH!",
+   "t1": 158.493
+  },
+  {
+   "kind": "ordinal",
+   "bg": "playroom",
+   "t0": 158.493,
+   "ts": [
+    158.493,
+    160.014,
+    161.426,
+    162.725,
+    164.019,
+    165.133,
+    166.42,
+    167.781,
+    169.009,
+    170.487,
+    171.846,
+    173.519
+   ],
+   "t1": 175.373
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 175.373,
+   "title": "FOUR SEASONS!",
+   "t1": 178.023
+  },
+  {
+   "kind": "season",
+   "bg": "park",
+   "t0": 178.023,
+   "name": "spring",
+   "key": "blossom",
+   "say_t": 178.023,
+   "t1": 181.529
+  },
+  {
+   "kind": "season",
+   "bg": "park",
+   "t0": 181.529,
+   "name": "summer",
+   "key": "sunny",
+   "say_t": 181.529,
+   "t1": 183.558
+  },
+  {
+   "kind": "season",
+   "bg": "park",
+   "t0": 183.558,
+   "name": "autumn",
+   "key": "autumnleaf",
+   "say_t": 183.558,
+   "t1": 185.9
+  },
+  {
+   "kind": "season",
+   "bg": "park",
+   "t0": 185.9,
+   "name": "winter",
+   "key": "snowman",
+   "say_t": 185.9,
+   "t1": 188.352
+  },
+  {
+   "kind": "seasort",
+   "bg": "park",
+   "t0": 188.352,
+   "key": "snowman",
+   "name": "winter",
+   "answer_t": 191.869,
+   "t1": 193.141
+  },
+  {
+   "kind": "seasort",
+   "bg": "park",
+   "t0": 193.141,
+   "key": "watermelon",
+   "name": "summer",
+   "answer_t": 196.581,
+   "t1": 197.774
+  },
+  {
+   "kind": "seasort",
+   "bg": "park",
+   "t0": 197.774,
+   "key": "autumnleaf",
+   "name": "autumn",
+   "answer_t": 201.42,
+   "t1": 202.64
+  },
+  {
+   "kind": "seasort",
+   "bg": "park",
+   "t0": 202.64,
+   "key": "blossom",
+   "name": "spring",
+   "answer_t": 206.13,
+   "t1": 207.413
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 207.413,
+   "title": "WHAT DO WE WEAR?",
+   "t1": 210.842
+  },
+  {
+   "kind": "wear",
+   "bg": "playroom",
+   "t0": 210.842,
+   "m": 0,
+   "keys": [
+    "scarf",
+    "sunhat"
+   ],
+   "good": "scarf",
+   "answer_t": 214.771,
+   "t1": 216.889
+  },
+  {
+   "kind": "wear",
+   "bg": "playroom",
+   "t0": 216.889,
+   "m": 3,
+   "keys": [
+    "raincoat",
+    "sunglasses"
+   ],
+   "good": "raincoat",
+   "answer_t": 220.385,
+   "t1": 222.389
+  },
+  {
+   "kind": "wear",
+   "bg": "playroom",
+   "t0": 222.389,
+   "m": 6,
+   "keys": [
+    "sunhat",
+    "scarf"
+   ],
+   "good": "sunhat",
+   "answer_t": 226.099,
+   "t1": 227.956
+  },
+  {
+   "kind": "wear",
+   "bg": "playroom",
+   "t0": 227.956,
+   "m": 11,
+   "keys": [
+    "sunglasses",
+    "boots"
+   ],
+   "good": "boots",
+   "answer_t": 231.718,
+   "t1": 233.783
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 233.783,
+   "title": "WHICH MONTH?",
+   "t1": 236.67
+  },
+  {
+   "kind": "whichm",
+   "bg": "playroom",
+   "t0": 236.67,
+   "q": "WHICH MONTH DO WE GO BACK TO SCHOOL?",
+   "ms": [
+    0,
+    8,
+    5
+   ],
+   "good": 8,
+   "answer_t": 240.647,
+   "t1": 242.013
+  },
+  {
+   "kind": "whichm",
+   "bg": "playroom",
+   "t0": 242.013,
+   "q": "WHICH MONTH IS THE FIRST MONTH?",
+   "ms": [
+    11,
+    0,
+    6
+   ],
+   "good": 0,
+   "answer_t": 245.97,
+   "t1": 247.388
+  },
+  {
+   "kind": "whichm",
+   "bg": "playroom",
+   "t0": 247.388,
+   "q": "WHICH MONTH IS COLD, WITH A SNOWMAN?",
+   "ms": [
+    11,
+    6,
+    7
+   ],
+   "good": 11,
+   "answer_t": 251.45,
+   "t1": 252.773
+  },
+  {
+   "kind": "whichm",
+   "bg": "playroom",
+   "t0": 252.773,
+   "q": "WHICH MONTH HAS FALLING LEAVES?",
+   "ms": [
+    2,
+    9,
+    5
+   ],
+   "good": 9,
+   "answer_t": 256.507,
+   "t1": 257.923
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 257.923,
+   "title": "WHAT COMES NEXT?",
+   "t1": 260.655
+  },
+  {
+   "kind": "seq",
+   "bg": "playroom",
+   "t0": 260.655,
+   "m": 0,
+   "ans": 1,
+   "first": false,
+   "answer_t": 264.349,
+   "t1": 265.767
+  },
+  {
+   "kind": "seq",
+   "bg": "playroom",
+   "t0": 265.767,
+   "m": 2,
+   "ans": 3,
+   "first": false,
+   "answer_t": 269.322,
+   "t1": 270.559
+  },
+  {
+   "kind": "seq",
+   "bg": "playroom",
+   "t0": 270.559,
+   "m": 5,
+   "ans": 6,
+   "first": false,
+   "answer_t": 274.019,
+   "t1": 275.256
+  },
+  {
+   "kind": "seq",
+   "bg": "playroom",
+   "t0": 275.256,
+   "m": 9,
+   "ans": 10,
+   "first": false,
+   "answer_t": 278.936,
+   "t1": 280.274
+  },
+  {
+   "kind": "seq",
+   "bg": "playroom",
+   "t0": 280.274,
+   "m": 11,
+   "ans": 0,
+   "first": false,
+   "answer_t": 283.949,
+   "t1": 285.367
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 285.367,
+   "title": "WHAT COMES BEFORE?",
+   "t1": 288.364
+  },
+  {
+   "kind": "seq",
+   "bg": "playroom",
+   "t0": 288.364,
+   "m": 1,
+   "ans": 0,
+   "first": true,
+   "answer_t": 292.196,
+   "t1": 294.595
+  },
+  {
+   "kind": "seq",
+   "bg": "playroom",
+   "t0": 294.595,
+   "m": 4,
+   "ans": 3,
+   "first": true,
+   "answer_t": 298.047,
+   "t1": 299.751
+  },
+  {
+   "kind": "seq",
+   "bg": "playroom",
+   "t0": 299.751,
+   "m": 11,
+   "ans": 10,
+   "first": true,
+   "answer_t": 303.544,
+   "t1": 305.773
+  },
+  {
+   "kind": "seq",
+   "bg": "playroom",
+   "t0": 305.773,
+   "m": 7,
+   "ans": 6,
+   "first": true,
+   "answer_t": 309.418,
+   "t1": 311.177
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 311.177,
+   "title": "WHICH MONTH IS MISSING?",
+   "t1": 313.622
+  },
+  {
+   "kind": "missing",
+   "bg": "playroom",
+   "t0": 313.622,
+   "miss": 2,
+   "answer_t": 317.573,
+   "t1": 318.904
+  },
+  {
+   "kind": "missing",
+   "bg": "playroom",
+   "t0": 318.904,
+   "miss": 6,
+   "answer_t": 322.802,
+   "t1": 324.095
+  },
+  {
+   "kind": "missing",
+   "bg": "playroom",
+   "t0": 324.095,
+   "miss": 10,
+   "answer_t": 328.046,
+   "t1": 329.509
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 329.509,
+   "title": "FIRST LETTERS!",
+   "t1": 332.225
+  },
+  {
+   "kind": "letters",
+   "bg": "playroom",
+   "t0": 332.225,
+   "L": "J",
+   "ms": [
+    0,
+    5,
+    6
+   ],
+   "say_t": 332.225,
+   "ts": [
+    333.977,
+    335.065,
+    335.925
+   ],
+   "t1": 337.217
+  },
+  {
+   "kind": "letters",
+   "bg": "playroom",
+   "t0": 337.217,
+   "L": "M",
+   "ms": [
+    2,
+    4
+   ],
+   "say_t": 337.217,
+   "ts": [
+    338.859,
+    339.765
+   ],
+   "t1": 340.952
+  },
+  {
+   "kind": "letters",
+   "bg": "playroom",
+   "t0": 340.952,
+   "L": "A",
+   "ms": [
+    3,
+    7
+   ],
+   "say_t": 340.952,
+   "ts": [
+    342.63,
+    343.566
+   ],
+   "t1": 344.864
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 344.864,
+   "title": "HOW LONG IS A YEAR?",
+   "t1": 347.436
+  },
+  {
+   "kind": "how",
+   "bg": "playroom",
+   "t0": 347.436,
+   "key": "day",
+   "k": 0,
+   "say_t": 347.436,
+   "t1": 349.256
+  },
+  {
+   "kind": "how",
+   "bg": "playroom",
+   "t0": 349.256,
+   "key": "week",
+   "k": 1,
+   "say_t": 349.256,
+   "t1": 351.251
+  },
+  {
+   "kind": "how",
+   "bg": "playroom",
+   "t0": 351.251,
+   "key": "month",
+   "k": 2,
+   "say_t": 351.251,
+   "t1": 353.511
+  },
+  {
+   "kind": "how",
+   "bg": "playroom",
+   "t0": 353.511,
+   "key": "year",
+   "k": 3,
+   "say_t": 353.511,
+   "t1": 355.621
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 355.621,
+   "title": "MY BIRTHDAY MONTH!",
+   "t1": 358.128
+  },
+  {
+   "kind": "bday",
+   "bg": "playroom",
+   "t0": 358.128,
+   "who": "gul",
+   "m": 2,
+   "say_t": 358.128,
+   "t1": 360.212
+  },
+  {
+   "kind": "bday",
+   "bg": "playroom",
+   "t0": 360.212,
+   "who": "mishu",
+   "m": 7,
+   "say_t": 360.212,
+   "t1": 362.247
+  },
+  {
+   "kind": "bday",
+   "bg": "playroom",
+   "t0": 362.247,
+   "who": "both",
+   "m": -1,
+   "t1": 366.189
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 366.189,
+   "title": "MONTHS RHYME!",
+   "t1": 368.666
+  },
+  {
+   "kind": "rhyme",
+   "bg": "playroom",
+   "t0": 368.666,
+   "l": [
+    368.666,
+    371.273,
+    373.467,
+    375.307,
+    377.356,
+    379.938,
+    382.38,
+    384.635,
+    386.68,
+    389.287,
+    391.482,
+    393.321,
+    395.37,
+    397.952,
+    400.395,
+    402.649
+   ],
+   "t1": 404.994
+  },
+  {
+   "kind": "title",
+   "bg": "city",
+   "t0": 404.994,
+   "title": "NEW YEAR'S EVE!",
+   "t1": 408.095
+  },
+  {
+   "kind": "eve",
+   "bg": "city",
+   "t0": 408.095,
+   "key": "party",
+   "say_t": 408.095,
+   "t1": 411.369
+  },
+  {
+   "kind": "eve",
+   "bg": "city",
+   "t0": 411.369,
+   "key": "clock12",
+   "say_t": 411.369,
+   "t1": 414.058
+  },
+  {
+   "kind": "countdown",
+   "bg": "city",
+   "t0": 414.058,
+   "ts": [
+    415.638,
+    416.431,
+    417.249,
+    418.047,
+    418.945,
+    419.814,
+    420.678,
+    421.505,
+    422.333,
+    423.087
+   ],
+   "go_t": 423.863,
+   "t1": 426.148
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 426.148,
+   "title": "NEW YEAR PROMISES!",
+   "t1": 429.261
+  },
+  {
+   "kind": "wish",
+   "bg": "playroom",
+   "t0": 429.261,
+   "w": "BE KIND!",
+   "key": "heart",
+   "say_t": 429.261,
+   "t1": 431.071
+  },
+  {
+   "kind": "wish",
+   "bg": "playroom",
+   "t0": 431.071,
+   "w": "HELP!",
+   "key": "watering",
+   "say_t": 431.071,
+   "t1": 432.582
+  },
+  {
+   "kind": "wish",
+   "bg": "playroom",
+   "t0": 432.582,
+   "w": "READ!",
+   "key": "book",
+   "say_t": 432.582,
+   "t1": 434.225
+  },
+  {
+   "kind": "wish",
+   "bg": "playroom",
+   "t0": 434.225,
+   "w": "TRY!",
+   "key": "star",
+   "say_t": 434.225,
+   "t1": 435.856
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 435.856,
+   "title": "MONTHS DANCE!",
+   "t1": 438.704
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 438.704,
+   "move": "jump",
+   "fast": false,
+   "word": "JANUARY, JUMP!",
+   "say_t": 438.704,
+   "t1": 441.53
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 441.53,
+   "move": "march",
+   "fast": false,
+   "word": "MARCH, MARCH, MARCH!",
+   "say_t": 441.53,
+   "t1": 444.455
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 444.455,
+   "move": "sway",
+   "fast": false,
+   "word": "MAY, SWAY, SWAY!",
+   "say_t": 444.455,
+   "t1": 447.219
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 447.219,
+   "move": "shake",
+   "fast": false,
+   "word": "JULY, SHAKE IT HIGH!",
+   "say_t": 447.219,
+   "t1": 450.09
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 450.09,
+   "move": "spin",
+   "fast": false,
+   "word": "OCTOBER, SPIN LIKE A LEAF!",
+   "say_t": 450.09,
+   "t1": 453.371
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 453.371,
+   "move": "jump",
+   "fast": false,
+   "word": "HAPPY NEW YEAR!",
+   "say_t": 453.371,
+   "t1": 456.42
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 456.42,
+   "title": "FASTER!",
+   "t1": 457.798
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 457.798,
+   "move": "jump",
+   "fast": true,
+   "word": "JANUARY, JUMP!",
+   "say_t": 457.798,
+   "t1": 459.924
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 459.924,
+   "move": "march",
+   "fast": true,
+   "word": "MARCH, MARCH, MARCH!",
+   "say_t": 459.924,
+   "t1": 462.149
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 462.149,
+   "move": "sway",
+   "fast": true,
+   "word": "MAY, SWAY, SWAY!",
+   "say_t": 462.149,
+   "t1": 464.214
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 464.214,
+   "move": "shake",
+   "fast": true,
+   "word": "JULY, SHAKE IT HIGH!",
+   "say_t": 464.214,
+   "t1": 466.384
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 466.384,
+   "move": "spin",
+   "fast": true,
+   "word": "OCTOBER, SPIN LIKE A LEAF!",
+   "say_t": 466.384,
+   "t1": 468.965
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom",
+   "t0": 468.965,
+   "move": "jump",
+   "fast": true,
+   "word": "HAPPY NEW YEAR!",
+   "say_t": 468.965,
+   "t1": 471.314
+  },
+  {
+   "kind": "title",
+   "bg": "playroom",
+   "t0": 471.314,
+   "title": "MONTHS QUIZ!",
+   "t1": 473.77
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom",
+   "t0": 473.77,
+   "q": "HOW MANY MONTHS ARE IN A YEAR?",
+   "vis": "12",
+   "answer_t": 477.918,
+   "t1": 479.175
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom",
+   "t0": 479.175,
+   "q": "WHICH MONTH COMES FIRST?",
+   "vis": "JANUARY",
+   "answer_t": 483.126,
+   "t1": 484.545
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom",
+   "t0": 484.545,
+   "q": "WHICH MONTH IS THE SHORTEST?",
+   "vis": "FEBRUARY",
+   "answer_t": 488.618,
+   "t1": 490.025
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom",
+   "t0": 490.025,
+   "q": "WHICH MONTH IS THE LAST ONE?",
+   "vis": "DECEMBER",
+   "answer_t": 494.196,
+   "t1": 495.527
+  },
+  {
+   "kind": "outro",
+   "bg": "city",
+   "t0": 495.527,
+   "bye_t": 497.372,
+   "t1": 501.285
+  }
+ ],
+ "prompts": [
+  [
+   74.896,
+   76.096
+  ],
+  [
+   82.436,
+   83.636
+  ],
+  [
+   89.03,
+   90.23
+  ],
+  [
+   96.297,
+   97.497
+  ],
+  [
+   103.296,
+   104.496
+  ],
+  [
+   109.777,
+   110.977
+  ],
+  [
+   117.085,
+   118.285
+  ],
+  [
+   123.961,
+   125.161
+  ],
+  [
+   131.113,
+   132.313
+  ],
+  [
+   138.711,
+   139.911
+  ],
+  [
+   146.747,
+   147.947
+  ],
+  [
+   154.555,
+   155.755
+  ],
+  [
+   190.069,
+   191.869
+  ],
+  [
+   194.781,
+   196.581
+  ],
+  [
+   199.62,
+   201.42
+  ],
+  [
+   204.33,
+   206.13
+  ],
+  [
+   212.871,
+   214.771
+  ],
+  [
+   218.485,
+   220.385
+  ],
+  [
+   224.199,
+   226.099
+  ],
+  [
+   229.818,
+   231.718
+  ],
+  [
+   238.647,
+   240.647
+  ],
+  [
+   243.97,
+   245.97
+  ],
+  [
+   249.45,
+   251.45
+  ],
+  [
+   254.507,
+   256.507
+  ],
+  [
+   262.349,
+   264.349
+  ],
+  [
+   267.322,
+   269.322
+  ],
+  [
+   272.019,
+   274.019
+  ],
+  [
+   276.936,
+   278.936
+  ],
+  [
+   281.949,
+   283.949
+  ],
+  [
+   290.196,
+   292.196
+  ],
+  [
+   296.047,
+   298.047
+  ],
+  [
+   301.544,
+   303.544
+  ],
+  [
+   307.418,
+   309.418
+  ],
+  [
+   315.173,
+   317.573
+  ],
+  [
+   320.402,
+   322.802
+  ],
+  [
+   325.646,
+   328.046
+  ],
+  [
+   363.989,
+   366.189
+  ],
+  [
+   439.93,
+   441.53
+  ],
+  [
+   442.855,
+   444.455
+  ],
+  [
+   445.619,
+   447.219
+  ],
+  [
+   448.49,
+   450.09
+  ],
+  [
+   451.771,
+   453.371
+  ],
+  [
+   454.82,
+   456.42
+  ],
+  [
+   459.024,
+   459.924
+  ],
+  [
+   461.249,
+   462.149
+  ],
+  [
+   463.314,
+   464.214
+  ],
+  [
+   465.484,
+   466.384
+  ],
+  [
+   468.065,
+   468.965
+  ],
+  [
+   470.414,
+   471.314
+  ],
+  [
+   475.518,
+   477.918
+  ],
+  [
+   480.726,
+   483.126
+  ],
+  [
+   486.218,
+   488.618
+  ],
+  [
+   491.796,
+   494.196
+  ]
+ ],
+ "stars": [
+  479.175,
+  484.545,
+  490.025,
+  495.527
+ ],
+ "total": 501.28
+}

@@ -1,0 +1,2826 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "First words!",
+   "t": 0.2,
+   "dur": 0.884
+  },
+  {
+   "who": "mishu",
+   "text": "Hello, baby! Hello, toddler! Let's learn to talk!",
+   "t": 1.534,
+   "dur": 2.856
+  },
+  {
+   "who": "gul",
+   "text": "We say a word. Then it's your turn! Ready?",
+   "t": 4.84,
+   "dur": 2.106
+  },
+  {
+   "who": "mishu",
+   "text": "Say hi! Hi!",
+   "t": 7.596,
+   "dur": 0.936
+  },
+  {
+   "who": "gul",
+   "text": "Good job! Hi!",
+   "t": 10.982,
+   "dur": 0.957
+  },
+  {
+   "who": "gul",
+   "text": "Let's say our family words!",
+   "t": 13.089,
+   "dur": 1.459
+  },
+  {
+   "who": "mishu",
+   "text": "Mama.",
+   "t": 14.998,
+   "dur": 0.541
+  },
+  {
+   "who": "mishu",
+   "text": "Mama!",
+   "t": 16.189,
+   "dur": 0.538
+  },
+  {
+   "who": "gul",
+   "text": "I love Mama!",
+   "t": 19.277,
+   "dur": 0.9
+  },
+  {
+   "who": "gul",
+   "text": "Papa.",
+   "t": 20.827,
+   "dur": 0.572
+  },
+  {
+   "who": "gul",
+   "text": "Papa!",
+   "t": 22.049,
+   "dur": 0.569
+  },
+  {
+   "who": "mishu",
+   "text": "Hello, Papa!",
+   "t": 25.168,
+   "dur": 0.875
+  },
+  {
+   "who": "mishu",
+   "text": "Baby.",
+   "t": 26.693,
+   "dur": 0.563
+  },
+  {
+   "who": "mishu",
+   "text": "Baby!",
+   "t": 27.907,
+   "dur": 0.563
+  },
+  {
+   "who": "gul",
+   "text": "A happy baby!",
+   "t": 31.019,
+   "dur": 0.961
+  },
+  {
+   "who": "mishu",
+   "text": "Let's say animal words!",
+   "t": 33.13,
+   "dur": 1.392
+  },
+  {
+   "who": "mishu",
+   "text": "Dog.",
+   "t": 34.972,
+   "dur": 0.523
+  },
+  {
+   "who": "mishu",
+   "text": "Dog!",
+   "t": 36.145,
+   "dur": 0.506
+  },
+  {
+   "who": "gul",
+   "text": "Woof, woof! A dog!",
+   "t": 39.201,
+   "dur": 1.145
+  },
+  {
+   "who": "gul",
+   "text": "Cat.",
+   "t": 40.996,
+   "dur": 0.41
+  },
+  {
+   "who": "gul",
+   "text": "Cat!",
+   "t": 42.056,
+   "dur": 0.442
+  },
+  {
+   "who": "mishu",
+   "text": "Meow! A cat!",
+   "t": 45.048,
+   "dur": 1.065
+  },
+  {
+   "who": "mishu",
+   "text": "Duck.",
+   "t": 46.763,
+   "dur": 0.531
+  },
+  {
+   "who": "mishu",
+   "text": "Duck!",
+   "t": 47.944,
+   "dur": 0.535
+  },
+  {
+   "who": "gul",
+   "text": "Quack, quack! A duck!",
+   "t": 51.029,
+   "dur": 1.149
+  },
+  {
+   "who": "gul",
+   "text": "Bird.",
+   "t": 52.828,
+   "dur": 0.525
+  },
+  {
+   "who": "gul",
+   "text": "Bird!",
+   "t": 54.003,
+   "dur": 0.511
+  },
+  {
+   "who": "mishu",
+   "text": "Tweet, tweet! A bird!",
+   "t": 57.064,
+   "dur": 1.332
+  },
+  {
+   "who": "mishu",
+   "text": "Fish.",
+   "t": 59.046,
+   "dur": 0.548
+  },
+  {
+   "who": "mishu",
+   "text": "Fish!",
+   "t": 60.245,
+   "dur": 0.551
+  },
+  {
+   "who": "gul",
+   "text": "Splash! A fish!",
+   "t": 63.345,
+   "dur": 1.022
+  },
+  {
+   "who": "gul",
+   "text": "Pig.",
+   "t": 65.018,
+   "dur": 0.523
+  },
+  {
+   "who": "gul",
+   "text": "Pig!",
+   "t": 66.191,
+   "dur": 0.507
+  },
+  {
+   "who": "mishu",
+   "text": "Oink, oink! A pig!",
+   "t": 69.248,
+   "dur": 1.16
+  },
+  {
+   "who": "gul",
+   "text": "Are you hungry? Let's say food words!",
+   "t": 71.559,
+   "dur": 2.008
+  },
+  {
+   "who": "mishu",
+   "text": "Milk.",
+   "t": 74.016,
+   "dur": 0.544
+  },
+  {
+   "who": "mishu",
+   "text": "Milk!",
+   "t": 75.21,
+   "dur": 0.568
+  },
+  {
+   "who": "gul",
+   "text": "Yummy milk!",
+   "t": 78.328,
+   "dur": 0.797
+  },
+  {
+   "who": "gul",
+   "text": "Water.",
+   "t": 79.775,
+   "dur": 0.55
+  },
+  {
+   "who": "gul",
+   "text": "Water!",
+   "t": 80.975,
+   "dur": 0.546
+  },
+  {
+   "who": "mishu",
+   "text": "Drink your water!",
+   "t": 84.071,
+   "dur": 0.895
+  },
+  {
+   "who": "mishu",
+   "text": "Apple.",
+   "t": 85.616,
+   "dur": 0.562
+  },
+  {
+   "who": "mishu",
+   "text": "Apple!",
+   "t": 86.828,
+   "dur": 0.562
+  },
+  {
+   "who": "gul",
+   "text": "A red apple!",
+   "t": 89.941,
+   "dur": 0.861
+  },
+  {
+   "who": "gul",
+   "text": "Banana.",
+   "t": 91.452,
+   "dur": 0.64
+  },
+  {
+   "who": "gul",
+   "text": "Banana!",
+   "t": 92.742,
+   "dur": 0.63
+  },
+  {
+   "who": "mishu",
+   "text": "A yellow banana!",
+   "t": 95.922,
+   "dur": 0.957
+  },
+  {
+   "who": "mishu",
+   "text": "Egg.",
+   "t": 97.529,
+   "dur": 0.444
+  },
+  {
+   "who": "mishu",
+   "text": "Egg!",
+   "t": 98.623,
+   "dur": 0.442
+  },
+  {
+   "who": "gul",
+   "text": "An egg! Yum!",
+   "t": 101.615,
+   "dur": 0.89
+  },
+  {
+   "who": "gul",
+   "text": "Bread.",
+   "t": 103.155,
+   "dur": 0.497
+  },
+  {
+   "who": "gul",
+   "text": "Bread!",
+   "t": 104.302,
+   "dur": 0.51
+  },
+  {
+   "who": "mishu",
+   "text": "Warm bread!",
+   "t": 107.362,
+   "dur": 0.796
+  },
+  {
+   "who": "mishu",
+   "text": "Sounds are first words too!",
+   "t": 109.308,
+   "dur": 1.383
+  },
+  {
+   "who": "gul",
+   "text": "What does the dog say?",
+   "t": 111.141,
+   "dur": 1.148
+  },
+  {
+   "who": "mishu",
+   "text": "Woof, woof!",
+   "t": 114.839,
+   "dur": 0.745
+  },
+  {
+   "who": "mishu",
+   "text": "What does the cat say?",
+   "t": 116.234,
+   "dur": 1.041
+  },
+  {
+   "who": "gul",
+   "text": "Meow!",
+   "t": 119.825,
+   "dur": 0.532
+  },
+  {
+   "who": "gul",
+   "text": "What does the duck say?",
+   "t": 121.007,
+   "dur": 1.103
+  },
+  {
+   "who": "mishu",
+   "text": "Quack, quack!",
+   "t": 124.66,
+   "dur": 0.793
+  },
+  {
+   "who": "mishu",
+   "text": "What does the car say?",
+   "t": 126.103,
+   "dur": 1.016
+  },
+  {
+   "who": "gul",
+   "text": "Vroom, vroom!",
+   "t": 129.67,
+   "dur": 0.879
+  },
+  {
+   "who": "gul",
+   "text": "What does the bus say?",
+   "t": 131.199,
+   "dur": 1.099
+  },
+  {
+   "who": "mishu",
+   "text": "Beep, beep!",
+   "t": 134.848,
+   "dur": 0.772
+  },
+  {
+   "who": "gul",
+   "text": "Who is hiding? Peekaboo!",
+   "t": 136.77,
+   "dur": 1.401
+  },
+  {
+   "who": "mishu",
+   "text": "Who's that? Peek...",
+   "t": 138.621,
+   "dur": 1.134
+  },
+  {
+   "who": "both",
+   "text": "A boo!",
+   "t": 140.706,
+   "dur": 0.558
+  },
+  {
+   "who": "gul",
+   "text": "Baby!",
+   "t": 141.813,
+   "dur": 0.53
+  },
+  {
+   "who": "gul",
+   "text": "Who's that? Peek...",
+   "t": 144.593,
+   "dur": 1.04
+  },
+  {
+   "who": "both",
+   "text": "A boo!",
+   "t": 146.583,
+   "dur": 0.558
+  },
+  {
+   "who": "mishu",
+   "text": "Cat!",
+   "t": 147.691,
+   "dur": 0.52
+  },
+  {
+   "who": "mishu",
+   "text": "Who's that? Peek...",
+   "t": 150.461,
+   "dur": 1.134
+  },
+  {
+   "who": "both",
+   "text": "A boo!",
+   "t": 152.545,
+   "dur": 0.558
+  },
+  {
+   "who": "gul",
+   "text": "Teddy!",
+   "t": 153.653,
+   "dur": 0.571
+  },
+  {
+   "who": "gul",
+   "text": "Who's that? Peek...",
+   "t": 156.474,
+   "dur": 1.04
+  },
+  {
+   "who": "both",
+   "text": "A boo!",
+   "t": 158.464,
+   "dur": 0.558
+  },
+  {
+   "who": "mishu",
+   "text": "Duck!",
+   "t": 159.571,
+   "dur": 0.535
+  },
+  {
+   "who": "mishu",
+   "text": "Let's say words for our things!",
+   "t": 162.856,
+   "dur": 1.524
+  },
+  {
+   "who": "mishu",
+   "text": "Ball.",
+   "t": 164.83,
+   "dur": 0.475
+  },
+  {
+   "who": "mishu",
+   "text": "Ball!",
+   "t": 165.955,
+   "dur": 0.469
+  },
+  {
+   "who": "gul",
+   "text": "Bounce the ball!",
+   "t": 168.975,
+   "dur": 0.873
+  },
+  {
+   "who": "gul",
+   "text": "Car.",
+   "t": 170.498,
+   "dur": 0.5
+  },
+  {
+   "who": "gul",
+   "text": "Car!",
+   "t": 171.648,
+   "dur": 0.473
+  },
+  {
+   "who": "mishu",
+   "text": "Vroom, vroom! A car!",
+   "t": 174.67,
+   "dur": 1.357
+  },
+  {
+   "who": "mishu",
+   "text": "Book.",
+   "t": 176.677,
+   "dur": 0.498
+  },
+  {
+   "who": "mishu",
+   "text": "Book!",
+   "t": 177.826,
+   "dur": 0.494
+  },
+  {
+   "who": "gul",
+   "text": "Read a book!",
+   "t": 180.87,
+   "dur": 0.767
+  },
+  {
+   "who": "gul",
+   "text": "Shoes.",
+   "t": 182.286,
+   "dur": 0.601
+  },
+  {
+   "who": "gul",
+   "text": "Shoes!",
+   "t": 183.537,
+   "dur": 0.598
+  },
+  {
+   "who": "mishu",
+   "text": "Put on your shoes!",
+   "t": 186.685,
+   "dur": 0.954
+  },
+  {
+   "who": "mishu",
+   "text": "Hat.",
+   "t": 188.289,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Hat!",
+   "t": 189.431,
+   "dur": 0.49
+  },
+  {
+   "who": "gul",
+   "text": "A hat for my head!",
+   "t": 192.471,
+   "dur": 1.055
+  },
+  {
+   "who": "gul",
+   "text": "Cup.",
+   "t": 194.176,
+   "dur": 0.426
+  },
+  {
+   "who": "gul",
+   "text": "Cup!",
+   "t": 195.252,
+   "dur": 0.433
+  },
+  {
+   "who": "mishu",
+   "text": "A blue cup!",
+   "t": 198.235,
+   "dur": 0.755
+  },
+  {
+   "who": "mishu",
+   "text": "Bed.",
+   "t": 199.64,
+   "dur": 0.501
+  },
+  {
+   "who": "mishu",
+   "text": "Bed!",
+   "t": 200.791,
+   "dur": 0.513
+  },
+  {
+   "who": "gul",
+   "text": "Time for bed!",
+   "t": 203.854,
+   "dur": 0.85
+  },
+  {
+   "who": "gul",
+   "text": "Teddy.",
+   "t": 205.354,
+   "dur": 0.558
+  },
+  {
+   "who": "gul",
+   "text": "Teddy!",
+   "t": 206.562,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Hug your teddy!",
+   "t": 209.682,
+   "dur": 0.826
+  },
+  {
+   "who": "mishu",
+   "text": "Socks.",
+   "t": 211.159,
+   "dur": 0.606
+  },
+  {
+   "who": "mishu",
+   "text": "Socks!",
+   "t": 212.414,
+   "dur": 0.609
+  },
+  {
+   "who": "gul",
+   "text": "Socks on my feet!",
+   "t": 215.573,
+   "dur": 0.984
+  },
+  {
+   "who": "gul",
+   "text": "Spoon.",
+   "t": 217.208,
+   "dur": 0.624
+  },
+  {
+   "who": "gul",
+   "text": "Spoon!",
+   "t": 218.482,
+   "dur": 0.607
+  },
+  {
+   "who": "mishu",
+   "text": "Eat with a spoon!",
+   "t": 221.639,
+   "dur": 0.975
+  },
+  {
+   "who": "gul",
+   "text": "Let's point to our body!",
+   "t": 223.764,
+   "dur": 1.245
+  },
+  {
+   "who": "mishu",
+   "text": "Nose.",
+   "t": 225.459,
+   "dur": 0.605
+  },
+  {
+   "who": "mishu",
+   "text": "Nose!",
+   "t": 226.714,
+   "dur": 0.588
+  },
+  {
+   "who": "gul",
+   "text": "Touch your nose!",
+   "t": 229.852,
+   "dur": 0.905
+  },
+  {
+   "who": "gul",
+   "text": "Eyes.",
+   "t": 231.407,
+   "dur": 0.488
+  },
+  {
+   "who": "gul",
+   "text": "Eyes!",
+   "t": 232.545,
+   "dur": 0.513
+  },
+  {
+   "who": "mishu",
+   "text": "Blink your eyes!",
+   "t": 235.608,
+   "dur": 0.871
+  },
+  {
+   "who": "mishu",
+   "text": "Mouth.",
+   "t": 237.129,
+   "dur": 0.532
+  },
+  {
+   "who": "mishu",
+   "text": "Mouth!",
+   "t": 238.312,
+   "dur": 0.554
+  },
+  {
+   "who": "gul",
+   "text": "Open your mouth!",
+   "t": 241.416,
+   "dur": 0.961
+  },
+  {
+   "who": "gul",
+   "text": "Ear.",
+   "t": 243.027,
+   "dur": 0.46
+  },
+  {
+   "who": "gul",
+   "text": "Ear!",
+   "t": 244.137,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Touch your ear!",
+   "t": 247.15,
+   "dur": 0.747
+  },
+  {
+   "who": "mishu",
+   "text": "Hand.",
+   "t": 248.547,
+   "dur": 0.539
+  },
+  {
+   "who": "mishu",
+   "text": "Hand!",
+   "t": 249.737,
+   "dur": 0.529
+  },
+  {
+   "who": "gul",
+   "text": "Wave your hand!",
+   "t": 252.816,
+   "dur": 0.833
+  },
+  {
+   "who": "mishu",
+   "text": "Let's go outside! What can we see?",
+   "t": 254.799,
+   "dur": 1.962
+  },
+  {
+   "who": "mishu",
+   "text": "Sun.",
+   "t": 257.21,
+   "dur": 0.502
+  },
+  {
+   "who": "mishu",
+   "text": "Sun!",
+   "t": 258.362,
+   "dur": 0.537
+  },
+  {
+   "who": "gul",
+   "text": "The sun is hot!",
+   "t": 261.449,
+   "dur": 0.97
+  },
+  {
+   "who": "gul",
+   "text": "Tree.",
+   "t": 263.069,
+   "dur": 0.518
+  },
+  {
+   "who": "gul",
+   "text": "Tree!",
+   "t": 264.237,
+   "dur": 0.507
+  },
+  {
+   "who": "mishu",
+   "text": "A big green tree!",
+   "t": 267.295,
+   "dur": 1.079
+  },
+  {
+   "who": "mishu",
+   "text": "Flower.",
+   "t": 269.024,
+   "dur": 0.559
+  },
+  {
+   "who": "mishu",
+   "text": "Flower!",
+   "t": 270.233,
+   "dur": 0.561
+  },
+  {
+   "who": "gul",
+   "text": "Smell the flower!",
+   "t": 273.344,
+   "dur": 0.999
+  },
+  {
+   "who": "gul",
+   "text": "Bus.",
+   "t": 274.993,
+   "dur": 0.472
+  },
+  {
+   "who": "gul",
+   "text": "Bus!",
+   "t": 276.115,
+   "dur": 0.462
+  },
+  {
+   "who": "mishu",
+   "text": "Beep, beep! A bus!",
+   "t": 279.127,
+   "dur": 1.33
+  },
+  {
+   "who": "mishu",
+   "text": "Moon.",
+   "t": 281.107,
+   "dur": 0.534
+  },
+  {
+   "who": "mishu",
+   "text": "Moon!",
+   "t": 282.292,
+   "dur": 0.541
+  },
+  {
+   "who": "gul",
+   "text": "The moon comes out at night!",
+   "t": 285.383,
+   "dur": 1.342
+  },
+  {
+   "who": "gul",
+   "text": "Star.",
+   "t": 287.375,
+   "dur": 0.607
+  },
+  {
+   "who": "gul",
+   "text": "Star!",
+   "t": 288.632,
+   "dur": 0.592
+  },
+  {
+   "who": "mishu",
+   "text": "A shiny star!",
+   "t": 291.774,
+   "dur": 0.872
+  },
+  {
+   "who": "gul",
+   "text": "Let's do it, and say it!",
+   "t": 293.796,
+   "dur": 1.173
+  },
+  {
+   "who": "mishu",
+   "text": "Up.",
+   "t": 295.419,
+   "dur": 0.439
+  },
+  {
+   "who": "mishu",
+   "text": "Up!",
+   "t": 296.509,
+   "dur": 0.454
+  },
+  {
+   "who": "gul",
+   "text": "Up, up, up!",
+   "t": 299.513,
+   "dur": 0.776
+  },
+  {
+   "who": "gul",
+   "text": "Down.",
+   "t": 300.938,
+   "dur": 0.516
+  },
+  {
+   "who": "gul",
+   "text": "Down!",
+   "t": 302.104,
+   "dur": 0.509
+  },
+  {
+   "who": "mishu",
+   "text": "Down, down, down!",
+   "t": 305.163,
+   "dur": 0.999
+  },
+  {
+   "who": "mishu",
+   "text": "Go.",
+   "t": 306.812,
+   "dur": 0.474
+  },
+  {
+   "who": "mishu",
+   "text": "Go!",
+   "t": 307.935,
+   "dur": 0.469
+  },
+  {
+   "who": "gul",
+   "text": "Ready, go!",
+   "t": 310.954,
+   "dur": 0.76
+  },
+  {
+   "who": "gul",
+   "text": "Stop.",
+   "t": 312.364,
+   "dur": 0.494
+  },
+  {
+   "who": "gul",
+   "text": "Stop!",
+   "t": 313.508,
+   "dur": 0.52
+  },
+  {
+   "who": "mishu",
+   "text": "Stop!",
+   "t": 316.578,
+   "dur": 0.56
+  },
+  {
+   "who": "mishu",
+   "text": "Jump.",
+   "t": 317.788,
+   "dur": 0.521
+  },
+  {
+   "who": "mishu",
+   "text": "Jump!",
+   "t": 318.96,
+   "dur": 0.507
+  },
+  {
+   "who": "gul",
+   "text": "Jump, jump!",
+   "t": 322.017,
+   "dur": 0.772
+  },
+  {
+   "who": "gul",
+   "text": "Clap.",
+   "t": 323.439,
+   "dur": 0.458
+  },
+  {
+   "who": "gul",
+   "text": "Clap!",
+   "t": 324.546,
+   "dur": 0.48
+  },
+  {
+   "who": "mishu",
+   "text": "Clap your hands!",
+   "t": 327.577,
+   "dur": 0.939
+  },
+  {
+   "who": "mishu",
+   "text": "Sleep.",
+   "t": 329.166,
+   "dur": 0.571
+  },
+  {
+   "who": "mishu",
+   "text": "Sleep!",
+   "t": 330.386,
+   "dur": 0.561
+  },
+  {
+   "who": "gul",
+   "text": "Shh! Sleep!",
+   "t": 333.497,
+   "dur": 1.111
+  },
+  {
+   "who": "gul",
+   "text": "Eat.",
+   "t": 335.258,
+   "dur": 0.429
+  },
+  {
+   "who": "gul",
+   "text": "Eat!",
+   "t": 336.338,
+   "dur": 0.454
+  },
+  {
+   "who": "mishu",
+   "text": "Yum, yum! Eat!",
+   "t": 339.341,
+   "dur": 1.115
+  },
+  {
+   "who": "mishu",
+   "text": "These words help us every day!",
+   "t": 341.607,
+   "dur": 1.802
+  },
+  {
+   "who": "gul",
+   "text": "Hi.",
+   "t": 343.859,
+   "dur": 0.494
+  },
+  {
+   "who": "gul",
+   "text": "Hi!",
+   "t": 345.003,
+   "dur": 0.491
+  },
+  {
+   "who": "mishu",
+   "text": "Hi! Wave your hand!",
+   "t": 348.044,
+   "dur": 1.114
+  },
+  {
+   "who": "mishu",
+   "text": "Bye bye.",
+   "t": 349.808,
+   "dur": 0.652
+  },
+  {
+   "who": "mishu",
+   "text": "Bye bye!",
+   "t": 351.11,
+   "dur": 0.643
+  },
+  {
+   "who": "gul",
+   "text": "Bye bye!",
+   "t": 354.303,
+   "dur": 0.706
+  },
+  {
+   "who": "gul",
+   "text": "Please.",
+   "t": 355.659,
+   "dur": 0.581
+  },
+  {
+   "who": "gul",
+   "text": "Please!",
+   "t": 356.889,
+   "dur": 0.561
+  },
+  {
+   "who": "mishu",
+   "text": "More milk, please!",
+   "t": 360.0,
+   "dur": 1.083
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you.",
+   "t": 361.733,
+   "dur": 0.655
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you!",
+   "t": 363.038,
+   "dur": 0.654
+  },
+  {
+   "who": "gul",
+   "text": "Thank you, Mama!",
+   "t": 366.243,
+   "dur": 0.962
+  },
+  {
+   "who": "gul",
+   "text": "More.",
+   "t": 367.855,
+   "dur": 0.495
+  },
+  {
+   "who": "gul",
+   "text": "More!",
+   "t": 369.0,
+   "dur": 0.484
+  },
+  {
+   "who": "mishu",
+   "text": "More, please!",
+   "t": 372.033,
+   "dur": 0.854
+  },
+  {
+   "who": "mishu",
+   "text": "All done.",
+   "t": 373.537,
+   "dur": 0.654
+  },
+  {
+   "who": "mishu",
+   "text": "All done!",
+   "t": 374.841,
+   "dur": 0.631
+  },
+  {
+   "who": "gul",
+   "text": "All done!",
+   "t": 378.022,
+   "dur": 0.666
+  },
+  {
+   "who": "gul",
+   "text": "Yes.",
+   "t": 379.337,
+   "dur": 0.545
+  },
+  {
+   "who": "gul",
+   "text": "Yes!",
+   "t": 380.533,
+   "dur": 0.542
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! Nod your head!",
+   "t": 383.625,
+   "dur": 1.147
+  },
+  {
+   "who": "mishu",
+   "text": "No.",
+   "t": 385.422,
+   "dur": 0.472
+  },
+  {
+   "who": "mishu",
+   "text": "No!",
+   "t": 386.544,
+   "dur": 0.466
+  },
+  {
+   "who": "gul",
+   "text": "No! Shake your head!",
+   "t": 389.56,
+   "dur": 0.994
+  },
+  {
+   "who": "gul",
+   "text": "Can you point to it?",
+   "t": 391.704,
+   "dur": 1.016
+  },
+  {
+   "who": "mishu",
+   "text": "Where is the ball?",
+   "t": 393.169,
+   "dur": 0.895
+  },
+  {
+   "who": "gul",
+   "text": "There it is! Ball!",
+   "t": 396.714,
+   "dur": 1.005
+  },
+  {
+   "who": "gul",
+   "text": "Where is the dog?",
+   "t": 398.37,
+   "dur": 1.004
+  },
+  {
+   "who": "mishu",
+   "text": "There it is! Dog!",
+   "t": 402.024,
+   "dur": 1.187
+  },
+  {
+   "who": "mishu",
+   "text": "Where is the apple?",
+   "t": 403.861,
+   "dur": 0.974
+  },
+  {
+   "who": "gul",
+   "text": "There it is! Apple!",
+   "t": 407.485,
+   "dur": 1.142
+  },
+  {
+   "who": "gul",
+   "text": "Where is the book?",
+   "t": 409.277,
+   "dur": 0.955
+  },
+  {
+   "who": "mishu",
+   "text": "There it is! Book!",
+   "t": 412.882,
+   "dur": 1.17
+  },
+  {
+   "who": "mishu",
+   "text": "Where are the shoes?",
+   "t": 414.702,
+   "dur": 0.981
+  },
+  {
+   "who": "gul",
+   "text": "There they are! Shoes!",
+   "t": 418.333,
+   "dur": 1.049
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids can say two words together!",
+   "t": 420.532,
+   "dur": 1.997
+  },
+  {
+   "who": "gul",
+   "text": "Big ball.",
+   "t": 422.979,
+   "dur": 0.678
+  },
+  {
+   "who": "gul",
+   "text": "Big ball!",
+   "t": 424.307,
+   "dur": 0.679
+  },
+  {
+   "who": "mishu",
+   "text": "Red apple.",
+   "t": 427.736,
+   "dur": 0.749
+  },
+  {
+   "who": "mishu",
+   "text": "Red apple!",
+   "t": 429.135,
+   "dur": 0.753
+  },
+  {
+   "who": "gul",
+   "text": "More milk.",
+   "t": 432.638,
+   "dur": 0.728
+  },
+  {
+   "who": "gul",
+   "text": "More milk!",
+   "t": 434.016,
+   "dur": 0.708
+  },
+  {
+   "who": "mishu",
+   "text": "Bye bye, Papa.",
+   "t": 437.474,
+   "dur": 1.077
+  },
+  {
+   "who": "mishu",
+   "text": "Bye bye, Papa!",
+   "t": 439.201,
+   "dur": 1.064
+  },
+  {
+   "who": "gul",
+   "text": "Baby sleep.",
+   "t": 443.015,
+   "dur": 0.815
+  },
+  {
+   "who": "gul",
+   "text": "Baby sleep!",
+   "t": 444.481,
+   "dur": 0.814
+  },
+  {
+   "who": "mishu",
+   "text": "Go car.",
+   "t": 448.044,
+   "dur": 0.643
+  },
+  {
+   "who": "mishu",
+   "text": "Go car!",
+   "t": 449.337,
+   "dur": 0.643
+  },
+  {
+   "who": "gul",
+   "text": "Stand up! Let's move and say the words!",
+   "t": 453.23,
+   "dur": 1.892
+  },
+  {
+   "who": "both",
+   "text": "Clap, clap, clap!",
+   "t": 455.572,
+   "dur": 1.154
+  },
+  {
+   "who": "both",
+   "text": "Up, up, up!",
+   "t": 458.477,
+   "dur": 0.845
+  },
+  {
+   "who": "both",
+   "text": "Stomp, stomp, stomp!",
+   "t": 461.072,
+   "dur": 1.267
+  },
+  {
+   "who": "both",
+   "text": "Jump, jump, jump!",
+   "t": 464.088,
+   "dur": 1.092
+  },
+  {
+   "who": "both",
+   "text": "Spin around!",
+   "t": 466.93,
+   "dur": 0.928
+  },
+  {
+   "who": "both",
+   "text": "Wave bye bye!",
+   "t": 469.608,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 472.347,
+   "dur": 1.028
+  },
+  {
+   "who": "both",
+   "text": "Clap, clap, clap!",
+   "t": 473.726,
+   "dur": 1.154
+  },
+  {
+   "who": "both",
+   "text": "Up, up, up!",
+   "t": 475.93,
+   "dur": 0.845
+  },
+  {
+   "who": "both",
+   "text": "Stomp, stomp, stomp!",
+   "t": 477.825,
+   "dur": 1.267
+  },
+  {
+   "who": "both",
+   "text": "Jump, jump, jump!",
+   "t": 480.142,
+   "dur": 1.092
+  },
+  {
+   "who": "both",
+   "text": "Spin around!",
+   "t": 482.284,
+   "dur": 0.928
+  },
+  {
+   "who": "both",
+   "text": "Wave bye bye!",
+   "t": 484.262,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "Your turn! Say the word!",
+   "t": 486.801,
+   "dur": 1.31
+  },
+  {
+   "who": "gul",
+   "text": "What's this?",
+   "t": 488.562,
+   "dur": 0.724
+  },
+  {
+   "who": "mishu",
+   "text": "Ball!",
+   "t": 491.936,
+   "dur": 0.469
+  },
+  {
+   "who": "mishu",
+   "text": "What's this?",
+   "t": 493.055,
+   "dur": 0.746
+  },
+  {
+   "who": "gul",
+   "text": "Dog!",
+   "t": 496.451,
+   "dur": 0.531
+  },
+  {
+   "who": "gul",
+   "text": "What's this?",
+   "t": 497.632,
+   "dur": 0.724
+  },
+  {
+   "who": "mishu",
+   "text": "Apple!",
+   "t": 501.007,
+   "dur": 0.562
+  },
+  {
+   "who": "mishu",
+   "text": "What's this?",
+   "t": 502.219,
+   "dur": 0.746
+  },
+  {
+   "who": "gul",
+   "text": "Book!",
+   "t": 505.615,
+   "dur": 0.441
+  },
+  {
+   "who": "mishu",
+   "text": "Great talking! Keep saying your words every day!",
+   "t": 506.706,
+   "dur": 2.645
+  },
+  {
+   "who": "both",
+   "text": "Bye bye!",
+   "t": 509.801,
+   "dur": 0.706
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "playroom2",
+   "t0": 0.0,
+   "title_t": 0.2,
+   "kids_t": 1.534,
+   "t1": 7.596
+  },
+  {
+   "kind": "hello",
+   "bg": "playroom2",
+   "t0": 7.596,
+   "t1": 12.589
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 12.589,
+   "title": "MY FAMILY!",
+   "t1": 14.998
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 14.998,
+   "key": "mama",
+   "w": "MAMA",
+   "say_t": 14.998,
+   "line_t": 19.277,
+   "t1": 20.827
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 20.827,
+   "key": "papa",
+   "w": "PAPA",
+   "say_t": 20.827,
+   "line_t": 25.168,
+   "t1": 26.693
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 26.693,
+   "key": "baby",
+   "w": "BABY",
+   "say_t": 26.693,
+   "line_t": 31.019,
+   "t1": 32.63
+  },
+  {
+   "kind": "title",
+   "bg": "farm",
+   "t0": 32.63,
+   "title": "ANIMAL WORDS!",
+   "t1": 34.972
+  },
+  {
+   "kind": "word",
+   "bg": "farm",
+   "t0": 34.972,
+   "key": "dog",
+   "w": "DOG",
+   "say_t": 34.972,
+   "line_t": 39.201,
+   "t1": 40.996
+  },
+  {
+   "kind": "word",
+   "bg": "farm",
+   "t0": 40.996,
+   "key": "cat",
+   "w": "CAT",
+   "say_t": 40.996,
+   "line_t": 45.048,
+   "t1": 46.763
+  },
+  {
+   "kind": "word",
+   "bg": "farm",
+   "t0": 46.763,
+   "key": "duck",
+   "w": "DUCK",
+   "say_t": 46.763,
+   "line_t": 51.029,
+   "t1": 52.828
+  },
+  {
+   "kind": "word",
+   "bg": "farm",
+   "t0": 52.828,
+   "key": "bird",
+   "w": "BIRD",
+   "say_t": 52.828,
+   "line_t": 57.064,
+   "t1": 59.046
+  },
+  {
+   "kind": "word",
+   "bg": "farm",
+   "t0": 59.046,
+   "key": "fish",
+   "w": "FISH",
+   "say_t": 59.046,
+   "line_t": 63.345,
+   "t1": 65.018
+  },
+  {
+   "kind": "word",
+   "bg": "farm",
+   "t0": 65.018,
+   "key": "pig",
+   "w": "PIG",
+   "say_t": 65.018,
+   "line_t": 69.248,
+   "t1": 71.059
+  },
+  {
+   "kind": "title",
+   "bg": "kitchen",
+   "t0": 71.059,
+   "title": "FOOD WORDS!",
+   "t1": 74.016
+  },
+  {
+   "kind": "word",
+   "bg": "kitchen",
+   "t0": 74.016,
+   "key": "bottle",
+   "w": "MILK",
+   "say_t": 74.016,
+   "line_t": 78.328,
+   "t1": 79.775
+  },
+  {
+   "kind": "word",
+   "bg": "kitchen",
+   "t0": 79.775,
+   "key": "water",
+   "w": "WATER",
+   "say_t": 79.775,
+   "line_t": 84.071,
+   "t1": 85.616
+  },
+  {
+   "kind": "word",
+   "bg": "kitchen",
+   "t0": 85.616,
+   "key": "apple",
+   "w": "APPLE",
+   "say_t": 85.616,
+   "line_t": 89.941,
+   "t1": 91.452
+  },
+  {
+   "kind": "word",
+   "bg": "kitchen",
+   "t0": 91.452,
+   "key": "banana",
+   "w": "BANANA",
+   "say_t": 91.452,
+   "line_t": 95.922,
+   "t1": 97.529
+  },
+  {
+   "kind": "word",
+   "bg": "kitchen",
+   "t0": 97.529,
+   "key": "egg",
+   "w": "EGG",
+   "say_t": 97.529,
+   "line_t": 101.615,
+   "t1": 103.155
+  },
+  {
+   "kind": "word",
+   "bg": "kitchen",
+   "t0": 103.155,
+   "key": "toast",
+   "w": "BREAD",
+   "say_t": 103.155,
+   "line_t": 107.362,
+   "t1": 108.808
+  },
+  {
+   "kind": "title",
+   "bg": "farm",
+   "t0": 108.808,
+   "title": "WHAT DOES IT SAY?",
+   "t1": 111.141
+  },
+  {
+   "kind": "sound",
+   "bg": "farm",
+   "t0": 111.141,
+   "key": "dog",
+   "ans": "WOOF, WOOF!",
+   "answer_t": 114.839,
+   "t1": 116.234
+  },
+  {
+   "kind": "sound",
+   "bg": "farm",
+   "t0": 116.234,
+   "key": "cat",
+   "ans": "MEOW!",
+   "answer_t": 119.825,
+   "t1": 121.007
+  },
+  {
+   "kind": "sound",
+   "bg": "farm",
+   "t0": 121.007,
+   "key": "duck",
+   "ans": "QUACK, QUACK!",
+   "answer_t": 124.66,
+   "t1": 126.103
+  },
+  {
+   "kind": "sound",
+   "bg": "farm",
+   "t0": 126.103,
+   "key": "car",
+   "ans": "VROOM, VROOM!",
+   "answer_t": 129.67,
+   "t1": 131.199
+  },
+  {
+   "kind": "sound",
+   "bg": "farm",
+   "t0": 131.199,
+   "key": "bus",
+   "ans": "BEEP, BEEP!",
+   "answer_t": 134.848,
+   "t1": 136.27
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 136.27,
+   "title": "PEEKABOO!",
+   "t1": 138.621
+  },
+  {
+   "kind": "peek",
+   "bg": "bedroom",
+   "t0": 138.621,
+   "key": "baby",
+   "boo_t": 140.706,
+   "t1": 144.593
+  },
+  {
+   "kind": "peek",
+   "bg": "bedroom",
+   "t0": 144.593,
+   "key": "cat",
+   "boo_t": 146.583,
+   "t1": 150.461
+  },
+  {
+   "kind": "peek",
+   "bg": "bedroom",
+   "t0": 150.461,
+   "key": "teddy",
+   "boo_t": 152.545,
+   "t1": 156.474
+  },
+  {
+   "kind": "peek",
+   "bg": "bedroom",
+   "t0": 156.474,
+   "key": "duck",
+   "boo_t": 158.464,
+   "t1": 162.356
+  },
+  {
+   "kind": "title",
+   "bg": "bedroom",
+   "t0": 162.356,
+   "title": "MY THINGS!",
+   "t1": 164.83
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 164.83,
+   "key": "ball",
+   "w": "BALL",
+   "say_t": 164.83,
+   "line_t": 168.975,
+   "t1": 170.498
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 170.498,
+   "key": "car",
+   "w": "CAR",
+   "say_t": 170.498,
+   "line_t": 174.67,
+   "t1": 176.677
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 176.677,
+   "key": "book",
+   "w": "BOOK",
+   "say_t": 176.677,
+   "line_t": 180.87,
+   "t1": 182.286
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 182.286,
+   "key": "shoes",
+   "w": "SHOES",
+   "say_t": 182.286,
+   "line_t": 186.685,
+   "t1": 188.289
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 188.289,
+   "key": "hat",
+   "w": "HAT",
+   "say_t": 188.289,
+   "line_t": 192.471,
+   "t1": 194.176
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 194.176,
+   "key": "cupkid",
+   "w": "CUP",
+   "say_t": 194.176,
+   "line_t": 198.235,
+   "t1": 199.64
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 199.64,
+   "key": "bed",
+   "w": "BED",
+   "say_t": 199.64,
+   "line_t": 203.854,
+   "t1": 205.354
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 205.354,
+   "key": "teddy",
+   "w": "TEDDY",
+   "say_t": 205.354,
+   "line_t": 209.682,
+   "t1": 211.159
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 211.159,
+   "key": "socks",
+   "w": "SOCKS",
+   "say_t": 211.159,
+   "line_t": 215.573,
+   "t1": 217.208
+  },
+  {
+   "kind": "word",
+   "bg": "bedroom",
+   "t0": 217.208,
+   "key": "spoon",
+   "w": "SPOON",
+   "say_t": 217.208,
+   "line_t": 221.639,
+   "t1": 223.264
+  },
+  {
+   "kind": "title",
+   "bg": "playroom2",
+   "t0": 223.264,
+   "title": "MY BODY!",
+   "t1": 225.459
+  },
+  {
+   "kind": "word",
+   "bg": "playroom2",
+   "t0": 225.459,
+   "key": "nose",
+   "w": "NOSE",
+   "say_t": 225.459,
+   "line_t": 229.852,
+   "t1": 231.407
+  },
+  {
+   "kind": "word",
+   "bg": "playroom2",
+   "t0": 231.407,
+   "key": "eye",
+   "w": "EYES",
+   "say_t": 231.407,
+   "line_t": 235.608,
+   "t1": 237.129
+  },
+  {
+   "kind": "word",
+   "bg": "playroom2",
+   "t0": 237.129,
+   "key": "mouth",
+   "w": "MOUTH",
+   "say_t": 237.129,
+   "line_t": 241.416,
+   "t1": 243.027
+  },
+  {
+   "kind": "word",
+   "bg": "playroom2",
+   "t0": 243.027,
+   "key": "ear",
+   "w": "EAR",
+   "say_t": 243.027,
+   "line_t": 247.15,
+   "t1": 248.547
+  },
+  {
+   "kind": "word",
+   "bg": "playroom2",
+   "t0": 248.547,
+   "key": "hand",
+   "w": "HAND",
+   "say_t": 248.547,
+   "line_t": 252.816,
+   "t1": 254.299
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 254.299,
+   "title": "OUTSIDE WORDS!",
+   "t1": 257.21
+  },
+  {
+   "kind": "word",
+   "bg": "park",
+   "t0": 257.21,
+   "key": "sun",
+   "w": "SUN",
+   "say_t": 257.21,
+   "line_t": 261.449,
+   "t1": 263.069
+  },
+  {
+   "kind": "word",
+   "bg": "park",
+   "t0": 263.069,
+   "key": "tree",
+   "w": "TREE",
+   "say_t": 263.069,
+   "line_t": 267.295,
+   "t1": 269.024
+  },
+  {
+   "kind": "word",
+   "bg": "park",
+   "t0": 269.024,
+   "key": "flower",
+   "w": "FLOWER",
+   "say_t": 269.024,
+   "line_t": 273.344,
+   "t1": 274.993
+  },
+  {
+   "kind": "word",
+   "bg": "park",
+   "t0": 274.993,
+   "key": "bus",
+   "w": "BUS",
+   "say_t": 274.993,
+   "line_t": 279.127,
+   "t1": 281.107
+  },
+  {
+   "kind": "word",
+   "bg": "park",
+   "t0": 281.107,
+   "key": "moon",
+   "w": "MOON",
+   "say_t": 281.107,
+   "line_t": 285.383,
+   "t1": 287.375
+  },
+  {
+   "kind": "word",
+   "bg": "park",
+   "t0": 287.375,
+   "key": "star",
+   "w": "STAR",
+   "say_t": 287.375,
+   "line_t": 291.774,
+   "t1": 293.296
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 293.296,
+   "title": "ACTION WORDS!",
+   "t1": 295.419
+  },
+  {
+   "kind": "action",
+   "bg": "park",
+   "t0": 295.419,
+   "key": "up",
+   "w": "UP",
+   "say_t": 295.419,
+   "line_t": 299.513,
+   "t1": 300.938
+  },
+  {
+   "kind": "action",
+   "bg": "park",
+   "t0": 300.938,
+   "key": "down",
+   "w": "DOWN",
+   "say_t": 300.938,
+   "line_t": 305.163,
+   "t1": 306.812
+  },
+  {
+   "kind": "action",
+   "bg": "park",
+   "t0": 306.812,
+   "key": "go",
+   "w": "GO",
+   "say_t": 306.812,
+   "line_t": 310.954,
+   "t1": 312.364
+  },
+  {
+   "kind": "action",
+   "bg": "park",
+   "t0": 312.364,
+   "key": "stop",
+   "w": "STOP",
+   "say_t": 312.364,
+   "line_t": 316.578,
+   "t1": 317.788
+  },
+  {
+   "kind": "action",
+   "bg": "park",
+   "t0": 317.788,
+   "key": "jump",
+   "w": "JUMP",
+   "say_t": 317.788,
+   "line_t": 322.017,
+   "t1": 323.439
+  },
+  {
+   "kind": "action",
+   "bg": "park",
+   "t0": 323.439,
+   "key": "clap",
+   "w": "CLAP",
+   "say_t": 323.439,
+   "line_t": 327.577,
+   "t1": 329.166
+  },
+  {
+   "kind": "action",
+   "bg": "park",
+   "t0": 329.166,
+   "key": "sleep",
+   "w": "SLEEP",
+   "say_t": 329.166,
+   "line_t": 333.497,
+   "t1": 335.258
+  },
+  {
+   "kind": "action",
+   "bg": "park",
+   "t0": 335.258,
+   "key": "eat",
+   "w": "EAT",
+   "say_t": 335.258,
+   "line_t": 339.341,
+   "t1": 341.107
+  },
+  {
+   "kind": "title",
+   "bg": "playroom2",
+   "t0": 341.107,
+   "title": "SPECIAL WORDS!",
+   "t1": 343.859
+  },
+  {
+   "kind": "action",
+   "bg": "playroom2",
+   "t0": 343.859,
+   "key": "wave",
+   "w": "HI",
+   "say_t": 343.859,
+   "line_t": 348.044,
+   "t1": 349.808
+  },
+  {
+   "kind": "action",
+   "bg": "playroom2",
+   "t0": 349.808,
+   "key": "wave",
+   "w": "BYE BYE",
+   "say_t": 349.808,
+   "line_t": 354.303,
+   "t1": 355.659
+  },
+  {
+   "kind": "action",
+   "bg": "playroom2",
+   "t0": 355.659,
+   "key": "happy",
+   "w": "PLEASE",
+   "say_t": 355.659,
+   "line_t": 360.0,
+   "t1": 361.733
+  },
+  {
+   "kind": "action",
+   "bg": "playroom2",
+   "t0": 361.733,
+   "key": "happy",
+   "w": "THANK YOU",
+   "say_t": 361.733,
+   "line_t": 366.243,
+   "t1": 367.855
+  },
+  {
+   "kind": "action",
+   "bg": "playroom2",
+   "t0": 367.855,
+   "key": "more",
+   "w": "MORE",
+   "say_t": 367.855,
+   "line_t": 372.033,
+   "t1": 373.537
+  },
+  {
+   "kind": "action",
+   "bg": "playroom2",
+   "t0": 373.537,
+   "key": "done",
+   "w": "ALL DONE",
+   "say_t": 373.537,
+   "line_t": 378.022,
+   "t1": 379.337
+  },
+  {
+   "kind": "action",
+   "bg": "playroom2",
+   "t0": 379.337,
+   "key": "yes",
+   "w": "YES",
+   "say_t": 379.337,
+   "line_t": 383.625,
+   "t1": 385.422
+  },
+  {
+   "kind": "action",
+   "bg": "playroom2",
+   "t0": 385.422,
+   "key": "no",
+   "w": "NO",
+   "say_t": 385.422,
+   "line_t": 389.56,
+   "t1": 391.204
+  },
+  {
+   "kind": "title",
+   "bg": "playroom2",
+   "t0": 391.204,
+   "title": "WHERE IS IT?",
+   "t1": 393.169
+  },
+  {
+   "kind": "where",
+   "bg": "playroom2",
+   "t0": 393.169,
+   "keys": [
+    "ball",
+    "apple",
+    "dog"
+   ],
+   "good": "ball",
+   "w": "BALL",
+   "answer_t": 396.714,
+   "t1": 398.37
+  },
+  {
+   "kind": "where",
+   "bg": "playroom2",
+   "t0": 398.37,
+   "keys": [
+    "cat",
+    "car",
+    "dog"
+   ],
+   "good": "dog",
+   "w": "DOG",
+   "answer_t": 402.024,
+   "t1": 403.861
+  },
+  {
+   "kind": "where",
+   "bg": "playroom2",
+   "t0": 403.861,
+   "keys": [
+    "apple",
+    "shoes",
+    "duck"
+   ],
+   "good": "apple",
+   "w": "APPLE",
+   "answer_t": 407.485,
+   "t1": 409.277
+  },
+  {
+   "kind": "where",
+   "bg": "playroom2",
+   "t0": 409.277,
+   "keys": [
+    "hat",
+    "book",
+    "bus"
+   ],
+   "good": "book",
+   "w": "BOOK",
+   "answer_t": 412.882,
+   "t1": 414.702
+  },
+  {
+   "kind": "where",
+   "bg": "playroom2",
+   "t0": 414.702,
+   "keys": [
+    "teddy",
+    "shoes",
+    "banana"
+   ],
+   "good": "shoes",
+   "w": "SHOES",
+   "answer_t": 418.333,
+   "t1": 420.032
+  },
+  {
+   "kind": "title",
+   "bg": "playroom2",
+   "t0": 420.032,
+   "title": "TWO WORDS!",
+   "t1": 422.979
+  },
+  {
+   "kind": "phrase",
+   "bg": "playroom2",
+   "t0": 422.979,
+   "key": "ball",
+   "w": "BIG BALL",
+   "say_t": 422.979,
+   "t1": 427.736
+  },
+  {
+   "kind": "phrase",
+   "bg": "playroom2",
+   "t0": 427.736,
+   "key": "apple",
+   "w": "RED APPLE",
+   "say_t": 427.736,
+   "t1": 432.638
+  },
+  {
+   "kind": "phrase",
+   "bg": "playroom2",
+   "t0": 432.638,
+   "key": "bottle",
+   "w": "MORE MILK",
+   "say_t": 432.638,
+   "t1": 437.474
+  },
+  {
+   "kind": "phrase",
+   "bg": "playroom2",
+   "t0": 437.474,
+   "key": "papa",
+   "w": "BYE BYE, PAPA",
+   "say_t": 437.474,
+   "t1": 443.015
+  },
+  {
+   "kind": "phrase",
+   "bg": "playroom2",
+   "t0": 443.015,
+   "key": "baby",
+   "w": "BABY SLEEP",
+   "say_t": 443.015,
+   "t1": 448.044
+  },
+  {
+   "kind": "phrase",
+   "bg": "playroom2",
+   "t0": 448.044,
+   "key": "car",
+   "w": "GO CAR",
+   "say_t": 448.044,
+   "t1": 452.73
+  },
+  {
+   "kind": "title",
+   "bg": "playroom2",
+   "t0": 452.73,
+   "title": "WORD DANCE!",
+   "t1": 455.572
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 455.572,
+   "move": "shake",
+   "fast": false,
+   "word": "CLAP, CLAP, CLAP!",
+   "say_t": 455.572,
+   "t1": 458.477
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 458.477,
+   "move": "stretch",
+   "fast": false,
+   "word": "UP, UP, UP!",
+   "say_t": 458.477,
+   "t1": 461.072
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 461.072,
+   "move": "stomp",
+   "fast": false,
+   "word": "STOMP, STOMP, STOMP!",
+   "say_t": 461.072,
+   "t1": 464.088
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 464.088,
+   "move": "jump",
+   "fast": false,
+   "word": "JUMP, JUMP, JUMP!",
+   "say_t": 464.088,
+   "t1": 466.93
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 466.93,
+   "move": "spin",
+   "fast": false,
+   "word": "SPIN AROUND!",
+   "say_t": 466.93,
+   "t1": 469.608
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 469.608,
+   "move": "sway",
+   "fast": false,
+   "word": "WAVE BYE BYE!",
+   "say_t": 469.608,
+   "t1": 472.347
+  },
+  {
+   "kind": "title",
+   "bg": "playroom2",
+   "t0": 472.347,
+   "title": "FASTER!",
+   "t1": 473.726
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 473.726,
+   "move": "shake",
+   "fast": true,
+   "word": "CLAP, CLAP, CLAP!",
+   "say_t": 473.726,
+   "t1": 475.93
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 475.93,
+   "move": "stretch",
+   "fast": true,
+   "word": "UP, UP, UP!",
+   "say_t": 475.93,
+   "t1": 477.825
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 477.825,
+   "move": "stomp",
+   "fast": true,
+   "word": "STOMP, STOMP, STOMP!",
+   "say_t": 477.825,
+   "t1": 480.142
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 480.142,
+   "move": "jump",
+   "fast": true,
+   "word": "JUMP, JUMP, JUMP!",
+   "say_t": 480.142,
+   "t1": 482.284
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 482.284,
+   "move": "spin",
+   "fast": true,
+   "word": "SPIN AROUND!",
+   "say_t": 482.284,
+   "t1": 484.262
+  },
+  {
+   "kind": "dance",
+   "bg": "playroom2",
+   "t0": 484.262,
+   "move": "sway",
+   "fast": true,
+   "word": "WAVE BYE BYE!",
+   "say_t": 484.262,
+   "t1": 486.301
+  },
+  {
+   "kind": "title",
+   "bg": "playroom2",
+   "t0": 486.301,
+   "title": "WHAT'S THIS?",
+   "t1": 488.562
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom2",
+   "t0": 488.562,
+   "q": "WHAT'S THIS?",
+   "vis": "ball",
+   "answer_t": 491.936,
+   "t1": 493.055
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom2",
+   "t0": 493.055,
+   "q": "WHAT'S THIS?",
+   "vis": "dog",
+   "answer_t": 496.451,
+   "t1": 497.632
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom2",
+   "t0": 497.632,
+   "q": "WHAT'S THIS?",
+   "vis": "apple",
+   "answer_t": 501.007,
+   "t1": 502.219
+  },
+  {
+   "kind": "quiz",
+   "bg": "playroom2",
+   "t0": 502.219,
+   "q": "WHAT'S THIS?",
+   "vis": "book",
+   "answer_t": 505.615,
+   "t1": 506.706
+  },
+  {
+   "kind": "outro",
+   "bg": "playroom2",
+   "t0": 506.706,
+   "bye_t": 509.801,
+   "t1": 512.857
+  }
+ ],
+ "prompts": [
+  [
+   8.782,
+   10.982
+  ],
+  [
+   16.977,
+   19.277
+  ],
+  [
+   22.868,
+   25.168
+  ],
+  [
+   28.719,
+   31.019
+  ],
+  [
+   36.901,
+   39.201
+  ],
+  [
+   42.748,
+   45.048
+  ],
+  [
+   48.729,
+   51.029
+  ],
+  [
+   54.764,
+   57.064
+  ],
+  [
+   61.045,
+   63.345
+  ],
+  [
+   66.948,
+   69.248
+  ],
+  [
+   76.028,
+   78.328
+  ],
+  [
+   81.771,
+   84.071
+  ],
+  [
+   87.641,
+   89.941
+  ],
+  [
+   93.622,
+   95.922
+  ],
+  [
+   99.315,
+   101.615
+  ],
+  [
+   105.062,
+   107.362
+  ],
+  [
+   112.539,
+   114.839
+  ],
+  [
+   117.525,
+   119.825
+  ],
+  [
+   122.36,
+   124.66
+  ],
+  [
+   127.37,
+   129.67
+  ],
+  [
+   132.548,
+   134.848
+  ],
+  [
+   142.793,
+   144.593
+  ],
+  [
+   148.661,
+   150.461
+  ],
+  [
+   154.674,
+   156.474
+  ],
+  [
+   160.556,
+   162.356
+  ],
+  [
+   166.675,
+   168.975
+  ],
+  [
+   172.37,
+   174.67
+  ],
+  [
+   178.57,
+   180.87
+  ],
+  [
+   184.385,
+   186.685
+  ],
+  [
+   190.171,
+   192.471
+  ],
+  [
+   195.935,
+   198.235
+  ],
+  [
+   201.554,
+   203.854
+  ],
+  [
+   207.382,
+   209.682
+  ],
+  [
+   213.273,
+   215.573
+  ],
+  [
+   219.339,
+   221.639
+  ],
+  [
+   227.552,
+   229.852
+  ],
+  [
+   233.308,
+   235.608
+  ],
+  [
+   239.116,
+   241.416
+  ],
+  [
+   244.85,
+   247.15
+  ],
+  [
+   250.516,
+   252.816
+  ],
+  [
+   259.149,
+   261.449
+  ],
+  [
+   264.995,
+   267.295
+  ],
+  [
+   271.044,
+   273.344
+  ],
+  [
+   276.827,
+   279.127
+  ],
+  [
+   283.083,
+   285.383
+  ],
+  [
+   289.474,
+   291.774
+  ],
+  [
+   297.213,
+   299.513
+  ],
+  [
+   302.863,
+   305.163
+  ],
+  [
+   308.654,
+   310.954
+  ],
+  [
+   314.278,
+   316.578
+  ],
+  [
+   319.717,
+   322.017
+  ],
+  [
+   325.277,
+   327.577
+  ],
+  [
+   331.197,
+   333.497
+  ],
+  [
+   337.041,
+   339.341
+  ],
+  [
+   345.744,
+   348.044
+  ],
+  [
+   352.003,
+   354.303
+  ],
+  [
+   357.7,
+   360.0
+  ],
+  [
+   363.943,
+   366.243
+  ],
+  [
+   369.733,
+   372.033
+  ],
+  [
+   375.722,
+   378.022
+  ],
+  [
+   381.325,
+   383.625
+  ],
+  [
+   387.26,
+   389.56
+  ],
+  [
+   394.314,
+   396.714
+  ],
+  [
+   399.624,
+   402.024
+  ],
+  [
+   405.085,
+   407.485
+  ],
+  [
+   410.482,
+   412.882
+  ],
+  [
+   415.933,
+   418.333
+  ],
+  [
+   425.236,
+   427.736
+  ],
+  [
+   430.138,
+   432.638
+  ],
+  [
+   434.974,
+   437.474
+  ],
+  [
+   440.515,
+   443.015
+  ],
+  [
+   445.544,
+   448.044
+  ],
+  [
+   450.23,
+   452.73
+  ],
+  [
+   456.877,
+   458.477
+  ],
+  [
+   459.472,
+   461.072
+  ],
+  [
+   462.488,
+   464.088
+  ],
+  [
+   465.33,
+   466.93
+  ],
+  [
+   468.008,
+   469.608
+  ],
+  [
+   470.747,
+   472.347
+  ],
+  [
+   475.03,
+   475.93
+  ],
+  [
+   476.925,
+   477.825
+  ],
+  [
+   479.242,
+   480.142
+  ],
+  [
+   481.384,
+   482.284
+  ],
+  [
+   483.362,
+   484.262
+  ],
+  [
+   485.401,
+   486.301
+  ],
+  [
+   489.536,
+   491.936
+  ],
+  [
+   494.051,
+   496.451
+  ],
+  [
+   498.607,
+   501.007
+  ],
+  [
+   503.215,
+   505.615
+  ]
+ ],
+ "stars": [
+  493.055,
+  497.632,
+  502.219,
+  506.706
+ ],
+ "total": 512.86
+}

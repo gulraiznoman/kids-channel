@@ -1,0 +1,2700 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 0.0,
+   "dur": 0.575
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 0.825,
+   "dur": 0.537
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 1.611,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 2.399,
+   "dur": 0.459
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 3.108,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Blast off!",
+   "t": 3.844,
+   "dur": 0.797
+  },
+  {
+   "who": "mishu",
+   "text": "We're going to space! Let's meet all eight planets!",
+   "t": 5.591,
+   "dur": 2.742
+  },
+  {
+   "who": "gul",
+   "text": "And the Sun, the Moon, and the stars! Let's go!",
+   "t": 8.683,
+   "dur": 2.36
+  },
+  {
+   "who": "gul",
+   "text": "Before we go to space, we need a space suit!",
+   "t": 12.094,
+   "dur": 2.015
+  },
+  {
+   "who": "mishu",
+   "text": "A big round helmet, to help us breathe!",
+   "t": 14.558,
+   "dur": 2.13
+  },
+  {
+   "who": "gul",
+   "text": "A thick space suit, to keep us safe!",
+   "t": 17.138,
+   "dur": 1.676
+  },
+  {
+   "who": "mishu",
+   "text": "Strong gloves!",
+   "t": 19.265,
+   "dur": 0.931
+  },
+  {
+   "who": "gul",
+   "text": "And big moon boots!",
+   "t": 20.646,
+   "dur": 1.219
+  },
+  {
+   "who": "both",
+   "text": "We're astronauts!",
+   "t": 22.314,
+   "dur": 0.998
+  },
+  {
+   "who": "mishu",
+   "text": "Let's get our rocket ready!",
+   "t": 24.462,
+   "dur": 1.353
+  },
+  {
+   "who": "gul",
+   "text": "Here's the rocket's tall body!",
+   "t": 26.265,
+   "dur": 1.527
+  },
+  {
+   "who": "mishu",
+   "text": "Add the fins, to fly straight!",
+   "t": 28.242,
+   "dur": 1.53
+  },
+  {
+   "who": "gul",
+   "text": "A round window, to see the stars!",
+   "t": 30.221,
+   "dur": 1.827
+  },
+  {
+   "who": "mishu",
+   "text": "Fill it with fuel!",
+   "t": 32.499,
+   "dur": 1.005
+  },
+  {
+   "who": "gul",
+   "text": "First, the Sun! It's right in the middle!",
+   "t": 34.853,
+   "dur": 1.895
+  },
+  {
+   "who": "mishu",
+   "text": "The Sun is a star! A giant ball of very hot gas!",
+   "t": 37.199,
+   "dur": 3.198
+  },
+  {
+   "who": "gul",
+   "text": "It gives us light and heat!",
+   "t": 40.847,
+   "dur": 1.37
+  },
+  {
+   "who": "mishu",
+   "text": "Eight planets go around and around the Sun!",
+   "t": 42.666,
+   "dur": 2.175
+  },
+  {
+   "who": "mishu",
+   "text": "Let's meet all eight planets, one by one!",
+   "t": 45.992,
+   "dur": 2.205
+  },
+  {
+   "who": "gul",
+   "text": "Planet number one!",
+   "t": 48.646,
+   "dur": 1.104
+  },
+  {
+   "who": "both",
+   "text": "Mercury!",
+   "t": 50.001,
+   "dur": 0.692
+  },
+  {
+   "who": "mishu",
+   "text": "Mercury is the smallest planet!",
+   "t": 51.893,
+   "dur": 1.859
+  },
+  {
+   "who": "gul",
+   "text": "And it's the closest to the Sun!",
+   "t": 54.103,
+   "dur": 1.577
+  },
+  {
+   "who": "mishu",
+   "text": "Planet number two!",
+   "t": 56.33,
+   "dur": 1.064
+  },
+  {
+   "who": "both",
+   "text": "Venus!",
+   "t": 57.644,
+   "dur": 0.625
+  },
+  {
+   "who": "gul",
+   "text": "Venus is the hottest planet!",
+   "t": 59.469,
+   "dur": 1.565
+  },
+  {
+   "who": "mishu",
+   "text": "It's covered in thick clouds!",
+   "t": 61.384,
+   "dur": 1.564
+  },
+  {
+   "who": "gul",
+   "text": "Planet number three!",
+   "t": 63.598,
+   "dur": 1.072
+  },
+  {
+   "who": "both",
+   "text": "Earth!",
+   "t": 64.92,
+   "dur": 0.519
+  },
+  {
+   "who": "mishu",
+   "text": "Earth is our home!",
+   "t": 66.639,
+   "dur": 0.946
+  },
+  {
+   "who": "gul",
+   "text": "It has water, air, and living things!",
+   "t": 67.935,
+   "dur": 1.984
+  },
+  {
+   "who": "mishu",
+   "text": "Planet number four!",
+   "t": 70.569,
+   "dur": 1.054
+  },
+  {
+   "who": "both",
+   "text": "Mars!",
+   "t": 71.873,
+   "dur": 0.611
+  },
+  {
+   "who": "gul",
+   "text": "Mars is the red planet!",
+   "t": 73.684,
+   "dur": 1.441
+  },
+  {
+   "who": "mishu",
+   "text": "It's red, rocky, and dusty!",
+   "t": 75.475,
+   "dur": 1.651
+  },
+  {
+   "who": "gul",
+   "text": "Planet number five!",
+   "t": 77.776,
+   "dur": 1.147
+  },
+  {
+   "who": "both",
+   "text": "Jupiter!",
+   "t": 79.172,
+   "dur": 0.656
+  },
+  {
+   "who": "mishu",
+   "text": "Jupiter is the biggest planet!",
+   "t": 81.029,
+   "dur": 1.701
+  },
+  {
+   "who": "gul",
+   "text": "It has a giant storm, called the red spot!",
+   "t": 83.08,
+   "dur": 2.105
+  },
+  {
+   "who": "mishu",
+   "text": "Planet number six!",
+   "t": 85.835,
+   "dur": 1.144
+  },
+  {
+   "who": "both",
+   "text": "Saturn!",
+   "t": 87.229,
+   "dur": 0.633
+  },
+  {
+   "who": "gul",
+   "text": "Saturn has beautiful rings!",
+   "t": 89.062,
+   "dur": 1.585
+  },
+  {
+   "who": "mishu",
+   "text": "The rings are made of ice and rock!",
+   "t": 90.997,
+   "dur": 1.694
+  },
+  {
+   "who": "gul",
+   "text": "Planet number seven!",
+   "t": 93.341,
+   "dur": 1.157
+  },
+  {
+   "who": "both",
+   "text": "Uranus!",
+   "t": 94.748,
+   "dur": 0.671
+  },
+  {
+   "who": "mishu",
+   "text": "Uranus spins on its side!",
+   "t": 96.619,
+   "dur": 1.371
+  },
+  {
+   "who": "gul",
+   "text": "It's a very cold, blue green planet!",
+   "t": 98.34,
+   "dur": 1.969
+  },
+  {
+   "who": "mishu",
+   "text": "Planet number eight!",
+   "t": 100.959,
+   "dur": 1.116
+  },
+  {
+   "who": "both",
+   "text": "Neptune!",
+   "t": 102.325,
+   "dur": 0.715
+  },
+  {
+   "who": "gul",
+   "text": "Neptune is the farthest from the Sun!",
+   "t": 104.24,
+   "dur": 1.838
+  },
+  {
+   "who": "mishu",
+   "text": "It's dark, cold, and very windy!",
+   "t": 106.428,
+   "dur": 1.892
+  },
+  {
+   "who": "both",
+   "text": "Mercury!",
+   "t": 108.97,
+   "dur": 0.692
+  },
+  {
+   "who": "both",
+   "text": "Venus!",
+   "t": 109.962,
+   "dur": 0.625
+  },
+  {
+   "who": "both",
+   "text": "Earth!",
+   "t": 110.887,
+   "dur": 0.519
+  },
+  {
+   "who": "both",
+   "text": "Mars!",
+   "t": 111.706,
+   "dur": 0.611
+  },
+  {
+   "who": "both",
+   "text": "Jupiter!",
+   "t": 112.617,
+   "dur": 0.656
+  },
+  {
+   "who": "both",
+   "text": "Saturn!",
+   "t": 113.574,
+   "dur": 0.633
+  },
+  {
+   "who": "both",
+   "text": "Uranus!",
+   "t": 114.507,
+   "dur": 0.671
+  },
+  {
+   "who": "both",
+   "text": "Neptune!",
+   "t": 115.478,
+   "dur": 0.715
+  },
+  {
+   "who": "gul",
+   "text": "Eight planets! Say them again, faster!",
+   "t": 116.493,
+   "dur": 1.925
+  },
+  {
+   "who": "both",
+   "text": "Mercury",
+   "t": 118.768,
+   "dur": 0.685
+  },
+  {
+   "who": "both",
+   "text": "Venus",
+   "t": 119.604,
+   "dur": 0.603
+  },
+  {
+   "who": "both",
+   "text": "Earth",
+   "t": 120.356,
+   "dur": 0.501
+  },
+  {
+   "who": "both",
+   "text": "Mars",
+   "t": 121.007,
+   "dur": 0.557
+  },
+  {
+   "who": "both",
+   "text": "Jupiter",
+   "t": 121.714,
+   "dur": 0.637
+  },
+  {
+   "who": "both",
+   "text": "Saturn",
+   "t": 122.501,
+   "dur": 0.589
+  },
+  {
+   "who": "both",
+   "text": "Uranus",
+   "t": 123.24,
+   "dur": 0.661
+  },
+  {
+   "who": "both",
+   "text": "Neptune",
+   "t": 124.051,
+   "dur": 0.714
+  },
+  {
+   "who": "gul",
+   "text": "Some planets are giants, and some are tiny!",
+   "t": 125.915,
+   "dur": 2.367
+  },
+  {
+   "who": "mishu",
+   "text": "Jupiter is the biggest! More than a thousand Earths could fit inside!",
+   "t": 128.732,
+   "dur": 3.724
+  },
+  {
+   "who": "gul",
+   "text": "Earth is much smaller!",
+   "t": 132.907,
+   "dur": 1.232
+  },
+  {
+   "who": "mishu",
+   "text": "And Mercury is the smallest of all!",
+   "t": 134.588,
+   "dur": 2.006
+  },
+  {
+   "who": "mishu",
+   "text": "Four planets are small and rocky! Four are big giants!",
+   "t": 137.745,
+   "dur": 3.342
+  },
+  {
+   "who": "gul",
+   "text": "Rocky, or giant?",
+   "t": 141.536,
+   "dur": 1.11
+  },
+  {
+   "who": "mishu",
+   "text": "Rocky!",
+   "t": 144.397,
+   "dur": 0.625
+  },
+  {
+   "who": "mishu",
+   "text": "Rocky, or giant?",
+   "t": 145.572,
+   "dur": 1.152
+  },
+  {
+   "who": "gul",
+   "text": "Giant!",
+   "t": 148.474,
+   "dur": 0.521
+  },
+  {
+   "who": "gul",
+   "text": "Rocky, or giant?",
+   "t": 149.546,
+   "dur": 1.11
+  },
+  {
+   "who": "mishu",
+   "text": "Rocky!",
+   "t": 152.406,
+   "dur": 0.625
+  },
+  {
+   "who": "mishu",
+   "text": "Rocky, or giant?",
+   "t": 153.581,
+   "dur": 1.152
+  },
+  {
+   "who": "gul",
+   "text": "Giant!",
+   "t": 156.483,
+   "dur": 0.521
+  },
+  {
+   "who": "gul",
+   "text": "Rocky, or giant?",
+   "t": 157.555,
+   "dur": 1.11
+  },
+  {
+   "who": "mishu",
+   "text": "Rocky!",
+   "t": 160.415,
+   "dur": 0.625
+  },
+  {
+   "who": "mishu",
+   "text": "Rocky, or giant?",
+   "t": 161.59,
+   "dur": 1.152
+  },
+  {
+   "who": "gul",
+   "text": "Giant!",
+   "t": 164.493,
+   "dur": 0.521
+  },
+  {
+   "who": "gul",
+   "text": "Rocky, or giant?",
+   "t": 165.564,
+   "dur": 1.11
+  },
+  {
+   "who": "mishu",
+   "text": "Rocky!",
+   "t": 168.424,
+   "dur": 0.625
+  },
+  {
+   "who": "mishu",
+   "text": "Rocky, or giant?",
+   "t": 169.599,
+   "dur": 1.152
+  },
+  {
+   "who": "gul",
+   "text": "Giant!",
+   "t": 172.502,
+   "dur": 0.521
+  },
+  {
+   "who": "gul",
+   "text": "Planets near the Sun can get hot! Far away, they are cold!",
+   "t": 174.073,
+   "dur": 3.198
+  },
+  {
+   "who": "mishu",
+   "text": "Hot, or cold?",
+   "t": 177.721,
+   "dur": 0.947
+  },
+  {
+   "who": "gul",
+   "text": "Venus! Super hot!",
+   "t": 180.418,
+   "dur": 1.148
+  },
+  {
+   "who": "gul",
+   "text": "Hot, or cold?",
+   "t": 182.116,
+   "dur": 1.041
+  },
+  {
+   "who": "mishu",
+   "text": "Neptune! Freezing cold!",
+   "t": 184.907,
+   "dur": 1.562
+  },
+  {
+   "who": "mishu",
+   "text": "Hot, or cold?",
+   "t": 187.019,
+   "dur": 0.947
+  },
+  {
+   "who": "gul",
+   "text": "Mercury! Very hot in the sunshine!",
+   "t": 189.716,
+   "dur": 1.926
+  },
+  {
+   "who": "gul",
+   "text": "Hot, or cold?",
+   "t": 192.193,
+   "dur": 1.041
+  },
+  {
+   "who": "mishu",
+   "text": "Uranus! Icy cold!",
+   "t": 194.983,
+   "dur": 1.444
+  },
+  {
+   "who": "mishu",
+   "text": "Planets are so colourful! What colour is it?",
+   "t": 197.477,
+   "dur": 2.464
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 200.391,
+   "dur": 0.985
+  },
+  {
+   "who": "mishu",
+   "text": "Red!",
+   "t": 203.126,
+   "dur": 0.487
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 204.163,
+   "dur": 1.041
+  },
+  {
+   "who": "gul",
+   "text": "Deep blue!",
+   "t": 206.954,
+   "dur": 0.756
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 208.26,
+   "dur": 0.985
+  },
+  {
+   "who": "mishu",
+   "text": "Blue and green!",
+   "t": 210.995,
+   "dur": 0.869
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 212.414,
+   "dur": 1.041
+  },
+  {
+   "who": "gul",
+   "text": "Yellow!",
+   "t": 215.204,
+   "dur": 0.553
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 216.307,
+   "dur": 0.985
+  },
+  {
+   "who": "mishu",
+   "text": "Light blue!",
+   "t": 219.042,
+   "dur": 0.695
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 220.287,
+   "dur": 1.041
+  },
+  {
+   "who": "gul",
+   "text": "Orange and brown!",
+   "t": 223.078,
+   "dur": 1.038
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 224.665,
+   "dur": 0.985
+  },
+  {
+   "who": "mishu",
+   "text": "Grey!",
+   "t": 227.4,
+   "dur": 0.504
+  },
+  {
+   "who": "mishu",
+   "text": "Why do we have day and night? Because the Earth spins!",
+   "t": 228.955,
+   "dur": 2.752
+  },
+  {
+   "who": "gul",
+   "text": "When our side faces the Sun, it's day time!",
+   "t": 232.156,
+   "dur": 2.399
+  },
+  {
+   "who": "mishu",
+   "text": "When our side turns away, it's night time! Good night!",
+   "t": 235.005,
+   "dur": 2.865
+  },
+  {
+   "who": "gul",
+   "text": "Do you remember? Which planet is it?",
+   "t": 239.02,
+   "dur": 1.786
+  },
+  {
+   "who": "mishu",
+   "text": "Which planet is our home?",
+   "t": 241.256,
+   "dur": 1.318
+  },
+  {
+   "who": "gul",
+   "text": "Earth!",
+   "t": 244.825,
+   "dur": 0.456
+  },
+  {
+   "who": "gul",
+   "text": "Which planet has rings?",
+   "t": 245.931,
+   "dur": 1.306
+  },
+  {
+   "who": "mishu",
+   "text": "Saturn!",
+   "t": 249.487,
+   "dur": 0.58
+  },
+  {
+   "who": "mishu",
+   "text": "Which planet is the biggest?",
+   "t": 250.717,
+   "dur": 1.434
+  },
+  {
+   "who": "gul",
+   "text": "Jupiter!",
+   "t": 254.401,
+   "dur": 0.649
+  },
+  {
+   "who": "gul",
+   "text": "Which planet is red?",
+   "t": 255.7,
+   "dur": 1.202
+  },
+  {
+   "who": "mishu",
+   "text": "Mars!",
+   "t": 259.152,
+   "dur": 0.611
+  },
+  {
+   "who": "mishu",
+   "text": "Which is the smallest planet?",
+   "t": 260.413,
+   "dur": 1.509
+  },
+  {
+   "who": "gul",
+   "text": "Mercury!",
+   "t": 264.172,
+   "dur": 0.692
+  },
+  {
+   "who": "gul",
+   "text": "Which planet is the hottest?",
+   "t": 265.514,
+   "dur": 1.476
+  },
+  {
+   "who": "mishu",
+   "text": "Venus!",
+   "t": 269.241,
+   "dur": 0.624
+  },
+  {
+   "who": "mishu",
+   "text": "Which planet is the farthest from the Sun?",
+   "t": 270.515,
+   "dur": 2.035
+  },
+  {
+   "who": "gul",
+   "text": "Neptune!",
+   "t": 274.8,
+   "dur": 0.677
+  },
+  {
+   "who": "mishu",
+   "text": "Big kids! Which planet comes next?",
+   "t": 276.626,
+   "dur": 2.036
+  },
+  {
+   "who": "gul",
+   "text": "Mercury, Venus, Earth...",
+   "t": 279.112,
+   "dur": 1.381
+  },
+  {
+   "who": "gul",
+   "text": "What comes next?",
+   "t": 280.743,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "Mars!",
+   "t": 283.982,
+   "dur": 0.611
+  },
+  {
+   "who": "mishu",
+   "text": "Mars, Jupiter...",
+   "t": 285.243,
+   "dur": 1.145
+  },
+  {
+   "who": "mishu",
+   "text": "What comes next?",
+   "t": 286.638,
+   "dur": 1.009
+  },
+  {
+   "who": "gul",
+   "text": "Saturn!",
+   "t": 289.897,
+   "dur": 0.633
+  },
+  {
+   "who": "gul",
+   "text": "Saturn, Uranus...",
+   "t": 291.18,
+   "dur": 1.016
+  },
+  {
+   "who": "gul",
+   "text": "What comes next?",
+   "t": 292.446,
+   "dur": 0.989
+  },
+  {
+   "who": "mishu",
+   "text": "Neptune!",
+   "t": 295.685,
+   "dur": 0.715
+  },
+  {
+   "who": "gul",
+   "text": "Let's land on the Moon! Touch down!",
+   "t": 297.55,
+   "dur": 1.83
+  },
+  {
+   "who": "mishu",
+   "text": "The Moon goes around the Earth!",
+   "t": 299.83,
+   "dur": 1.512
+  },
+  {
+   "who": "gul",
+   "text": "The Moon is covered in rocks and big round craters!",
+   "t": 302.093,
+   "dur": 2.581
+  },
+  {
+   "who": "mishu",
+   "text": "There is no air on the Moon, so astronauts wear space suits!",
+   "t": 305.423,
+   "dur": 3.208
+  },
+  {
+   "who": "gul",
+   "text": "Footprints on the Moon stay there for a long, long time!",
+   "t": 309.381,
+   "dur": 2.663
+  },
+  {
+   "who": "both",
+   "text": "Let's jump on the Moon! Boing, boing!",
+   "t": 312.794,
+   "dur": 2.068
+  },
+  {
+   "who": "mishu",
+   "text": "The Moon has less gravity, so you can jump very high!",
+   "t": 315.212,
+   "dur": 3.014
+  },
+  {
+   "who": "mishu",
+   "text": "The Moon looks different every night!",
+   "t": 319.477,
+   "dur": 1.692
+  },
+  {
+   "who": "gul",
+   "text": "New moon! We can't see it!",
+   "t": 321.619,
+   "dur": 1.308
+  },
+  {
+   "who": "mishu",
+   "text": "A thin crescent moon!",
+   "t": 323.677,
+   "dur": 1.212
+  },
+  {
+   "who": "gul",
+   "text": "A half moon!",
+   "t": 325.639,
+   "dur": 0.856
+  },
+  {
+   "who": "mishu",
+   "text": "A big, round full moon!",
+   "t": 327.245,
+   "dur": 1.293
+  },
+  {
+   "who": "gul",
+   "text": "Life in space is so funny!",
+   "t": 329.788,
+   "dur": 1.534
+  },
+  {
+   "who": "mishu",
+   "text": "In space, there's almost no gravity, so everything floats!",
+   "t": 331.772,
+   "dur": 3.334
+  },
+  {
+   "who": "gul",
+   "text": "Astronauts' food floats too! Catch it!",
+   "t": 335.856,
+   "dur": 1.958
+  },
+  {
+   "who": "mishu",
+   "text": "They strap in to sleep, so they don't float away!",
+   "t": 338.564,
+   "dur": 2.452
+  },
+  {
+   "who": "mishu",
+   "text": "So many stars! Let's count to ten!",
+   "t": 342.267,
+   "dur": 2.066
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 344.783,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 345.538,
+   "dur": 0.459
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 346.267,
+   "dur": 0.538
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 347.075,
+   "dur": 0.537
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 347.882,
+   "dur": 0.575
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 348.727,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 349.579,
+   "dur": 0.607
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 350.456,
+   "dur": 0.507
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 351.233,
+   "dur": 0.545
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 352.049,
+   "dur": 0.506
+  },
+  {
+   "who": "gul",
+   "text": "Ten stars! There are more stars than we can ever count!",
+   "t": 352.825,
+   "dur": 2.691
+  },
+  {
+   "who": "gul",
+   "text": "Long ago, people joined stars to make pictures!",
+   "t": 356.666,
+   "dur": 2.512
+  },
+  {
+   "who": "mishu",
+   "text": "Join the stars! What is it?",
+   "t": 359.628,
+   "dur": 1.539
+  },
+  {
+   "who": "gul",
+   "text": "A kite!",
+   "t": 363.617,
+   "dur": 0.585
+  },
+  {
+   "who": "gul",
+   "text": "Join the stars! What is it?",
+   "t": 364.952,
+   "dur": 1.287
+  },
+  {
+   "who": "mishu",
+   "text": "A big star!",
+   "t": 368.689,
+   "dur": 0.812
+  },
+  {
+   "who": "gul",
+   "text": "A telescope makes faraway things look close!",
+   "t": 370.751,
+   "dur": 2.299
+  },
+  {
+   "who": "mishu",
+   "text": "Look through the telescope! I can see the Moon!",
+   "t": 373.501,
+   "dur": 2.345
+  },
+  {
+   "who": "gul",
+   "text": "I can see Saturn's rings!",
+   "t": 376.695,
+   "dur": 1.495
+  },
+  {
+   "who": "mishu",
+   "text": "I can see a comet, with a long, shiny tail!",
+   "t": 379.04,
+   "dur": 2.497
+  },
+  {
+   "who": "mishu",
+   "text": "Clap along with our planet rhyme!",
+   "t": 382.887,
+   "dur": 1.633
+  },
+  {
+   "who": "both",
+   "text": "Mercury, Venus, close to the Sun,",
+   "t": 384.97,
+   "dur": 1.938
+  },
+  {
+   "who": "both",
+   "text": "Earth is our home, and Mars is fun!",
+   "t": 387.308,
+   "dur": 1.998
+  },
+  {
+   "who": "both",
+   "text": "Jupiter, Saturn, giants so wide,",
+   "t": 389.706,
+   "dur": 2.098
+  },
+  {
+   "who": "both",
+   "text": "Uranus, Neptune, on the far side!",
+   "t": 392.204,
+   "dur": 2.019
+  },
+  {
+   "who": "both",
+   "text": "Mercury, Venus, close to the Sun,",
+   "t": 394.623,
+   "dur": 1.938
+  },
+  {
+   "who": "both",
+   "text": "Earth is our home, and Mars is fun!",
+   "t": 396.96,
+   "dur": 1.998
+  },
+  {
+   "who": "both",
+   "text": "Jupiter, Saturn, giants so wide,",
+   "t": 399.358,
+   "dur": 2.098
+  },
+  {
+   "who": "both",
+   "text": "Uranus, Neptune, on the far side!",
+   "t": 401.857,
+   "dur": 2.019
+  },
+  {
+   "who": "mishu",
+   "text": "Does it go in space? Yes, or no?",
+   "t": 405.076,
+   "dur": 2.104
+  },
+  {
+   "who": "gul",
+   "text": "A rocket?",
+   "t": 407.629,
+   "dur": 0.751
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! Rockets go to space!",
+   "t": 410.231,
+   "dur": 1.633
+  },
+  {
+   "who": "mishu",
+   "text": "A car?",
+   "t": 412.414,
+   "dur": 0.584
+  },
+  {
+   "who": "gul",
+   "text": "No! Cars stay on the road!",
+   "t": 414.847,
+   "dur": 1.442
+  },
+  {
+   "who": "gul",
+   "text": "An astronaut?",
+   "t": 416.839,
+   "dur": 0.892
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! Astronauts go to space!",
+   "t": 419.581,
+   "dur": 1.758
+  },
+  {
+   "who": "mishu",
+   "text": "A fish?",
+   "t": 421.889,
+   "dur": 0.638
+  },
+  {
+   "who": "gul",
+   "text": "No! Fish live in water!",
+   "t": 424.377,
+   "dur": 1.359
+  },
+  {
+   "who": "gul",
+   "text": "A comet?",
+   "t": 426.286,
+   "dur": 0.699
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! A comet is a ball of ice and dust!",
+   "t": 428.835,
+   "dur": 2.424
+  },
+  {
+   "who": "mishu",
+   "text": "A duck?",
+   "t": 431.808,
+   "dur": 0.631
+  },
+  {
+   "who": "gul",
+   "text": "No! Ducks stay near ponds!",
+   "t": 434.29,
+   "dur": 1.514
+  },
+  {
+   "who": "gul",
+   "text": "The Moon?",
+   "t": 436.353,
+   "dur": 0.635
+  },
+  {
+   "who": "mishu",
+   "text": "Yes! The Moon is in space!",
+   "t": 438.839,
+   "dur": 1.628
+  },
+  {
+   "who": "mishu",
+   "text": "A star?",
+   "t": 441.016,
+   "dur": 0.618
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Stars are in space!",
+   "t": 443.484,
+   "dur": 1.352
+  },
+  {
+   "who": "gul",
+   "text": "Stand up! Let's do the space dance!",
+   "t": 445.886,
+   "dur": 1.658
+  },
+  {
+   "who": "both",
+   "text": "Blast off! Jump up!",
+   "t": 447.995,
+   "dur": 1.293
+  },
+  {
+   "who": "both",
+   "text": "Spin like a planet!",
+   "t": 451.038,
+   "dur": 1.136
+  },
+  {
+   "who": "both",
+   "text": "Float like an astronaut!",
+   "t": 453.923,
+   "dur": 1.289
+  },
+  {
+   "who": "both",
+   "text": "Stomp on the Moon!",
+   "t": 456.963,
+   "dur": 1.032
+  },
+  {
+   "who": "both",
+   "text": "Twinkle like a star!",
+   "t": 459.744,
+   "dur": 1.177
+  },
+  {
+   "who": "both",
+   "text": "Fly like a rocket!",
+   "t": 462.671,
+   "dur": 1.121
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 465.542,
+   "dur": 1.027
+  },
+  {
+   "who": "both",
+   "text": "Blast off! Jump up!",
+   "t": 466.918,
+   "dur": 1.293
+  },
+  {
+   "who": "both",
+   "text": "Spin like a planet!",
+   "t": 469.261,
+   "dur": 1.136
+  },
+  {
+   "who": "both",
+   "text": "Float like an astronaut!",
+   "t": 471.447,
+   "dur": 1.289
+  },
+  {
+   "who": "both",
+   "text": "Stomp on the Moon!",
+   "t": 473.787,
+   "dur": 1.032
+  },
+  {
+   "who": "both",
+   "text": "Twinkle like a star!",
+   "t": 475.868,
+   "dur": 1.177
+  },
+  {
+   "who": "both",
+   "text": "Fly like a rocket!",
+   "t": 478.095,
+   "dur": 1.121
+  },
+  {
+   "who": "mishu",
+   "text": "Quick quiz time! Are you ready?",
+   "t": 480.765,
+   "dur": 1.763
+  },
+  {
+   "who": "gul",
+   "text": "Which planet is our home?",
+   "t": 482.978,
+   "dur": 1.324
+  },
+  {
+   "who": "mishu",
+   "text": "Earth!",
+   "t": 486.952,
+   "dur": 0.519
+  },
+  {
+   "who": "mishu",
+   "text": "How many planets go around the Sun?",
+   "t": 488.121,
+   "dur": 1.769
+  },
+  {
+   "who": "gul",
+   "text": "Eight!",
+   "t": 492.54,
+   "dur": 0.43
+  },
+  {
+   "who": "gul",
+   "text": "Who flies to space?",
+   "t": 493.62,
+   "dur": 1.171
+  },
+  {
+   "who": "mishu",
+   "text": "Astronauts!",
+   "t": 497.441,
+   "dur": 0.837
+  },
+  {
+   "who": "mishu",
+   "text": "Which planet has rings?",
+   "t": 498.928,
+   "dur": 1.278
+  },
+  {
+   "who": "gul",
+   "text": "Saturn!",
+   "t": 502.856,
+   "dur": 0.633
+  },
+  {
+   "who": "mishu",
+   "text": "Time to fly home to Earth! Thank you for coming to space!",
+   "t": 504.139,
+   "dur": 3.111
+  },
+  {
+   "who": "both",
+   "text": "Bye bye, astronauts!",
+   "t": 507.601,
+   "dur": 1.307
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "launch",
+   "t0": 0.0,
+   "ts": [
+    0.0,
+    0.825,
+    1.611,
+    2.399,
+    3.108
+   ],
+   "go_t": 3.844,
+   "kids_t": 5.591,
+   "t1": 5.591
+  },
+  {
+   "kind": "arrive",
+   "bg": "space",
+   "t0": 5.591,
+   "title_t": 5.591,
+   "t1": 11.594
+  },
+  {
+   "kind": "title",
+   "bg": "launch",
+   "t0": 11.594,
+   "title": "SPACE SUIT!",
+   "t1": 14.558
+  },
+  {
+   "kind": "suit",
+   "bg": "launch",
+   "t0": 14.558,
+   "ts": [
+    14.558,
+    17.138,
+    19.265,
+    20.646
+   ],
+   "done_t": 22.314,
+   "t1": 23.962
+  },
+  {
+   "kind": "title",
+   "bg": "launch",
+   "t0": 23.962,
+   "title": "BUILD A ROCKET!",
+   "t1": 26.265
+  },
+  {
+   "kind": "build",
+   "bg": "launch",
+   "t0": 26.265,
+   "ts": [
+    26.265,
+    28.242,
+    30.221,
+    32.499
+   ],
+   "t1": 34.353
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 34.353,
+   "title": "THE SUN!",
+   "t1": 37.199
+  },
+  {
+   "kind": "sun",
+   "bg": "space",
+   "t0": 37.199,
+   "a": 37.199,
+   "b": 40.847,
+   "c": 42.666,
+   "t1": 45.492
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 45.492,
+   "title": "EIGHT PLANETS!",
+   "t1": 48.646
+  },
+  {
+   "kind": "planet",
+   "bg": "space",
+   "t0": 48.646,
+   "key": "mercury",
+   "name": "MERCURY",
+   "w": "SMALLEST!",
+   "num": 1,
+   "name_t": 50.001,
+   "f1_t": 51.893,
+   "t1": 56.33
+  },
+  {
+   "kind": "planet",
+   "bg": "space",
+   "t0": 56.33,
+   "key": "venus",
+   "name": "VENUS",
+   "w": "HOTTEST!",
+   "num": 2,
+   "name_t": 57.644,
+   "f1_t": 59.469,
+   "t1": 63.598
+  },
+  {
+   "kind": "planet",
+   "bg": "space",
+   "t0": 63.598,
+   "key": "earth",
+   "name": "EARTH",
+   "w": "OUR HOME!",
+   "num": 3,
+   "name_t": 64.92,
+   "f1_t": 66.639,
+   "t1": 70.569
+  },
+  {
+   "kind": "planet",
+   "bg": "space",
+   "t0": 70.569,
+   "key": "mars",
+   "name": "MARS",
+   "w": "RED PLANET!",
+   "num": 4,
+   "name_t": 71.873,
+   "f1_t": 73.684,
+   "t1": 77.776
+  },
+  {
+   "kind": "planet",
+   "bg": "space",
+   "t0": 77.776,
+   "key": "jupiter",
+   "name": "JUPITER",
+   "w": "BIGGEST!",
+   "num": 5,
+   "name_t": 79.172,
+   "f1_t": 81.029,
+   "t1": 85.835
+  },
+  {
+   "kind": "planet",
+   "bg": "space",
+   "t0": 85.835,
+   "key": "saturn",
+   "name": "SATURN",
+   "w": "RINGS!",
+   "num": 6,
+   "name_t": 87.229,
+   "f1_t": 89.062,
+   "t1": 93.341
+  },
+  {
+   "kind": "planet",
+   "bg": "space",
+   "t0": 93.341,
+   "key": "uranus",
+   "name": "URANUS",
+   "w": "SIDEWAYS!",
+   "num": 7,
+   "name_t": 94.748,
+   "f1_t": 96.619,
+   "t1": 100.959
+  },
+  {
+   "kind": "planet",
+   "bg": "space",
+   "t0": 100.959,
+   "key": "neptune",
+   "name": "NEPTUNE",
+   "w": "FARTHEST!",
+   "num": 8,
+   "name_t": 102.325,
+   "f1_t": 104.24,
+   "t1": 108.97
+  },
+  {
+   "kind": "lineup",
+   "bg": "space",
+   "t0": 108.97,
+   "ts": [
+    108.97,
+    109.962,
+    110.887,
+    111.706,
+    112.617,
+    113.574,
+    114.507,
+    115.478
+   ],
+   "sum_t": 116.493,
+   "ts2": [
+    118.768,
+    119.604,
+    120.356,
+    121.007,
+    121.714,
+    122.501,
+    123.24,
+    124.051
+   ],
+   "t1": 125.415
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 125.415,
+   "title": "BIG AND SMALL!",
+   "t1": 128.732
+  },
+  {
+   "kind": "sizes",
+   "bg": "space",
+   "t0": 128.732,
+   "a": 128.732,
+   "b": 132.907,
+   "c": 134.588,
+   "t1": 137.245
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 137.245,
+   "title": "ROCKY OR GIANT?",
+   "t1": 141.536
+  },
+  {
+   "kind": "rocky",
+   "bg": "space",
+   "t0": 141.536,
+   "key": "earth",
+   "rocky": true,
+   "answer_t": 144.397,
+   "t1": 145.572
+  },
+  {
+   "kind": "rocky",
+   "bg": "space",
+   "t0": 145.572,
+   "key": "jupiter",
+   "rocky": false,
+   "answer_t": 148.474,
+   "t1": 149.546
+  },
+  {
+   "kind": "rocky",
+   "bg": "space",
+   "t0": 149.546,
+   "key": "mars",
+   "rocky": true,
+   "answer_t": 152.406,
+   "t1": 153.581
+  },
+  {
+   "kind": "rocky",
+   "bg": "space",
+   "t0": 153.581,
+   "key": "saturn",
+   "rocky": false,
+   "answer_t": 156.483,
+   "t1": 157.555
+  },
+  {
+   "kind": "rocky",
+   "bg": "space",
+   "t0": 157.555,
+   "key": "venus",
+   "rocky": true,
+   "answer_t": 160.415,
+   "t1": 161.59
+  },
+  {
+   "kind": "rocky",
+   "bg": "space",
+   "t0": 161.59,
+   "key": "neptune",
+   "rocky": false,
+   "answer_t": 164.493,
+   "t1": 165.564
+  },
+  {
+   "kind": "rocky",
+   "bg": "space",
+   "t0": 165.564,
+   "key": "mercury",
+   "rocky": true,
+   "answer_t": 168.424,
+   "t1": 169.599
+  },
+  {
+   "kind": "rocky",
+   "bg": "space",
+   "t0": 169.599,
+   "key": "uranus",
+   "rocky": false,
+   "answer_t": 172.502,
+   "t1": 173.573
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 173.573,
+   "title": "HOT OR COLD?",
+   "t1": 177.721
+  },
+  {
+   "kind": "hotcold",
+   "bg": "space",
+   "t0": 177.721,
+   "key": "venus",
+   "hot": true,
+   "answer_t": 180.418,
+   "t1": 182.116
+  },
+  {
+   "kind": "hotcold",
+   "bg": "space",
+   "t0": 182.116,
+   "key": "neptune",
+   "hot": false,
+   "answer_t": 184.907,
+   "t1": 187.019
+  },
+  {
+   "kind": "hotcold",
+   "bg": "space",
+   "t0": 187.019,
+   "key": "mercury",
+   "hot": true,
+   "answer_t": 189.716,
+   "t1": 192.193
+  },
+  {
+   "kind": "hotcold",
+   "bg": "space",
+   "t0": 192.193,
+   "key": "uranus",
+   "hot": false,
+   "answer_t": 194.983,
+   "t1": 196.977
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 196.977,
+   "title": "PLANET COLOURS!",
+   "t1": 200.391
+  },
+  {
+   "kind": "pcol",
+   "bg": "space",
+   "t0": 200.391,
+   "key": "mars",
+   "col": "RED",
+   "answer_t": 203.126,
+   "t1": 204.163
+  },
+  {
+   "kind": "pcol",
+   "bg": "space",
+   "t0": 204.163,
+   "key": "neptune",
+   "col": "BLUE",
+   "answer_t": 206.954,
+   "t1": 208.26
+  },
+  {
+   "kind": "pcol",
+   "bg": "space",
+   "t0": 208.26,
+   "key": "earth",
+   "col": "BLUE AND GREEN",
+   "answer_t": 210.995,
+   "t1": 212.414
+  },
+  {
+   "kind": "pcol",
+   "bg": "space",
+   "t0": 212.414,
+   "key": "venus",
+   "col": "YELLOW",
+   "answer_t": 215.204,
+   "t1": 216.307
+  },
+  {
+   "kind": "pcol",
+   "bg": "space",
+   "t0": 216.307,
+   "key": "uranus",
+   "col": "LIGHT BLUE",
+   "answer_t": 219.042,
+   "t1": 220.287
+  },
+  {
+   "kind": "pcol",
+   "bg": "space",
+   "t0": 220.287,
+   "key": "jupiter",
+   "col": "ORANGE AND BROWN",
+   "answer_t": 223.078,
+   "t1": 224.665
+  },
+  {
+   "kind": "pcol",
+   "bg": "space",
+   "t0": 224.665,
+   "key": "mercury",
+   "col": "GREY",
+   "answer_t": 227.4,
+   "t1": 228.455
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 228.455,
+   "title": "DAY AND NIGHT!",
+   "t1": 232.156
+  },
+  {
+   "kind": "daynight",
+   "bg": "space",
+   "t0": 232.156,
+   "a": 232.156,
+   "b": 235.005,
+   "t1": 238.52
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 238.52,
+   "title": "WHICH PLANET?",
+   "t1": 241.256
+  },
+  {
+   "kind": "which",
+   "bg": "space",
+   "t0": 241.256,
+   "key": "earth",
+   "q": "WHICH PLANET IS OUR HOME?",
+   "answer_t": 244.825,
+   "t1": 245.931
+  },
+  {
+   "kind": "which",
+   "bg": "space",
+   "t0": 245.931,
+   "key": "saturn",
+   "q": "WHICH PLANET HAS RINGS?",
+   "answer_t": 249.487,
+   "t1": 250.717
+  },
+  {
+   "kind": "which",
+   "bg": "space",
+   "t0": 250.717,
+   "key": "jupiter",
+   "q": "WHICH PLANET IS THE BIGGEST?",
+   "answer_t": 254.401,
+   "t1": 255.7
+  },
+  {
+   "kind": "which",
+   "bg": "space",
+   "t0": 255.7,
+   "key": "mars",
+   "q": "WHICH PLANET IS RED?",
+   "answer_t": 259.152,
+   "t1": 260.413
+  },
+  {
+   "kind": "which",
+   "bg": "space",
+   "t0": 260.413,
+   "key": "mercury",
+   "q": "WHICH IS THE SMALLEST PLANET?",
+   "answer_t": 264.172,
+   "t1": 265.514
+  },
+  {
+   "kind": "which",
+   "bg": "space",
+   "t0": 265.514,
+   "key": "venus",
+   "q": "WHICH PLANET IS THE HOTTEST?",
+   "answer_t": 269.241,
+   "t1": 270.515
+  },
+  {
+   "kind": "which",
+   "bg": "space",
+   "t0": 270.515,
+   "key": "neptune",
+   "q": "WHICH PLANET IS THE FARTHEST FROM THE SUN?",
+   "answer_t": 274.8,
+   "t1": 276.126
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 276.126,
+   "title": "WHAT COMES NEXT?",
+   "t1": 279.112
+  },
+  {
+   "kind": "nextp",
+   "bg": "space",
+   "t0": 279.112,
+   "key": "mars",
+   "answer_t": 283.982,
+   "t1": 285.243
+  },
+  {
+   "kind": "nextp",
+   "bg": "space",
+   "t0": 285.243,
+   "key": "saturn",
+   "answer_t": 289.897,
+   "t1": 291.18
+  },
+  {
+   "kind": "nextp",
+   "bg": "space",
+   "t0": 291.18,
+   "key": "neptune",
+   "answer_t": 295.685,
+   "t1": 297.05
+  },
+  {
+   "kind": "title",
+   "bg": "moonland",
+   "t0": 297.05,
+   "title": "THE MOON!",
+   "t1": 299.83
+  },
+  {
+   "kind": "moon",
+   "bg": "space",
+   "t0": 299.83,
+   "key": "orbit",
+   "say_t": 299.83,
+   "t1": 302.093
+  },
+  {
+   "kind": "moon",
+   "bg": "space",
+   "t0": 302.093,
+   "key": "craters",
+   "say_t": 302.093,
+   "t1": 305.423
+  },
+  {
+   "kind": "moon",
+   "bg": "moonland",
+   "t0": 305.423,
+   "key": "suit",
+   "say_t": 305.423,
+   "t1": 309.381
+  },
+  {
+   "kind": "moon",
+   "bg": "moonland",
+   "t0": 309.381,
+   "key": "print",
+   "say_t": 309.381,
+   "t1": 312.794
+  },
+  {
+   "kind": "walk",
+   "bg": "moonland",
+   "t0": 312.794,
+   "b_t": 315.212,
+   "t1": 318.977
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 318.977,
+   "title": "MOON SHAPES!",
+   "t1": 321.619
+  },
+  {
+   "kind": "phase",
+   "bg": "space",
+   "t0": 321.619,
+   "f": 0.0,
+   "say_t": 321.619,
+   "t1": 323.677
+  },
+  {
+   "kind": "phase",
+   "bg": "space",
+   "t0": 323.677,
+   "f": 0.25,
+   "say_t": 323.677,
+   "t1": 325.639
+  },
+  {
+   "kind": "phase",
+   "bg": "space",
+   "t0": 325.639,
+   "f": 0.5,
+   "say_t": 325.639,
+   "t1": 327.245
+  },
+  {
+   "kind": "phase",
+   "bg": "space",
+   "t0": 327.245,
+   "f": 1.0,
+   "say_t": 327.245,
+   "t1": 329.288
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 329.288,
+   "title": "FLOATING IN SPACE!",
+   "t1": 331.772
+  },
+  {
+   "kind": "float",
+   "bg": "space",
+   "t0": 331.772,
+   "key": "hair",
+   "say_t": 331.772,
+   "t1": 335.856
+  },
+  {
+   "kind": "float",
+   "bg": "space",
+   "t0": 335.856,
+   "key": "food",
+   "say_t": 335.856,
+   "t1": 338.564
+  },
+  {
+   "kind": "float",
+   "bg": "space",
+   "t0": 338.564,
+   "key": "sleep",
+   "say_t": 338.564,
+   "t1": 341.767
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 341.767,
+   "title": "COUNT THE STARS!",
+   "t1": 344.783
+  },
+  {
+   "kind": "count",
+   "bg": "space",
+   "t0": 344.783,
+   "cts": [
+    344.783,
+    345.538,
+    346.267,
+    347.075,
+    347.882,
+    348.727,
+    349.579,
+    350.456,
+    351.233,
+    352.049
+   ],
+   "sum_t": 352.825,
+   "t1": 356.166
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 356.166,
+   "title": "STAR PICTURES!",
+   "t1": 359.628
+  },
+  {
+   "kind": "connect",
+   "bg": "space",
+   "t0": 359.628,
+   "n": 4,
+   "answer_t": 363.617,
+   "t1": 364.952
+  },
+  {
+   "kind": "connect",
+   "bg": "space",
+   "t0": 364.952,
+   "n": 5,
+   "answer_t": 368.689,
+   "t1": 370.251
+  },
+  {
+   "kind": "title",
+   "bg": "moonland",
+   "t0": 370.251,
+   "title": "LOOK THROUGH THE TELESCOPE!",
+   "t1": 373.501
+  },
+  {
+   "kind": "tele",
+   "bg": "moonland",
+   "t0": 373.501,
+   "key": "moon2",
+   "say_t": 373.501,
+   "t1": 376.695
+  },
+  {
+   "kind": "tele",
+   "bg": "moonland",
+   "t0": 376.695,
+   "key": "saturn",
+   "say_t": 376.695,
+   "t1": 379.04
+  },
+  {
+   "kind": "tele",
+   "bg": "moonland",
+   "t0": 379.04,
+   "key": "comet",
+   "say_t": 379.04,
+   "t1": 382.387
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 382.387,
+   "title": "PLANET RHYME!",
+   "t1": 384.97
+  },
+  {
+   "kind": "chant",
+   "bg": "space",
+   "t0": 384.97,
+   "l": [
+    384.97,
+    387.308,
+    389.706,
+    392.204,
+    394.623,
+    396.96,
+    399.358,
+    401.857
+   ],
+   "t1": 404.576
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 404.576,
+   "title": "SPACE OR NOT?",
+   "t1": 407.629
+  },
+  {
+   "kind": "sort",
+   "bg": "space",
+   "t0": 407.629,
+   "key": "rocket",
+   "good": true,
+   "q": "A ROCKET?",
+   "answer_t": 410.231,
+   "t1": 412.414
+  },
+  {
+   "kind": "sort",
+   "bg": "space",
+   "t0": 412.414,
+   "key": "car",
+   "good": false,
+   "q": "A CAR?",
+   "answer_t": 414.847,
+   "t1": 416.839
+  },
+  {
+   "kind": "sort",
+   "bg": "space",
+   "t0": 416.839,
+   "key": "astronaut",
+   "good": true,
+   "q": "AN ASTRONAUT?",
+   "answer_t": 419.581,
+   "t1": 421.889
+  },
+  {
+   "kind": "sort",
+   "bg": "space",
+   "t0": 421.889,
+   "key": "fish",
+   "good": false,
+   "q": "A FISH?",
+   "answer_t": 424.377,
+   "t1": 426.286
+  },
+  {
+   "kind": "sort",
+   "bg": "space",
+   "t0": 426.286,
+   "key": "comet",
+   "good": true,
+   "q": "A COMET?",
+   "answer_t": 428.835,
+   "t1": 431.808
+  },
+  {
+   "kind": "sort",
+   "bg": "space",
+   "t0": 431.808,
+   "key": "duck",
+   "good": false,
+   "q": "A DUCK?",
+   "answer_t": 434.29,
+   "t1": 436.353
+  },
+  {
+   "kind": "sort",
+   "bg": "space",
+   "t0": 436.353,
+   "key": "moon2",
+   "good": true,
+   "q": "THE MOON?",
+   "answer_t": 438.839,
+   "t1": 441.016
+  },
+  {
+   "kind": "sort",
+   "bg": "space",
+   "t0": 441.016,
+   "key": "star",
+   "good": true,
+   "q": "A STAR?",
+   "answer_t": 443.484,
+   "t1": 445.386
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 445.386,
+   "title": "SPACE DANCE!",
+   "t1": 447.995
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 447.995,
+   "move": "jump",
+   "fast": false,
+   "word": "BLAST OFF!",
+   "say_t": 447.995,
+   "t1": 451.038
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 451.038,
+   "move": "spin",
+   "fast": false,
+   "word": "SPIN LIKE A PLANET!",
+   "say_t": 451.038,
+   "t1": 453.923
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 453.923,
+   "move": "sway",
+   "fast": false,
+   "word": "FLOAT LIKE AN ASTRONAUT!",
+   "say_t": 453.923,
+   "t1": 456.963
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 456.963,
+   "move": "stomp",
+   "fast": false,
+   "word": "STOMP ON THE MOON!",
+   "say_t": 456.963,
+   "t1": 459.744
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 459.744,
+   "move": "shake",
+   "fast": false,
+   "word": "TWINKLE LIKE A STAR!",
+   "say_t": 459.744,
+   "t1": 462.671
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 462.671,
+   "move": "stretch",
+   "fast": false,
+   "word": "FLY LIKE A ROCKET!",
+   "say_t": 462.671,
+   "t1": 465.542
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 465.542,
+   "title": "FASTER!",
+   "t1": 466.918
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 466.918,
+   "move": "jump",
+   "fast": true,
+   "word": "BLAST OFF!",
+   "say_t": 466.918,
+   "t1": 469.261
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 469.261,
+   "move": "spin",
+   "fast": true,
+   "word": "SPIN LIKE A PLANET!",
+   "say_t": 469.261,
+   "t1": 471.447
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 471.447,
+   "move": "sway",
+   "fast": true,
+   "word": "FLOAT LIKE AN ASTRONAUT!",
+   "say_t": 471.447,
+   "t1": 473.787
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 473.787,
+   "move": "stomp",
+   "fast": true,
+   "word": "STOMP ON THE MOON!",
+   "say_t": 473.787,
+   "t1": 475.868
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 475.868,
+   "move": "shake",
+   "fast": true,
+   "word": "TWINKLE LIKE A STAR!",
+   "say_t": 475.868,
+   "t1": 478.095
+  },
+  {
+   "kind": "dance",
+   "bg": "space",
+   "t0": 478.095,
+   "move": "stretch",
+   "fast": true,
+   "word": "FLY LIKE A ROCKET!",
+   "say_t": 478.095,
+   "t1": 480.265
+  },
+  {
+   "kind": "title",
+   "bg": "space",
+   "t0": 480.265,
+   "title": "SPACE QUIZ!",
+   "t1": 482.978
+  },
+  {
+   "kind": "quiz",
+   "bg": "space",
+   "t0": 482.978,
+   "q": "WHICH PLANET IS OUR HOME?",
+   "vis": "earth",
+   "answer_t": 486.952,
+   "t1": 488.121
+  },
+  {
+   "kind": "quiz",
+   "bg": "space",
+   "t0": 488.121,
+   "q": "HOW MANY PLANETS GO AROUND THE SUN?",
+   "vis": "8",
+   "answer_t": 492.54,
+   "t1": 493.62
+  },
+  {
+   "kind": "quiz",
+   "bg": "space",
+   "t0": 493.62,
+   "q": "WHO FLIES TO SPACE?",
+   "vis": "astronaut",
+   "answer_t": 497.441,
+   "t1": 498.928
+  },
+  {
+   "kind": "quiz",
+   "bg": "space",
+   "t0": 498.928,
+   "q": "WHICH PLANET HAS RINGS?",
+   "vis": "saturn",
+   "answer_t": 502.856,
+   "t1": 504.139
+  },
+  {
+   "kind": "outro",
+   "bg": "space",
+   "t0": 504.139,
+   "bye_t": 507.601,
+   "t1": 510.858
+  }
+ ],
+ "prompts": [
+  [
+   50.893,
+   51.893
+  ],
+  [
+   58.469,
+   59.469
+  ],
+  [
+   65.639,
+   66.639
+  ],
+  [
+   72.684,
+   73.684
+  ],
+  [
+   80.029,
+   81.029
+  ],
+  [
+   88.062,
+   89.062
+  ],
+  [
+   95.619,
+   96.619
+  ],
+  [
+   103.24,
+   104.24
+  ],
+  [
+   142.897,
+   144.397
+  ],
+  [
+   146.974,
+   148.474
+  ],
+  [
+   150.906,
+   152.406
+  ],
+  [
+   154.983,
+   156.483
+  ],
+  [
+   158.915,
+   160.415
+  ],
+  [
+   162.993,
+   164.493
+  ],
+  [
+   166.924,
+   168.424
+  ],
+  [
+   171.002,
+   172.502
+  ],
+  [
+   178.918,
+   180.418
+  ],
+  [
+   183.407,
+   184.907
+  ],
+  [
+   188.216,
+   189.716
+  ],
+  [
+   193.483,
+   194.983
+  ],
+  [
+   201.626,
+   203.126
+  ],
+  [
+   205.454,
+   206.954
+  ],
+  [
+   209.495,
+   210.995
+  ],
+  [
+   213.704,
+   215.204
+  ],
+  [
+   217.542,
+   219.042
+  ],
+  [
+   221.578,
+   223.078
+  ],
+  [
+   225.9,
+   227.4
+  ],
+  [
+   242.825,
+   244.825
+  ],
+  [
+   247.487,
+   249.487
+  ],
+  [
+   252.401,
+   254.401
+  ],
+  [
+   257.152,
+   259.152
+  ],
+  [
+   262.172,
+   264.172
+  ],
+  [
+   267.241,
+   269.241
+  ],
+  [
+   272.8,
+   274.8
+  ],
+  [
+   281.982,
+   283.982
+  ],
+  [
+   287.897,
+   289.897
+  ],
+  [
+   293.685,
+   295.685
+  ],
+  [
+   361.417,
+   363.617
+  ],
+  [
+   366.489,
+   368.689
+  ],
+  [
+   408.631,
+   410.231
+  ],
+  [
+   413.247,
+   414.847
+  ],
+  [
+   417.981,
+   419.581
+  ],
+  [
+   422.777,
+   424.377
+  ],
+  [
+   427.235,
+   428.835
+  ],
+  [
+   432.69,
+   434.29
+  ],
+  [
+   437.239,
+   438.839
+  ],
+  [
+   441.884,
+   443.484
+  ],
+  [
+   449.438,
+   451.038
+  ],
+  [
+   452.323,
+   453.923
+  ],
+  [
+   455.363,
+   456.963
+  ],
+  [
+   458.144,
+   459.744
+  ],
+  [
+   461.071,
+   462.671
+  ],
+  [
+   463.942,
+   465.542
+  ],
+  [
+   468.361,
+   469.261
+  ],
+  [
+   470.547,
+   471.447
+  ],
+  [
+   472.887,
+   473.787
+  ],
+  [
+   474.968,
+   475.868
+  ],
+  [
+   477.195,
+   478.095
+  ],
+  [
+   479.365,
+   480.265
+  ],
+  [
+   484.552,
+   486.952
+  ],
+  [
+   490.14,
+   492.54
+  ],
+  [
+   495.041,
+   497.441
+  ],
+  [
+   500.456,
+   502.856
+  ]
+ ],
+ "stars": [
+  245.931,
+  250.717,
+  255.7,
+  260.413,
+  265.514,
+  270.515,
+  276.126,
+  352.825,
+  488.121,
+  493.62,
+  498.928,
+  504.139
+ ],
+ "total": 510.86
+}
