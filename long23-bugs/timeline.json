@@ -1,0 +1,2739 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Bugs and insects!",
+   "t": 1.4,
+   "dur": 1.17
+  },
+  {
+   "who": "mishu",
+   "text": "Tiny little animals are hiding in the garden!",
+   "t": 2.92,
+   "dur": 2.361
+  },
+  {
+   "who": "gul",
+   "text": "Get your magnifying glass! Let's go on a bug hunt!",
+   "t": 5.631,
+   "dur": 2.775
+  },
+  {
+   "who": "gul",
+   "text": "Twelve bugs are hiding! Look closely! Who is it?",
+   "t": 9.456,
+   "dur": 2.333
+  },
+  {
+   "who": "mishu",
+   "text": "It says buzz, buzz!",
+   "t": 12.24,
+   "dur": 1.185
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 13.625,
+   "dur": 0.71
+  },
+  {
+   "who": "gul",
+   "text": "Bee!",
+   "t": 16.085,
+   "dur": 0.442
+  },
+  {
+   "who": "mishu",
+   "text": "Bees visit flowers, and make sweet honey!",
+   "t": 17.627,
+   "dur": 2.218
+  },
+  {
+   "who": "gul",
+   "text": "It's red, with black spots!",
+   "t": 20.395,
+   "dur": 1.5
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 22.095,
+   "dur": 0.686
+  },
+  {
+   "who": "mishu",
+   "text": "Ladybug!",
+   "t": 24.531,
+   "dur": 0.699
+  },
+  {
+   "who": "gul",
+   "text": "Ladybugs eat tiny bugs, and help our gardens!",
+   "t": 26.329,
+   "dur": 2.536
+  },
+  {
+   "who": "mishu",
+   "text": "It's tiny, and it walks in a long line!",
+   "t": 29.415,
+   "dur": 2.222
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 31.837,
+   "dur": 0.71
+  },
+  {
+   "who": "gul",
+   "text": "Ant!",
+   "t": 34.297,
+   "dur": 0.476
+  },
+  {
+   "who": "mishu",
+   "text": "Ants are very strong! They carry big, big food!",
+   "t": 35.873,
+   "dur": 2.62
+  },
+  {
+   "who": "gul",
+   "text": "It has big, colourful wings!",
+   "t": 39.042,
+   "dur": 1.586
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 40.828,
+   "dur": 0.686
+  },
+  {
+   "who": "mishu",
+   "text": "Butterfly!",
+   "t": 43.263,
+   "dur": 0.713
+  },
+  {
+   "who": "gul",
+   "text": "Butterflies taste with their feet! Yummy flowers!",
+   "t": 45.076,
+   "dur": 2.676
+  },
+  {
+   "who": "mishu",
+   "text": "It's long, and it loves to eat leaves!",
+   "t": 48.302,
+   "dur": 2.006
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 50.508,
+   "dur": 0.71
+  },
+  {
+   "who": "gul",
+   "text": "Caterpillar!",
+   "t": 52.968,
+   "dur": 0.762
+  },
+  {
+   "who": "mishu",
+   "text": "Caterpillars eat and eat, and grow into butterflies!",
+   "t": 54.83,
+   "dur": 2.991
+  },
+  {
+   "who": "gul",
+   "text": "It jumps very, very high!",
+   "t": 58.371,
+   "dur": 1.451
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 60.023,
+   "dur": 0.686
+  },
+  {
+   "who": "mishu",
+   "text": "Grasshopper!",
+   "t": 62.458,
+   "dur": 0.838
+  },
+  {
+   "who": "gul",
+   "text": "Grasshoppers have long back legs! Jump, jump!",
+   "t": 64.396,
+   "dur": 2.638
+  },
+  {
+   "who": "mishu",
+   "text": "It zooms over the pond!",
+   "t": 67.584,
+   "dur": 1.375
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 69.159,
+   "dur": 0.71
+  },
+  {
+   "who": "gul",
+   "text": "Dragonfly!",
+   "t": 71.619,
+   "dur": 0.849
+  },
+  {
+   "who": "mishu",
+   "text": "Dragonflies have four wings, and can fly backwards!",
+   "t": 73.568,
+   "dur": 2.95
+  },
+  {
+   "who": "gul",
+   "text": "It glows in the dark!",
+   "t": 77.068,
+   "dur": 1.163
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 78.431,
+   "dur": 0.686
+  },
+  {
+   "who": "mishu",
+   "text": "Firefly!",
+   "t": 80.866,
+   "dur": 0.706
+  },
+  {
+   "who": "gul",
+   "text": "Fireflies light up at night! Blink, blink!",
+   "t": 82.673,
+   "dur": 2.228
+  },
+  {
+   "who": "mishu",
+   "text": "It has a hard, shiny back!",
+   "t": 85.451,
+   "dur": 1.504
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 87.155,
+   "dur": 0.71
+  },
+  {
+   "who": "gul",
+   "text": "Beetle!",
+   "t": 89.615,
+   "dur": 0.558
+  },
+  {
+   "who": "mishu",
+   "text": "Beetles have a hard shell, to keep their wings safe!",
+   "t": 91.272,
+   "dur": 2.606
+  },
+  {
+   "who": "gul",
+   "text": "It has eight long legs!",
+   "t": 94.428,
+   "dur": 1.264
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 95.892,
+   "dur": 0.686
+  },
+  {
+   "who": "mishu",
+   "text": "Spider!",
+   "t": 98.328,
+   "dur": 0.619
+  },
+  {
+   "who": "gul",
+   "text": "Spiders spin sticky webs, to catch their food!",
+   "t": 100.047,
+   "dur": 2.437
+  },
+  {
+   "who": "mishu",
+   "text": "It wiggles in the soil!",
+   "t": 103.034,
+   "dur": 1.194
+  },
+  {
+   "who": "mishu",
+   "text": "Who is it?",
+   "t": 104.428,
+   "dur": 0.71
+  },
+  {
+   "who": "gul",
+   "text": "Worm!",
+   "t": 106.888,
+   "dur": 0.509
+  },
+  {
+   "who": "mishu",
+   "text": "Worms have no legs! They help plants grow!",
+   "t": 108.497,
+   "dur": 2.403
+  },
+  {
+   "who": "gul",
+   "text": "It's very slow, with a shell on its back!",
+   "t": 111.45,
+   "dur": 1.843
+  },
+  {
+   "who": "gul",
+   "text": "Who is it?",
+   "t": 113.492,
+   "dur": 0.686
+  },
+  {
+   "who": "mishu",
+   "text": "Snail!",
+   "t": 115.928,
+   "dur": 0.566
+  },
+  {
+   "who": "gul",
+   "text": "Snails carry their home everywhere they go!",
+   "t": 117.594,
+   "dur": 2.116
+  },
+  {
+   "who": "mishu",
+   "text": "How do we know a bug is an insect? Let's look closely!",
+   "t": 120.759,
+   "dur": 2.956
+  },
+  {
+   "who": "gul",
+   "text": "An insect has three body parts! First, the head!",
+   "t": 124.166,
+   "dur": 2.592
+  },
+  {
+   "who": "mishu",
+   "text": "Next, the middle!",
+   "t": 127.208,
+   "dur": 0.91
+  },
+  {
+   "who": "gul",
+   "text": "And the back part!",
+   "t": 128.567,
+   "dur": 0.976
+  },
+  {
+   "who": "gul",
+   "text": "Insects have six legs! Count with us!",
+   "t": 129.994,
+   "dur": 2.073
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 132.317,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 133.073,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 133.807,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 134.62,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 135.421,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 136.264,
+   "dur": 0.58
+  },
+  {
+   "who": "mishu",
+   "text": "And two antennas, to feel and smell!",
+   "t": 137.114,
+   "dur": 2.015
+  },
+  {
+   "who": "both",
+   "text": "Three parts! Six legs! That's an insect!",
+   "t": 139.579,
+   "dur": 2.373
+  },
+  {
+   "who": "gul",
+   "text": "Is it an insect? Yes, or no?",
+   "t": 143.102,
+   "dur": 1.76
+  },
+  {
+   "who": "mishu",
+   "text": "A ladybug? Is it an insect?",
+   "t": 145.312,
+   "dur": 1.865
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Six legs! An insect!",
+   "t": 149.027,
+   "dur": 1.502
+  },
+  {
+   "who": "gul",
+   "text": "A spider? Is it an insect?",
+   "t": 151.079,
+   "dur": 1.399
+  },
+  {
+   "who": "mishu",
+   "text": "No! Eight legs! Not an insect!",
+   "t": 154.328,
+   "dur": 1.923
+  },
+  {
+   "who": "mishu",
+   "text": "A bee? Is it an insect?",
+   "t": 156.8,
+   "dur": 1.496
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Six legs! An insect!",
+   "t": 160.146,
+   "dur": 1.502
+  },
+  {
+   "who": "gul",
+   "text": "A worm? Is it an insect?",
+   "t": 162.198,
+   "dur": 1.361
+  },
+  {
+   "who": "mishu",
+   "text": "No! No legs at all!",
+   "t": 165.409,
+   "dur": 1.245
+  },
+  {
+   "who": "mishu",
+   "text": "An ant? Is it an insect?",
+   "t": 167.204,
+   "dur": 1.486
+  },
+  {
+   "who": "gul",
+   "text": "Yes! Six legs! An insect!",
+   "t": 170.54,
+   "dur": 1.502
+  },
+  {
+   "who": "gul",
+   "text": "A snail? Is it an insect?",
+   "t": 172.592,
+   "dur": 1.479
+  },
+  {
+   "who": "mishu",
+   "text": "No! Not an insect!",
+   "t": 175.921,
+   "dur": 1.224
+  },
+  {
+   "who": "mishu",
+   "text": "A butterfly? Is it an insect?",
+   "t": 177.695,
+   "dur": 1.796
+  },
+  {
+   "who": "gul",
+   "text": "Yes! An insect with wings!",
+   "t": 181.341,
+   "dur": 1.482
+  },
+  {
+   "who": "mishu",
+   "text": "Ladybugs have spots! Let's count them!",
+   "t": 183.873,
+   "dur": 2.212
+  },
+  {
+   "who": "gul",
+   "text": "How many spots?",
+   "t": 186.535,
+   "dur": 0.952
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 187.737,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 188.473,
+   "dur": 0.464
+  },
+  {
+   "who": "mishu",
+   "text": "Two spots!",
+   "t": 189.187,
+   "dur": 0.825
+  },
+  {
+   "who": "mishu",
+   "text": "How many spots?",
+   "t": 190.662,
+   "dur": 1.005
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 191.917,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 192.653,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 193.367,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 194.159,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 194.941,
+   "dur": 0.573
+  },
+  {
+   "who": "gul",
+   "text": "Five spots!",
+   "t": 195.764,
+   "dur": 0.862
+  },
+  {
+   "who": "gul",
+   "text": "How many spots?",
+   "t": 197.276,
+   "dur": 0.952
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 198.478,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 199.213,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 199.927,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 200.72,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 201.501,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 202.325,
+   "dur": 0.58
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 203.155,
+   "dur": 0.612
+  },
+  {
+   "who": "mishu",
+   "text": "Seven spots!",
+   "t": 204.017,
+   "dur": 0.986
+  },
+  {
+   "who": "gul",
+   "text": "How do bees make honey? Let's follow the bee!",
+   "t": 206.153,
+   "dur": 2.357
+  },
+  {
+   "who": "mishu",
+   "text": "The bee flies to a flower.",
+   "t": 208.96,
+   "dur": 1.315
+  },
+  {
+   "who": "gul",
+   "text": "She sips the sweet nectar.",
+   "t": 211.025,
+   "dur": 1.435
+  },
+  {
+   "who": "mishu",
+   "text": "She flies back to the hive.",
+   "t": 213.21,
+   "dur": 1.455
+  },
+  {
+   "who": "gul",
+   "text": "The bees turn it into honey!",
+   "t": 215.415,
+   "dur": 1.438
+  },
+  {
+   "who": "mishu",
+   "text": "Sweet, yummy honey! Thank you, bees!",
+   "t": 217.603,
+   "dur": 2.069
+  },
+  {
+   "who": "mishu",
+   "text": "Ants live in tunnels, under the ground! Let's look!",
+   "t": 220.922,
+   "dur": 2.77
+  },
+  {
+   "who": "gul",
+   "text": "Count the ants! Marching in a line!",
+   "t": 224.143,
+   "dur": 1.794
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 226.187,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 226.922,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 227.636,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 228.429,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 229.21,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 230.034,
+   "dur": 0.58
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 230.864,
+   "dur": 0.612
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 231.726,
+   "dur": 0.508
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 232.483,
+   "dur": 0.541
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 233.275,
+   "dur": 0.502
+  },
+  {
+   "who": "mishu",
+   "text": "This room is for food!",
+   "t": 234.327,
+   "dur": 1.254
+  },
+  {
+   "who": "gul",
+   "text": "This room is for baby ants!",
+   "t": 236.231,
+   "dur": 1.487
+  },
+  {
+   "who": "mishu",
+   "text": "And here's the queen ant! She lays the eggs!",
+   "t": 238.368,
+   "dur": 2.424
+  },
+  {
+   "who": "gul",
+   "text": "Spiders are not insects! Let's count the legs!",
+   "t": 241.942,
+   "dur": 2.629
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 245.021,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 245.777,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 246.511,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 247.324,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 248.125,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 248.968,
+   "dur": 0.58
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 249.819,
+   "dur": 0.612
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 250.7,
+   "dur": 0.508
+  },
+  {
+   "who": "mishu",
+   "text": "Eight legs! Insects have six, but spiders have eight!",
+   "t": 251.478,
+   "dur": 2.917
+  },
+  {
+   "who": "gul",
+   "text": "The spider spins a web, round and round, with sticky silk!",
+   "t": 255.045,
+   "dur": 3.029
+  },
+  {
+   "who": "mishu",
+   "text": "It's dark outside! Let's count the fireflies!",
+   "t": 259.525,
+   "dur": 2.71
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 262.685,
+   "dur": 0.486
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 263.521,
+   "dur": 0.464
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 264.335,
+   "dur": 0.543
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 265.227,
+   "dur": 0.531
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 266.109,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 267.032,
+   "dur": 0.58
+  },
+  {
+   "who": "gul",
+   "text": "Six fireflies! Blink, blink, blink!",
+   "t": 267.962,
+   "dur": 1.99
+  },
+  {
+   "who": "gul",
+   "text": "Every bug has a home! Where does it live?",
+   "t": 271.203,
+   "dur": 2.082
+  },
+  {
+   "who": "mishu",
+   "text": "Where does it live?",
+   "t": 273.735,
+   "dur": 0.874
+  },
+  {
+   "who": "gul",
+   "text": "The bee lives in a hive!",
+   "t": 276.559,
+   "dur": 1.277
+  },
+  {
+   "who": "gul",
+   "text": "Where does it live?",
+   "t": 278.486,
+   "dur": 0.927
+  },
+  {
+   "who": "mishu",
+   "text": "The spider lives on a web!",
+   "t": 281.363,
+   "dur": 1.357
+  },
+  {
+   "who": "mishu",
+   "text": "Where does it live?",
+   "t": 283.37,
+   "dur": 0.874
+  },
+  {
+   "who": "gul",
+   "text": "The worm lives in the soil!",
+   "t": 286.195,
+   "dur": 1.348
+  },
+  {
+   "who": "gul",
+   "text": "Where does it live?",
+   "t": 288.193,
+   "dur": 0.927
+  },
+  {
+   "who": "mishu",
+   "text": "The snail's home is its shell!",
+   "t": 291.07,
+   "dur": 1.396
+  },
+  {
+   "who": "mishu",
+   "text": "How does it move? Fly, crawl, or jump?",
+   "t": 293.617,
+   "dur": 2.219
+  },
+  {
+   "who": "gul",
+   "text": "How does it move?",
+   "t": 296.285,
+   "dur": 1.029
+  },
+  {
+   "who": "mishu",
+   "text": "Bees fly!",
+   "t": 299.064,
+   "dur": 0.783
+  },
+  {
+   "who": "mishu",
+   "text": "How does it move?",
+   "t": 300.397,
+   "dur": 0.913
+  },
+  {
+   "who": "gul",
+   "text": "Ants crawl!",
+   "t": 303.06,
+   "dur": 0.803
+  },
+  {
+   "who": "gul",
+   "text": "How does it move?",
+   "t": 304.413,
+   "dur": 1.029
+  },
+  {
+   "who": "mishu",
+   "text": "Grasshoppers jump!",
+   "t": 307.191,
+   "dur": 1.089
+  },
+  {
+   "who": "mishu",
+   "text": "How does it move?",
+   "t": 308.83,
+   "dur": 0.913
+  },
+  {
+   "who": "gul",
+   "text": "Dragonflies fly!",
+   "t": 311.493,
+   "dur": 1.182
+  },
+  {
+   "who": "gul",
+   "text": "How does it move?",
+   "t": 313.225,
+   "dur": 1.029
+  },
+  {
+   "who": "mishu",
+   "text": "Caterpillars crawl!",
+   "t": 316.004,
+   "dur": 1.097
+  },
+  {
+   "who": "mishu",
+   "text": "How does it move?",
+   "t": 317.651,
+   "dur": 0.913
+  },
+  {
+   "who": "gul",
+   "text": "Butterflies fly!",
+   "t": 320.314,
+   "dur": 1.07
+  },
+  {
+   "who": "gul",
+   "text": "How does it move?",
+   "t": 321.934,
+   "dur": 1.029
+  },
+  {
+   "who": "mishu",
+   "text": "Worms wiggle and crawl!",
+   "t": 324.712,
+   "dur": 1.291
+  },
+  {
+   "who": "mishu",
+   "text": "How does it move?",
+   "t": 326.553,
+   "dur": 0.913
+  },
+  {
+   "who": "gul",
+   "text": "Fireflies fly!",
+   "t": 329.216,
+   "dur": 1.067
+  },
+  {
+   "who": "gul",
+   "text": "Bugs are so colourful! What colour is it?",
+   "t": 331.333,
+   "dur": 2.138
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 333.921,
+   "dur": 1.044
+  },
+  {
+   "who": "gul",
+   "text": "Red!",
+   "t": 336.715,
+   "dur": 0.51
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 337.775,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Yellow and black!",
+   "t": 340.516,
+   "dur": 0.979
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 342.045,
+   "dur": 1.044
+  },
+  {
+   "who": "gul",
+   "text": "Green!",
+   "t": 344.839,
+   "dur": 0.573
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 345.962,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Brown!",
+   "t": 348.703,
+   "dur": 0.539
+  },
+  {
+   "who": "mishu",
+   "text": "What colour is it?",
+   "t": 349.792,
+   "dur": 1.044
+  },
+  {
+   "who": "gul",
+   "text": "Pink!",
+   "t": 352.585,
+   "dur": 0.489
+  },
+  {
+   "who": "gul",
+   "text": "What colour is it?",
+   "t": 353.625,
+   "dur": 0.991
+  },
+  {
+   "who": "mishu",
+   "text": "Shiny green!",
+   "t": 356.366,
+   "dur": 0.811
+  },
+  {
+   "who": "gul",
+   "text": "Which one is bigger?",
+   "t": 357.727,
+   "dur": 1.135
+  },
+  {
+   "who": "mishu",
+   "text": "The beetle is bigger!",
+   "t": 360.712,
+   "dur": 1.116
+  },
+  {
+   "who": "mishu",
+   "text": "Which one is smaller?",
+   "t": 362.379,
+   "dur": 1.128
+  },
+  {
+   "who": "gul",
+   "text": "The bee is smaller!",
+   "t": 365.356,
+   "dur": 1.079
+  },
+  {
+   "who": "mishu",
+   "text": "Listen carefully! Which bug is it?",
+   "t": 367.485,
+   "dur": 1.943
+  },
+  {
+   "who": "gul",
+   "text": "Which bug is it?",
+   "t": 371.678,
+   "dur": 0.932
+  },
+  {
+   "who": "mishu",
+   "text": "Buzz, buzz! A bee!",
+   "t": 374.36,
+   "dur": 1.271
+  },
+  {
+   "who": "mishu",
+   "text": "Which bug is it?",
+   "t": 377.981,
+   "dur": 0.999
+  },
+  {
+   "who": "gul",
+   "text": "Chirp, chirp! A grasshopper!",
+   "t": 380.73,
+   "dur": 1.507
+  },
+  {
+   "who": "gul",
+   "text": "Which bug is it?",
+   "t": 384.588,
+   "dur": 0.932
+  },
+  {
+   "who": "mishu",
+   "text": "Munch, munch! A hungry caterpillar!",
+   "t": 387.269,
+   "dur": 2.047
+  },
+  {
+   "who": "gul",
+   "text": "Bugs love to hide! Which leaf is it under?",
+   "t": 390.366,
+   "dur": 2.326
+  },
+  {
+   "who": "mishu",
+   "text": "Where is it hiding?",
+   "t": 393.142,
+   "dur": 0.927
+  },
+  {
+   "who": "gul",
+   "text": "The ladybug is under the middle leaf!",
+   "t": 396.319,
+   "dur": 1.939
+  },
+  {
+   "who": "gul",
+   "text": "Where is it hiding?",
+   "t": 398.809,
+   "dur": 0.994
+  },
+  {
+   "who": "mishu",
+   "text": "The bee is under the last leaf!",
+   "t": 402.053,
+   "dur": 1.525
+  },
+  {
+   "who": "mishu",
+   "text": "Where is it hiding?",
+   "t": 404.128,
+   "dur": 0.927
+  },
+  {
+   "who": "gul",
+   "text": "The little ant! Found you!",
+   "t": 407.305,
+   "dur": 1.253
+  },
+  {
+   "who": "gul",
+   "text": "Where is it hiding?",
+   "t": 409.108,
+   "dur": 0.994
+  },
+  {
+   "who": "mishu",
+   "text": "The snail! Slowly, slowly!",
+   "t": 412.352,
+   "dur": 1.645
+  },
+  {
+   "who": "mishu",
+   "text": "When you see a bug, remember these rules!",
+   "t": 415.047,
+   "dur": 2.085
+  },
+  {
+   "who": "gul",
+   "text": "Look at bugs, but don't touch!",
+   "t": 417.582,
+   "dur": 1.401
+  },
+  {
+   "who": "mishu",
+   "text": "Bees can sting, so stay calm and walk away!",
+   "t": 419.633,
+   "dur": 2.432
+  },
+  {
+   "who": "gul",
+   "text": "Be gentle! Bugs are little!",
+   "t": 422.715,
+   "dur": 1.481
+  },
+  {
+   "who": "mishu",
+   "text": "Bugs help our world! Thank you, bugs!",
+   "t": 424.846,
+   "dur": 2.222
+  },
+  {
+   "who": "both",
+   "text": "Buzzy bee and ladybug,",
+   "t": 427.718,
+   "dur": 1.315
+  },
+  {
+   "who": "both",
+   "text": "little ant and big black bug,",
+   "t": 429.383,
+   "dur": 1.785
+  },
+  {
+   "who": "both",
+   "text": "wiggle, jiggle, hop and fly,",
+   "t": 431.518,
+   "dur": 1.723
+  },
+  {
+   "who": "both",
+   "text": "bugs are busy, you and I!",
+   "t": 433.591,
+   "dur": 1.29
+  },
+  {
+   "who": "both",
+   "text": "Buzzy bee and ladybug,",
+   "t": 435.231,
+   "dur": 1.315
+  },
+  {
+   "who": "both",
+   "text": "little ant and big black bug,",
+   "t": 436.896,
+   "dur": 1.785
+  },
+  {
+   "who": "both",
+   "text": "wiggle, jiggle, hop and fly,",
+   "t": 439.031,
+   "dur": 1.723
+  },
+  {
+   "who": "both",
+   "text": "bugs are busy, you and I!",
+   "t": 441.104,
+   "dur": 1.29
+  },
+  {
+   "who": "gul",
+   "text": "Stand up! Let's do the bug dance!",
+   "t": 443.544,
+   "dur": 1.573
+  },
+  {
+   "who": "both",
+   "text": "Buzz like a bee!",
+   "t": 445.567,
+   "dur": 0.927
+  },
+  {
+   "who": "both",
+   "text": "Flutter like a butterfly!",
+   "t": 448.244,
+   "dur": 1.346
+  },
+  {
+   "who": "both",
+   "text": "March like an ant!",
+   "t": 451.34,
+   "dur": 1.087
+  },
+  {
+   "who": "both",
+   "text": "Jump like a grasshopper!",
+   "t": 454.177,
+   "dur": 1.342
+  },
+  {
+   "who": "both",
+   "text": "Wiggle like a worm!",
+   "t": 457.269,
+   "dur": 1.116
+  },
+  {
+   "who": "both",
+   "text": "Spin like a spider!",
+   "t": 460.134,
+   "dur": 1.119
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 463.003,
+   "dur": 1.025
+  },
+  {
+   "who": "both",
+   "text": "Buzz like a bee!",
+   "t": 464.378,
+   "dur": 0.927
+  },
+  {
+   "who": "both",
+   "text": "Flutter like a butterfly!",
+   "t": 466.355,
+   "dur": 1.346
+  },
+  {
+   "who": "both",
+   "text": "March like an ant!",
+   "t": 468.751,
+   "dur": 1.087
+  },
+  {
+   "who": "both",
+   "text": "Jump like a grasshopper!",
+   "t": 470.888,
+   "dur": 1.342
+  },
+  {
+   "who": "both",
+   "text": "Wiggle like a worm!",
+   "t": 473.28,
+   "dur": 1.116
+  },
+  {
+   "who": "both",
+   "text": "Spin like a spider!",
+   "t": 475.446,
+   "dur": 1.119
+  },
+  {
+   "who": "mishu",
+   "text": "Quick quiz time! Are you ready?",
+   "t": 478.114,
+   "dur": 1.763
+  },
+  {
+   "who": "gul",
+   "text": "How many legs does an insect have?",
+   "t": 480.327,
+   "dur": 1.791
+  },
+  {
+   "who": "mishu",
+   "text": "Six!",
+   "t": 484.768,
+   "dur": 0.58
+  },
+  {
+   "who": "mishu",
+   "text": "Which insect makes honey?",
+   "t": 485.998,
+   "dur": 1.347
+  },
+  {
+   "who": "gul",
+   "text": "The bee!",
+   "t": 489.995,
+   "dur": 0.593
+  },
+  {
+   "who": "gul",
+   "text": "How many legs does a spider have?",
+   "t": 491.238,
+   "dur": 1.756
+  },
+  {
+   "who": "mishu",
+   "text": "Eight!",
+   "t": 495.645,
+   "dur": 0.508
+  },
+  {
+   "who": "mishu",
+   "text": "Which insect glows at night?",
+   "t": 496.802,
+   "dur": 1.433
+  },
+  {
+   "who": "gul",
+   "text": "The firefly!",
+   "t": 500.886,
+   "dur": 0.913
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you for hunting bugs with us!",
+   "t": 502.449,
+   "dur": 1.657
+  },
+  {
+   "who": "both",
+   "text": "Buzz, buzz! Bye bye!",
+   "t": 504.456,
+   "dur": 1.399
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "patch",
+   "t0": 0.0,
+   "sweep_t": 0.0,
+   "title_t": 1.4,
+   "kids_t": 2.92,
+   "t1": 8.956
+  },
+  {
+   "kind": "title",
+   "bg": "patch",
+   "t0": 8.956,
+   "title": "BUG HUNT!",
+   "t1": 12.24
+  },
+  {
+   "kind": "hunt",
+   "bg": "patch",
+   "t0": 12.24,
+   "key": "bee",
+   "name": "BEE",
+   "verb": "BUZZ!",
+   "num": 1,
+   "reveal_t": 16.085,
+   "fact_t": 17.627,
+   "t1": 20.395
+  },
+  {
+   "kind": "hunt",
+   "bg": "patch",
+   "t0": 20.395,
+   "key": "ladybug",
+   "name": "LADYBUG",
+   "verb": "SPOTS!",
+   "num": 2,
+   "reveal_t": 24.531,
+   "fact_t": 26.329,
+   "t1": 29.415
+  },
+  {
+   "kind": "hunt",
+   "bg": "park",
+   "t0": 29.415,
+   "key": "ant",
+   "name": "ANT",
+   "verb": "STRONG!",
+   "num": 3,
+   "reveal_t": 34.297,
+   "fact_t": 35.873,
+   "t1": 39.042
+  },
+  {
+   "kind": "hunt",
+   "bg": "patch",
+   "t0": 39.042,
+   "key": "butterfly",
+   "name": "BUTTERFLY",
+   "verb": "FLUTTER!",
+   "num": 4,
+   "reveal_t": 43.263,
+   "fact_t": 45.076,
+   "t1": 48.302
+  },
+  {
+   "kind": "hunt",
+   "bg": "tree",
+   "t0": 48.302,
+   "key": "caterpillar",
+   "name": "CATERPILLAR",
+   "verb": "MUNCH!",
+   "num": 5,
+   "reveal_t": 52.968,
+   "fact_t": 54.83,
+   "t1": 58.371
+  },
+  {
+   "kind": "hunt",
+   "bg": "park",
+   "t0": 58.371,
+   "key": "grasshopper",
+   "name": "GRASSHOPPER",
+   "verb": "JUMP!",
+   "num": 6,
+   "reveal_t": 62.458,
+   "fact_t": 64.396,
+   "t1": 67.584
+  },
+  {
+   "kind": "hunt",
+   "bg": "pond",
+   "t0": 67.584,
+   "key": "dragonfly",
+   "name": "DRAGONFLY",
+   "verb": "ZOOM!",
+   "num": 7,
+   "reveal_t": 71.619,
+   "fact_t": 73.568,
+   "t1": 77.068
+  },
+  {
+   "kind": "hunt",
+   "bg": "night",
+   "t0": 77.068,
+   "key": "firefly",
+   "name": "FIREFLY",
+   "verb": "GLOW!",
+   "num": 8,
+   "reveal_t": 80.866,
+   "fact_t": 82.673,
+   "t1": 85.451
+  },
+  {
+   "kind": "hunt",
+   "bg": "tree",
+   "t0": 85.451,
+   "key": "beetle",
+   "name": "BEETLE",
+   "verb": "SHINY!",
+   "num": 9,
+   "reveal_t": 89.615,
+   "fact_t": 91.272,
+   "t1": 94.428
+  },
+  {
+   "kind": "hunt",
+   "bg": "tree",
+   "t0": 94.428,
+   "key": "spider",
+   "name": "SPIDER",
+   "verb": "SPIN!",
+   "num": 10,
+   "reveal_t": 98.328,
+   "fact_t": 100.047,
+   "t1": 103.034
+  },
+  {
+   "kind": "hunt",
+   "bg": "patch",
+   "t0": 103.034,
+   "key": "worm",
+   "name": "WORM",
+   "verb": "WIGGLE!",
+   "num": 11,
+   "reveal_t": 106.888,
+   "fact_t": 108.497,
+   "t1": 111.45
+  },
+  {
+   "kind": "hunt",
+   "bg": "patch",
+   "t0": 111.45,
+   "key": "snail",
+   "name": "SNAIL",
+   "verb": "SLOW!",
+   "num": 12,
+   "reveal_t": 115.928,
+   "fact_t": 117.594,
+   "t1": 120.259
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 120.259,
+   "title": "WHAT IS AN INSECT?",
+   "t1": 124.166
+  },
+  {
+   "kind": "anatomy",
+   "bg": "park",
+   "t0": 124.166,
+   "ts": [
+    124.166,
+    127.208,
+    128.567
+   ],
+   "legs_say": 129.994,
+   "legs": [
+    132.317,
+    133.073,
+    133.807,
+    134.62,
+    135.421,
+    136.264
+   ],
+   "ant_t": 137.114,
+   "sum_t": 139.579,
+   "t1": 142.602
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 142.602,
+   "title": "INSECT OR NOT?",
+   "t1": 145.312
+  },
+  {
+   "kind": "isnot",
+   "bg": "park",
+   "t0": 145.312,
+   "key": "ladybug",
+   "good": true,
+   "q": "A LADYBUG?",
+   "answer_t": 149.027,
+   "t1": 151.079
+  },
+  {
+   "kind": "isnot",
+   "bg": "park",
+   "t0": 151.079,
+   "key": "spider",
+   "good": false,
+   "q": "A SPIDER?",
+   "answer_t": 154.328,
+   "t1": 156.8
+  },
+  {
+   "kind": "isnot",
+   "bg": "park",
+   "t0": 156.8,
+   "key": "bee",
+   "good": true,
+   "q": "A BEE?",
+   "answer_t": 160.146,
+   "t1": 162.198
+  },
+  {
+   "kind": "isnot",
+   "bg": "park",
+   "t0": 162.198,
+   "key": "worm",
+   "good": false,
+   "q": "A WORM?",
+   "answer_t": 165.409,
+   "t1": 167.204
+  },
+  {
+   "kind": "isnot",
+   "bg": "park",
+   "t0": 167.204,
+   "key": "ant",
+   "good": true,
+   "q": "AN ANT?",
+   "answer_t": 170.54,
+   "t1": 172.592
+  },
+  {
+   "kind": "isnot",
+   "bg": "park",
+   "t0": 172.592,
+   "key": "snail",
+   "good": false,
+   "q": "A SNAIL?",
+   "answer_t": 175.921,
+   "t1": 177.695
+  },
+  {
+   "kind": "isnot",
+   "bg": "park",
+   "t0": 177.695,
+   "key": "butterfly",
+   "good": true,
+   "q": "A BUTTERFLY?",
+   "answer_t": 181.341,
+   "t1": 183.373
+  },
+  {
+   "kind": "title",
+   "bg": "patch",
+   "t0": 183.373,
+   "title": "COUNT THE SPOTS!",
+   "t1": 186.535
+  },
+  {
+   "kind": "spots",
+   "bg": "patch",
+   "t0": 186.535,
+   "n": 2,
+   "cts": [
+    187.737,
+    188.473
+   ],
+   "sum_t": 189.187,
+   "t1": 190.662
+  },
+  {
+   "kind": "spots",
+   "bg": "patch",
+   "t0": 190.662,
+   "n": 5,
+   "cts": [
+    191.917,
+    192.653,
+    193.367,
+    194.159,
+    194.941
+   ],
+   "sum_t": 195.764,
+   "t1": 197.276
+  },
+  {
+   "kind": "spots",
+   "bg": "patch",
+   "t0": 197.276,
+   "n": 7,
+   "cts": [
+    198.478,
+    199.213,
+    199.927,
+    200.72,
+    201.501,
+    202.325,
+    203.155
+   ],
+   "sum_t": 204.017,
+   "t1": 205.653
+  },
+  {
+   "kind": "title",
+   "bg": "patch",
+   "t0": 205.653,
+   "title": "HOW BEES MAKE HONEY!",
+   "t1": 208.96
+  },
+  {
+   "kind": "honey",
+   "bg": "patch",
+   "t0": 208.96,
+   "key": "fly",
+   "num": 1,
+   "say_t": 208.96,
+   "t1": 211.025
+  },
+  {
+   "kind": "honey",
+   "bg": "patch",
+   "t0": 211.025,
+   "key": "sip",
+   "num": 2,
+   "say_t": 211.025,
+   "t1": 213.21
+  },
+  {
+   "kind": "honey",
+   "bg": "patch",
+   "t0": 213.21,
+   "key": "home",
+   "num": 3,
+   "say_t": 213.21,
+   "t1": 215.415
+  },
+  {
+   "kind": "honey",
+   "bg": "patch",
+   "t0": 215.415,
+   "key": "make",
+   "num": 4,
+   "say_t": 215.415,
+   "t1": 217.603
+  },
+  {
+   "kind": "honey",
+   "bg": "patch",
+   "t0": 217.603,
+   "key": "jar",
+   "num": 5,
+   "say_t": 217.603,
+   "t1": 220.422
+  },
+  {
+   "kind": "title",
+   "bg": "underground",
+   "t0": 220.422,
+   "title": "UNDER THE GROUND!",
+   "t1": 224.143
+  },
+  {
+   "kind": "march",
+   "bg": "underground",
+   "t0": 224.143,
+   "cts": [
+    226.187,
+    226.922,
+    227.636,
+    228.429,
+    229.21,
+    230.034,
+    230.864,
+    231.726,
+    232.483,
+    233.275
+   ],
+   "t1": 234.327
+  },
+  {
+   "kind": "room",
+   "bg": "underground",
+   "t0": 234.327,
+   "room": "food",
+   "say_t": 234.327,
+   "t1": 236.231
+  },
+  {
+   "kind": "room",
+   "bg": "underground",
+   "t0": 236.231,
+   "room": "baby",
+   "say_t": 236.231,
+   "t1": 238.368
+  },
+  {
+   "kind": "room",
+   "bg": "underground",
+   "t0": 238.368,
+   "room": "queen",
+   "say_t": 238.368,
+   "t1": 241.442
+  },
+  {
+   "kind": "title",
+   "bg": "tree",
+   "t0": 241.442,
+   "title": "SPIDER LEGS!",
+   "t1": 245.021
+  },
+  {
+   "kind": "spiderlegs",
+   "bg": "tree",
+   "t0": 245.021,
+   "cts": [
+    245.021,
+    245.777,
+    246.511,
+    247.324,
+    248.125,
+    248.968,
+    249.819,
+    250.7
+   ],
+   "sum_t": 251.478,
+   "t1": 255.045
+  },
+  {
+   "kind": "webbuild",
+   "bg": "tree",
+   "t0": 255.045,
+   "say_t": 255.045,
+   "t1": 259.025
+  },
+  {
+   "kind": "title",
+   "bg": "night",
+   "t0": 259.025,
+   "title": "FIREFLY NIGHT!",
+   "t1": 262.685
+  },
+  {
+   "kind": "glow",
+   "bg": "night",
+   "t0": 262.685,
+   "cts": [
+    262.685,
+    263.521,
+    264.335,
+    265.227,
+    266.109,
+    267.032
+   ],
+   "sum_t": 267.962,
+   "t1": 270.703
+  },
+  {
+   "kind": "title",
+   "bg": "patch",
+   "t0": 270.703,
+   "title": "WHERE DO BUGS LIVE?",
+   "t1": 273.735
+  },
+  {
+   "kind": "home",
+   "bg": "patch",
+   "t0": 273.735,
+   "key": "bee",
+   "home": "hive",
+   "answer_t": 276.559,
+   "t1": 278.486
+  },
+  {
+   "kind": "home",
+   "bg": "patch",
+   "t0": 278.486,
+   "key": "spider",
+   "home": "web",
+   "answer_t": 281.363,
+   "t1": 283.37
+  },
+  {
+   "kind": "home",
+   "bg": "patch",
+   "t0": 283.37,
+   "key": "worm",
+   "home": "soil",
+   "answer_t": 286.195,
+   "t1": 288.193
+  },
+  {
+   "kind": "home",
+   "bg": "patch",
+   "t0": 288.193,
+   "key": "snail",
+   "home": "snail",
+   "answer_t": 291.07,
+   "t1": 293.117
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 293.117,
+   "title": "FLY, CRAWL, OR JUMP?",
+   "t1": 296.285
+  },
+  {
+   "kind": "move",
+   "bg": "park",
+   "t0": 296.285,
+   "key": "bee",
+   "mv": "fly",
+   "answer_t": 299.064,
+   "t1": 300.397
+  },
+  {
+   "kind": "move",
+   "bg": "park",
+   "t0": 300.397,
+   "key": "ant",
+   "mv": "crawl",
+   "answer_t": 303.06,
+   "t1": 304.413
+  },
+  {
+   "kind": "move",
+   "bg": "park",
+   "t0": 304.413,
+   "key": "grasshopper",
+   "mv": "jump",
+   "answer_t": 307.191,
+   "t1": 308.83
+  },
+  {
+   "kind": "move",
+   "bg": "park",
+   "t0": 308.83,
+   "key": "dragonfly",
+   "mv": "fly",
+   "answer_t": 311.493,
+   "t1": 313.225
+  },
+  {
+   "kind": "move",
+   "bg": "park",
+   "t0": 313.225,
+   "key": "caterpillar",
+   "mv": "crawl",
+   "answer_t": 316.004,
+   "t1": 317.651
+  },
+  {
+   "kind": "move",
+   "bg": "park",
+   "t0": 317.651,
+   "key": "butterfly",
+   "mv": "fly",
+   "answer_t": 320.314,
+   "t1": 321.934
+  },
+  {
+   "kind": "move",
+   "bg": "park",
+   "t0": 321.934,
+   "key": "worm",
+   "mv": "crawl",
+   "answer_t": 324.712,
+   "t1": 326.553
+  },
+  {
+   "kind": "move",
+   "bg": "park",
+   "t0": 326.553,
+   "key": "firefly",
+   "mv": "fly",
+   "answer_t": 329.216,
+   "t1": 330.833
+  },
+  {
+   "kind": "title",
+   "bg": "patch",
+   "t0": 330.833,
+   "title": "BUG COLOURS!",
+   "t1": 333.921
+  },
+  {
+   "kind": "colour",
+   "bg": "patch",
+   "t0": 333.921,
+   "key": "ladybug",
+   "col": "red",
+   "answer_t": 336.715,
+   "t1": 337.775
+  },
+  {
+   "kind": "colour",
+   "bg": "patch",
+   "t0": 337.775,
+   "key": "bee",
+   "col": "yellow",
+   "answer_t": 340.516,
+   "t1": 342.045
+  },
+  {
+   "kind": "colour",
+   "bg": "patch",
+   "t0": 342.045,
+   "key": "grasshopper",
+   "col": "green",
+   "answer_t": 344.839,
+   "t1": 345.962
+  },
+  {
+   "kind": "colour",
+   "bg": "patch",
+   "t0": 345.962,
+   "key": "ant",
+   "col": "brown",
+   "answer_t": 348.703,
+   "t1": 349.792
+  },
+  {
+   "kind": "colour",
+   "bg": "patch",
+   "t0": 349.792,
+   "key": "worm",
+   "col": "pink",
+   "answer_t": 352.585,
+   "t1": 353.625
+  },
+  {
+   "kind": "colour",
+   "bg": "patch",
+   "t0": 353.625,
+   "key": "beetle",
+   "col": "green",
+   "answer_t": 356.366,
+   "t1": 357.727
+  },
+  {
+   "kind": "size",
+   "bg": "patch",
+   "t0": 357.727,
+   "big": "beetle",
+   "small": "ant",
+   "want": "big",
+   "answer_t": 360.712,
+   "t1": 362.379
+  },
+  {
+   "kind": "size",
+   "bg": "patch",
+   "t0": 362.379,
+   "big": "bee",
+   "small": "dragonfly",
+   "want": "small",
+   "answer_t": 365.356,
+   "t1": 366.985
+  },
+  {
+   "kind": "title",
+   "bg": "tree",
+   "t0": 366.985,
+   "title": "BUG SOUNDS!",
+   "t1": 369.878
+  },
+  {
+   "kind": "sound",
+   "bg": "tree",
+   "t0": 369.878,
+   "key": "bee",
+   "snd_t": 370.178,
+   "answer_t": 374.36,
+   "t1": 376.181
+  },
+  {
+   "kind": "sound",
+   "bg": "tree",
+   "t0": 376.181,
+   "key": "grasshopper",
+   "snd_t": 376.481,
+   "answer_t": 380.73,
+   "t1": 382.788
+  },
+  {
+   "kind": "sound",
+   "bg": "tree",
+   "t0": 382.788,
+   "key": "caterpillar",
+   "snd_t": 383.088,
+   "answer_t": 387.269,
+   "t1": 389.866
+  },
+  {
+   "kind": "title",
+   "bg": "patch",
+   "t0": 389.866,
+   "title": "WHERE IS IT HIDING?",
+   "t1": 393.142
+  },
+  {
+   "kind": "hide",
+   "bg": "patch",
+   "t0": 393.142,
+   "key": "ladybug",
+   "pos": 1,
+   "reveal_t": 396.319,
+   "t1": 398.809
+  },
+  {
+   "kind": "hide",
+   "bg": "patch",
+   "t0": 398.809,
+   "key": "bee",
+   "pos": 2,
+   "reveal_t": 402.053,
+   "t1": 404.128
+  },
+  {
+   "kind": "hide",
+   "bg": "patch",
+   "t0": 404.128,
+   "key": "ant",
+   "pos": 0,
+   "reveal_t": 407.305,
+   "t1": 409.108
+  },
+  {
+   "kind": "hide",
+   "bg": "patch",
+   "t0": 409.108,
+   "key": "snail",
+   "pos": 1,
+   "reveal_t": 412.352,
+   "t1": 414.547
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 414.547,
+   "title": "BE KIND TO BUGS!",
+   "t1": 417.582
+  },
+  {
+   "kind": "rule",
+   "bg": "park",
+   "t0": 417.582,
+   "w": "LOOK!",
+   "k": 0,
+   "say_t": 417.582,
+   "t1": 419.633
+  },
+  {
+   "kind": "rule",
+   "bg": "park",
+   "t0": 419.633,
+   "w": "STAY CALM!",
+   "k": 1,
+   "say_t": 419.633,
+   "t1": 422.715
+  },
+  {
+   "kind": "rule",
+   "bg": "park",
+   "t0": 422.715,
+   "w": "BE GENTLE!",
+   "k": 2,
+   "say_t": 422.715,
+   "t1": 424.846
+  },
+  {
+   "kind": "rule",
+   "bg": "park",
+   "t0": 424.846,
+   "w": "THANK YOU!",
+   "k": 3,
+   "say_t": 424.846,
+   "t1": 427.718
+  },
+  {
+   "kind": "chant",
+   "bg": "patch",
+   "t0": 427.718,
+   "l": [
+    427.718,
+    429.383,
+    431.518,
+    433.591,
+    435.231,
+    436.896,
+    439.031,
+    441.104
+   ],
+   "t1": 443.044
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 443.044,
+   "title": "BUG DANCE!",
+   "t1": 445.567
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 445.567,
+   "move": "shake",
+   "fast": false,
+   "word": "BUZZ LIKE A BEE!",
+   "say_t": 445.567,
+   "t1": 448.244
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 448.244,
+   "move": "sway",
+   "fast": false,
+   "word": "FLUTTER LIKE A BUTTERFLY!",
+   "say_t": 448.244,
+   "t1": 451.34
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 451.34,
+   "move": "march",
+   "fast": false,
+   "word": "MARCH LIKE AN ANT!",
+   "say_t": 451.34,
+   "t1": 454.177
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 454.177,
+   "move": "jump",
+   "fast": false,
+   "word": "JUMP LIKE A GRASSHOPPER!",
+   "say_t": 454.177,
+   "t1": 457.269
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 457.269,
+   "move": "wiggle",
+   "fast": false,
+   "word": "WIGGLE LIKE A WORM!",
+   "say_t": 457.269,
+   "t1": 460.134
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 460.134,
+   "move": "spin",
+   "fast": false,
+   "word": "SPIN LIKE A SPIDER!",
+   "say_t": 460.134,
+   "t1": 463.003
+  },
+  {
+   "kind": "title",
+   "bg": "park",
+   "t0": 463.003,
+   "title": "FASTER!",
+   "t1": 464.378
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 464.378,
+   "move": "shake",
+   "fast": true,
+   "word": "BUZZ LIKE A BEE!",
+   "say_t": 464.378,
+   "t1": 466.355
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 466.355,
+   "move": "sway",
+   "fast": true,
+   "word": "FLUTTER LIKE A BUTTERFLY!",
+   "say_t": 466.355,
+   "t1": 468.751
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 468.751,
+   "move": "march",
+   "fast": true,
+   "word": "MARCH LIKE AN ANT!",
+   "say_t": 468.751,
+   "t1": 470.888
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 470.888,
+   "move": "jump",
+   "fast": true,
+   "word": "JUMP LIKE A GRASSHOPPER!",
+   "say_t": 470.888,
+   "t1": 473.28
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 473.28,
+   "move": "wiggle",
+   "fast": true,
+   "word": "WIGGLE LIKE A WORM!",
+   "say_t": 473.28,
+   "t1": 475.446
+  },
+  {
+   "kind": "dance",
+   "bg": "park",
+   "t0": 475.446,
+   "move": "spin",
+   "fast": true,
+   "word": "SPIN LIKE A SPIDER!",
+   "say_t": 475.446,
+   "t1": 477.614
+  },
+  {
+   "kind": "title",
+   "bg": "patch",
+   "t0": 477.614,
+   "title": "BUG QUIZ!",
+   "t1": 480.327
+  },
+  {
+   "kind": "quiz",
+   "bg": "patch",
+   "t0": 480.327,
+   "q": "HOW MANY LEGS DOES AN INSECT HAVE?",
+   "vis": "6",
+   "answer_t": 484.768,
+   "t1": 485.998
+  },
+  {
+   "kind": "quiz",
+   "bg": "patch",
+   "t0": 485.998,
+   "q": "WHICH INSECT MAKES HONEY?",
+   "vis": "bee",
+   "answer_t": 489.995,
+   "t1": 491.238
+  },
+  {
+   "kind": "quiz",
+   "bg": "patch",
+   "t0": 491.238,
+   "q": "HOW MANY LEGS DOES A SPIDER HAVE?",
+   "vis": "spider",
+   "answer_t": 495.645,
+   "t1": 496.802
+  },
+  {
+   "kind": "quiz",
+   "bg": "patch",
+   "t0": 496.802,
+   "q": "WHICH INSECT GLOWS AT NIGHT?",
+   "vis": "firefly",
+   "answer_t": 500.886,
+   "t1": 502.449
+  },
+  {
+   "kind": "outro",
+   "bg": "patch",
+   "t0": 502.449,
+   "bye_t": 504.456,
+   "t1": 507.805
+  }
+ ],
+ "prompts": [
+  [
+   14.585,
+   16.085
+  ],
+  [
+   16.727,
+   17.627
+  ],
+  [
+   23.031,
+   24.531
+  ],
+  [
+   25.429,
+   26.329
+  ],
+  [
+   32.797,
+   34.297
+  ],
+  [
+   34.973,
+   35.873
+  ],
+  [
+   41.763,
+   43.263
+  ],
+  [
+   44.176,
+   45.076
+  ],
+  [
+   51.468,
+   52.968
+  ],
+  [
+   53.93,
+   54.83
+  ],
+  [
+   60.958,
+   62.458
+  ],
+  [
+   63.496,
+   64.396
+  ],
+  [
+   70.119,
+   71.619
+  ],
+  [
+   72.668,
+   73.568
+  ],
+  [
+   79.366,
+   80.866
+  ],
+  [
+   81.773,
+   82.673
+  ],
+  [
+   88.115,
+   89.615
+  ],
+  [
+   90.372,
+   91.272
+  ],
+  [
+   96.828,
+   98.328
+  ],
+  [
+   99.147,
+   100.047
+  ],
+  [
+   105.388,
+   106.888
+  ],
+  [
+   107.597,
+   108.497
+  ],
+  [
+   114.428,
+   115.928
+  ],
+  [
+   116.694,
+   117.594
+  ],
+  [
+   147.427,
+   149.027
+  ],
+  [
+   152.728,
+   154.328
+  ],
+  [
+   158.546,
+   160.146
+  ],
+  [
+   163.809,
+   165.409
+  ],
+  [
+   168.94,
+   170.54
+  ],
+  [
+   174.321,
+   175.921
+  ],
+  [
+   179.741,
+   181.341
+  ],
+  [
+   274.859,
+   276.559
+  ],
+  [
+   279.663,
+   281.363
+  ],
+  [
+   284.495,
+   286.195
+  ],
+  [
+   289.37,
+   291.07
+  ],
+  [
+   297.564,
+   299.064
+  ],
+  [
+   301.56,
+   303.06
+  ],
+  [
+   305.691,
+   307.191
+  ],
+  [
+   309.993,
+   311.493
+  ],
+  [
+   314.504,
+   316.004
+  ],
+  [
+   318.814,
+   320.314
+  ],
+  [
+   323.212,
+   324.712
+  ],
+  [
+   327.716,
+   329.216
+  ],
+  [
+   335.215,
+   336.715
+  ],
+  [
+   339.016,
+   340.516
+  ],
+  [
+   343.339,
+   344.839
+  ],
+  [
+   347.203,
+   348.703
+  ],
+  [
+   351.085,
+   352.585
+  ],
+  [
+   354.866,
+   356.366
+  ],
+  [
+   359.112,
+   360.712
+  ],
+  [
+   363.756,
+   365.356
+  ],
+  [
+   372.86,
+   374.36
+  ],
+  [
+   379.23,
+   380.73
+  ],
+  [
+   385.769,
+   387.269
+  ],
+  [
+   394.319,
+   396.319
+  ],
+  [
+   400.053,
+   402.053
+  ],
+  [
+   405.305,
+   407.305
+  ],
+  [
+   410.352,
+   412.352
+  ],
+  [
+   446.644,
+   448.244
+  ],
+  [
+   449.74,
+   451.34
+  ],
+  [
+   452.577,
+   454.177
+  ],
+  [
+   455.669,
+   457.269
+  ],
+  [
+   458.534,
+   460.134
+  ],
+  [
+   461.403,
+   463.003
+  ],
+  [
+   465.455,
+   466.355
+  ],
+  [
+   467.851,
+   468.751
+  ],
+  [
+   469.988,
+   470.888
+  ],
+  [
+   472.38,
+   473.28
+  ],
+  [
+   474.546,
+   475.446
+  ],
+  [
+   476.714,
+   477.614
+  ],
+  [
+   482.368,
+   484.768
+  ],
+  [
+   487.595,
+   489.995
+  ],
+  [
+   493.245,
+   495.645
+  ],
+  [
+   498.486,
+   500.886
+  ]
+ ],
+ "stars": [
+  139.579,
+  189.187,
+  195.764,
+  204.017,
+  251.478,
+  267.962,
+  485.998,
+  491.238,
+  496.802,
+  502.449
+ ],
+ "total": 507.81
+}

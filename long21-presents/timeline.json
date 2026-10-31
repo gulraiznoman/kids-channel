@@ -1,0 +1,2579 @@
+{
+ "lines": [
+  {
+   "who": "both",
+   "text": "Christmas presents!",
+   "t": 1.0,
+   "dur": 1.005
+  },
+  {
+   "who": "mishu",
+   "text": "So many surprises under the tree!",
+   "t": 2.355,
+   "dur": 1.824
+  },
+  {
+   "who": "gul",
+   "text": "Let's open them, and see what's inside!",
+   "t": 4.53,
+   "dur": 1.873
+  },
+  {
+   "who": "gul",
+   "text": "Ten colour presents! Guess the toy, and say the colour!",
+   "t": 7.453,
+   "dur": 2.907
+  },
+  {
+   "who": "mishu",
+   "text": "The red present! It goes nee naw, nee naw!",
+   "t": 10.809,
+   "dur": 2.252
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside?",
+   "t": 13.311,
+   "dur": 0.901
+  },
+  {
+   "who": "gul",
+   "text": "A red fire truck! It helps put out fires!",
+   "t": 16.163,
+   "dur": 2.453
+  },
+  {
+   "who": "gul",
+   "text": "The orange present! It's round, and it bounces!",
+   "t": 19.966,
+   "dur": 2.575
+  },
+  {
+   "who": "gul",
+   "text": "What's inside?",
+   "t": 22.79,
+   "dur": 0.945
+  },
+  {
+   "who": "mishu",
+   "text": "An orange basketball! Bounce, bounce!",
+   "t": 25.685,
+   "dur": 2.308
+  },
+  {
+   "who": "mishu",
+   "text": "The yellow present! It floats in the bath! Quack!",
+   "t": 29.343,
+   "dur": 2.502
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside?",
+   "t": 32.095,
+   "dur": 0.901
+  },
+  {
+   "who": "gul",
+   "text": "A yellow duck! Quack, quack!",
+   "t": 34.947,
+   "dur": 1.547
+  },
+  {
+   "who": "gul",
+   "text": "The green present! It jumps, and says ribbit!",
+   "t": 37.843,
+   "dur": 2.241
+  },
+  {
+   "who": "gul",
+   "text": "What's inside?",
+   "t": 40.334,
+   "dur": 0.945
+  },
+  {
+   "who": "mishu",
+   "text": "A green frog! Ribbit, ribbit!",
+   "t": 43.229,
+   "dur": 1.785
+  },
+  {
+   "who": "mishu",
+   "text": "The blue present! It has four wheels! Vroom!",
+   "t": 46.364,
+   "dur": 2.328
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside?",
+   "t": 48.942,
+   "dur": 0.901
+  },
+  {
+   "who": "gul",
+   "text": "A blue car! Vroom, vroom!",
+   "t": 51.793,
+   "dur": 1.456
+  },
+  {
+   "who": "gul",
+   "text": "The purple present! It zooms up to the moon!",
+   "t": 54.599,
+   "dur": 2.393
+  },
+  {
+   "who": "gul",
+   "text": "What's inside?",
+   "t": 57.242,
+   "dur": 0.945
+  },
+  {
+   "who": "mishu",
+   "text": "A purple rocket! Three, two, one, blast off!",
+   "t": 60.137,
+   "dur": 2.76
+  },
+  {
+   "who": "mishu",
+   "text": "The pink present! It says oink, oink!",
+   "t": 64.247,
+   "dur": 2.016
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside?",
+   "t": 66.512,
+   "dur": 0.901
+  },
+  {
+   "who": "gul",
+   "text": "A pink pig! Oink, oink!",
+   "t": 69.364,
+   "dur": 1.334
+  },
+  {
+   "who": "gul",
+   "text": "The brown present! It's soft and cuddly!",
+   "t": 72.048,
+   "dur": 2.182
+  },
+  {
+   "who": "gul",
+   "text": "What's inside?",
+   "t": 74.48,
+   "dur": 0.945
+  },
+  {
+   "who": "mishu",
+   "text": "A brown teddy bear! Big hug!",
+   "t": 77.376,
+   "dur": 1.811
+  },
+  {
+   "who": "mishu",
+   "text": "The white present! It has a carrot nose!",
+   "t": 80.536,
+   "dur": 2.251
+  },
+  {
+   "who": "mishu",
+   "text": "What's inside?",
+   "t": 83.037,
+   "dur": 0.901
+  },
+  {
+   "who": "gul",
+   "text": "A white snowman! Brrr!",
+   "t": 85.888,
+   "dur": 1.741
+  },
+  {
+   "who": "gul",
+   "text": "The grey present! It goes beep, boop, beep!",
+   "t": 88.979,
+   "dur": 2.308
+  },
+  {
+   "who": "gul",
+   "text": "What's inside?",
+   "t": 91.537,
+   "dur": 0.945
+  },
+  {
+   "who": "mishu",
+   "text": "A grey robot! Beep, boop!",
+   "t": 94.432,
+   "dur": 1.721
+  },
+  {
+   "who": "both",
+   "text": "Red!",
+   "t": 97.503,
+   "dur": 0.509
+  },
+  {
+   "who": "both",
+   "text": "Orange!",
+   "t": 98.282,
+   "dur": 0.646
+  },
+  {
+   "who": "both",
+   "text": "Yellow!",
+   "t": 99.198,
+   "dur": 0.552
+  },
+  {
+   "who": "both",
+   "text": "Green!",
+   "t": 100.021,
+   "dur": 0.583
+  },
+  {
+   "who": "both",
+   "text": "Blue!",
+   "t": 100.874,
+   "dur": 0.48
+  },
+  {
+   "who": "both",
+   "text": "Purple!",
+   "t": 101.624,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Pink!",
+   "t": 102.476,
+   "dur": 0.512
+  },
+  {
+   "who": "both",
+   "text": "Brown!",
+   "t": 103.258,
+   "dur": 0.542
+  },
+  {
+   "who": "both",
+   "text": "White!",
+   "t": 104.071,
+   "dur": 0.529
+  },
+  {
+   "who": "both",
+   "text": "Grey!",
+   "t": 104.87,
+   "dur": 0.517
+  },
+  {
+   "who": "gul",
+   "text": "Ten colours! Ten toys! Wow!",
+   "t": 105.657,
+   "dur": 1.694
+  },
+  {
+   "who": "mishu",
+   "text": "One present, with five layers of paper! What's in the middle?",
+   "t": 108.501,
+   "dur": 3.246
+  },
+  {
+   "who": "gul",
+   "text": "Unwrap layer one! Rip, rip!",
+   "t": 112.197,
+   "dur": 1.627
+  },
+  {
+   "who": "mishu",
+   "text": "Layer two! More paper!",
+   "t": 114.473,
+   "dur": 1.468
+  },
+  {
+   "who": "gul",
+   "text": "Layer three! Keep going!",
+   "t": 116.591,
+   "dur": 1.345
+  },
+  {
+   "who": "mishu",
+   "text": "Layer four! Almost there!",
+   "t": 118.585,
+   "dur": 1.533
+  },
+  {
+   "who": "gul",
+   "text": "Layer five! Last one!",
+   "t": 120.769,
+   "dur": 1.459
+  },
+  {
+   "who": "both",
+   "text": "Boing! A jack in the box! Ha ha!",
+   "t": 122.877,
+   "dur": 2.085
+  },
+  {
+   "who": "gul",
+   "text": "Big, medium, small! Look at the presents!",
+   "t": 126.212,
+   "dur": 2.08
+  },
+  {
+   "who": "mishu",
+   "text": "Which present is the biggest?",
+   "t": 128.743,
+   "dur": 1.478
+  },
+  {
+   "who": "gul",
+   "text": "This one! The big one!",
+   "t": 132.271,
+   "dur": 1.222
+  },
+  {
+   "who": "gul",
+   "text": "Which present is the smallest?",
+   "t": 134.143,
+   "dur": 1.533
+  },
+  {
+   "who": "mishu",
+   "text": "This tiny one!",
+   "t": 137.727,
+   "dur": 0.903
+  },
+  {
+   "who": "mishu",
+   "text": "Which one is in the middle?",
+   "t": 139.279,
+   "dur": 1.318
+  },
+  {
+   "who": "gul",
+   "text": "The medium one!",
+   "t": 142.647,
+   "dur": 0.986
+  },
+  {
+   "who": "mishu",
+   "text": "Let's build a tall present tower! Count with us!",
+   "t": 144.783,
+   "dur": 2.694
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 147.927,
+   "dur": 0.499
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 148.717,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 149.47,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 150.294,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 151.114,
+   "dur": 0.573
+  },
+  {
+   "who": "both",
+   "text": "Six!",
+   "t": 151.976,
+   "dur": 0.582
+  },
+  {
+   "who": "both",
+   "text": "Seven!",
+   "t": 152.849,
+   "dur": 0.607
+  },
+  {
+   "who": "both",
+   "text": "Eight!",
+   "t": 153.746,
+   "dur": 0.5
+  },
+  {
+   "who": "both",
+   "text": "Nine!",
+   "t": 154.536,
+   "dur": 0.542
+  },
+  {
+   "who": "both",
+   "text": "Ten!",
+   "t": 155.368,
+   "dur": 0.503
+  },
+  {
+   "who": "gul",
+   "text": "Oh no! The tower fell down! Ha ha!",
+   "t": 156.161,
+   "dur": 1.898
+  },
+  {
+   "who": "mishu",
+   "text": "Ten presents! Let's build it again!",
+   "t": 158.509,
+   "dur": 1.98
+  },
+  {
+   "who": "gul",
+   "text": "Presents for the whole family! Who is it for?",
+   "t": 161.639,
+   "dur": 2.289
+  },
+  {
+   "who": "mishu",
+   "text": "This tag says Grandma!",
+   "t": 164.378,
+   "dur": 1.332
+  },
+  {
+   "who": "gul",
+   "text": "Grandma loves to read! A book for Grandma!",
+   "t": 167.16,
+   "dur": 2.424
+  },
+  {
+   "who": "gul",
+   "text": "This tag says Papa!",
+   "t": 170.234,
+   "dur": 1.245
+  },
+  {
+   "who": "mishu",
+   "text": "A blue tie for Papa! So smart!",
+   "t": 172.928,
+   "dur": 2.017
+  },
+  {
+   "who": "mishu",
+   "text": "This tag says Mama!",
+   "t": 175.595,
+   "dur": 1.176
+  },
+  {
+   "who": "gul",
+   "text": "Mama loves flowers! A pretty flower!",
+   "t": 178.221,
+   "dur": 1.957
+  },
+  {
+   "who": "gul",
+   "text": "This tag says Baby!",
+   "t": 180.828,
+   "dur": 1.263
+  },
+  {
+   "who": "mishu",
+   "text": "A little duck for the baby! Quack!",
+   "t": 183.541,
+   "dur": 1.972
+  },
+  {
+   "who": "mishu",
+   "text": "Animals want presents too! What does each animal like?",
+   "t": 186.662,
+   "dur": 3.086
+  },
+  {
+   "who": "gul",
+   "text": "What present for the puppy?",
+   "t": 190.198,
+   "dur": 1.301
+  },
+  {
+   "who": "mishu",
+   "text": "A bone! Woof, woof!",
+   "t": 193.75,
+   "dur": 1.188
+  },
+  {
+   "who": "mishu",
+   "text": "What present for the kitten?",
+   "t": 195.588,
+   "dur": 1.303
+  },
+  {
+   "who": "gul",
+   "text": "A fish! Meow!",
+   "t": 199.142,
+   "dur": 0.942
+  },
+  {
+   "who": "gul",
+   "text": "What present for the bunny?",
+   "t": 200.734,
+   "dur": 1.278
+  },
+  {
+   "who": "mishu",
+   "text": "A crunchy carrot!",
+   "t": 204.262,
+   "dur": 0.958
+  },
+  {
+   "who": "mishu",
+   "text": "What present for the monkey?",
+   "t": 205.869,
+   "dur": 1.338
+  },
+  {
+   "who": "gul",
+   "text": "A yummy banana!",
+   "t": 209.457,
+   "dur": 1.006
+  },
+  {
+   "who": "gul",
+   "text": "Toys need the right box! Which box fits?",
+   "t": 211.613,
+   "dur": 2.124
+  },
+  {
+   "who": "mishu",
+   "text": "Which box fits?",
+   "t": 214.187,
+   "dur": 1.08
+  },
+  {
+   "who": "gul",
+   "text": "A ball is round. It fits in the round box!",
+   "t": 217.317,
+   "dur": 2.454
+  },
+  {
+   "who": "gul",
+   "text": "Which box fits?",
+   "t": 220.421,
+   "dur": 1.023
+  },
+  {
+   "who": "mishu",
+   "text": "Blocks go in the square box!",
+   "t": 223.494,
+   "dur": 1.537
+  },
+  {
+   "who": "mishu",
+   "text": "Which box fits?",
+   "t": 225.681,
+   "dur": 1.08
+  },
+  {
+   "who": "gul",
+   "text": "The kite goes in the diamond box!",
+   "t": 228.811,
+   "dur": 1.818
+  },
+  {
+   "who": "gul",
+   "text": "Which box fits?",
+   "t": 231.279,
+   "dur": 1.023
+  },
+  {
+   "who": "mishu",
+   "text": "The drum is round too! Round box!",
+   "t": 234.352,
+   "dur": 2.148
+  },
+  {
+   "who": "mishu",
+   "text": "Some presents are heavy, and some are light!",
+   "t": 237.65,
+   "dur": 2.252
+  },
+  {
+   "who": "gul",
+   "text": "Which is heavy, and which is light?",
+   "t": 240.352,
+   "dur": 1.611
+  },
+  {
+   "who": "mishu",
+   "text": "The basketball is heavy! The balloons are light!",
+   "t": 244.013,
+   "dur": 2.5
+  },
+  {
+   "who": "mishu",
+   "text": "Which is heavy?",
+   "t": 247.163,
+   "dur": 0.891
+  },
+  {
+   "who": "gul",
+   "text": "The robot is heavy! The kite is light!",
+   "t": 250.104,
+   "dur": 2.023
+  },
+  {
+   "who": "gul",
+   "text": "Every present needs a bow! Let's count them!",
+   "t": 253.278,
+   "dur": 2.174
+  },
+  {
+   "who": "mishu",
+   "text": "How many red bows?",
+   "t": 255.902,
+   "dur": 1.163
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 257.315,
+   "dur": 0.499
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 258.084,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 258.817,
+   "dur": 0.534
+  },
+  {
+   "who": "gul",
+   "text": "Three red bows!",
+   "t": 259.621,
+   "dur": 0.998
+  },
+  {
+   "who": "gul",
+   "text": "How many gold bows?",
+   "t": 261.269,
+   "dur": 1.17
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 262.689,
+   "dur": 0.499
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 263.458,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 264.191,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 264.996,
+   "dur": 0.53
+  },
+  {
+   "who": "both",
+   "text": "Five!",
+   "t": 265.795,
+   "dur": 0.573
+  },
+  {
+   "who": "mishu",
+   "text": "Five gold bows!",
+   "t": 266.638,
+   "dur": 1.111
+  },
+  {
+   "who": "mishu",
+   "text": "How many blue bows?",
+   "t": 268.399,
+   "dur": 1.111
+  },
+  {
+   "who": "both",
+   "text": "One!",
+   "t": 269.761,
+   "dur": 0.499
+  },
+  {
+   "who": "both",
+   "text": "Two!",
+   "t": 270.53,
+   "dur": 0.463
+  },
+  {
+   "who": "both",
+   "text": "Three!",
+   "t": 271.263,
+   "dur": 0.534
+  },
+  {
+   "who": "both",
+   "text": "Four!",
+   "t": 272.067,
+   "dur": 0.53
+  },
+  {
+   "who": "gul",
+   "text": "Four blue bows!",
+   "t": 272.867,
+   "dur": 1.035
+  },
+  {
+   "who": "gul",
+   "text": "Look at the toys! Now close your eyes! Which toy is gone?",
+   "t": 275.052,
+   "dur": 2.607
+  },
+  {
+   "who": "mishu",
+   "text": "Look carefully!",
+   "t": 278.109,
+   "dur": 0.881
+  },
+  {
+   "who": "mishu",
+   "text": "Close your eyes!",
+   "t": 280.141,
+   "dur": 0.911
+  },
+  {
+   "who": "mishu",
+   "text": "Which toy is gone?",
+   "t": 282.001,
+   "dur": 1.035
+  },
+  {
+   "who": "gul",
+   "text": "The duck is gone!",
+   "t": 285.287,
+   "dur": 1.068
+  },
+  {
+   "who": "gul",
+   "text": "Look carefully!",
+   "t": 287.005,
+   "dur": 0.872
+  },
+  {
+   "who": "gul",
+   "text": "Close your eyes!",
+   "t": 289.027,
+   "dur": 0.955
+  },
+  {
+   "who": "gul",
+   "text": "Which toy is gone?",
+   "t": 290.933,
+   "dur": 1.127
+  },
+  {
+   "who": "mishu",
+   "text": "The rocket is gone!",
+   "t": 294.31,
+   "dur": 1.097
+  },
+  {
+   "who": "mishu",
+   "text": "Look carefully!",
+   "t": 296.057,
+   "dur": 0.881
+  },
+  {
+   "who": "mishu",
+   "text": "Close your eyes!",
+   "t": 298.088,
+   "dur": 0.911
+  },
+  {
+   "who": "mishu",
+   "text": "Which toy is gone?",
+   "t": 299.949,
+   "dur": 1.035
+  },
+  {
+   "who": "gul",
+   "text": "The blocks are gone!",
+   "t": 303.234,
+   "dur": 1.121
+  },
+  {
+   "who": "gul",
+   "text": "Look carefully!",
+   "t": 305.005,
+   "dur": 0.872
+  },
+  {
+   "who": "gul",
+   "text": "Close your eyes!",
+   "t": 307.027,
+   "dur": 0.955
+  },
+  {
+   "who": "gul",
+   "text": "Which toy is gone?",
+   "t": 308.933,
+   "dur": 1.127
+  },
+  {
+   "who": "mishu",
+   "text": "The teddy bear is gone!",
+   "t": 312.31,
+   "dur": 1.164
+  },
+  {
+   "who": "mishu",
+   "text": "Gul and Mishu are counting presents! Who has more?",
+   "t": 314.624,
+   "dur": 2.861
+  },
+  {
+   "who": "gul",
+   "text": "Who has more?",
+   "t": 317.934,
+   "dur": 0.846
+  },
+  {
+   "who": "mishu",
+   "text": "Mishu has more! Five is more than three!",
+   "t": 321.23,
+   "dur": 2.442
+  },
+  {
+   "who": "mishu",
+   "text": "Who has more?",
+   "t": 324.321,
+   "dur": 0.793
+  },
+  {
+   "who": "gul",
+   "text": "Gul has more! Six is more than two!",
+   "t": 327.564,
+   "dur": 1.996
+  },
+  {
+   "who": "gul",
+   "text": "Who has more?",
+   "t": 330.21,
+   "dur": 0.846
+  },
+  {
+   "who": "mishu",
+   "text": "The same! Four and four!",
+   "t": 333.506,
+   "dur": 1.352
+  },
+  {
+   "who": "gul",
+   "text": "Time to tidy up! Animal, or vehicle?",
+   "t": 336.008,
+   "dur": 2.226
+  },
+  {
+   "who": "mishu",
+   "text": "Animal, or vehicle?",
+   "t": 338.684,
+   "dur": 1.159
+  },
+  {
+   "who": "gul",
+   "text": "An animal!",
+   "t": 341.593,
+   "dur": 0.783
+  },
+  {
+   "who": "gul",
+   "text": "Animal, or vehicle?",
+   "t": 342.926,
+   "dur": 1.146
+  },
+  {
+   "who": "mishu",
+   "text": "A vehicle!",
+   "t": 345.822,
+   "dur": 0.695
+  },
+  {
+   "who": "mishu",
+   "text": "Animal, or vehicle?",
+   "t": 347.067,
+   "dur": 1.159
+  },
+  {
+   "who": "gul",
+   "text": "An animal!",
+   "t": 349.976,
+   "dur": 0.783
+  },
+  {
+   "who": "gul",
+   "text": "Animal, or vehicle?",
+   "t": 351.308,
+   "dur": 1.146
+  },
+  {
+   "who": "mishu",
+   "text": "A vehicle!",
+   "t": 354.205,
+   "dur": 0.695
+  },
+  {
+   "who": "mishu",
+   "text": "Animal, or vehicle?",
+   "t": 355.449,
+   "dur": 1.159
+  },
+  {
+   "who": "gul",
+   "text": "An animal!",
+   "t": 358.358,
+   "dur": 0.783
+  },
+  {
+   "who": "gul",
+   "text": "Animal, or vehicle?",
+   "t": 359.691,
+   "dur": 1.146
+  },
+  {
+   "who": "mishu",
+   "text": "A vehicle!",
+   "t": 362.588,
+   "dur": 0.695
+  },
+  {
+   "who": "mishu",
+   "text": "Listen! Which toy makes this sound?",
+   "t": 364.332,
+   "dur": 1.781
+  },
+  {
+   "who": "gul",
+   "text": "Which toy is it?",
+   "t": 368.363,
+   "dur": 1.008
+  },
+  {
+   "who": "mishu",
+   "text": "Boom, boom! A drum!",
+   "t": 371.121,
+   "dur": 1.394
+  },
+  {
+   "who": "mishu",
+   "text": "Which toy is it?",
+   "t": 374.865,
+   "dur": 0.962
+  },
+  {
+   "who": "gul",
+   "text": "Ding, ding, ding! A xylophone!",
+   "t": 377.577,
+   "dur": 1.775
+  },
+  {
+   "who": "gul",
+   "text": "Which toy is it?",
+   "t": 381.702,
+   "dur": 1.008
+  },
+  {
+   "who": "mishu",
+   "text": "Beep, boop! A robot!",
+   "t": 384.46,
+   "dur": 1.475
+  },
+  {
+   "who": "mishu",
+   "text": "Which toy is it?",
+   "t": 388.284,
+   "dur": 0.962
+  },
+  {
+   "who": "gul",
+   "text": "Quack, quack! A duck!",
+   "t": 390.997,
+   "dur": 1.148
+  },
+  {
+   "who": "gul",
+   "text": "One of these is different! Can you find it?",
+   "t": 393.195,
+   "dur": 2.127
+  },
+  {
+   "who": "mishu",
+   "text": "Which one is different?",
+   "t": 395.772,
+   "dur": 1.199
+  },
+  {
+   "who": "gul",
+   "text": "The bell! It's not a present!",
+   "t": 399.42,
+   "dur": 1.386
+  },
+  {
+   "who": "gul",
+   "text": "Which one is different?",
+   "t": 401.456,
+   "dur": 1.26
+  },
+  {
+   "who": "mishu",
+   "text": "The banana! It's not a toy!",
+   "t": 405.166,
+   "dur": 1.619
+  },
+  {
+   "who": "mishu",
+   "text": "Which one is different?",
+   "t": 407.435,
+   "dur": 1.199
+  },
+  {
+   "who": "gul",
+   "text": "The present! It's not an animal!",
+   "t": 411.084,
+   "dur": 1.603
+  },
+  {
+   "who": "mishu",
+   "text": "You can make a present yourself! Let's try!",
+   "t": 413.837,
+   "dur": 2.269
+  },
+  {
+   "who": "gul",
+   "text": "Fold some paper, and draw a big heart!",
+   "t": 416.556,
+   "dur": 1.976
+  },
+  {
+   "who": "mishu",
+   "text": "Colour it with crayons!",
+   "t": 419.183,
+   "dur": 1.236
+  },
+  {
+   "who": "gul",
+   "text": "Make a paper chain! Loop, loop, loop!",
+   "t": 421.068,
+   "dur": 1.911
+  },
+  {
+   "who": "mishu",
+   "text": "Write, I love you! Gifts we make are the best gifts!",
+   "t": 423.629,
+   "dur": 2.742
+  },
+  {
+   "who": "gul",
+   "text": "What do we do, when we get a present?",
+   "t": 427.521,
+   "dur": 1.721
+  },
+  {
+   "who": "mishu",
+   "text": "Say thank you, when you get a present!",
+   "t": 429.692,
+   "dur": 1.911
+  },
+  {
+   "who": "gul",
+   "text": "Smile, even if it's not what you wanted!",
+   "t": 432.253,
+   "dur": 2.012
+  },
+  {
+   "who": "mishu",
+   "text": "Give the person a big hug!",
+   "t": 434.915,
+   "dur": 1.408
+  },
+  {
+   "who": "gul",
+   "text": "Share your new toy with a friend!",
+   "t": 436.973,
+   "dur": 1.497
+  },
+  {
+   "who": "gul",
+   "text": "Giving makes other people happy!",
+   "t": 439.119,
+   "dur": 1.643
+  },
+  {
+   "who": "mishu",
+   "text": "And it makes us happy too!",
+   "t": 441.313,
+   "dur": 1.369
+  },
+  {
+   "who": "both",
+   "text": "Who will you give a present to?",
+   "t": 443.232,
+   "dur": 1.48
+  },
+  {
+   "who": "mishu",
+   "text": "Stand up! Let's do the present dance!",
+   "t": 447.662,
+   "dur": 1.925
+  },
+  {
+   "who": "both",
+   "text": "Shake the present!",
+   "t": 450.037,
+   "dur": 0.918
+  },
+  {
+   "who": "both",
+   "text": "Rip the paper!",
+   "t": 452.705,
+   "dur": 0.894
+  },
+  {
+   "who": "both",
+   "text": "Bounce the ball!",
+   "t": 455.349,
+   "dur": 0.896
+  },
+  {
+   "who": "both",
+   "text": "Spin the top!",
+   "t": 457.995,
+   "dur": 0.867
+  },
+  {
+   "who": "both",
+   "text": "March like a toy soldier!",
+   "t": 460.612,
+   "dur": 1.398
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas! Hooray!",
+   "t": 463.76,
+   "dur": 1.324
+  },
+  {
+   "who": "mishu",
+   "text": "Again, faster!",
+   "t": 466.834,
+   "dur": 1.021
+  },
+  {
+   "who": "both",
+   "text": "Shake the present!",
+   "t": 468.205,
+   "dur": 0.918
+  },
+  {
+   "who": "both",
+   "text": "Rip the paper!",
+   "t": 470.173,
+   "dur": 0.894
+  },
+  {
+   "who": "both",
+   "text": "Bounce the ball!",
+   "t": 472.117,
+   "dur": 0.896
+  },
+  {
+   "who": "both",
+   "text": "Spin the top!",
+   "t": 474.063,
+   "dur": 0.867
+  },
+  {
+   "who": "both",
+   "text": "March like a toy soldier!",
+   "t": 475.98,
+   "dur": 1.398
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas! Hooray!",
+   "t": 478.428,
+   "dur": 1.324
+  },
+  {
+   "who": "gul",
+   "text": "Quick quiz time! Are you ready?",
+   "t": 481.302,
+   "dur": 1.527
+  },
+  {
+   "who": "gul",
+   "text": "What colour was the fire truck?",
+   "t": 483.279,
+   "dur": 1.559
+  },
+  {
+   "who": "mishu",
+   "text": "Red!",
+   "t": 487.488,
+   "dur": 0.485
+  },
+  {
+   "who": "mishu",
+   "text": "What do we say when we get a present?",
+   "t": 488.623,
+   "dur": 1.603
+  },
+  {
+   "who": "gul",
+   "text": "Thank you!",
+   "t": 492.876,
+   "dur": 0.698
+  },
+  {
+   "who": "gul",
+   "text": "What present did the puppy get?",
+   "t": 494.224,
+   "dur": 1.516
+  },
+  {
+   "who": "mishu",
+   "text": "A bone!",
+   "t": 498.39,
+   "dur": 0.607
+  },
+  {
+   "who": "mishu",
+   "text": "How many presents in the tower?",
+   "t": 499.647,
+   "dur": 1.528
+  },
+  {
+   "who": "gul",
+   "text": "Ten!",
+   "t": 503.825,
+   "dur": 0.465
+  },
+  {
+   "who": "mishu",
+   "text": "Thank you for opening presents with us!",
+   "t": 504.94,
+   "dur": 1.856
+  },
+  {
+   "who": "both",
+   "text": "Merry Christmas, friends! Bye bye!",
+   "t": 507.146,
+   "dur": 1.994
+  }
+ ],
+ "scenes": [
+  {
+   "kind": "intro",
+   "bg": "xmasroom",
+   "t0": 0.0,
+   "shake_t": 0.0,
+   "title_t": 1.0,
+   "kids_t": 2.355,
+   "t1": 6.953
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 6.953,
+   "title": "COLOUR SURPRISES!",
+   "t1": 10.809
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 10.809,
+   "col": "red",
+   "key": "firetruck",
+   "w": "FIRE TRUCK",
+   "num": 1,
+   "shake_t": 10.809,
+   "open_t": 16.163,
+   "t1": 19.966
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 19.966,
+   "col": "orange",
+   "key": "basketball",
+   "w": "BASKETBALL",
+   "num": 2,
+   "shake_t": 19.966,
+   "open_t": 25.685,
+   "t1": 29.343
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 29.343,
+   "col": "yellow",
+   "key": "duck",
+   "w": "RUBBER DUCK",
+   "num": 3,
+   "shake_t": 29.343,
+   "open_t": 34.947,
+   "t1": 37.843
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 37.843,
+   "col": "green",
+   "key": "frog",
+   "w": "TOY FROG",
+   "num": 4,
+   "shake_t": 37.843,
+   "open_t": 43.229,
+   "t1": 46.364
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 46.364,
+   "col": "blue",
+   "key": "car",
+   "w": "TOY CAR",
+   "num": 5,
+   "shake_t": 46.364,
+   "open_t": 51.793,
+   "t1": 54.599
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 54.599,
+   "col": "purple",
+   "key": "rocket",
+   "w": "TOY ROCKET",
+   "num": 6,
+   "shake_t": 54.599,
+   "open_t": 60.137,
+   "t1": 64.247
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 64.247,
+   "col": "pink",
+   "key": "piglet",
+   "w": "TOY PIG",
+   "num": 7,
+   "shake_t": 64.247,
+   "open_t": 69.364,
+   "t1": 72.048
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 72.048,
+   "col": "brown",
+   "key": "teddy",
+   "w": "TEDDY BEAR",
+   "num": 8,
+   "shake_t": 72.048,
+   "open_t": 77.376,
+   "t1": 80.536
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 80.536,
+   "col": "white",
+   "key": "snowman",
+   "w": "TOY SNOWMAN",
+   "num": 9,
+   "shake_t": 80.536,
+   "open_t": 85.888,
+   "t1": 88.979
+  },
+  {
+   "kind": "surprise",
+   "bg": "xmasroom",
+   "t0": 88.979,
+   "col": "grey",
+   "key": "robot",
+   "w": "ROBOT",
+   "num": 10,
+   "shake_t": 88.979,
+   "open_t": 94.432,
+   "t1": 97.503
+  },
+  {
+   "kind": "allten",
+   "bg": "xmasroom",
+   "t0": 97.503,
+   "ts": [
+    97.503,
+    98.282,
+    99.198,
+    100.021,
+    100.874,
+    101.624,
+    102.476,
+    103.258,
+    104.071,
+    104.87
+   ],
+   "sum_t": 105.657,
+   "t1": 108.001
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 108.001,
+   "title": "PASS THE PARCEL!",
+   "t1": 112.197
+  },
+  {
+   "kind": "parcel",
+   "bg": "xmasroom",
+   "t0": 112.197,
+   "ts": [
+    112.197,
+    114.473,
+    116.591,
+    118.585,
+    120.769
+   ],
+   "open_t": 122.877,
+   "t1": 125.712
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 125.712,
+   "title": "BIG AND SMALL!",
+   "t1": 128.743
+  },
+  {
+   "kind": "size",
+   "bg": "xmasroom",
+   "t0": 128.743,
+   "ans": "big",
+   "answer_t": 132.271,
+   "t1": 134.143
+  },
+  {
+   "kind": "size",
+   "bg": "xmasroom",
+   "t0": 134.143,
+   "ans": "small",
+   "answer_t": 137.727,
+   "t1": 139.279
+  },
+  {
+   "kind": "size",
+   "bg": "xmasroom",
+   "t0": 139.279,
+   "ans": "mid",
+   "answer_t": 142.647,
+   "t1": 144.283
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 144.283,
+   "title": "PRESENT TOWER!",
+   "t1": 147.927
+  },
+  {
+   "kind": "tower",
+   "bg": "xmasroom",
+   "t0": 147.927,
+   "ts": [
+    147.927,
+    148.717,
+    149.47,
+    150.294,
+    151.114,
+    151.976,
+    152.849,
+    153.746,
+    154.536,
+    155.368
+   ],
+   "fall_t": 156.161,
+   "t1": 161.139
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 161.139,
+   "title": "WHO IS IT FOR?",
+   "t1": 164.378
+  },
+  {
+   "kind": "family",
+   "bg": "xmasroom",
+   "t0": 164.378,
+   "who": "Grandma",
+   "key": "book",
+   "open_t": 167.16,
+   "t1": 170.234
+  },
+  {
+   "kind": "family",
+   "bg": "xmasroom",
+   "t0": 170.234,
+   "who": "Papa",
+   "key": "tie",
+   "open_t": 172.928,
+   "t1": 175.595
+  },
+  {
+   "kind": "family",
+   "bg": "xmasroom",
+   "t0": 175.595,
+   "who": "Mama",
+   "key": "flower",
+   "open_t": 178.221,
+   "t1": 180.828
+  },
+  {
+   "kind": "family",
+   "bg": "xmasroom",
+   "t0": 180.828,
+   "who": "Baby",
+   "key": "duck",
+   "open_t": 183.541,
+   "t1": 186.162
+  },
+  {
+   "kind": "title",
+   "bg": "northpole",
+   "t0": 186.162,
+   "title": "PRESENTS FOR PETS!",
+   "t1": 190.198
+  },
+  {
+   "kind": "pet",
+   "bg": "northpole",
+   "t0": 190.198,
+   "pet": "puppy",
+   "key": "bone",
+   "open_t": 193.75,
+   "t1": 195.588
+  },
+  {
+   "kind": "pet",
+   "bg": "northpole",
+   "t0": 195.588,
+   "pet": "kitten",
+   "key": "fish",
+   "open_t": 199.142,
+   "t1": 200.734
+  },
+  {
+   "kind": "pet",
+   "bg": "northpole",
+   "t0": 200.734,
+   "pet": "bunny",
+   "key": "carrot",
+   "open_t": 204.262,
+   "t1": 205.869
+  },
+  {
+   "kind": "pet",
+   "bg": "northpole",
+   "t0": 205.869,
+   "pet": "monkey",
+   "key": "banana",
+   "open_t": 209.457,
+   "t1": 211.113
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 211.113,
+   "title": "WHICH BOX FITS?",
+   "t1": 214.187
+  },
+  {
+   "kind": "boxfit",
+   "bg": "xmasroom",
+   "t0": 214.187,
+   "key": "ball",
+   "shp": "circle",
+   "answer_t": 217.317,
+   "t1": 220.421
+  },
+  {
+   "kind": "boxfit",
+   "bg": "xmasroom",
+   "t0": 220.421,
+   "key": "blocks",
+   "shp": "square",
+   "answer_t": 223.494,
+   "t1": 225.681
+  },
+  {
+   "kind": "boxfit",
+   "bg": "xmasroom",
+   "t0": 225.681,
+   "key": "kite",
+   "shp": "diamond",
+   "answer_t": 228.811,
+   "t1": 231.279
+  },
+  {
+   "kind": "boxfit",
+   "bg": "xmasroom",
+   "t0": 231.279,
+   "key": "drum",
+   "shp": "circle",
+   "answer_t": 234.352,
+   "t1": 237.15
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 237.15,
+   "title": "HEAVY OR LIGHT?",
+   "t1": 240.352
+  },
+  {
+   "kind": "heavy",
+   "bg": "xmasroom",
+   "t0": 240.352,
+   "h": "basketball",
+   "l": "balloons",
+   "answer_t": 244.013,
+   "t1": 247.163
+  },
+  {
+   "kind": "heavy",
+   "bg": "xmasroom",
+   "t0": 247.163,
+   "h": "robot",
+   "l": "kite",
+   "answer_t": 250.104,
+   "t1": 252.778
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 252.778,
+   "title": "COUNT THE BOWS!",
+   "t1": 255.902
+  },
+  {
+   "kind": "bows",
+   "bg": "xmasroom",
+   "t0": 255.902,
+   "col": "red",
+   "n": 3,
+   "cts": [
+    257.315,
+    258.084,
+    258.817
+   ],
+   "sum_t": 259.621,
+   "t1": 261.269
+  },
+  {
+   "kind": "bows",
+   "bg": "xmasroom",
+   "t0": 261.269,
+   "col": "gold",
+   "n": 5,
+   "cts": [
+    262.689,
+    263.458,
+    264.191,
+    264.996,
+    265.795
+   ],
+   "sum_t": 266.638,
+   "t1": 268.399
+  },
+  {
+   "kind": "bows",
+   "bg": "xmasroom",
+   "t0": 268.399,
+   "col": "blue",
+   "n": 4,
+   "cts": [
+    269.761,
+    270.53,
+    271.263,
+    272.067
+   ],
+   "sum_t": 272.867,
+   "t1": 274.552
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 274.552,
+   "title": "WHICH TOY IS GONE?",
+   "t1": 278.109
+  },
+  {
+   "kind": "gone",
+   "bg": "xmasroom",
+   "t0": 278.109,
+   "keys": [
+    "teddy",
+    "car",
+    "duck",
+    "drum"
+   ],
+   "gone": 2,
+   "close_t": 280.141,
+   "open_t": 282.001,
+   "answer_t": 285.287,
+   "t1": 287.005
+  },
+  {
+   "kind": "gone",
+   "bg": "xmasroom",
+   "t0": 287.005,
+   "keys": [
+    "rocket",
+    "ball",
+    "frog",
+    "kite"
+   ],
+   "gone": 0,
+   "close_t": 289.027,
+   "open_t": 290.933,
+   "answer_t": 294.31,
+   "t1": 296.057
+  },
+  {
+   "kind": "gone",
+   "bg": "xmasroom",
+   "t0": 296.057,
+   "keys": [
+    "robot",
+    "piglet",
+    "firetruck",
+    "blocks"
+   ],
+   "gone": 3,
+   "close_t": 298.088,
+   "open_t": 299.949,
+   "answer_t": 303.234,
+   "t1": 305.005
+  },
+  {
+   "kind": "gone",
+   "bg": "xmasroom",
+   "t0": 305.005,
+   "keys": [
+    "basketball",
+    "teddy",
+    "kite",
+    "snowman"
+   ],
+   "gone": 1,
+   "close_t": 307.027,
+   "open_t": 308.933,
+   "answer_t": 312.31,
+   "t1": 314.124
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 314.124,
+   "title": "WHO HAS MORE?",
+   "t1": 317.934
+  },
+  {
+   "kind": "more",
+   "bg": "xmasroom",
+   "t0": 317.934,
+   "g": 3,
+   "m": 5,
+   "ans": "mishu",
+   "answer_t": 321.23,
+   "t1": 324.321
+  },
+  {
+   "kind": "more",
+   "bg": "xmasroom",
+   "t0": 324.321,
+   "g": 6,
+   "m": 2,
+   "ans": "gul",
+   "answer_t": 327.564,
+   "t1": 330.21
+  },
+  {
+   "kind": "more",
+   "bg": "xmasroom",
+   "t0": 330.21,
+   "g": 4,
+   "m": 4,
+   "ans": "same",
+   "answer_t": 333.506,
+   "t1": 335.508
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 335.508,
+   "title": "TIDY UP THE TOYS!",
+   "t1": 338.684
+  },
+  {
+   "kind": "tidy",
+   "bg": "xmasroom",
+   "t0": 338.684,
+   "key": "duck",
+   "ans": "ANIMAL",
+   "answer_t": 341.593,
+   "t1": 342.926
+  },
+  {
+   "kind": "tidy",
+   "bg": "xmasroom",
+   "t0": 342.926,
+   "key": "car",
+   "ans": "VEHICLE",
+   "answer_t": 345.822,
+   "t1": 347.067
+  },
+  {
+   "kind": "tidy",
+   "bg": "xmasroom",
+   "t0": 347.067,
+   "key": "frog",
+   "ans": "ANIMAL",
+   "answer_t": 349.976,
+   "t1": 351.308
+  },
+  {
+   "kind": "tidy",
+   "bg": "xmasroom",
+   "t0": 351.308,
+   "key": "firetruck",
+   "ans": "VEHICLE",
+   "answer_t": 354.205,
+   "t1": 355.449
+  },
+  {
+   "kind": "tidy",
+   "bg": "xmasroom",
+   "t0": 355.449,
+   "key": "piglet",
+   "ans": "ANIMAL",
+   "answer_t": 358.358,
+   "t1": 359.691
+  },
+  {
+   "kind": "tidy",
+   "bg": "xmasroom",
+   "t0": 359.691,
+   "key": "rocket",
+   "ans": "VEHICLE",
+   "answer_t": 362.588,
+   "t1": 363.832
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 363.832,
+   "title": "WHAT'S THAT SOUND?",
+   "t1": 366.563
+  },
+  {
+   "kind": "sound",
+   "bg": "xmasroom",
+   "t0": 366.563,
+   "key": "drum",
+   "snd_t": 366.863,
+   "answer_t": 371.121,
+   "t1": 373.065
+  },
+  {
+   "kind": "sound",
+   "bg": "xmasroom",
+   "t0": 373.065,
+   "key": "xylophone",
+   "snd_t": 373.365,
+   "answer_t": 377.577,
+   "t1": 379.902
+  },
+  {
+   "kind": "sound",
+   "bg": "xmasroom",
+   "t0": 379.902,
+   "key": "robot",
+   "snd_t": 380.202,
+   "answer_t": 384.46,
+   "t1": 386.484
+  },
+  {
+   "kind": "sound",
+   "bg": "xmasroom",
+   "t0": 386.484,
+   "key": "duck",
+   "snd_t": 386.784,
+   "answer_t": 390.997,
+   "t1": 392.695
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 392.695,
+   "title": "WHICH ONE IS DIFFERENT?",
+   "t1": 395.772
+  },
+  {
+   "kind": "odd",
+   "bg": "xmasroom",
+   "t0": 395.772,
+   "keys": [
+    "present1",
+    "present1",
+    "bell",
+    "present1"
+   ],
+   "bad": 2,
+   "answer_t": 399.42,
+   "t1": 401.456
+  },
+  {
+   "kind": "odd",
+   "bg": "xmasroom",
+   "t0": 401.456,
+   "keys": [
+    "teddy",
+    "car",
+    "ball",
+    "banana"
+   ],
+   "bad": 3,
+   "answer_t": 405.166,
+   "t1": 407.435
+  },
+  {
+   "kind": "odd",
+   "bg": "xmasroom",
+   "t0": 407.435,
+   "keys": [
+    "duck",
+    "frog",
+    "piglet",
+    "present2"
+   ],
+   "bad": 3,
+   "answer_t": 411.084,
+   "t1": 413.337
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 413.337,
+   "title": "MAKE A PRESENT!",
+   "t1": 416.556
+  },
+  {
+   "kind": "make",
+   "bg": "xmasroom",
+   "t0": 416.556,
+   "key": "card",
+   "num": 1,
+   "say_t": 416.556,
+   "t1": 419.183
+  },
+  {
+   "kind": "make",
+   "bg": "xmasroom",
+   "t0": 419.183,
+   "key": "crayons",
+   "num": 2,
+   "say_t": 419.183,
+   "t1": 421.068
+  },
+  {
+   "kind": "make",
+   "bg": "xmasroom",
+   "t0": 421.068,
+   "key": "paperchain",
+   "num": 3,
+   "say_t": 421.068,
+   "t1": 423.629
+  },
+  {
+   "kind": "make",
+   "bg": "xmasroom",
+   "t0": 423.629,
+   "key": "heart",
+   "num": 4,
+   "say_t": 423.629,
+   "t1": 427.021
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 427.021,
+   "title": "SAY THANK YOU!",
+   "t1": 429.692
+  },
+  {
+   "kind": "manner",
+   "bg": "xmasroom",
+   "t0": 429.692,
+   "w": "THANK YOU!",
+   "k": 0,
+   "say_t": 429.692,
+   "t1": 432.253
+  },
+  {
+   "kind": "manner",
+   "bg": "xmasroom",
+   "t0": 432.253,
+   "w": "SMILE!",
+   "k": 1,
+   "say_t": 432.253,
+   "t1": 434.915
+  },
+  {
+   "kind": "manner",
+   "bg": "xmasroom",
+   "t0": 434.915,
+   "w": "BIG HUG!",
+   "k": 2,
+   "say_t": 434.915,
+   "t1": 436.973
+  },
+  {
+   "kind": "manner",
+   "bg": "xmasroom",
+   "t0": 436.973,
+   "w": "SHARE!",
+   "k": 3,
+   "say_t": 436.973,
+   "t1": 439.119
+  },
+  {
+   "kind": "giving",
+   "bg": "xmasroom",
+   "t0": 439.119,
+   "ts": [
+    439.119,
+    441.313
+   ],
+   "t1": 447.162
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 447.162,
+   "title": "PRESENT DANCE!",
+   "t1": 450.037
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 450.037,
+   "move": "shake",
+   "fast": false,
+   "word": "SHAKE THE PRESENT!",
+   "say_t": 450.037,
+   "t1": 452.705
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 452.705,
+   "move": "wiggle",
+   "fast": false,
+   "word": "RIP THE PAPER!",
+   "say_t": 452.705,
+   "t1": 455.349
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 455.349,
+   "move": "jump",
+   "fast": false,
+   "word": "BOUNCE THE BALL!",
+   "say_t": 455.349,
+   "t1": 457.995
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 457.995,
+   "move": "spin",
+   "fast": false,
+   "word": "SPIN THE TOP!",
+   "say_t": 457.995,
+   "t1": 460.612
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 460.612,
+   "move": "march",
+   "fast": false,
+   "word": "MARCH LIKE A TOY SOLDIER!",
+   "say_t": 460.612,
+   "t1": 463.76
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 463.76,
+   "move": "jump",
+   "fast": false,
+   "word": "MERRY CHRISTMAS!",
+   "say_t": 463.76,
+   "t1": 466.834
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 466.834,
+   "title": "FASTER!",
+   "t1": 468.205
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 468.205,
+   "move": "shake",
+   "fast": true,
+   "word": "SHAKE THE PRESENT!",
+   "say_t": 468.205,
+   "t1": 470.173
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 470.173,
+   "move": "wiggle",
+   "fast": true,
+   "word": "RIP THE PAPER!",
+   "say_t": 470.173,
+   "t1": 472.117
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 472.117,
+   "move": "jump",
+   "fast": true,
+   "word": "BOUNCE THE BALL!",
+   "say_t": 472.117,
+   "t1": 474.063
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 474.063,
+   "move": "spin",
+   "fast": true,
+   "word": "SPIN THE TOP!",
+   "say_t": 474.063,
+   "t1": 475.98
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 475.98,
+   "move": "march",
+   "fast": true,
+   "word": "MARCH LIKE A TOY SOLDIER!",
+   "say_t": 475.98,
+   "t1": 478.428
+  },
+  {
+   "kind": "dance",
+   "bg": "xmasroom",
+   "t0": 478.428,
+   "move": "jump",
+   "fast": true,
+   "word": "MERRY CHRISTMAS!",
+   "say_t": 478.428,
+   "t1": 480.802
+  },
+  {
+   "kind": "title",
+   "bg": "xmasroom",
+   "t0": 480.802,
+   "title": "PRESENT QUIZ!",
+   "t1": 483.279
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 483.279,
+   "q": "WHAT COLOUR WAS THE FIRE TRUCK?",
+   "vis": "firetruck",
+   "answer_t": 487.488,
+   "t1": 488.623
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 488.623,
+   "q": "WHAT DO WE SAY WHEN WE GET A PRESENT?",
+   "vis": "card",
+   "answer_t": 492.876,
+   "t1": 494.224
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 494.224,
+   "q": "WHAT PRESENT DID THE PUPPY GET?",
+   "vis": "bone",
+   "answer_t": 498.39,
+   "t1": 499.647
+  },
+  {
+   "kind": "quiz",
+   "bg": "xmasroom",
+   "t0": 499.647,
+   "q": "HOW MANY PRESENTS IN THE TOWER?",
+   "vis": "present2",
+   "answer_t": 503.825,
+   "t1": 504.94
+  },
+  {
+   "kind": "outro",
+   "bg": "xmasroom",
+   "t0": 504.94,
+   "bye_t": 507.146,
+   "t1": 511.09
+  }
+ ],
+ "prompts": [
+  [
+   14.463,
+   16.163
+  ],
+  [
+   18.966,
+   19.966
+  ],
+  [
+   23.985,
+   25.685
+  ],
+  [
+   28.343,
+   29.343
+  ],
+  [
+   33.247,
+   34.947
+  ],
+  [
+   36.843,
+   37.843
+  ],
+  [
+   41.529,
+   43.229
+  ],
+  [
+   45.364,
+   46.364
+  ],
+  [
+   50.093,
+   51.793
+  ],
+  [
+   53.599,
+   54.599
+  ],
+  [
+   58.437,
+   60.137
+  ],
+  [
+   63.247,
+   64.247
+  ],
+  [
+   67.664,
+   69.364
+  ],
+  [
+   71.048,
+   72.048
+  ],
+  [
+   75.676,
+   77.376
+  ],
+  [
+   79.536,
+   80.536
+  ],
+  [
+   84.188,
+   85.888
+  ],
+  [
+   87.979,
+   88.979
+  ],
+  [
+   92.732,
+   94.432
+  ],
+  [
+   96.503,
+   97.503
+  ],
+  [
+   130.471,
+   132.271
+  ],
+  [
+   135.927,
+   137.727
+  ],
+  [
+   140.847,
+   142.647
+  ],
+  [
+   165.96,
+   167.16
+  ],
+  [
+   171.728,
+   172.928
+  ],
+  [
+   177.021,
+   178.221
+  ],
+  [
+   182.341,
+   183.541
+  ],
+  [
+   191.75,
+   193.75
+  ],
+  [
+   197.142,
+   199.142
+  ],
+  [
+   202.262,
+   204.262
+  ],
+  [
+   207.457,
+   209.457
+  ],
+  [
+   215.517,
+   217.317
+  ],
+  [
+   221.694,
+   223.494
+  ],
+  [
+   227.011,
+   228.811
+  ],
+  [
+   232.552,
+   234.352
+  ],
+  [
+   242.213,
+   244.013
+  ],
+  [
+   248.304,
+   250.104
+  ],
+  [
+   283.287,
+   285.287
+  ],
+  [
+   292.31,
+   294.31
+  ],
+  [
+   301.234,
+   303.234
+  ],
+  [
+   310.31,
+   312.31
+  ],
+  [
+   319.03,
+   321.23
+  ],
+  [
+   325.364,
+   327.564
+  ],
+  [
+   331.306,
+   333.506
+  ],
+  [
+   340.093,
+   341.593
+  ],
+  [
+   344.322,
+   345.822
+  ],
+  [
+   348.476,
+   349.976
+  ],
+  [
+   352.705,
+   354.205
+  ],
+  [
+   356.858,
+   358.358
+  ],
+  [
+   361.088,
+   362.588
+  ],
+  [
+   369.621,
+   371.121
+  ],
+  [
+   376.077,
+   377.577
+  ],
+  [
+   382.96,
+   384.46
+  ],
+  [
+   389.497,
+   390.997
+  ],
+  [
+   397.22,
+   399.42
+  ],
+  [
+   402.966,
+   405.166
+  ],
+  [
+   408.884,
+   411.084
+  ],
+  [
+   444.962,
+   447.162
+  ],
+  [
+   451.105,
+   452.705
+  ],
+  [
+   453.749,
+   455.349
+  ],
+  [
+   456.395,
+   457.995
+  ],
+  [
+   459.012,
+   460.612
+  ],
+  [
+   462.16,
+   463.76
+  ],
+  [
+   465.234,
+   466.834
+  ],
+  [
+   469.273,
+   470.173
+  ],
+  [
+   471.217,
+   472.117
+  ],
+  [
+   473.163,
+   474.063
+  ],
+  [
+   475.08,
+   475.98
+  ],
+  [
+   477.528,
+   478.428
+  ],
+  [
+   479.902,
+   480.802
+  ],
+  [
+   485.088,
+   487.488
+  ],
+  [
+   490.476,
+   492.876
+  ],
+  [
+   495.99,
+   498.39
+  ],
+  [
+   501.425,
+   503.825
+  ]
+ ],
+ "stars": [
+  105.657,
+  259.621,
+  266.638,
+  272.867,
+  488.623,
+  494.224,
+  499.647,
+  504.94
+ ],
+ "total": 511.09
+}
